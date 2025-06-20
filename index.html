@@ -314,8 +314,8 @@
 
         localStorage.setItem("preguntas", JSON.stringify(preguntasAleatorias));
         localStorage.setItem("tema", boton.textContent.trim());
-
         window.location.href = "test.html";
+        localStorage.setItem("archivoJson", jsonFile);
       } catch (error) {
         alert("Error al cargar las preguntas. Asegúrate de que el archivo JSON existe.");
         console.error(error);

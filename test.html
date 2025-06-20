@@ -109,12 +109,10 @@
 </head>
 <body>
 
-  <!-- Botón volver al index -->
   <a href="index.html" class="volver-btn" title="Volver al inicio">
     <i class="fas fa-arrow-left"></i>
   </a>
 
-  <!-- Temporizador -->
   <div id="timer">0:00</div>
 
   <div class="container mt-5" id="contenedorTest">
@@ -123,20 +121,21 @@
   </div>
 
   <script>
-    const preguntas = JSON.parse(localStorage.getItem("preguntas") || "[]");
-    const tema = localStorage.getItem("tema") || "Test";
+    let preguntas = JSON.parse(localStorage.getItem("preguntas") || "[]");
+    let tema = localStorage.getItem("tema") || "Test";
+    let archivoJson = localStorage.getItem("archivoJson") || "";
     let respuestasUsuario = new Array(preguntas.length).fill(null);
     let indice = 0;
     let tiempo = 0;
+
+    document.getElementById("tituloTest").textContent = tema;
+
     let temporizador = setInterval(() => {
       tiempo++;
       const minutos = Math.floor(tiempo / 60);
       const segundos = tiempo % 60;
       document.getElementById("timer").textContent = `${minutos}:${segundos.toString().padStart(2, "0")}`;
     }, 1000);
-
-    document.getElementById("tituloTest").textContent = tema;
-    mostrarPregunta();
 
     function mostrarPregunta() {
       const p = preguntas[indice];
@@ -191,9 +190,11 @@
       clearInterval(temporizador);
       const correctas = preguntas.filter((p, i) => p.respuestaCorrecta === respuestasUsuario[i]).length;
       document.getElementById("preguntaCard").innerHTML = `
-        <h4 class="text-center">Has acertado ${correctas} de ${preguntas.length} preguntas.</h4>
-        <div class="text-center mt-4">
-          <button class="btn btn-primary" onclick="revisarRespuestas()">Revisar respuestas</button>
+        <h4 class="text-center">✅ Has acertado ${correctas} de ${preguntas.length} preguntas.</h4>
+        <div class="text-center mt-4 d-flex flex-column gap-3 align-items-center">
+          <button class="btn btn-primary" onclick="revisarRespuestas()">👁 Revisar respuestas</button>
+          <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
+          <a class="btn btn-outline-secondary" href="index.html">🏠 Volver al inicio</a>
         </div>
       `;
     }
@@ -213,13 +214,48 @@
       });
 
       document.getElementById("preguntaCard").innerHTML = `
-        <h4 class="text-center mb-4">Revisión de respuestas</h4>
+        <h4 class="text-center mb-4">👁 Revisión de respuestas</h4>
         <div>${contenido}</div>
         <div class="text-center mt-4">
-          <a class="btn btn-outline-secondary" href="index.html">Volver al inicio</a>
+          <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
+          <a class="btn btn-outline-secondary ms-2" href="index.html">🏠 Volver al inicio</a>
         </div>
       `;
     }
+
+    async function reiniciarTest() {
+      if (!archivoJson) {
+        alert("No se puede reiniciar el test porque no se ha guardado el archivo JSON.");
+        return;
+      }
+
+      try {
+        const response = await fetch(`./data/${archivoJson}`);
+        const todas = await response.json();
+        const nuevas = todas.sort(() => 0.5 - Math.random()).slice(0, 20);
+
+        preguntas = nuevas;
+        respuestasUsuario = new Array(preguntas.length).fill(null);
+        indice = 0;
+        tiempo = 0;
+
+        clearInterval(temporizador);
+        temporizador = setInterval(() => {
+          tiempo++;
+          const minutos = Math.floor(tiempo / 60);
+          const segundos = tiempo % 60;
+          document.getElementById("timer").textContent = `${minutos}:${segundos.toString().padStart(2, "0")}`;
+        }, 1000);
+
+        mostrarPregunta();
+      } catch (error) {
+        alert("Error al reiniciar el test.");
+        console.error(error);
+      }
+    }
+
+    mostrarPregunta();
   </script>
+
 </body>
 </html>

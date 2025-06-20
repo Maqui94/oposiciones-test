@@ -1,85 +1,86 @@
-const quizContainer = document.getElementById("quiz-container");
-const resultContainer = document.getElementById("result-container");
-const restartBtn = document.getElementById("restart-btn");
+let preguntas = [];
+let preguntaActual = 0;
+let puntuacion = 0;
 
-let respuestasUsuario = [];
+const questionText = document.getElementById("question-text");
+const optionsContainer = document.getElementById("options");
+const nextBtn = document.getElementById("next-btn");
+const resultSection = document.getElementById("result");
+const quizSection = document.getElementById("quiz");
+const scoreText = document.getElementById("score-text");
 
-function mostrarTest() {
-  quizContainer.innerHTML = "";
+window.addEventListener("DOMContentLoaded", () => {
+  alert("Este test está basado en el temario oficial de la Policía Foral. Pulsa 'Aceptar' para comenzar.");
 
-  preguntas.forEach((item, index) => {
-    const divPregunta = document.createElement("div");
-    divPregunta.className = "question";
-    divPregunta.innerHTML = `<p><strong>${index + 1}. ${item.pregunta}</strong></p>`;
-
-    item.opciones.forEach((opcion, i) => {
-      const label = document.createElement("label");
-      label.innerHTML = `
-        <input type="radio" name="pregunta${index}" value="${i}"> ${opcion}
-      `;
-      divPregunta.appendChild(label);
-      divPregunta.appendChild(document.createElement("br"));
+  fetch("data/policia-foral.json")
+    .then(response => response.json())
+    .then(data => {
+      preguntas = shuffleArray(data).slice(0, 20);
+      startQuiz();
     });
-
-    quizContainer.appendChild(divPregunta);
-  });
-
-  const submitBtn = document.createElement("button");
-  submitBtn.textContent = "Finalizar Test";
-  submitBtn.addEventListener("click", evaluarRespuestas);
-  quizContainer.appendChild(submitBtn);
-}
-
-function evaluarRespuestas() {
-  let aciertos = 0;
-  respuestasUsuario = [];
-
-  preguntas.forEach((item, index) => {
-    const respuesta = document.querySelector(`input[name="pregunta${index}"]:checked`);
-    if (respuesta) {
-      const seleccion = parseInt(respuesta.value);
-      respuestasUsuario.push(seleccion);
-      if (seleccion === item.respuestaCorrecta) {
-        aciertos++;
-      }
-    } else {
-      respuestasUsuario.push(null); // No respondida
-    }
-  });
-
-  mostrarResultados(aciertos);
-}
-
-function mostrarResultados(aciertos) {
-  quizContainer.classList.add("hidden");
-  resultContainer.classList.remove("hidden");
-  restartBtn.classList.remove("hidden");
-
-  let resultadoHTML = `<h2>Resultado</h2>`;
-  resultadoHTML += `<p>Puntuación: ${aciertos} de ${preguntas.length}</p>`;
-
-  resultadoHTML += `<h3>Revisión</h3><ul>`;
-  preguntas.forEach((item, index) => {
-    const correcta = item.respuestaCorrecta;
-    const usuario = respuestasUsuario[index];
-    const estado = usuario === correcta
-      ? "✅ Correcta"
-      : usuario === null
-      ? "❌ No respondida"
-      : `❌ Incorrecta (Elegiste: ${item.opciones[usuario]})`;
-
-    resultadoHTML += `<li><strong>${item.pregunta}</strong><br>${estado}<br>Respuesta correcta: ${item.opciones[correcta]}</li><br>`;
-  });
-  resultadoHTML += `</ul>`;
-
-  resultContainer.innerHTML = resultadoHTML;
-}
-
-restartBtn.addEventListener("click", () => {
-  resultContainer.classList.add("hidden");
-  restartBtn.classList.add("hidden");
-  quizContainer.classList.remove("hidden");
-  mostrarTest();
 });
 
-mostrarTest();
+function startQuiz() {
+  preguntaActual = 0;
+  puntuacion = 0;
+  resultSection.classList.add("hidden");
+  quizSection.classList.remove("hidden");
+  mostrarPregunta();
+}
+
+function mostrarPregunta() {
+  const pregunta = preguntas[preguntaActual];
+  questionText.textContent = pregunta.pregunta;
+  optionsContainer.innerHTML = "";
+  nextBtn.classList.add("hidden");
+
+  pregunta.opciones.forEach(opcion => {
+    const btn = document.createElement("button");
+    btn.textContent = opcion;
+    btn.addEventListener("click", () => comprobarRespuesta(btn, opcion, pregunta.respuestaCorrecta));
+    optionsContainer.appendChild(btn);
+  });
+}
+
+function comprobarRespuesta(boton, seleccionada, correcta) {
+  const botones = optionsContainer.querySelectorAll("button");
+  botones.forEach(b => {
+    b.disabled = true;
+    if (b.textContent === correcta) b.classList.add("correct");
+    else if (b.textContent === seleccionada) b.classList.add("wrong");
+  });
+
+  if (seleccionada === correcta) puntuacion++;
+  nextBtn.classList.remove("hidden");
+}
+
+nextBtn.addEventListener("click", () => {
+  preguntaActual++;
+  if (preguntaActual < preguntas.length) {
+    mostrarPregunta();
+  } else {
+    mostrarResultado();
+  }
+});
+
+function mostrarResultado() {
+  quizSection.classList.add("hidden");
+  resultSection.classList.remove("hidden");
+  scoreText.textContent = `Has acertado ${puntuacion} de ${preguntas.length} preguntas.`;
+}
+
+function shuffleArray(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
+
+ function cerrarAlerta() {
+  document.getElementById('alertaTest').style.display = 'none';
+  document.body.classList.remove('modal-open');
+  startQuiz(); // Inicia test directamente
+}
+
+window.onload = () => {
+  document.body.classList.add('modal-open');
+};
+
+

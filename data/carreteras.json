@@ -128,5 +128,2207 @@
     "pregunta": "¿Qué tramo tiene el nombre 'AUTOVÍA DE LA BARRANCA'?",
     "opciones": ["A-10", "A-15", "A-1", "A-12"],
     "respuestaCorrecta": "A-10"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo AP-15 entre PK 209,11 de AP-68 y PK 83,13 de A-15?",
+    "opciones": ["82,93 km", "15,95 km", "6,30 km", "13,07 km"],
+    "respuestaCorrecta": "82,93 km"
+  },
+  {
+    "pregunta": "¿Dónde comienza el tramo 2 de la autopista AP-15?",
+    "opciones": ["PK 96,20 de A-15", "PK 209,11 de AP-68", "PK 83,13 de A-15", "PK 112,15 de AP-15"],
+    "respuestaCorrecta": "PK 96,20 de A-15"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el Ramal AP-15 desde la N-113 hasta PK 6,67 de AP-15?",
+    "opciones": ["6,30 km", "13,07 km", "15,95 km", "9,91 km"],
+    "respuestaCorrecta": "6,30 km"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo A-15 'RONDA DE PAMPLONA / IRUÑA OESTE'?",
+    "opciones": ["13,07 km", "9,91 km", "15,95 km", "27,61 km"],
+    "respuestaCorrecta": "13,07 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta Lte. ARABA / ÁLAVA con Lte. GIPUZKOA?",
+    "opciones": ["A-1", "A-15", "A-12", "AP-15"],
+    "respuestaCorrecta": "A-1"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo A-1 'AUTOVÍA DEL NORTE' en Navarra?",
+    "opciones": ["13,77 km", "27,61 km", "45,42 km", "32,44 km"],
+    "respuestaCorrecta": "13,77 km"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud de la A-10 entre PK 112,15 de AP-15 y PK 396,69 de A-1?",
+    "opciones": ["30,44 km", "27,61 km", "13,77 km", "49,50 km"],
+    "respuestaCorrecta": "30,44 km"
+  },
+  {
+    "pregunta": "¿Dónde termina el tramo A-10 'AUTOVÍA DE LA BARRANCA'?",
+    "opciones": ["PK 396,69 de A-1", "Lte. LA RIOJA", "PK 83,13 de A-15", "PK 6,67 AP-15"],
+    "respuestaCorrecta": "PK 396,69 de A-1"
+  },
+  {
+    "pregunta": "¿Qué autovía conecta Pamplona con el límite con La Rioja?",
+    "opciones": ["A-12", "A-68", "A-10", "A-21"],
+    "respuestaCorrecta": "A-12"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo A-12 'AUTOVÍA DEL CAMINO DE SANTIAGO'?",
+    "opciones": ["74,06 km", "30,44 km", "45,42 km", "13,07 km"],
+    "respuestaCorrecta": "74,06 km"
+  },
+  {
+    "pregunta": "¿Qué autovía conecta el PK 112,15 de AP-15 con el límite con Gipuzkoa?",
+    "opciones": ["A-15", "A-12", "A-68", "A-1"],
+    "respuestaCorrecta": "A-15"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo A-15 'AUTOVÍA DE LEITZARAN'?",
+    "opciones": ["27,61 km", "13,07 km", "32,44 km", "49,50 km"],
+    "respuestaCorrecta": "27,61 km"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la A-21 según el catálogo?",
+    "opciones": ["AUTOVÍA DEL PIRINEO", "AUTOVÍA DEL EBRO", "AUTOVÍA DE LA BARRANCA", "RONDA DE PAMPLONA"],
+    "respuestaCorrecta": "AUTOVÍA DEL PIRINEO"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo A-21 'AUTOVÍA DEL PIRINEO'?",
+    "opciones": ["45,42 km", "49,50 km", "32,44 km", "27,61 km"],
+    "respuestaCorrecta": "45,42 km"
+  },
+  {
+    "pregunta": "¿Qué autovía discurre entre el PK 84,10 y PK 116,54 de la N-232?",
+    "opciones": ["A-68", "A-10", "A-15", "A-21"],
+    "respuestaCorrecta": "A-68"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo A-68 'AUTOVÍA DEL EBRO'?",
+    "opciones": ["32,44 km", "74,06 km", "27,61 km", "45,42 km"],
+    "respuestaCorrecta": "32,44 km"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud total de las AUTOVÍAS según el documento?",
+    "opciones": ["223,74 km", "431,19 km", "118,25 km", "62,87 km"],
+    "respuestaCorrecta": "223,74 km"
+  },
+  {
+    "pregunta": "¿Qué tramo de PA-30 conecta PK 2,56 de PA-31 con la intersección N-135?",
+    "opciones": ["PA-30 1", "PA-30 3", "PA-30 5", "PA-30 4"],
+    "respuestaCorrecta": "PA-30 1"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo PA-30 3 entre Glorieta EZCABA y acceso a Pamplona?",
+    "opciones": ["6,86 km", "9,31 km", "2,27 km", "0,87 km"],
+    "respuestaCorrecta": "6,86 km"
+  },
+  {
+    "pregunta": "¿Qué vía desdoblada tiene como origen el PK 2,66 de NA-30 y final en ARAZURI (NA-700)?",
+    "opciones": ["PA-30 5", "PA-31", "PA-33", "PA-35"],
+    "respuestaCorrecta": "PA-30 5"
+  },
+{
+    "pregunta": "¿Qué longitud tiene el tramo 1 de la N-113 entre Cruce Los Abetos y el límite con La Rioja?",
+    "opciones": ["6,28 km", "19,03 km", "23,32 km", "1,30 km"],
+    "respuestaCorrecta": "6,28 km"
+  },
+  {
+    "pregunta": "¿Dónde termina el tramo 2 de la N-113?",
+    "opciones": ["Lte. LA RIOJA", "Cruce Los Abetos", "TAFALLA NORTE", "TAFALLA SUR"],
+    "respuestaCorrecta": "Lte. LA RIOJA"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud total del tramo 2 de la N-113?",
+    "opciones": ["19,03 km", "6,28 km", "59,14 km", "12,96 km"],
+    "respuestaCorrecta": "19,03 km"
+  },
+  {
+    "pregunta": "¿Qué localidad está en el punto final del tramo 1 de la N-121?",
+    "opciones": ["TAFALLA NORTE", "NOÁIN / NOAIN", "ESTELLA-LIZARRA", "TUDELA"],
+    "respuestaCorrecta": "TAFALLA NORTE"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo 1 de la N-121?",
+    "opciones": ["23,32 km", "35,72 km", "31,50 km", "46,64 km"],
+    "respuestaCorrecta": "23,32 km"
+  },
+  {
+    "pregunta": "¿Dónde empieza el tramo N-121-B?",
+    "opciones": ["PK 41,17 de N-121-A", "TAFALLA NORTE", "Cruce A-68", "PK 4,73 de NA-8607"],
+    "respuestaCorrecta": "PK 41,17 de N-121-A"
+  },
+  {
+    "pregunta": "¿Cuál es el destino final del tramo N-121-B?",
+    "opciones": ["Frontera FRANCIA", "TAFALLA NORTE", "TAFALLA SUR", "Lte. LA RIOJA"],
+    "respuestaCorrecta": "Frontera FRANCIA"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta TUDELA (Cruce A-68) con el límite con Zaragoza?",
+    "opciones": ["N-121-C", "N-121-B", "N-232", "N-135"],
+    "respuestaCorrecta": "N-121-C"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo N-135 desde PK 9,31 de PA-30 a la frontera con Francia?",
+    "opciones": ["59,14 km", "33,50 km", "8,58 km", "35,63 km"],
+    "respuestaCorrecta": "59,14 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene solo 1,30 km de longitud?",
+    "opciones": ["N-232 1", "N-240-A", "N-232 2", "NA-132-B"],
+    "respuestaCorrecta": "N-232 1"
+  },
+  {
+    "pregunta": "¿Qué carretera tiene como destino el PK 108,3 de AP-15 ramal?",
+    "opciones": ["N-240-A", "N-121", "N-135", "N-232"],
+    "respuestaCorrecta": "N-240-A"
+  },
+  {
+    "pregunta": "¿Qué tramo de NA-115 conecta con el límite con La Rioja?",
+    "opciones": ["NA-115", "NA-116", "NA-122", "NA-126"],
+    "respuestaCorrecta": "NA-115"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-120 desde ESTELLA-LIZARRA a GIPUZKOA?",
+    "opciones": ["46,64 km", "43,74 km", "27,32 km", "33,50 km"],
+    "respuestaCorrecta": "46,64 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta 'PK 37,98 de NA-1110' con 'PK 58,75 de NA-134'?",
+    "opciones": ["NA-122", "NA-132", "NA-126", "NA-120"],
+    "respuestaCorrecta": "NA-122"
+  },
+  {
+    "pregunta": "¿Qué carretera parte de PK 5,94 de NA-134 y termina en el límite con Zaragoza?",
+    "opciones": ["NA-125", "NA-134", "NA-123", "NA-115"],
+    "respuestaCorrecta": "NA-125"
+  },
+  {
+    "pregunta": "¿Qué tramo de NA-128 mide 28,33 km?",
+    "opciones": ["NA-128 2", "NA-128 1", "NA-127", "NA-126"],
+    "respuestaCorrecta": "NA-128 2"
+  },
+  {
+    "pregunta": "¿Dónde empieza el tramo NA-132-A?",
+    "opciones": ["PK 1,09 de NA-120", "PK 37,98 de NA-1110", "PK 4,73 de NA-8607", "PK 6,35 de NA-132-A"],
+    "respuestaCorrecta": "PK 1,09 de NA-120"
+  },
+  {
+    "pregunta": "¿Qué tramo se denomina 'EJE DEL EBRO'?",
+    "opciones": ["NA-134", "NA-135", "NA-137", "NA-234"],
+    "respuestaCorrecta": "NA-134"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud total del tramo NA-137 hasta la frontera con Francia?",
+    "opciones": ["46,95 km", "24,75 km", "57,87 km", "40,95 km"],
+    "respuestaCorrecta": "46,95 km"
+  },
+  {
+    "pregunta": "¿Qué carretera conecta PAMPLONA con LUMBIER?",
+    "opciones": ["NA-150", "NA-140", "NA-137", "NA-138"],
+    "respuestaCorrecta": "NA-150"
   }
+,
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2330 entre 'URROZ-VILLA' y ERRO?",
+    "opciones": [
+      "20,07 km",
+      "3,26 km",
+      "0,93 km",
+      "6,82 km"
+    ],
+    "respuestaCorrecta": "20,07 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene una longitud de 3,26 km y conecta LIZOAIN con REDÍN?",
+    "opciones": [
+      "NA-2325",
+      "NA-2331",
+      "NA-2324",
+      "NA-2346"
+    ],
+    "respuestaCorrecta": "NA-2325"
+  },
+  {
+    "pregunta": "¿Cuál es la denominación del tramo NA-2345?",
+    "opciones": [
+      "IDOATE",
+      "NAJURIETA",
+      "ALZÓRRIZ",
+      "ILURDOTZ"
+    ],
+    "respuestaCorrecta": "IDOATE"
+  },
+  {
+    "pregunta": "¿Qué tramo finaliza en 'PK 29,82 de N-135'?",
+    "opciones": [
+      "NA-2330",
+      "NA-2326",
+      "NA-2332",
+      "NA-2335"
+    ],
+    "respuestaCorrecta": "NA-2330"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo denominado 'SETOAIN - ERREA'?",
+    "opciones": [
+      "NA-2337",
+      "NA-2329",
+      "NA-2331",
+      "NA-2341"
+    ],
+    "respuestaCorrecta": "NA-2337"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2343 'NAJURIETA'?",
+    "opciones": [
+      "1,96 km",
+      "0,69 km",
+      "0,36 km",
+      "1,15 km"
+    ],
+    "respuestaCorrecta": "1,96 km"
+  },
+  {
+    "pregunta": "¿Qué carretera tiene como destino SAGASETA?",
+    "opciones": [
+      "NA-2374",
+      "NA-2373",
+      "NA-2377",
+      "NA-2347"
+    ],
+    "respuestaCorrecta": "NA-2374"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene exactamente 6,82 km de longitud?",
+    "opciones": [
+      "NA-2337",
+      "NA-2332",
+      "NA-2343",
+      "NA-2400"
+    ],
+    "respuestaCorrecta": "NA-2337"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2400 'VALLE DE IZAGAONDOA'?",
+    "opciones": [
+      "21,50 km",
+      "2,11 km",
+      "3,02 km",
+      "0,23 km"
+    ],
+    "respuestaCorrecta": "21,50 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BEORTEGUI con sí mismo y mide 3,14 km?",
+    "opciones": [
+      "NA-2328",
+      "NA-2331",
+      "NA-2327",
+      "NA-2344"
+    ],
+    "respuestaCorrecta": "NA-2328"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-2332 AINTZIOA?",
+    "opciones": [
+      "4,68 km",
+      "2,95 km",
+      "1,59 km",
+      "0,46 km"
+    ],
+    "respuestaCorrecta": "4,68 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ELÍA y tiene 2,50 km de longitud?",
+    "opciones": [
+      "NA-2375",
+      "NA-2373",
+      "NA-2377",
+      "NA-2382"
+    ],
+    "respuestaCorrecta": "NA-2375"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2346 ALZÓRRIZ?",
+    "opciones": [
+      "2,34 km",
+      "1,49 km",
+      "3,02 km",
+      "0,44 km"
+    ],
+    "respuestaCorrecta": "2,34 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une Acceso a IRURTZUN entre N-240-A y A-15?",
+    "opciones": [
+      "NA-2409",
+      "NA-2345",
+      "NA-2382",
+      "NA-2405"
+    ],
+    "respuestaCorrecta": "NA-2409"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2409 'Acceso a IRURTZUN'?",
+    "opciones": [
+      "3,98 km",
+      "2,22 km",
+      "1,96 km",
+      "0,74 km"
+    ],
+    "respuestaCorrecta": "3,98 km"
+  },
+  {
+    "pregunta": "¿Qué carretera lleva a 'EGÜÉS - IBIRICU' con 2,22 km de longitud?",
+    "opciones": [
+      "NA-2377",
+      "NA-2375",
+      "NA-2402",
+      "NA-2401"
+    ],
+    "respuestaCorrecta": "NA-2377"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'TURRILLAS' y mide solo 0,27 km?",
+    "opciones": [
+      "NA-2347",
+      "NA-2333",
+      "NA-2376",
+      "NA-2404"
+    ],
+    "respuestaCorrecta": "NA-2347"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-2341 'CEMBORÁIN'?",
+    "opciones": [
+      "0,93 km",
+      "0,36 km",
+      "0,69 km",
+      "1,16 km"
+    ],
+    "respuestaCorrecta": "0,93 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ELURDOTZ con 3,02 km de longitud?",
+    "opciones": [
+      "NA-2339",
+      "NA-2336",
+      "NA-2335",
+      "NA-2342"
+    ],
+    "respuestaCorrecta": "NA-2339"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo 'SAN VICENTE' de 2,01 km?",
+    "opciones": [
+      "NA-2405",
+      "NA-2409",
+      "NA-2400",
+      "NA-2376"
+    ],
+    "respuestaCorrecta": "NA-2405"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'LESAKA - OIARTZUN'?",
+    "opciones": [
+      "NA-4000",
+      "NA-4001",
+      "NA-3042",
+      "NA-4011"
+    ],
+    "respuestaCorrecta": "NA-4000"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4000 entre LESAKA y el límite con GIPUZKOA?",
+    "opciones": [
+      "19,39 km",
+      "13,35 km",
+      "0,95 km",
+      "4,34 km"
+    ],
+    "respuestaCorrecta": "19,39 km"
+  },
+  {
+    "pregunta": "¿Qué tramo mide exactamente 13,35 km y conecta CASCANTE con RIBAFORADA?",
+    "opciones": [
+      "NA-3042",
+      "NA-3041",
+      "NA-4000",
+      "NA-3040"
+    ],
+    "respuestaCorrecta": "NA-3042"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino GORRITI y mide 4,34 km?",
+    "opciones": [
+      "NA-4011",
+      "NA-4012",
+      "NA-4014",
+      "NA-4016"
+    ],
+    "respuestaCorrecta": "NA-4011"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4016 que lleva a ARANO?",
+    "opciones": [
+      "2,98 km",
+      "2,02 km",
+      "0,30 km",
+      "0,39 km"
+    ],
+    "respuestaCorrecta": "2,98 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta AIZOÁIN con LIZASO?",
+    "opciones": [
+      "NA-4100",
+      "NA-4101",
+      "NA-4104",
+      "NA-4012"
+    ],
+    "respuestaCorrecta": "NA-4100"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene solo 0,20 km y pertenece a LEGASA?",
+    "opciones": [
+      "NA-4044",
+      "NA-4019",
+      "NA-4042",
+      "NA-4014"
+    ],
+    "respuestaCorrecta": "NA-4044"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4100 entre AIZOÁIN y LIZASO?",
+    "opciones": [
+      "16,74 km",
+      "13,35 km",
+      "19,39 km",
+      "3,07 km"
+    ],
+    "respuestaCorrecta": "16,74 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta DONEZTEBE con SALDIAS?",
+    "opciones": [
+      "NA-4040",
+      "NA-4041",
+      "NA-4042",
+      "NA-4114"
+    ],
+    "respuestaCorrecta": "NA-4040"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino GAZTELU y parte de DONAMARIA?",
+    "opciones": [
+      "NA-4041",
+      "NA-4040",
+      "NA-4042",
+      "NA-4111"
+    ],
+    "respuestaCorrecta": "NA-4041"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo 'ARANTZA' de 6,82 km?",
+    "opciones": [
+      "NA-4020",
+      "NA-4019",
+      "NA-4018",
+      "NA-4031"
+    ],
+    "respuestaCorrecta": "NA-4020"
+  },
+  {
+    "pregunta": "¿Qué carretera conecta BALLARIÁIN con ELCARTE?",
+    "opciones": [
+      "NA-4101",
+      "NA-4102",
+      "NA-4104",
+      "NA-4117"
+    ],
+    "respuestaCorrecta": "NA-4101"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-4114 entre OROKIETA y SALDIAS?",
+    "opciones": [
+      "14,19 km",
+      "2,98 km",
+      "1,26 km",
+      "0,22 km"
+    ],
+    "respuestaCorrecta": "14,19 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BELZUNCE con USI y mide 3,07 km?",
+    "opciones": [
+      "NA-4102",
+      "NA-4103",
+      "NA-4101",
+      "NA-4104"
+    ],
+    "respuestaCorrecta": "NA-4102"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4112 BERUETE?",
+    "opciones": [
+      "3,93 km",
+      "2,22 km",
+      "4,45 km",
+      "1,26 km"
+    ],
+    "respuestaCorrecta": "3,93 km"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 0,43 km y lleva a ERBITI?",
+    "opciones": [
+      "NA-4113",
+      "NA-4112",
+      "NA-4111",
+      "NA-4114"
+    ],
+    "respuestaCorrecta": "NA-4113"
+  },
+  {
+    "pregunta": "¿Qué tramo une GULINA y AROZTEGI durante 13,74 km?",
+    "opciones": [
+      "NA-4120",
+      "NA-4119",
+      "NA-4118",
+      "NA-4117"
+    ],
+    "respuestaCorrecta": "NA-4120"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4116 ELTZABURU?",
+    "opciones": [
+      "2,22 km",
+      "3,07 km",
+      "1,26 km",
+      "0,24 km"
+    ],
+    "respuestaCorrecta": "2,22 km"
+  },
+  {
+    "pregunta": "¿Qué tramo lleva al barrio de ARTZE?",
+    "opciones": [
+      "NA-4093",
+      "NA-4095",
+      "NA-4108",
+      "NA-4111"
+    ],
+    "respuestaCorrecta": "NA-4093"
+  },
+  {
+    "pregunta": "¿Qué tramo une SARASA con ZUASTI y mide 2,85 km?",
+    "opciones": [
+      "NA-4104",
+      "NA-4103",
+      "NA-4102",
+      "NA-4101"
+    ],
+    "respuestaCorrecta": "NA-4104"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'VALLE DE IMOTZ'?",
+    "opciones": [
+      "NA-4130",
+      "NA-4140",
+      "NA-4122",
+      "NA-4210"
+    ],
+    "respuestaCorrecta": "NA-4130"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4150 entre LEITZA y HERNANI?",
+    "opciones": [
+      "29,53 km",
+      "13,74 km",
+      "7,82 km",
+      "11,76 km"
+    ],
+    "respuestaCorrecta": "29,53 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta AIZKORBE y mide 0,37 km?",
+    "opciones": [
+      "NA-4171",
+      "NA-4172",
+      "NA-4175",
+      "NA-4179"
+    ],
+    "respuestaCorrecta": "NA-4171"
+  },
+  {
+    "pregunta": "¿Qué tramo finaliza en EGILLOR y mide 2,02 km?",
+    "opciones": [
+      "NA-4176",
+      "NA-4175",
+      "NA-4177",
+      "NA-4178"
+    ],
+    "respuestaCorrecta": "NA-4176"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo 'ZARRANTZ' de 3,73 km?",
+    "opciones": [
+      "NA-4131",
+      "NA-4130",
+      "NA-4122",
+      "NA-4210"
+    ],
+    "respuestaCorrecta": "NA-4131"
+  },
+  {
+    "pregunta": "¿Qué tramo une LARRAINTZAR con IRAIZOTZ?",
+    "opciones": [
+      "NA-4161",
+      "NA-4160",
+      "NA-4230",
+      "NA-4210"
+    ],
+    "respuestaCorrecta": "NA-4161"
+  },
+  {
+    "pregunta": "¿Qué tramo se denomina 'LIZASO - ARRAITZ-ORKIN'?",
+    "opciones": [
+      "NA-4230",
+      "NA-4240",
+      "NA-4281",
+      "NA-4220"
+    ],
+    "respuestaCorrecta": "NA-4230"
+  },
+  {
+    "pregunta": "¿Qué carretera lleva a ZUGARRAMURDI?",
+    "opciones": [
+      "NA-4401",
+      "NA-4402",
+      "NA-4403",
+      "NA-4404"
+    ],
+    "respuestaCorrecta": "NA-4401"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4400 entre ETXALAR y la frontera con Francia?",
+    "opciones": [
+      "11,76 km",
+      "3,89 km",
+      "1,15 km",
+      "1,36 km"
+    ],
+    "respuestaCorrecta": "11,76 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino final URDAZUBI / URDAX?",
+    "opciones": [
+      "NA-4402",
+      "NA-4401",
+      "NA-4403",
+      "NA-4404"
+    ],
+    "respuestaCorrecta": "NA-4402"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ANOZ y mide 4,40 km?",
+    "opciones": [
+      "NA-4241",
+      "NA-4231",
+      "NA-4212",
+      "NA-4200"
+    ],
+    "respuestaCorrecta": "NA-4241"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo que une ELTSO y LIZASO?",
+    "opciones": [
+      "NA-4231",
+      "NA-4230",
+      "NA-4242",
+      "NA-4210"
+    ],
+    "respuestaCorrecta": "NA-4231"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4210 'VALLE DE EZCABARTE'?",
+    "opciones": [
+      "7,82 km",
+      "2,83 km",
+      "0,15 km",
+      "3,89 km"
+    ],
+    "respuestaCorrecta": "7,82 km"
+  },
+  {
+    "pregunta": "¿Qué tramo se denomina 'OLLACARIZQUETA'?",
+    "opciones": [
+      "NA-4271",
+      "NA-4281",
+      "NA-4260",
+      "NA-4404"
+    ],
+    "respuestaCorrecta": "NA-4271"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta IRURITA con NA-4403 y mide 1,47 km?",
+    "opciones": [
+      "NA-4404",
+      "NA-4402",
+      "NA-4401",
+      "NA-4400"
+    ],
+    "respuestaCorrecta": "NA-4404"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4175 BEUNTZA?",
+    "opciones": [
+      "2,83 km",
+      "2,02 km",
+      "1,59 km",
+      "0,65 km"
+    ],
+    "respuestaCorrecta": "2,83 km"
+  },
+  {
+    "pregunta": "¿Qué tramo lleva a AGUINAGA DE IZA con 0,32 km?",
+    "opciones": [
+      "NA-4173",
+      "NA-4172",
+      "NA-4171",
+      "NA-4170"
+    ],
+    "respuestaCorrecta": "NA-4173"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BEORBURU con OSÁCAR?",
+    "opciones": [
+      "NA-4222",
+      "NA-4221",
+      "NA-4220",
+      "NA-4211"
+    ],
+    "respuestaCorrecta": "NA-4222"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta NUIN con OSÁCAR?",
+    "opciones": [
+      "NA-4220",
+      "NA-4210",
+      "NA-4230",
+      "NA-4212"
+    ],
+    "respuestaCorrecta": "NA-4220"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LARUNBE consigo mismo y mide 2,60 km?",
+    "opciones": [
+      "NA-4122",
+      "NA-4123",
+      "NA-4210",
+      "NA-4200"
+    ],
+    "respuestaCorrecta": "NA-4122"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-4405 'OHARRIZ (LEKAROZ)'?",
+    "opciones": [
+      "0,48 km",
+      "1,56 km",
+      "0,42 km",
+      "0,36 km"
+    ],
+    "respuestaCorrecta": "0,48 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BERA con la frontera francesa (LIZUNIAGA)?",
+    "opciones": [
+      "NA-4410",
+      "NA-4453",
+      "NA-4400",
+      "NA-5001-A"
+    ],
+    "respuestaCorrecta": "NA-4410"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'CIUDAD DEL TRANSPORTE A'?",
+    "opciones": [
+      "NA-5001-A",
+      "NA-5001-B",
+      "NA-5002",
+      "NA-5003"
+    ],
+    "respuestaCorrecta": "NA-5001-A"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta MUGAIRI con OTXONDO y ORABIDEA?",
+    "opciones": [
+      "NA-4453",
+      "NA-4406",
+      "NA-4410",
+      "NA-5001-B"
+    ],
+    "respuestaCorrecta": "NA-4453"
+  },
+  {
+    "pregunta": "¿Qué código corresponde al tramo de AZPILKUETA de 2,54 km?",
+    "opciones": [
+      "NA-4457",
+      "NA-4456",
+      "NA-4406",
+      "NA-4405"
+    ],
+    "respuestaCorrecta": "NA-4457"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta TIEBAS con la NA-234 y mide 0,99 km?",
+    "opciones": [
+      "NA-5051",
+      "NA-5050",
+      "NA-5003",
+      "NA-5100"
+    ],
+    "respuestaCorrecta": "NA-5051"
+  },
+  {
+    "pregunta": "¿Qué tramo une OLÓRIZ con la verja de BARIÁIN?",
+    "opciones": [
+      "NA-5010",
+      "NA-5030",
+      "NA-5040",
+      "NA-5020"
+    ],
+    "respuestaCorrecta": "NA-5010"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-5003 'YÁRNOZ'?",
+    "opciones": [
+      "0,52 km",
+      "0,74 km",
+      "0,36 km",
+      "1,56 km"
+    ],
+    "respuestaCorrecta": "0,52 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'GARÍNOAIN - UZQUITA'?",
+    "opciones": [
+      "NA-5100",
+      "NA-5110",
+      "NA-5001-A",
+      "NA-5030"
+    ],
+    "respuestaCorrecta": "NA-5100"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 1,30 km y conecta con ABÍNZANO?",
+    "opciones": [
+      "NA-5101",
+      "NA-5102",
+      "NA-5002",
+      "NA-5003"
+    ],
+    "respuestaCorrecta": "NA-5101"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta PUEYO con el ALTO DE LERGA?",
+    "opciones": [
+      "NA-5110",
+      "NA-5113",
+      "NA-5112",
+      "NA-5100"
+    ],
+    "respuestaCorrecta": "NA-5110"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta MAQUIRRIAIN consigo mismo?",
+    "opciones": [
+      "NA-5113",
+      "NA-5112",
+      "NA-5101",
+      "NA-5141"
+    ],
+    "respuestaCorrecta": "NA-5113"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-5030 'ECHAGÜE'?",
+    "opciones": [
+      "2,50 km",
+      "1,56 km",
+      "0,52 km",
+      "0,45 km"
+    ],
+    "respuestaCorrecta": "2,50 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LEACHE con NA-534?",
+    "opciones": [
+      "NA-5120",
+      "NA-5130",
+      "NA-5110",
+      "NA-5141"
+    ],
+    "respuestaCorrecta": "NA-5120"
+  },
+  {
+    "pregunta": "¿Qué tramo une SADA con MORIONES?",
+    "opciones": [
+      "NA-5130",
+      "NA-5140",
+      "NA-5141",
+      "NA-5120"
+    ],
+    "respuestaCorrecta": "NA-5130"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-5140 'SADA'?",
+    "opciones": [
+      "1,56 km",
+      "2,50 km",
+      "0,42 km",
+      "0,22 km"
+    ],
+    "respuestaCorrecta": "1,56 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ORÍSOAIN con NA-5100?",
+    "opciones": [
+      "NA-5152",
+      "NA-5151",
+      "NA-5153",
+      "NA-5156"
+    ],
+    "respuestaCorrecta": "NA-5152"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como nombre 'SOLCHAGA' y 2,80 km de longitud?",
+    "opciones": [
+      "NA-5151",
+      "NA-5152",
+      "NA-5141",
+      "NA-5102"
+    ],
+    "respuestaCorrecta": "NA-5151"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BÉZQUIZ con NA-5161?",
+    "opciones": [
+      "NA-5162",
+      "NA-5161",
+      "NA-5156",
+      "NA-5163"
+    ],
+    "respuestaCorrecta": "NA-5162"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene 17,15 km y une RIBAFORADA con CORTES?",
+    "opciones": [
+      "NA-5200",
+      "NA-5210",
+      "NA-5100",
+      "NA-5220"
+    ],
+    "respuestaCorrecta": "NA-5200"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-5221 que conecta CORTES con NOVILLAS?",
+    "opciones": [
+      "1,25 km",
+      "1,23 km",
+      "1,31 km",
+      "2,70 km"
+    ],
+    "respuestaCorrecta": "1,25 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como nombre 'SAN MARTÍN DE UNX - OLITE / ERRIBERRI'?",
+    "opciones": [
+      "NA-5300",
+      "NA-5301",
+      "NA-5320",
+      "NA-5401"
+    ],
+    "respuestaCorrecta": "NA-5300"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta OLITE con BEIRE?",
+    "opciones": [
+      "NA-5301",
+      "NA-5303",
+      "NA-5331",
+      "NA-5340"
+    ],
+    "respuestaCorrecta": "NA-5301"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-5330 (PITILLAS - SANTACARA - MÉLIDA)?",
+    "opciones": [
+      "10,16 km",
+      "12,15 km",
+      "3,32 km",
+      "2,85 km"
+    ],
+    "respuestaCorrecta": "10,16 km"
+  },
+  {
+    "pregunta": "¿Qué tramo lleva a JAVIER y tiene 1,30 km de longitud?",
+    "opciones": [
+      "NA-5411",
+      "NA-5410",
+      "NA-5401",
+      "NA-5340"
+    ],
+    "respuestaCorrecta": "NA-5411"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta FIGAROL con NA-534?",
+    "opciones": [
+      "NA-5390",
+      "NA-5381",
+      "NA-5332",
+      "NA-5331"
+    ],
+    "respuestaCorrecta": "NA-5390"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6001 entre ESQUÍROZ e IMÁRCOAIN?",
+    "opciones": [
+      "7,73 km",
+      "1,17 km",
+      "0,54 km",
+      "0,81 km"
+    ],
+    "respuestaCorrecta": "7,73 km"
+  },
+  {
+    "pregunta": "¿Qué tramo se denomina 'CORDOVILLA'?",
+    "opciones": [
+      "NA-6003",
+      "NA-6002",
+      "NA-6004",
+      "NA-6001"
+    ],
+    "respuestaCorrecta": "NA-6003"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6004 que lleva a GALAR?",
+    "opciones": [
+      "2,62 km",
+      "1,86 km",
+      "1,53 km",
+      "3,44 km"
+    ],
+    "respuestaCorrecta": "2,62 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta BIURRUN con el antiguo Sanatorio ONDARRA?",
+    "opciones": [
+      "NA-6015",
+      "NA-6016",
+      "NA-6014",
+      "NA-6013"
+    ],
+    "respuestaCorrecta": "NA-6015"
+  },
+  {
+    "pregunta": "¿Qué tramo une UTERGA con MURUZÁBAL?",
+    "opciones": [
+      "NA-6016",
+      "NA-6017",
+      "NA-6013",
+      "NA-6012"
+    ],
+    "respuestaCorrecta": "NA-6016"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta MURILLO EL CUENDE con NA-5330?",
+    "opciones": [
+      "NA-5332",
+      "NA-5331",
+      "NA-5381",
+      "NA-5301"
+    ],
+    "respuestaCorrecta": "NA-5332"
+  },
+  {
+    "pregunta": "¿Qué tramo lleva a CAPARROSO (acceso) y mide 1,23 km?",
+    "opciones": [
+      "NA-5502",
+      "NA-5501",
+      "NA-5500",
+      "NA-5510"
+    ],
+    "respuestaCorrecta": "NA-5502"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como longitud 2,28 km y lleva a RADA?",
+    "opciones": [
+      "NA-5510",
+      "NA-5520",
+      "NA-5501",
+      "NA-5502"
+    ],
+    "respuestaCorrecta": "NA-5510"
+  },
+  {
+    "pregunta": "¿Qué tramo une SANGÜESA con GABARDERAL y CÁSEDA?",
+    "opciones": [
+      "NA-5340",
+      "NA-5330",
+      "NA-5321",
+      "NA-5320"
+    ],
+    "respuestaCorrecta": "NA-5340"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta SADA con MORIONES?",
+    "opciones": [
+      "NA-5130",
+      "NA-5140",
+      "NA-5141",
+      "NA-5320"
+    ],
+    "respuestaCorrecta": "NA-5130"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino PETILLA DE ARAGÓN?",
+    "opciones": [
+      "NA-5700",
+      "NA-5401",
+      "NA-5390",
+      "NA-5141"
+    ],
+    "respuestaCorrecta": "NA-5700"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6002 entre NOÁIN y SALINAS DE PAMPLONA?",
+    "opciones": [
+      "0,81 km",
+      "1,23 km",
+      "2,06 km",
+      "3,44 km"
+    ],
+    "respuestaCorrecta": "0,81 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une ZARIQUIEGUI con A-12?",
+    "opciones": [
+      "NA-6005",
+      "NA-6004",
+      "NA-6003",
+      "NA-6001"
+    ],
+    "respuestaCorrecta": "NA-6005"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 0,66 km y conecta con ÚCAR?",
+    "opciones": [
+      "NA-6012",
+      "NA-6011",
+      "NA-6010",
+      "NA-6013"
+    ],
+    "respuestaCorrecta": "NA-6012"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud total del tramo NA-6020 'CARRASCAL - MARCILLA (I)'?",
+    "opciones": [
+      "19,95 km",
+      "7,90 km",
+      "10,61 km",
+      "21,74 km"
+    ],
+    "respuestaCorrecta": "19,95 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta el PK 2,86 de PA-31 con el aeropuerto y mide solo 0,50 km?",
+    "opciones": [
+      "NA-6026",
+      "NA-6020",
+      "NA-6030",
+      "NA-6053"
+    ],
+    "respuestaCorrecta": "NA-6026"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6030 entre MENDIGORRÍA y TAFALLA (1ª sección)?",
+    "opciones": [
+      "7,90 km",
+      "10,61 km",
+      "1,75 km",
+      "0,78 km"
+    ],
+    "respuestaCorrecta": "7,90 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une ZIZUR MAYOR con CIZUR MENOR y mide 0,78 km?",
+    "opciones": [
+      "NA-6053",
+      "NA-6061",
+      "NA-6064",
+      "NA-6026"
+    ],
+    "respuestaCorrecta": "NA-6053"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6064 entre OBANOS y PUENTE LA REINA (1ª sección)?",
+    "opciones": [
+      "2,99 km",
+      "1,32 km",
+      "0,82 km",
+      "0,17 km"
+    ],
+    "respuestaCorrecta": "2,99 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta OBANOS y PUENTE LA REINA (2ª sección) con 1,32 km?",
+    "opciones": [
+      "NA-6064",
+      "NA-6061",
+      "NA-6062",
+      "NA-6020"
+    ],
+    "respuestaCorrecta": "NA-6064"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6100 'CARRASCAL - MARCILLA (II)'?",
+    "opciones": [
+      "21,74 km",
+      "19,95 km",
+      "5,17 km",
+      "7,53 km"
+    ],
+    "respuestaCorrecta": "21,74 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como nombre 'LERÍN (variante)' y mide 1,26 km?",
+    "opciones": [
+      "NA-6114",
+      "NA-6111",
+      "NA-6115",
+      "NA-6112"
+    ],
+    "respuestaCorrecta": "NA-6114"
+  },
+  {
+    "pregunta": "¿Qué tramo une MUNIÁIN DE LA SOLANA y MORENTIN?",
+    "opciones": [
+      "NA-6115",
+      "NA-6114",
+      "NA-6120",
+      "NA-6130"
+    ],
+    "respuestaCorrecta": "NA-6115"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6120 entre LERÍN y BERBINZANA?",
+    "opciones": [
+      "9,41 km",
+      "4,57 km",
+      "1,26 km",
+      "17,35 km"
+    ],
+    "respuestaCorrecta": "9,41 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LARRAGA con BERBINZANA?",
+    "opciones": [
+      "NA-6130",
+      "NA-6120",
+      "NA-6140",
+      "NA-6100"
+    ],
+    "respuestaCorrecta": "NA-6130"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6140 entre TAFALLA y MIRANDA DE ARGA?",
+    "opciones": [
+      "17,35 km",
+      "24,50 km",
+      "5,22 km",
+      "0,92 km"
+    ],
+    "respuestaCorrecta": "17,35 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta NA-115 con NA-122 pasando por FALCES?",
+    "opciones": [
+      "NA-6210",
+      "NA-6220",
+      "NA-6230",
+      "NA-6240"
+    ],
+    "respuestaCorrecta": "NA-6210"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6210?",
+    "opciones": [
+      "24,50 km",
+      "17,35 km",
+      "5,22 km",
+      "9,41 km"
+    ],
+    "respuestaCorrecta": "24,50 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LODOSA con NA-123?",
+    "opciones": [
+      "NA-6220",
+      "NA-6221",
+      "NA-6230",
+      "NA-6310"
+    ],
+    "respuestaCorrecta": "NA-6220"
+  },
+  {
+    "pregunta": "¿Qué tramo une VENTAS DE CÁRCAR con CÁRCAR?",
+    "opciones": [
+      "NA-6230",
+      "NA-6231",
+      "NA-6220",
+      "NA-6310"
+    ],
+    "respuestaCorrecta": "NA-6230"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6240 entre CÁRCAR y ANDOSILLA?",
+    "opciones": [
+      "1,94 km",
+      "0,92 km",
+      "1,14 km",
+      "0,13 km"
+    ],
+    "respuestaCorrecta": "1,94 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta TORRES DEL RÍO con MENDAVIA (1ª sección)?",
+    "opciones": [
+      "NA-6310",
+      "NA-6311",
+      "NA-6320",
+      "NA-6340"
+    ],
+    "respuestaCorrecta": "NA-6310"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta VIANA con RECAJO?",
+    "opciones": [
+      "NA-6320",
+      "NA-6330",
+      "NA-6335",
+      "NA-6340"
+    ],
+    "respuestaCorrecta": "NA-6320"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6340 entre ALLO y ANCÍN?",
+    "opciones": [
+      "19,26 km",
+      "5,70 km",
+      "5,17 km",
+      "1,40 km"
+    ],
+    "respuestaCorrecta": "19,26 km"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6400 en PUEYO / PUIU?",
+    "opciones": [
+      "0,63 km",
+      "1,32 km",
+      "3,36 km",
+      "2,50 km"
+    ],
+    "respuestaCorrecta": "0,63 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta SAN ADRIÁN con CALAHORRA?",
+    "opciones": [
+      "NA-6531",
+      "NA-6540",
+      "NA-6620",
+      "NA-6630"
+    ],
+    "respuestaCorrecta": "NA-6531"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6540 entre LODOSA y ALCANADRE?",
+    "opciones": [
+      "3,36 km",
+      "1,32 km",
+      "0,63 km",
+      "2,33 km"
+    ],
+    "respuestaCorrecta": "3,36 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une OLITE / ERRIBERRI con NA-115?",
+    "opciones": [
+      "NA-6620",
+      "NA-6630",
+      "NA-6631",
+      "NA-6830"
+    ],
+    "respuestaCorrecta": "NA-6620"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6630 entre PERALTA y MARCILLA?",
+    "opciones": [
+      "8,45 km",
+      "2,06 km",
+      "3,15 km",
+      "5,38 km"
+    ],
+    "respuestaCorrecta": "8,45 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta FUNES con NA-115?",
+    "opciones": [
+      "NA-6631",
+      "NA-6620",
+      "NA-6630",
+      "NA-6540"
+    ],
+    "respuestaCorrecta": "NA-6631"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6710 entre MURCHANTE y NA-6830?",
+    "opciones": [
+      "3,61 km",
+      "5,38 km",
+      "8,45 km",
+      "2,33 km"
+    ],
+    "respuestaCorrecta": "3,61 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta el Polígono Industrial de CINTRUÉNIGO con NA-160?",
+    "opciones": [
+      "NA-6801",
+      "NA-6802",
+      "NA-6810",
+      "NA-6820"
+    ],
+    "respuestaCorrecta": "NA-6801"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del acceso a CASTEJÓN NA-6802?",
+    "opciones": [
+      "0,21 km",
+      "1,01 km",
+      "2,33 km",
+      "1,39 km"
+    ],
+    "respuestaCorrecta": "0,21 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une MONTES DEL CIERZO con CORELLA?",
+    "opciones": [
+      "NA-6810",
+      "NA-6802",
+      "NA-6801",
+      "NA-6830"
+    ],
+    "respuestaCorrecta": "NA-6810"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6820 entre ALFARO y GRÁVALOS?",
+    "opciones": [
+      "2,50 km",
+      "3,86 km",
+      "4,28 km",
+      "5,38 km"
+    ],
+    "respuestaCorrecta": "2,50 km"
+  },
+  {
+    "pregunta": "¿Qué tramo se denomina VÍA ROMANA?",
+    "opciones": [
+      "NA-6830",
+      "NA-6810",
+      "NA-6820",
+      "NA-6840"
+    ],
+    "respuestaCorrecta": "NA-6830"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6840 entre TUDELA y MURCHANTE?",
+    "opciones": [
+      "5,38 km",
+      "6,59 km",
+      "3,61 km",
+      "2,50 km"
+    ],
+    "respuestaCorrecta": "5,38 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta CORELLA con GRÁVALOS?",
+    "opciones": [
+      "NA-6891",
+      "NA-6900",
+      "NA-6920",
+      "NA-7010"
+    ],
+    "respuestaCorrecta": "NA-6891"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud total del tramo NA-6900 entre CASCANTE y FITERO?",
+    "opciones": [
+      "19,59 km",
+      "15,12 km",
+      "4,28 km",
+      "13,81 km"
+    ],
+    "respuestaCorrecta": "19,59 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ALFARO con CINTRUÉNIGO?",
+    "opciones": [
+      "NA-6920",
+      "NA-6922",
+      "NA-6891",
+      "NA-6900"
+    ],
+    "respuestaCorrecta": "NA-6920"
+  },
+  {
+    "pregunta": "¿Qué tramo da acceso a CORELLA desde NA-6810?",
+    "opciones": [
+      "NA-6922",
+      "NA-6920",
+      "NA-7010",
+      "NA-6830"
+    ],
+    "respuestaCorrecta": "NA-6922"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-6991 FITERO - VALVERDE?",
+    "opciones": [
+      "7,25 km",
+      "5,30 km",
+      "2,06 km",
+      "1,39 km"
+    ],
+    "respuestaCorrecta": "7,25 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta IZA / ITZA en 2,06 km?",
+    "opciones": [
+      "NA-7001",
+      "NA-7003",
+      "NA-7011",
+      "NA-7015"
+    ],
+    "respuestaCorrecta": "NA-7001"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7003 en LOZA / LOTZA?",
+    "opciones": [
+      "1,99 km",
+      "2,06 km",
+      "0,63 km",
+      "0,31 km"
+    ],
+    "respuestaCorrecta": "1,99 km"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7027 'CARRETERA DE LA UNIVERSIDAD'?",
+    "opciones": [
+      "0,65 km",
+      "0,41 km",
+      "0,78 km",
+      "1,02 km"
+    ],
+    "respuestaCorrecta": "0,65 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ARTETA con AIZPÚN y mide 15,62 km?",
+    "opciones": [
+      "NA-7030",
+      "NA-7040",
+      "NA-7031",
+      "NA-7032"
+    ],
+    "respuestaCorrecta": "NA-7030"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-7033 correspondiente a SENOSIAIN?",
+    "opciones": [
+      "0,37 km",
+      "0,41 km",
+      "0,22 km",
+      "0,93 km"
+    ],
+    "respuestaCorrecta": "0,37 km"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 19,90 km y va de PUENTE LA REINA / GARES a NA-700?",
+    "opciones": [
+      "NA-7040",
+      "NA-7030",
+      "NA-7100",
+      "NA-7110"
+    ],
+    "respuestaCorrecta": "NA-7040"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LIZASOÁIN con OLZA?",
+    "opciones": [
+      "NA-7061",
+      "NA-7063",
+      "NA-7065",
+      "NA-7111"
+    ],
+    "respuestaCorrecta": "NA-7061"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7066 'LARRAGUETA'?",
+    "opciones": [
+      "1,20 km",
+      "1,56 km",
+      "1,46 km",
+      "1,43 km"
+    ],
+    "respuestaCorrecta": "1,20 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'PUERTO DE LIZARRAGA - ARBIZU'?",
+    "opciones": [
+      "NA-7100",
+      "NA-7110",
+      "NA-7120",
+      "NA-7040"
+    ],
+    "respuestaCorrecta": "NA-7100"
+  },
+  {
+    "pregunta": "¿Qué tramo une ETXAURI y ORENDAIN y tiene 15,36 km?",
+    "opciones": [
+      "NA-7110",
+      "NA-7100",
+      "NA-7130",
+      "NA-7040"
+    ],
+    "respuestaCorrecta": "NA-7110"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7130 'AMÉSCOA ALTA'?",
+    "opciones": [
+      "12,74 km",
+      "15,36 km",
+      "19,90 km",
+      "6,51 km"
+    ],
+    "respuestaCorrecta": "12,74 km"
+  },
+  {
+    "pregunta": "¿Qué tramo corresponde a IBIRICU DE YERRI / IBIRIKU DEIERRI y mide 0,20 km?",
+    "opciones": [
+      "NA-7133",
+      "NA-7134",
+      "NA-7122",
+      "NA-7131"
+    ],
+    "respuestaCorrecta": "NA-7133"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como denominación 'IRANTZU (MONASTERIO)'?",
+    "opciones": [
+      "NA-7135",
+      "NA-7134",
+      "NA-7124",
+      "NA-7123"
+    ],
+    "respuestaCorrecta": "NA-7135"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7123 entre GARÍSOAIN y ALLOZ / ALLOTZ?",
+    "opciones": [
+      "5,45 km",
+      "4,49 km",
+      "3,39 km",
+      "1,48 km"
+    ],
+    "respuestaCorrecta": "5,45 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une LARRIÓN con MUNETA?",
+    "opciones": [
+      "NA-7138",
+      "NA-7139",
+      "NA-7135",
+      "NA-7136"
+    ],
+    "respuestaCorrecta": "NA-7138"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7134 correspondiente a ECHÁVARRI?",
+    "opciones": [
+      "1,56 km",
+      "2,04 km",
+      "0,41 km",
+      "0,87 km"
+    ],
+    "respuestaCorrecta": "1,56 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene 0,07 km y lleva a ZUHATZU?",
+    "opciones": [
+      "NA-7068",
+      "NA-7069",
+      "NA-7066",
+      "NA-7033"
+    ],
+    "respuestaCorrecta": "NA-7068"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino MUNIAIN DE GUESÁLAZ y mide 1,55 km?",
+    "opciones": [
+      "NA-7059",
+      "NA-7042",
+      "NA-7031",
+      "NA-7103"
+    ],
+    "respuestaCorrecta": "NA-7059"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta UNANU con NA-7100?",
+    "opciones": [
+      "NA-7102",
+      "NA-7103",
+      "NA-7101",
+      "NA-7133"
+    ],
+    "respuestaCorrecta": "NA-7102"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7122 'IRURRE'?",
+    "opciones": [
+      "1,48 km",
+      "0,78 km",
+      "4,49 km",
+      "3,19 km"
+    ],
+    "respuestaCorrecta": "1,48 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta VIGURIA con NA-7040?",
+    "opciones": [
+      "NA-7091",
+      "NA-7042",
+      "NA-7032",
+      "NA-7101"
+    ],
+    "respuestaCorrecta": "NA-7091"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como longitud 1,06 km y corresponde a ARTAVIA?",
+    "opciones": [
+      "NA-7136",
+      "NA-7135",
+      "NA-7131",
+      "NA-7138"
+    ],
+    "respuestaCorrecta": "NA-7136"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7140 que conecta RIEZU / ERREZU con ITURGOYEN?",
+    "opciones": [
+      "4,02 km",
+      "7,19 km",
+      "1,35 km",
+      "0,38 km"
+    ],
+    "respuestaCorrecta": "4,02 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LORCA / LORKA con LERATE?",
+    "opciones": [
+      "NA-7171",
+      "NA-7140",
+      "NA-7175",
+      "NA-7200"
+    ],
+    "respuestaCorrecta": "NA-7171"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-7175 que pasa por ALLOZ / ALLOTZ?",
+    "opciones": [
+      "1,35 km",
+      "0,75 km",
+      "2,34 km",
+      "3,08 km"
+    ],
+    "respuestaCorrecta": "1,35 km"
+  },
+  {
+    "pregunta": "¿Qué tramo se corresponde con ZUDAIRE (COLONIA ESCOLAR)?",
+    "opciones": [
+      "NA-7179",
+      "NA-7181",
+      "NA-7183",
+      "NA-7171"
+    ],
+    "respuestaCorrecta": "NA-7179"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 0,75 km y corresponde a ECALA?",
+    "opciones": [
+      "NA-7181",
+      "NA-7183",
+      "NA-7184",
+      "NA-7175"
+    ],
+    "respuestaCorrecta": "NA-7181"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7183 entre ALTSASU y URBASA?",
+    "opciones": [
+      "2,34 km",
+      "3,08 km",
+      "1,14 km",
+      "1,35 km"
+    ],
+    "respuestaCorrecta": "2,34 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ALTSASU con su estación de FFCC?",
+    "opciones": [
+      "NA-7184",
+      "NA-7183",
+      "NA-7179",
+      "NA-7140"
+    ],
+    "respuestaCorrecta": "NA-7184"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-7186 entre ARTAZA y URRA?",
+    "opciones": [
+      "3,08 km",
+      "2,08 km",
+      "1,32 km",
+      "1,45 km"
+    ],
+    "respuestaCorrecta": "3,08 km"
+  },
+  {
+    "pregunta": "¿Qué tramo tiene como destino final BAQUEDANO y mide 2,08 km?",
+    "opciones": [
+      "NA-7187",
+      "NA-7186",
+      "NA-7181",
+      "NA-7183"
+    ],
+    "respuestaCorrecta": "NA-7187"
+  },
+  {
+    "pregunta": "¿Qué tramo se asocia con GOLLANO y mide 1,32 km?",
+    "opciones": [
+      "NA-7188",
+      "NA-7187",
+      "NA-7186",
+      "NA-7184"
+    ],
+    "respuestaCorrecta": "NA-7188"
+  },
+  {
+    "pregunta": "¿Qué tramo une ERAUL con sí mismo y mide 3,40 km?",
+    "opciones": [
+      "NA-7189",
+      "NA-7191",
+      "NA-7200",
+      "NA-7187"
+    ],
+    "respuestaCorrecta": "NA-7189"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 0,42 km y corresponde a ZÚÑIGA?",
+    "opciones": [
+      "NA-7191",
+      "NA-7189",
+      "NA-7200",
+      "NA-7175"
+    ],
+    "respuestaCorrecta": "NA-7191"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7200 entre SANSOL y CABREDO?",
+    "opciones": [
+      "19,23 km",
+      "9,11 km",
+      "5,26 km",
+      "16,99 km"
+    ],
+    "respuestaCorrecta": "19,23 km"
+  },
+  {
+    "pregunta": "¿Qué tramo da acceso a AZUELO y mide 0,25 km?",
+    "opciones": [
+      "NA-7201",
+      "NA-7202",
+      "NA-7203",
+      "NA-7205"
+    ],
+    "respuestaCorrecta": "NA-7201"
+  },
+  {
+    "pregunta": "¿Qué tramo une TORRALBA DEL RÍO con el Santuario de Codés?",
+    "opciones": [
+      "NA-7202",
+      "NA-7200",
+      "NA-7205",
+      "NA-7251"
+    ],
+    "respuestaCorrecta": "NA-7202"
+  },
+  {
+    "pregunta": "¿Qué tramo corresponde a NAZAR y mide 3,40 km?",
+    "opciones": [
+      "NA-7203",
+      "NA-7205",
+      "NA-7202",
+      "NA-7201"
+    ],
+    "respuestaCorrecta": "NA-7203"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 8,31 km y conecta SANSOL con ESPRONCEDA?",
+    "opciones": [
+      "NA-7205",
+      "NA-7206",
+      "NA-7210",
+      "NA-7230"
+    ],
+    "respuestaCorrecta": "NA-7205"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7206 'BARGOTA SUR'?",
+    "opciones": [
+      "2,73 km",
+      "1,70 km",
+      "2,47 km",
+      "3,31 km"
+    ],
+    "respuestaCorrecta": "2,73 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta LAPOBLACIÓN con AGUILAR DE CODÉS?",
+    "opciones": [
+      "NA-7211",
+      "NA-7210",
+      "NA-7230",
+      "NA-7240"
+    ],
+    "respuestaCorrecta": "NA-7211"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 1,78 km y conecta VIANA con MOREDA?",
+    "opciones": [
+      "NA-7220",
+      "NA-7210",
+      "NA-7230",
+      "NA-7242"
+    ],
+    "respuestaCorrecta": "NA-7220"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7327 en ARANDIGOYEN?",
+    "opciones": [
+      "0,24 km",
+      "0,17 km",
+      "0,31 km",
+      "0,52 km"
+    ],
+    "respuestaCorrecta": "0,24 km"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 10,06 km y va de VILLANUEVA DE YERRI a LEZAUN?",
+    "opciones": [
+      "NA-7330",
+      "NA-7331",
+      "NA-7361",
+      "NA-7341"
+    ],
+    "respuestaCorrecta": "NA-7330"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-7361 ARTEAGA?",
+    "opciones": [
+      "2,70 km",
+      "1,93 km",
+      "0,25 km",
+      "0,78 km"
+    ],
+    "respuestaCorrecta": "2,70 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une ARRÓNIZ con OLEJUA en tres secciones?",
+    "opciones": [
+      "NA-7400",
+      "NA-7401",
+      "NA-7410",
+      "NA-7330"
+    ],
+    "respuestaCorrecta": "NA-7400"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7410 entre OCO y OTIÑANO?",
+    "opciones": [
+      "12,66 km",
+      "2,13 km",
+      "1,04 km",
+      "0,78 km"
+    ],
+    "respuestaCorrecta": "12,66 km"
+  },
+  {
+    "pregunta": "¿Qué tramo se identifica como LABEAGA con 1,04 km de longitud?",
+    "opciones": [
+      "NA-7452",
+      "NA-7451",
+      "NA-7453",
+      "NA-7454"
+    ],
+    "respuestaCorrecta": "NA-7452"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ABÁIGAR con MURIETA y mide 1,32 km?",
+    "opciones": [
+      "NA-7455",
+      "NA-7453",
+      "NA-7451",
+      "NA-7413"
+    ],
+    "respuestaCorrecta": "NA-7455"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7500 IRURTZUN - LEKUNBERRI?",
+    "opciones": [
+      "14,49 km",
+      "16,72 km",
+      "1,07 km",
+      "3,25 km"
+    ],
+    "respuestaCorrecta": "14,49 km"
+  },
+  {
+    "pregunta": "¿Qué tramo une GOLDARATZ consigo mismo con una longitud de 2,37 km?",
+    "opciones": [
+      "NA-7503",
+      "NA-7504",
+      "NA-7505",
+      "NA-7502"
+    ],
+    "respuestaCorrecta": "NA-7503"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene el tramo NA-7510 que conecta LEKUNBERRI con el Santuario de San Miguel?",
+    "opciones": [
+      "16,72 km",
+      "14,49 km",
+      "2,62 km",
+      "3,14 km"
+    ],
+    "respuestaCorrecta": "NA-7510"
+  },
+  {
+    "pregunta": "¿Qué tramo mide 2,51 km y se identifica como AZKARATE?",
+    "opciones": [
+      "NA-7511",
+      "NA-7512",
+      "NA-7513",
+      "NA-7514"
+    ],
+    "respuestaCorrecta": "NA-7511"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7512 UZTEGI - GAINTZA?",
+    "opciones": [
+      "3,14 km",
+      "2,44 km",
+      "1,20 km",
+      "0,74 km"
+    ],
+    "respuestaCorrecta": "3,14 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ERRAZKIN y mide 2,62 km?",
+    "opciones": [
+      "NA-7514",
+      "NA-7513",
+      "NA-7511",
+      "NA-7505"
+    ],
+    "respuestaCorrecta": "NA-7514"
+  },
+  {
+    "pregunta": "¿Qué tramo da acceso a UHARTE-ARAKIL?",
+    "opciones": [
+      "NA-7517",
+      "NA-7512",
+      "NA-7501",
+      "NA-7521"
+    ],
+    "respuestaCorrecta": "NA-7517"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7520 entre ARBIZU y LIZARRAGABENGOA?",
+    "opciones": [
+      "1,92 km",
+      "0,67 km",
+      "2,13 km",
+      "1,04 km"
+    ],
+    "respuestaCorrecta": "1,92 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta ZIORDIA consigo mismo y mide 0,67 km?",
+    "opciones": [
+      "NA-7521",
+      "NA-7520",
+      "NA-7561",
+      "NA-7500"
+    ],
+    "respuestaCorrecta": "NA-7521"
+  },
+  {
+    "pregunta": "¿Qué longitud tiene la variante de LEKUNBERRI - ALBIASU (NA-7562)?",
+    "opciones": [
+      "0,74 km",
+      "3,25 km",
+      "2,44 km",
+      "0,80 km"
+    ],
+    "respuestaCorrecta": "0,74 km"
+  },
+  {
+    "pregunta": "¿Qué tramo conecta IRAÑETA con A-10?",
+    "opciones": [
+      "NA-7563",
+      "NA-7561",
+      "NA-7521",
+      "NA-7504"
+    ],
+    "respuestaCorrecta": "NA-7563"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud del tramo NA-7564 que conecta NA-134 con NA-8712?",
+    "opciones": [
+      "0,80 km",
+      "0,74 km",
+      "0,52 km",
+      "0,31 km"
+    ],
+    "respuestaCorrecta": "0,80 km"
+  },
+  {
+    "pregunta": "¿Qué tramo da acceso a GAZÓLAZ con dos secciones?",
+    "opciones": [
+      "NA-8100",
+      "NA-7564",
+      "NA-7511",
+      "NA-7500"
+    ],
+    "respuestaCorrecta": "NA-8100"
+  }
+
 ]

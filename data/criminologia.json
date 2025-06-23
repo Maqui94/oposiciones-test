@@ -1,0 +1,3402 @@
+[
+  {
+    "pregunta": "¿Qué elementos principales estudia la Criminología?",
+    "opciones": [
+      "El crimen, la justicia y el castigo",
+      "El delito, el delincuente, la víctima y el control social",
+      "La ley penal, los jueces y los abogados",
+      "Las penas, las cárceles y la resocialización"
+    ],
+    "respuestaCorrecta": "El delito, el delincuente, la víctima y el control social"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un fin de la Criminología?",
+    "opciones": [
+      "Establecer penas más severas",
+      "Medir la delincuencia, elaborar leyes y estudiar la conducta desviada",
+      "Administrar justicia en casos penales",
+      "Ejercer el control policial sobre los delitos"
+    ],
+    "respuestaCorrecta": "Medir la delincuencia, elaborar leyes y estudiar la conducta desviada"
+  },
+  {
+    "pregunta": "¿Qué herramientas utiliza la Criminología para medir el delito?",
+    "opciones": [
+      "Estudios clínicos y psiquiátricos",
+      "Autopsias y análisis periciales",
+      "Estadísticas oficiales, encuestas de victimización y autoinformes",
+      "Cámaras de seguridad y registros judiciales"
+    ],
+    "respuestaCorrecta": "Estadísticas oficiales, encuestas de victimización y autoinformes"
+  },
+  {
+    "pregunta": "¿Cuál es una característica del estudio científico del crimen?",
+    "opciones": [
+      "Es tan antiguo como el delito mismo",
+      "Se basa en tradiciones culturales",
+      "Es reciente y ordenado",
+      "Está basado únicamente en el derecho penal"
+    ],
+    "respuestaCorrecta": "Es reciente y ordenado"
+  },
+  {
+    "pregunta": "¿Qué analiza la Criminología sobre el delito?",
+    "opciones": [
+      "Su valor legal y su castigo",
+      "El comportamiento delictivo y sus causas",
+      "Su impacto político",
+      "La duración de la pena impuesta"
+    ],
+    "respuestaCorrecta": "El comportamiento delictivo y sus causas"
+  },
+  {
+    "pregunta": "¿Qué definición moderna dio Buil Gil sobre la Criminología?",
+    "opciones": [
+      "Estudio del derecho penal y procesal",
+      "Ciencia que estudia el castigo a la delincuencia",
+      "Ciencia que estudia el comportamiento delictivo y los mecanismos de control social",
+      "Estudio de la delincuencia juvenil"
+    ],
+    "respuestaCorrecta": "Ciencia que estudia el comportamiento delictivo y los mecanismos de control social"
+  },
+  {
+    "pregunta": "¿Qué aspecto no se incluye en la definición de Criminología de Buil Gil?",
+    "opciones": [
+      "Dimensión percibida del comportamiento delictivo",
+      "Bienestar personal y social",
+      "Sistema penitenciario",
+      "Mecanismos de control social formal e informal"
+    ],
+    "respuestaCorrecta": "Sistema penitenciario"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología además de los delitos en sí?",
+    "opciones": [
+      "Los juicios y condenas",
+      "El sistema electoral",
+      "La conducta antisocial y violenta",
+      "La organización judicial"
+    ],
+    "respuestaCorrecta": "La conducta antisocial y violenta"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un objeto de estudio de la Criminología?",
+    "opciones": [
+      "Delito",
+      "Víctima",
+      "Tribunal",
+      "Control social"
+    ],
+    "respuestaCorrecta": "Tribunal"
+  },
+  {
+    "pregunta": "¿Qué busca la Criminología al analizar el comportamiento delictivo?",
+    "opciones": [
+      "Sancionar al delincuente",
+      "Entender el porqué del comportamiento delictivo y su entorno",
+      "Cambiar el Código Penal",
+      "Detectar errores procesales"
+    ],
+    "respuestaCorrecta": "Entender el porqué del comportamiento delictivo y su entorno"
+  },
+  {
+    "pregunta": "¿Qué significa 'Cifra Negra' en Criminología?",
+    "opciones": [
+      "Número de delitos resueltos con violencia",
+      "Delitos sin condena judicial",
+      "Delitos no registrados por no haber sido denunciados",
+      "Crímenes cometidos por menores"
+    ],
+    "respuestaCorrecta": "Delitos no registrados por no haber sido denunciados"
+  },
+  {
+    "pregunta": "¿Por qué puede existir una alta cifra negra en delitos contra turistas?",
+    "opciones": [
+      "Falta de policía turística",
+      "Ausencia de cámaras de seguridad",
+      "Temor a una segunda victimización y desconfianza en el sistema de justicia",
+      "Requisitos legales estrictos para denunciar"
+    ],
+    "respuestaCorrecta": "Temor a una segunda victimización y desconfianza en el sistema de justicia"
+  },
+  {
+    "pregunta": "¿Qué herramienta puede mejorar la medición real de la criminalidad?",
+    "opciones": [
+      "Aumentar el número de cárceles",
+      "Estudios penales",
+      "Encuestas de victimización y autoinformes",
+      "Juicios populares"
+    ],
+    "respuestaCorrecta": "Encuestas de victimización y autoinformes"
+  },
+  {
+    "pregunta": "¿Qué delitos tienden a registrarse más en España?",
+    "opciones": [
+      "Robo de vehículos",
+      "Delitos económicos",
+      "Homicidios e intentos de homicidio",
+      "Delitos informáticos"
+    ],
+    "respuestaCorrecta": "Homicidios e intentos de homicidio"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos tienden a no denunciarse?",
+    "opciones": [
+      "Delitos con armas",
+      "Delitos con alto valor económico",
+      "Delitos con poco valor sustraído",
+      "Homicidios"
+    ],
+    "respuestaCorrecta": "Delitos con poco valor sustraído"
+  },
+  {
+    "pregunta": "¿Qué factor influye en la denuncia de delitos contra turistas?",
+    "opciones": [
+      "Idioma",
+      "Sistema judicial",
+      "Expectativa de recuperación y confianza en la justicia",
+      "Tipo de alojamiento"
+    ],
+    "respuestaCorrecta": "Expectativa de recuperación y confianza en la justicia"
+  },
+  {
+    "pregunta": "¿Qué define el delito desde la Criminología más allá del Código Penal?",
+    "opciones": [
+      "Comportamientos juzgados socialmente",
+      "Cualquier acto inmoral",
+      "Todas las conductas antisociales o violentas relacionadas",
+      "Infracciones civiles"
+    ],
+    "respuestaCorrecta": "Todas las conductas antisociales o violentas relacionadas"
+  },
+  {
+    "pregunta": "¿Cuál es una razón por la que un mismo acto puede ser delito en un país y no en otro?",
+    "opciones": [
+      "Cultura local",
+      "Partido político en el poder y legislación del país",
+      "Nacionalidad del autor",
+      "Presión de medios"
+    ],
+    "respuestaCorrecta": "Partido político en el poder y legislación del país"
+  },
+  {
+    "pregunta": "¿Qué ejemplo se menciona sobre conductas con respuesta penal cambiante?",
+    "opciones": [
+      "Robo con fuerza",
+      "Hurto menor",
+      "Aborto y eutanasia",
+      "Contrabando"
+    ],
+    "respuestaCorrecta": "Aborto y eutanasia"
+  },
+  {
+    "pregunta": "¿Cómo define Garrido y Redondo el delito?",
+    "opciones": [
+      "Acto contrario al Código Penal",
+      "Resultado de una enfermedad mental",
+      "Interacción entre delincuente, víctima y control social insuficiente",
+      "Consecuencia inevitable del entorno"
+    ],
+    "respuestaCorrecta": "Interacción entre delincuente, víctima y control social insuficiente"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo fundamental de la Criminología según el apartado 1.2.1?",
+    "opciones": [
+      "Crear leyes más estrictas",
+      "Estudiar la historia del crimen",
+      "Lograr el control de la criminalidad",
+      "Definir nuevos tipos de delitos"
+    ],
+    "respuestaCorrecta": "Lograr el control de la criminalidad"
+  },
+  {
+    "pregunta": "¿Qué problema presenta el estudio de la criminalidad?",
+    "opciones": [
+      "Falta de legislación",
+      "Poca participación ciudadana",
+      "Información parcial y pobre debido a las cifras oficiales",
+      "Exceso de datos policiales"
+    ],
+    "respuestaCorrecta": "Información parcial y pobre debido a las cifras oficiales"
+  },
+  {
+    "pregunta": "¿Qué se entiende por Cifra Negra en criminología?",
+    "opciones": [
+      "Delitos cometidos en la noche",
+      "Cantidad de delitos no registrados por no ser denunciados",
+      "Estadísticas sobre delincuentes reincidentes",
+      "Tasa de criminalidad de menores"
+    ],
+    "respuestaCorrecta": "Cantidad de delitos no registrados por no ser denunciados"
+  },
+  {
+    "pregunta": "¿Qué método puede ayudar a reducir el impacto de la Cifra Negra?",
+    "opciones": [
+      "Aumentar el número de cárceles",
+      "Ampliar los turnos policiales",
+      "Uso de autoinformes y encuestas de victimización",
+      "Limitar el acceso a medios de comunicación"
+    ],
+    "respuestaCorrecta": "Uso de autoinformes y encuestas de victimización"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos se registran con mayor frecuencia en España?",
+    "opciones": [
+      "Delitos contra la propiedad",
+      "Delitos informáticos",
+      "Homicidios e intentos de homicidio",
+      "Violencia de género"
+    ],
+    "respuestaCorrecta": "Homicidios e intentos de homicidio"
+  },
+  {
+    "pregunta": "¿Qué puede provocar que un delito no se denuncie?",
+    "opciones": [
+      "Acceso a asistencia legal gratuita",
+      "Temor a una segunda victimización",
+      "Interés en una indemnización",
+      "Presión de familiares"
+    ],
+    "respuestaCorrecta": "Temor a una segunda victimización"
+  },
+  {
+    "pregunta": "¿Qué considera la Criminología como conducta desviada?",
+    "opciones": [
+      "Una falta administrativa",
+      "Conducta que infringe normas sociales sin ser delito",
+      "Toda conducta tipificada penalmente",
+      "Actos de desobediencia civil"
+    ],
+    "respuestaCorrecta": "Conducta que infringe normas sociales sin ser delito"
+  },
+  {
+    "pregunta": "¿Por qué el concepto de delito puede variar con el tiempo?",
+    "opciones": [
+      "Porque cambia la policía",
+      "Por decisiones judiciales erróneas",
+      "Por cambios en el partido político gobernante",
+      "Por evolución de las técnicas forenses"
+    ],
+    "respuestaCorrecta": "Por cambios en el partido político gobernante"
+  },
+  {
+    "pregunta": "¿Qué significa que el delito es un concepto cambiante?",
+    "opciones": [
+      "No todos los delitos son juzgados",
+      "Algunos delitos desaparecen con el tiempo",
+      "Lo que es delito en un país puede no serlo en otro",
+      "El delito depende del nivel educativo"
+    ],
+    "respuestaCorrecta": "Lo que es delito en un país puede no serlo en otro"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos tienen una respuesta penal compleja y variable?",
+    "opciones": [
+      "Homicidio",
+      "Lesiones leves",
+      "Aborto y eutanasia",
+      "Hurto menor"
+    ],
+    "respuestaCorrecta": "Aborto y eutanasia"
+  },
+  {
+    "pregunta": "¿Qué papel cumple el estudio del delito en Criminología?",
+    "opciones": [
+      "Solo analiza si es delito o no",
+      "Busca condenas ejemplares",
+      "Analiza causas, contexto y factores delictivos",
+      "Clasifica delitos por gravedad"
+    ],
+    "respuestaCorrecta": "Analiza causas, contexto y factores delictivos"
+  },
+  {
+    "pregunta": "¿Qué diferencia existe entre conducta violenta y conducta delictiva?",
+    "opciones": [
+      "No hay diferencia",
+      "La conducta violenta es siempre delito",
+      "La conducta violenta puede no estar tipificada como delito",
+      "Solo las conductas delictivas implican víctimas"
+    ],
+    "respuestaCorrecta": "La conducta violenta puede no estar tipificada como delito"
+  },
+  {
+    "pregunta": "¿Qué elemento no es considerado por la Criminología al analizar un delito?",
+    "opciones": [
+      "Motivaciones del delincuente",
+      "Factores ambientales",
+      "Código Penal exclusivamente",
+      "Circunstancias personales del infractor"
+    ],
+    "respuestaCorrecta": "Código Penal exclusivamente"
+  },
+  {
+    "pregunta": "¿Qué comportamiento se considera desviado pero no delictivo?",
+    "opciones": [
+      "Robo en supermercados",
+      "Mendicidad y alcoholismo",
+      "Estafa y fraude",
+      "Amenazas graves"
+    ],
+    "respuestaCorrecta": "Mendicidad y alcoholismo"
+  },
+  {
+    "pregunta": "¿Qué representa el delito desde una perspectiva criminológica?",
+    "opciones": [
+      "Solo una infracción legal",
+      "Una oportunidad de estudio médico",
+      "Una interacción social compleja",
+      "Un fenómeno aislado"
+    ],
+    "respuestaCorrecta": "Una interacción social compleja"
+  },
+  {
+    "pregunta": "¿Qué se busca comprender al estudiar delitos en Criminología?",
+    "opciones": [
+      "Reacción de los medios",
+      "Relación con el sistema judicial",
+      "Motivos, personalidad y entorno del infractor",
+      "Costo económico del delito"
+    ],
+    "respuestaCorrecta": "Motivos, personalidad y entorno del infractor"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre conducta desviada y criminología?",
+    "opciones": [
+      "La Criminología solo estudia delitos graves",
+      "Las conductas desviadas no interesan a la Criminología",
+      "La Criminología analiza cómo las conductas desviadas pueden llevar al delito",
+      "Ambas son sinónimos"
+    ],
+    "respuestaCorrecta": "La Criminología analiza cómo las conductas desviadas pueden llevar al delito"
+  },
+  {
+    "pregunta": "¿Qué delito es comúnmente reconocido en todas las culturas?",
+    "opciones": [
+      "Falsificación documental",
+      "Robo con violencia",
+      "Homicidio",
+      "Blanqueo de capitales"
+    ],
+    "respuestaCorrecta": "Homicidio"
+  },
+  {
+    "pregunta": "¿Qué factores influyen en el reconocimiento legal de un delito?",
+    "opciones": [
+      "Edad del infractor",
+      "Ideología política, país y contexto histórico",
+      "Género de la víctima",
+      "Nivel económico del agresor"
+    ],
+    "respuestaCorrecta": "Ideología política, país y contexto histórico"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de estudiar delitos no tipificados penalmente?",
+    "opciones": [
+      "Cambiar el sistema judicial",
+      "Evaluar peligrosidad",
+      "Entender su impacto social y prevenir su evolución",
+      "Clasificarlos como faltas"
+    ],
+    "respuestaCorrecta": "Entender su impacto social y prevenir su evolución"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología en relación con el delincuente?",
+    "opciones": [
+      "Su condena judicial",
+      "Su rol como víctima",
+      "Sus características personales, sociales y factores de riesgo",
+      "Sus antecedentes penales únicamente"
+    ],
+    "respuestaCorrecta": "Sus características personales, sociales y factores de riesgo"
+  },
+  {
+    "pregunta": "¿Qué tipo de estudio requiere la investigación del delincuente?",
+    "opciones": [
+      "Estudio exclusivo de sentencias penales",
+      "Estudio policial y penitenciario",
+      "Estudio clínico y multidisciplinar",
+      "Análisis económico del delito"
+    ],
+    "respuestaCorrecta": "Estudio clínico y multidisciplinar"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores NO se estudia habitualmente en el análisis del delincuente?",
+    "opciones": [
+      "Factores biológicos",
+      "Factores sociales",
+      "Factores meteorológicos",
+      "Factores psicológicos"
+    ],
+    "respuestaCorrecta": "Factores meteorológicos"
+  },
+  {
+    "pregunta": "¿Qué finalidad tiene el estudio del delincuente?",
+    "opciones": [
+      "Poner en duda el sistema legal",
+      "Clasificar a los reclusos según el tipo de delito",
+      "Conocer causas del delito y adoptar medidas preventivas y de intervención",
+      "Buscar causas sobrenaturales del crimen"
+    ],
+    "respuestaCorrecta": "Conocer causas del delito y adoptar medidas preventivas y de intervención"
+  },
+  {
+    "pregunta": "¿Qué ejemplo se menciona como factor social relacionado con la criminalidad?",
+    "opciones": [
+      "Baja temperatura ambiental",
+      "Falta de acceso a internet",
+      "Desempleo",
+      "Consumo de productos locales"
+    ],
+    "respuestaCorrecta": "Desempleo"
+  },
+  {
+    "pregunta": "¿Qué tipo de conducta estudia la Criminología en relación con el delincuente?",
+    "opciones": [
+      "Conducta laboral",
+      "Conducta delictiva",
+      "Conducta religiosa",
+      "Conducta electoral"
+    ],
+    "respuestaCorrecta": "Conducta delictiva"
+  },
+  {
+    "pregunta": "¿Qué aspecto se analiza en el estudio del entorno del delincuente?",
+    "opciones": [
+      "Infraestructura vial",
+      "Medios de comunicación",
+      "Contexto familiar, social y económico",
+      "Situación geográfica"
+    ],
+    "respuestaCorrecta": "Contexto familiar, social y económico"
+  },
+  {
+    "pregunta": "¿Por qué se estudian factores de riesgo y de protección del delincuente?",
+    "opciones": [
+      "Para identificar su nivel educativo",
+      "Para calcular el número de reincidentes",
+      "Para comprender la probabilidad de delinquir y prevenir conductas delictivas",
+      "Para justificar su condena legal"
+    ],
+    "respuestaCorrecta": "Para comprender la probabilidad de delinquir y prevenir conductas delictivas"
+  },
+  {
+    "pregunta": "¿Qué se entiende por criminología clínica?",
+    "opciones": [
+      "La que se aplica solo en hospitales psiquiátricos",
+      "Rama dedicada al análisis individualizado del delincuente",
+      "Criminología enfocada en delitos sanitarios",
+      "Análisis de normas legales médicas"
+    ],
+    "respuestaCorrecta": "Rama dedicada al análisis individualizado del delincuente"
+  },
+  {
+    "pregunta": "¿Qué factor puede influir en la reincidencia delictiva?",
+    "opciones": [
+      "Mayor cobertura médica",
+      "Privación de libertad sin intervención",
+      "Acceso a redes sociales",
+      "Uso de transporte público"
+    ],
+    "respuestaCorrecta": "Privación de libertad sin intervención"
+  },
+  {
+    "pregunta": "¿Qué elemento considera la Criminología sobre el delincuente y su entorno?",
+    "opciones": [
+      "Solo antecedentes penales",
+      "Reacción del entorno frente al delito",
+      "Disponibilidad de recursos financieros",
+      "Intervención de la prensa"
+    ],
+    "respuestaCorrecta": "Reacción del entorno frente al delito"
+  },
+  {
+    "pregunta": "¿Qué se busca al intervenir sobre un delincuente en Criminología?",
+    "opciones": [
+      "Sancionarlo más severamente",
+      "Resocializar y prevenir reincidencia",
+      "Transferirlo de prisión",
+      "Estudiarlo para documentación penal"
+    ],
+    "respuestaCorrecta": "Resocializar y prevenir reincidencia"
+  },
+  {
+    "pregunta": "¿Qué perfil puede presentar un delincuente reincidente?",
+    "opciones": [
+      "Buen historial educativo",
+      "Acceso a empleo estable",
+      "Factores personales y sociales sin resolver",
+      "Fuerte apoyo comunitario"
+    ],
+    "respuestaCorrecta": "Factores personales y sociales sin resolver"
+  },
+  {
+    "pregunta": "¿Qué tipo de enfoque requiere el análisis del delincuente?",
+    "opciones": [
+      "Únicamente legal",
+      "Sociológico y antropológico exclusivamente",
+      "Integral, interdisciplinar y científico",
+      "Periodístico y estadístico"
+    ],
+    "respuestaCorrecta": "Integral, interdisciplinar y científico"
+  },
+  {
+    "pregunta": "¿Qué perspectiva permite una intervención criminológica eficaz?",
+    "opciones": [
+      "La predictiva y asistencial",
+      "La judicial y represiva",
+      "La preventiva exclusivamente",
+      "La jurídica únicamente"
+    ],
+    "respuestaCorrecta": "La predictiva y asistencial"
+  },
+  {
+    "pregunta": "¿Qué relación tiene la educación con la conducta delictiva?",
+    "opciones": [
+      "Ninguna relación demostrada",
+      "Educación deficiente puede ser factor de riesgo",
+      "La educación incrementa el delito",
+      "La educación lo convierte en crimen de cuello blanco"
+    ],
+    "respuestaCorrecta": "Educación deficiente puede ser factor de riesgo"
+  },
+  {
+    "pregunta": "¿Qué factor psicológico puede estar presente en algunos delincuentes?",
+    "opciones": [
+      "Empatía elevada",
+      "Trastornos de personalidad",
+      "Alta autoestima",
+      "Motivación laboral"
+    ],
+    "respuestaCorrecta": "Trastornos de personalidad"
+  },
+  {
+    "pregunta": "¿Qué puede ayudar a la reinserción de un delincuente?",
+    "opciones": [
+      "Aislamiento carcelario",
+      "Privación sensorial",
+      "Terapia y formación",
+      "Trabajo forzado"
+    ],
+    "respuestaCorrecta": "Terapia y formación"
+  },
+  {
+    "pregunta": "¿Qué considera la Criminología respecto a la punición sin tratamiento?",
+    "opciones": [
+      "Suficiente para evitar la reincidencia",
+      "Forma rápida de eliminar la criminalidad",
+      "Inadecuada si no hay intervención psicosocial",
+      "Única medida viable"
+    ],
+    "respuestaCorrecta": "Inadecuada si no hay intervención psicosocial"
+  },
+  {
+    "pregunta": "¿Qué permite identificar la Criminología al estudiar al delincuente?",
+    "opciones": [
+      "Tipo de sentencia esperada",
+      "Tiempo de condena exacto",
+      "Necesidades de intervención individual",
+      "Género del juez asignado"
+    ],
+    "respuestaCorrecta": "Necesidades de intervención individual"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología sobre la víctima?",
+    "opciones": [
+      "Sus antecedentes penales",
+      "La conducta criminal de sus familiares",
+      "Factores que explican su papel en el hecho delictivo",
+      "Sus interacciones con la prensa"
+    ],
+    "respuestaCorrecta": "Factores que explican su papel en el hecho delictivo"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el estudio de la víctima en Criminología?",
+    "opciones": [
+      "Responsabilizarla del delito",
+      "Analizarla clínicamente",
+      "Reducir la reincidencia desde una visión preventiva",
+      "Determinar el castigo al delincuente"
+    ],
+    "respuestaCorrecta": "Reducir la reincidencia desde una visión preventiva"
+  },
+  {
+    "pregunta": "¿Qué se busca al estudiar a la víctima en relación al delito?",
+    "opciones": [
+      "Castigar a la víctima si ha sido provocadora",
+      "Evitar que se repita la victimización",
+      "Incrementar la vigilancia sobre ella",
+      "Demostrar su participación activa"
+    ],
+    "respuestaCorrecta": "Evitar que se repita la victimización"
+  },
+  {
+    "pregunta": "¿Qué es la victimología?",
+    "opciones": [
+      "Estudio de la conducta criminal",
+      "Ciencia que estudia a las víctimas del delito",
+      "Rama del derecho penal",
+      "Área de estudio sobre psicología forense"
+    ],
+    "respuestaCorrecta": "Ciencia que estudia a las víctimas del delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de factores analiza la victimología?",
+    "opciones": [
+      "Solo jurídicos",
+      "Solo médicos",
+      "Factores que hacen vulnerable a una persona al delito",
+      "Elementos laborales y económicos del criminal"
+    ],
+    "respuestaCorrecta": "Factores que hacen vulnerable a una persona al delito"
+  },
+  {
+    "pregunta": "¿Cuál es una función preventiva de la Criminología respecto a la víctima?",
+    "opciones": [
+      "Aislar a las víctimas reincidentes",
+      "Prevenir la victimización secundaria",
+      "Clasificar el tipo de delito",
+      "Eliminar pruebas dudosas"
+    ],
+    "respuestaCorrecta": "Prevenir la victimización secundaria"
+  },
+  {
+    "pregunta": "¿Qué es la victimización secundaria?",
+    "opciones": [
+      "Cuando la víctima sufre daños económicos",
+      "Revivir el trauma en contacto con el sistema judicial",
+      "Un segundo ataque por el mismo autor",
+      "Perder la indemnización"
+    ],
+    "respuestaCorrecta": "Revivir el trauma en contacto con el sistema judicial"
+  },
+  {
+    "pregunta": "¿Qué papel puede tener la víctima en el hecho delictivo según la Criminología?",
+    "opciones": [
+      "Ninguno, siempre es pasiva",
+      "Puede ser activa, provocadora o facilitadora",
+      "Es la única responsable",
+      "Se le considera cómplice legal"
+    ],
+    "respuestaCorrecta": "Puede ser activa, provocadora o facilitadora"
+  },
+  {
+    "pregunta": "¿Qué término se usa para referirse al papel de la víctima en el delito?",
+    "opciones": [
+      "Delincuente secundario",
+      "Testigo directo",
+      "Participación victimógena",
+      "Coadyuvante involuntario"
+    ],
+    "respuestaCorrecta": "Participación victimógena"
+  },
+  {
+    "pregunta": "¿Qué factor puede aumentar la vulnerabilidad de una víctima?",
+    "opciones": [
+      "Buena relación con su comunidad",
+      "Acceso a recursos legales",
+      "Aislamiento social",
+      "Protección policial activa"
+    ],
+    "respuestaCorrecta": "Aislamiento social"
+  },
+  {
+    "pregunta": "¿Qué se pretende evitar al estudiar a la víctima?",
+    "opciones": [
+      "Su intervención judicial",
+      "Su testimonio en juicio",
+      "Su revictimización y nuevos delitos",
+      "El pago de indemnizaciones"
+    ],
+    "respuestaCorrecta": "Su revictimización y nuevos delitos"
+  },
+  {
+    "pregunta": "¿Qué puede incluirse en la victimización secundaria además del trato judicial?",
+    "opciones": [
+      "Acceso a servicios sociales",
+      "Retrato policial de la víctima",
+      "Falta de apoyo institucional y social",
+      "Medios de comunicación responsables"
+    ],
+    "respuestaCorrecta": "Falta de apoyo institucional y social"
+  },
+  {
+    "pregunta": "¿Qué consecuencia puede tener la victimización secundaria en la víctima?",
+    "opciones": [
+      "Empoderamiento social",
+      "Desaparición del trauma",
+      "Deterioro emocional adicional",
+      "Compensación legal automática"
+    ],
+    "respuestaCorrecta": "Deterioro emocional adicional"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en el trato a la víctima para prevenir su segunda victimización?",
+    "opciones": [
+      "Dar demasiada información",
+      "Citarla en medios de comunicación",
+      "Repetidas declaraciones traumáticas",
+      "Ofrecerle asistencia psicológica"
+    ],
+    "respuestaCorrecta": "Repetidas declaraciones traumáticas"
+  },
+  {
+    "pregunta": "¿Qué factor institucional contribuye a la victimización secundaria?",
+    "opciones": [
+      "Presencia policial cercana",
+      "Reconocimiento público",
+      "Desconfianza en el sistema judicial",
+      "Satisfacción por el juicio"
+    ],
+    "respuestaCorrecta": "Desconfianza en el sistema judicial"
+  },
+  {
+    "pregunta": "¿Qué puede hacer la Criminología para proteger a las víctimas?",
+    "opciones": [
+      "Evitar denuncias innecesarias",
+      "Eliminar su rol en los procesos",
+      "Proponer medidas de protección y atención integral",
+      "Excluirlas del juicio"
+    ],
+    "respuestaCorrecta": "Proponer medidas de protección y atención integral"
+  },
+  {
+    "pregunta": "¿Qué área interdisciplinar colabora con la victimología?",
+    "opciones": [
+      "Periodismo",
+      "Medicina forense",
+      "Sociología, psicología, derecho y trabajo social",
+      "Publicidad"
+    ],
+    "respuestaCorrecta": "Sociología, psicología, derecho y trabajo social"
+  },
+  {
+    "pregunta": "¿Qué se busca con el análisis de la figura de la víctima?",
+    "opciones": [
+      "Evitar que sea juzgada",
+      "Culparla si contribuyó",
+      "Reducir futuras victimizaciones",
+      "Eliminar pruebas a su favor"
+    ],
+    "respuestaCorrecta": "Reducir futuras victimizaciones"
+  },
+  {
+    "pregunta": "¿Qué debe garantizarse a la víctima según la perspectiva criminológica?",
+    "opciones": [
+      "Participación activa en el juicio",
+      "Reinserción del agresor",
+      "Atención, seguridad y reparación del daño",
+      "Silencio legal"
+    ],
+    "respuestaCorrecta": "Atención, seguridad y reparación del daño"
+  },
+  {
+    "pregunta": "¿Qué puede influir en el riesgo de ser víctima de un delito?",
+    "opciones": [
+      "Tener acceso a educación",
+      "Frecuentar lugares peligrosos o tener rutinas predecibles",
+      "Tener una familia extensa",
+      "Participar en actividades comunitarias"
+    ],
+    "respuestaCorrecta": "Frecuentar lugares peligrosos o tener rutinas predecibles"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología en relación con el control social?",
+    "opciones": [
+      "Solo las leyes penales",
+      "Los mecanismos formales e informales que regulan la conducta",
+      "La presión de los medios de comunicación",
+      "Los partidos políticos"
+    ],
+    "respuestaCorrecta": "Los mecanismos formales e informales que regulan la conducta"
+  },
+  {
+    "pregunta": "¿Qué es el control social formal?",
+    "opciones": [
+      "El ejercido por los amigos",
+      "El que se aplica a través de leyes e instituciones oficiales",
+      "El realizado por redes sociales",
+      "El que proviene de la educación familiar"
+    ],
+    "respuestaCorrecta": "El que se aplica a través de leyes e instituciones oficiales"
+  },
+  {
+    "pregunta": "¿Qué instituciones forman parte del control social formal?",
+    "opciones": [
+      "Iglesia y familia",
+      "Medios de comunicación y asociaciones vecinales",
+      "Policía, juzgados, sistema penitenciario",
+      "Redes sociales y ONGs"
+    ],
+    "respuestaCorrecta": "Policía, juzgados, sistema penitenciario"
+  },
+  {
+    "pregunta": "¿Qué es el control social informal?",
+    "opciones": [
+      "El que aplica la policía",
+      "El que se ejerce sin normas escritas a través de grupos sociales",
+      "Las sanciones judiciales",
+      "El que se impone desde el gobierno"
+    ],
+    "respuestaCorrecta": "El que se ejerce sin normas escritas a través de grupos sociales"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el control social informal en la prevención del delito?",
+    "opciones": [
+      "Inhibe ciertas conductas mediante normas compartidas",
+      "Provoca desobediencia civil",
+      "Promueve la violencia social",
+      "No tiene ningún efecto"
+    ],
+    "respuestaCorrecta": "Inhibe ciertas conductas mediante normas compartidas"
+  },
+  {
+    "pregunta": "¿Qué grupo ejerce un control social informal importante durante la adolescencia?",
+    "opciones": [
+      "La policía local",
+      "Los vecinos",
+      "El grupo de iguales",
+      "Los jueces"
+    ],
+    "respuestaCorrecta": "El grupo de iguales"
+  },
+  {
+    "pregunta": "¿Qué institución es clave en la transmisión de normas sociales básicas?",
+    "opciones": [
+      "El sistema de transporte",
+      "El sistema educativo",
+      "La policía",
+      "Los medios de comunicación"
+    ],
+    "respuestaCorrecta": "El sistema educativo"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el sistema educativo según la Criminología?",
+    "opciones": [
+      "Adoctrinar a los estudiantes",
+      "Controlar las conductas violentas mediante represión",
+      "Transmitir normas de conducta y prevenir la delincuencia",
+      "Formar solo académicamente"
+    ],
+    "respuestaCorrecta": "Transmitir normas de conducta y prevenir la delincuencia"
+  },
+  {
+    "pregunta": "¿Qué se busca con el análisis del control social en Criminología?",
+    "opciones": [
+      "Modificar la ley penal",
+      "Evaluar su eficacia en la prevención del delito",
+      "Eliminar normas tradicionales",
+      "Aumentar el control policial"
+    ],
+    "respuestaCorrecta": "Evaluar su eficacia en la prevención del delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de normas incluye el control social informal?",
+    "opciones": [
+      "Solo leyes estatales",
+      "Normas morales, costumbres y creencias",
+      "Reglas jurídicas escritas",
+      "Reglamentos escolares exclusivamente"
+    ],
+    "respuestaCorrecta": "Normas morales, costumbres y creencias"
+  },
+  {
+    "pregunta": "¿Qué consecuencias puede tener un control social informal débil?",
+    "opciones": [
+      "Mayor cohesión comunitaria",
+      "Reducción de la delincuencia",
+      "Mayor probabilidad de conductas desviadas",
+      "Aumento de la participación ciudadana"
+    ],
+    "respuestaCorrecta": "Mayor probabilidad de conductas desviadas"
+  },
+  {
+    "pregunta": "¿Qué función tiene la policía dentro del control social formal?",
+    "opciones": [
+      "Educar en valores",
+      "Intervenir en conflictos familiares",
+      "Hacer cumplir las leyes y mantener el orden",
+      "Medir la tasa de criminalidad"
+    ],
+    "respuestaCorrecta": "Hacer cumplir las leyes y mantener el orden"
+  },
+  {
+    "pregunta": "¿Cuál es una característica del control social informal?",
+    "opciones": [
+      "Se basa en castigos físicos",
+      "Se ejerce desde el Estado",
+      "No está regulado por normas escritas",
+      "Es impuesto por sentencias judiciales"
+    ],
+    "respuestaCorrecta": "No está regulado por normas escritas"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la familia en el control social informal?",
+    "opciones": [
+      "Proporciona seguridad legal",
+      "Supervisa el cumplimiento de la ley",
+      "Transmite valores y normas básicas de convivencia",
+      "Informa sobre delitos"
+    ],
+    "respuestaCorrecta": "Transmite valores y normas básicas de convivencia"
+  },
+  {
+    "pregunta": "¿Qué resultado se espera del adecuado funcionamiento del control social informal?",
+    "opciones": [
+      "Aumento de sanciones penales",
+      "Reducción del castigo judicial",
+      "Prevención de conductas delictivas",
+      "Criminalización de normas tradicionales"
+    ],
+    "respuestaCorrecta": "Prevención de conductas delictivas"
+  },
+  {
+    "pregunta": "¿Qué puede fortalecer el control social informal en una comunidad?",
+    "opciones": [
+      "Vigilancia policial intensiva",
+      "Educación en valores y cohesión social",
+      "Reducción de libertades individuales",
+      "Aumento de penas mínimas"
+    ],
+    "respuestaCorrecta": "Educación en valores y cohesión social"
+  },
+  {
+    "pregunta": "¿Qué institución formal actúa cuando el control social informal falla?",
+    "opciones": [
+      "La iglesia",
+      "El club deportivo",
+      "El sistema penal",
+      "El colegio profesional"
+    ],
+    "respuestaCorrecta": "El sistema penal"
+  },
+  {
+    "pregunta": "¿Qué función tiene el sistema judicial en el control social formal?",
+    "opciones": [
+      "Orientar moralmente a la ciudadanía",
+      "Establecer normas comunitarias",
+      "Aplicar sanciones legales por conductas delictivas",
+      "Educar sobre derechos humanos"
+    ],
+    "respuestaCorrecta": "Aplicar sanciones legales por conductas delictivas"
+  },
+  {
+    "pregunta": "¿Qué interacción estudia la Criminología respecto al control social?",
+    "opciones": [
+      "Relación entre clima y criminalidad",
+      "Influencia de los videojuegos",
+      "Interacción entre normas sociales, instituciones y comportamiento",
+      "Conexión entre delitos y alimentación"
+    ],
+    "respuestaCorrecta": "Interacción entre normas sociales, instituciones y comportamiento"
+  },
+  {
+    "pregunta": "¿Qué objetivo tienen las normas sociales dentro del control social informal?",
+    "opciones": [
+      "Incrementar la desigualdad",
+      "Eliminar la autoridad formal",
+      "Promover la convivencia pacífica",
+      "Justificar el uso de la fuerza pública"
+    ],
+    "respuestaCorrecta": "Promover la convivencia pacífica"
+  },
+  {
+    "pregunta": "¿Qué busca identificar la Criminología mediante el estudio del control social?",
+    "opciones": [
+      "La legitimidad del castigo",
+      "Los mecanismos más eficaces para prevenir la delincuencia",
+      "La extensión del derecho penal",
+      "Los errores judiciales más comunes"
+    ],
+    "respuestaCorrecta": "Los mecanismos más eficaces para prevenir la delincuencia"
+  },
+  {
+    "pregunta": "¿Cuál es una diferencia entre control social formal e informal?",
+    "opciones": [
+      "El informal es más estricto que el formal",
+      "El formal se basa en leyes; el informal en normas sociales",
+      "El formal no requiere sanciones",
+      "Ambos son aplicados solo por el Estado"
+    ],
+    "respuestaCorrecta": "El formal se basa en leyes; el informal en normas sociales"
+  },
+  {
+    "pregunta": "¿Qué sucede cuando el control social informal falla?",
+    "opciones": [
+      "Se reduce el número de delitos",
+      "Interviene el sistema formal de control",
+      "Se elimina la responsabilidad penal",
+      "Aumenta la cohesión social"
+    ],
+    "respuestaCorrecta": "Interviene el sistema formal de control"
+  },
+  {
+    "pregunta": "¿Qué función tiene la Criminología respecto a las políticas públicas?",
+    "opciones": [
+      "Dictar sentencias",
+      "Diseñar leyes penales",
+      "Ofrecer conocimiento para la elaboración de estrategias preventivas",
+      "Representar a víctimas y delincuentes"
+    ],
+    "respuestaCorrecta": "Ofrecer conocimiento para la elaboración de estrategias preventivas"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología como ciencia social?",
+    "opciones": [
+      "Las instituciones educativas",
+      "El comportamiento desviado y criminal en sociedad",
+      "La evolución de las leyes civiles",
+      "La relación entre delito y arte"
+    ],
+    "respuestaCorrecta": "El comportamiento desviado y criminal en sociedad"
+  },
+  {
+    "pregunta": "¿Qué área NO forma parte de los enfoques de la Criminología?",
+    "opciones": [
+      "Biología",
+      "Psicología",
+      "Economía",
+      "Astrología"
+    ],
+    "respuestaCorrecta": "Astrología"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el criminólogo con los datos que obtiene?",
+    "opciones": [
+      "Publicarlos en medios de comunicación",
+      "Interpretarlos y proponer soluciones prácticas",
+      "Enviar reportes a la policía",
+      "Eliminar los que afecten a menores"
+    ],
+    "respuestaCorrecta": "Interpretarlos y proponer soluciones prácticas"
+  },
+  {
+    "pregunta": "¿Qué distingue a la Criminología como ciencia empírica?",
+    "opciones": [
+      "Sus métodos legales",
+      "Su enfoque teológico",
+      "El uso de la observación y el análisis de datos reales",
+      "Su relación con la política"
+    ],
+    "respuestaCorrecta": "El uso de la observación y el análisis de datos reales"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al método científico usado por la Criminología?",
+    "opciones": [
+      "Es especulativo",
+      "No requiere comprobación",
+      "Es sistemático, ordenado y riguroso",
+      "Se basa en opiniones jurídicas"
+    ],
+    "respuestaCorrecta": "Es sistemático, ordenado y riguroso"
+  },
+  {
+    "pregunta": "¿Qué busca la Criminología a través de sus investigaciones?",
+    "opciones": [
+      "Cambiar las normas sociales",
+      "Encontrar culpables",
+      "Generar conocimiento útil para prevenir y tratar el delito",
+      "Justificar el castigo"
+    ],
+    "respuestaCorrecta": "Generar conocimiento útil para prevenir y tratar el delito"
+  },
+  {
+    "pregunta": "¿Qué papel cumple el trabajo social en la Criminología?",
+    "opciones": [
+      "Aplica penas legales",
+      "Brinda apoyo y asistencia para la intervención preventiva",
+      "Define delitos",
+      "Imparte justicia"
+    ],
+    "respuestaCorrecta": "Brinda apoyo y asistencia para la intervención preventiva"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos pueden ser abordados desde una perspectiva criminológica preventiva?",
+    "opciones": [
+      "Solo delitos de sangre",
+      "Delitos económicos exclusivamente",
+      "Todos los delitos, especialmente los prevenibles",
+      "Delitos cometidos por funcionarios"
+    ],
+    "respuestaCorrecta": "Todos los delitos, especialmente los prevenibles"
+  },
+  {
+    "pregunta": "¿Qué función tiene la estadística en la Criminología?",
+    "opciones": [
+      "Confirmar prejuicios",
+      "Evaluar el desempeño judicial",
+      "Analizar patrones y tendencias delictivas",
+      "Aumentar la criminalización"
+    ],
+    "respuestaCorrecta": "Analizar patrones y tendencias delictivas"
+  },
+  {
+    "pregunta": "¿Qué valor tiene la observación directa en la Criminología?",
+    "opciones": [
+      "Ninguno, es subjetiva",
+      "Aporta evidencia valiosa para comprender comportamientos",
+      "Sustituye las leyes penales",
+      "Sirve solo en juicios"
+    ],
+    "respuestaCorrecta": "Aporta evidencia valiosa para comprender comportamientos"
+  },
+  {
+    "pregunta": "¿Qué permite la multidisciplinariedad en Criminología?",
+    "opciones": [
+      "El análisis aislado del crimen",
+      "La creación de nuevas penas",
+      "Una comprensión integral del delito",
+      "Eliminar el castigo legal"
+    ],
+    "respuestaCorrecta": "Una comprensión integral del delito"
+  },
+  {
+    "pregunta": "¿Qué ámbito NO es considerado en la Criminología interdisciplinaria?",
+    "opciones": [
+      "Sociología",
+      "Antropología",
+      "Psicología",
+      "Publicidad"
+    ],
+    "respuestaCorrecta": "Publicidad"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los beneficios del enfoque empírico de la Criminología?",
+    "opciones": [
+      "Permite crear nuevas leyes sin debate",
+      "Genera conocimiento aplicable a la prevención",
+      "Evita la intervención estatal",
+      "Reduce el número de policías necesarios"
+    ],
+    "respuestaCorrecta": "Genera conocimiento aplicable a la prevención"
+  },
+  {
+    "pregunta": "¿Qué hace el criminólogo con la información sobre delincuentes y víctimas?",
+    "opciones": [
+      "Clasifica jurídicamente los casos",
+      "Desarrolla perfiles para uso forense exclusivamente",
+      "Analiza, compara e interpreta para diseñar soluciones",
+      "Elabora juicios penales"
+    ],
+    "respuestaCorrecta": "Analiza, compara e interpreta para diseñar soluciones"
+  },
+  {
+    "pregunta": "¿Qué distingue a la Criminología de otras disciplinas jurídicas?",
+    "opciones": [
+      "No estudia las penas",
+      "Analiza al delito desde un enfoque científico y social",
+      "Se centra en lo judicial exclusivamente",
+      "Ignora la figura de la víctima"
+    ],
+    "respuestaCorrecta": "Analiza al delito desde un enfoque científico y social"
+  },
+  {
+    "pregunta": "¿Qué papel cumple la Criminología en la formulación de políticas sociales?",
+    "opciones": [
+      "No participa en políticas públicas",
+      "Asesora en la toma de decisiones preventivas",
+      "Solo recopila datos estadísticos",
+      "Actúa como mediadora penal"
+    ],
+    "respuestaCorrecta": "Asesora en la toma de decisiones preventivas"
+  },
+  {
+    "pregunta": "¿Qué distingue a la Criminología de la Criminalística?",
+    "opciones": [
+      "La Criminología se enfoca en leyes, la Criminalística en víctimas",
+      "La Criminología estudia el delito como fenómeno social; la Criminalística analiza las pruebas materiales",
+      "Ambas estudian la misma información desde ángulos diferentes",
+      "La Criminalística aplica teorías, la Criminología solo observa"
+    ],
+    "respuestaCorrecta": "La Criminología estudia el delito como fenómeno social; la Criminalística analiza las pruebas materiales"
+  },
+  {
+    "pregunta": "¿Qué objeto de estudio tiene la Criminalística?",
+    "opciones": [
+      "El sistema judicial",
+      "Las causas sociales del crimen",
+      "La escena del delito y las pruebas físicas",
+      "Los medios de comunicación"
+    ],
+    "respuestaCorrecta": "La escena del delito y las pruebas físicas"
+  },
+  {
+    "pregunta": "¿Cuál es la principal finalidad de la Criminalística?",
+    "opciones": [
+      "Prevenir la reincidencia",
+      "Analizar el contexto social del delito",
+      "Esclarecer hechos delictivos mediante análisis científico",
+      "Proponer reformas legales"
+    ],
+    "respuestaCorrecta": "Esclarecer hechos delictivos mediante análisis científico"
+  },
+  {
+    "pregunta": "¿Qué herramienta utiliza la Criminalística para identificar autores?",
+    "opciones": [
+      "Encuestas de victimización",
+      "Perfilación criminal",
+      "Estudio de ADN y huellas",
+      "Entrevistas sociales"
+    ],
+    "respuestaCorrecta": "Estudio de ADN y huellas"
+  },
+  {
+    "pregunta": "¿Qué ciencias auxiliares colaboran con la Criminalística?",
+    "opciones": [
+      "Sociología y Filosofía",
+      "Física, Química, Biología",
+      "Economía y Derecho",
+      "Psicología y Antropología"
+    ],
+    "respuestaCorrecta": "Física, Química, Biología"
+  },
+  {
+    "pregunta": "¿Qué aspecto comparte la Criminología con la Psicología?",
+    "opciones": [
+      "Ambas aplican leyes penales",
+      "El estudio del comportamiento humano",
+      "La recolección de pruebas forenses",
+      "El uso de laboratorios"
+    ],
+    "respuestaCorrecta": "El estudio del comportamiento humano"
+  },
+  {
+    "pregunta": "¿Cuál es el enfoque de la Psicología Criminal?",
+    "opciones": [
+      "Interpretar sentencias judiciales",
+      "Analizar la ley desde la perspectiva médica",
+      "Estudiar el estado mental del autor del delito",
+      "Evaluar el impacto de las penas"
+    ],
+    "respuestaCorrecta": "Estudiar el estado mental del autor del delito"
+  },
+  {
+    "pregunta": "¿Qué evalúa la Psicología Criminal en el contexto penal?",
+    "opciones": [
+      "La efectividad del sistema judicial",
+      "El entorno social de la víctima",
+      "La imputabilidad del sujeto",
+      "La capacidad de los jueces"
+    ],
+    "respuestaCorrecta": "La imputabilidad del sujeto"
+  },
+  {
+    "pregunta": "¿Qué función cumple la Psicología en el tratamiento del delincuente?",
+    "opciones": [
+      "Definir su culpabilidad legal",
+      "Brindar terapia y acompañamiento para la reinserción",
+      "Aplicar sanciones correctivas",
+      "Proveer defensa legal"
+    ],
+    "respuestaCorrecta": "Brindar terapia y acompañamiento para la reinserción"
+  },
+  {
+    "pregunta": "¿Qué campo comparte la Criminología con el Trabajo Social?",
+    "opciones": [
+      "Análisis de ADN",
+      "Control policial",
+      "Apoyo y orientación a víctimas y delincuentes",
+      "Interpretación de normas jurídicas"
+    ],
+    "respuestaCorrecta": "Apoyo y orientación a víctimas y delincuentes"
+  },
+  {
+    "pregunta": "¿Qué labor realiza el trabajo social en contexto criminológico?",
+    "opciones": [
+      "Defiende a los acusados en juicio",
+      "Controla las sentencias judiciales",
+      "Interviene para prevenir conductas delictivas",
+      "Clasifica delitos por su gravedad"
+    ],
+    "respuestaCorrecta": "Interviene para prevenir conductas delictivas"
+  },
+  {
+    "pregunta": "¿Qué distingue a la Criminología como ciencia multidisciplinar?",
+    "opciones": [
+      "Solo estudia el Derecho",
+      "Combina múltiples disciplinas para entender el fenómeno delictivo",
+      "Se basa exclusivamente en teorías filosóficas",
+      "Se limita al análisis de estadísticas"
+    ],
+    "respuestaCorrecta": "Combina múltiples disciplinas para entender el fenómeno delictivo"
+  },
+  {
+    "pregunta": "¿Qué rol tiene la Sociología en la Criminología?",
+    "opciones": [
+      "Analizar muestras biológicas",
+      "Definir leyes penales",
+      "Estudiar la influencia del entorno social en el delito",
+      "Gestionar recursos judiciales"
+    ],
+    "respuestaCorrecta": "Estudiar la influencia del entorno social en el delito"
+  },
+  {
+    "pregunta": "¿Qué enfoque aporta la Antropología a la Criminología?",
+    "opciones": [
+      "Legal",
+      "Biológico-forense exclusivamente",
+      "Cultural y social",
+      "Religioso"
+    ],
+    "respuestaCorrecta": "Cultural y social"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la Antropología Criminal de la Antropología Forense?",
+    "opciones": [
+      "Ninguna, son sinónimos",
+      "La Criminal estudia restos humanos; la Forense estudia culturas",
+      "La Criminal analiza causas sociales y biológicas del delito; la Forense analiza restos óseos",
+      "Ambas se dedican al estudio de leyes penales"
+    ],
+    "respuestaCorrecta": "La Criminal analiza causas sociales y biológicas del delito; la Forense analiza restos óseos"
+  },
+  {
+    "pregunta": "¿Qué ciencias sociales influyen directamente en la Criminología?",
+    "opciones": [
+      "Ingeniería y arquitectura",
+      "Política y economía empresarial",
+      "Sociología, Psicología, Antropología y Derecho",
+      "Biología y Química exclusivamente"
+    ],
+    "respuestaCorrecta": "Sociología, Psicología, Antropología y Derecho"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo de la Criminología como ciencia multidisciplinar?",
+    "opciones": [
+      "Reformar el código penal",
+      "Reducir el número de cárceles",
+      "Entender y prevenir el delito desde diferentes disciplinas",
+      "Simplificar los procesos judiciales"
+    ],
+    "respuestaCorrecta": "Entender y prevenir el delito desde diferentes disciplinas"
+  },
+  {
+    "pregunta": "¿Qué disciplina analiza el crimen como producto del entorno cultural?",
+    "opciones": [
+      "Criminalística",
+      "Antropología",
+      "Derecho Penal",
+      "Bioética"
+    ],
+    "respuestaCorrecta": "Antropología"
+  },
+  {
+    "pregunta": "¿Qué hace la Psicología cuando evalúa a un agresor?",
+    "opciones": [
+      "Determina la legalidad de sus actos",
+      "Lo defiende en juicio",
+      "Evalúa su estado mental y predisposición a la violencia",
+      "Emite sentencia judicial"
+    ],
+    "respuestaCorrecta": "Evalúa su estado mental y predisposición a la violencia"
+  },
+  {
+    "pregunta": "¿Qué aporta el enfoque psicológico a la intervención criminológica?",
+    "opciones": [
+      "Defensa legal más sólida",
+      "Perspectiva terapéutica y preventiva",
+      "Justificación del castigo",
+      "Control policial del entorno"
+    ],
+    "respuestaCorrecta": "Perspectiva terapéutica y preventiva"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la Criminología del Derecho Penal?",
+    "opciones": [
+      "La Criminología se centra en los procesos judiciales",
+      "El Derecho Penal estudia la ley, mientras la Criminología estudia el delito desde un enfoque social",
+      "Ambas tienen los mismos objetivos",
+      "La Criminología dicta sentencias"
+    ],
+    "respuestaCorrecta": "El Derecho Penal estudia la ley, mientras la Criminología estudia el delito desde un enfoque social"
+  },
+  {
+    "pregunta": "¿Cuál es una función propia del Derecho Penal?",
+    "opciones": [
+      "Identificar factores de riesgo del delito",
+      "Determinar la culpabilidad y aplicar sanciones legales",
+      "Analizar la conducta desviada",
+      "Estudiar a las víctimas"
+    ],
+    "respuestaCorrecta": "Determinar la culpabilidad y aplicar sanciones legales"
+  },
+  {
+    "pregunta": "¿Qué estudia la Criminología y no el Derecho Penal?",
+    "opciones": [
+      "El tipo de sanción legal aplicable",
+      "La participación del fiscal",
+      "Factores sociales, psicológicos y biológicos del delito",
+      "El contenido del Código Penal"
+    ],
+    "respuestaCorrecta": "Factores sociales, psicológicos y biológicos del delito"
+  },
+  {
+    "pregunta": "¿Qué disciplina se encarga de estudiar las normas que regulan el delito?",
+    "opciones": [
+      "Criminalística",
+      "Criminología",
+      "Derecho Penal",
+      "Psicología Jurídica"
+    ],
+    "respuestaCorrecta": "Derecho Penal"
+  },
+  {
+    "pregunta": "¿Qué papel tiene el Derecho Penal frente al delito?",
+    "opciones": [
+      "Prevenirlo exclusivamente",
+      "Explicar sus causas",
+      "Sancionarlo y regular su tratamiento legal",
+      "Ignorarlo si no es grave"
+    ],
+    "respuestaCorrecta": "Sancionarlo y regular su tratamiento legal"
+  },
+  {
+    "pregunta": "¿Qué enfoque aporta la Criminología que el Derecho Penal no considera?",
+    "opciones": [
+      "Normativo",
+      "Histórico",
+      "Interdisciplinario y empírico",
+      "Judicial y sancionador"
+    ],
+    "respuestaCorrecta": "Interdisciplinario y empírico"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre Derecho Penal y Criminología?",
+    "opciones": [
+      "Son disciplinas totalmente separadas",
+      "La Criminología depende del Derecho Penal",
+      "Se complementan: uno sanciona y otro estudia causas y prevención",
+      "Ambas definen las penas"
+    ],
+    "respuestaCorrecta": "Se complementan: uno sanciona y otro estudia causas y prevención"
+  },
+  {
+    "pregunta": "¿Qué aspecto NO es competencia de la Criminología?",
+    "opciones": [
+      "Estudio de las víctimas",
+      "Estudio del delincuente",
+      "Imposición de penas",
+      "Prevención del delito"
+    ],
+    "respuestaCorrecta": "Imposición de penas"
+  },
+  {
+    "pregunta": "¿Qué ejemplo de aplicación tiene el Derecho Penal?",
+    "opciones": [
+      "Estudio de contextos familiares del delincuente",
+      "Aplicación de prisión por robo",
+      "Análisis de factores de riesgo",
+      "Evaluación psicológica del agresor"
+    ],
+    "respuestaCorrecta": "Aplicación de prisión por robo"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la Criminología que no tiene el Derecho Penal?",
+    "opciones": [
+      "Aplicar sanciones",
+      "Condenar a los culpables",
+      "Estudiar la génesis del comportamiento delictivo",
+      "Interpretar leyes penales"
+    ],
+    "respuestaCorrecta": "Estudiar la génesis del comportamiento delictivo"
+  },
+  {
+    "pregunta": "¿Qué elemento forma parte de la prevención en Criminología?",
+    "opciones": [
+      "Aplicación de penas más duras",
+      "Modificación del Código Penal",
+      "Estudio de factores que contribuyen al delito",
+      "Participación en juicios orales"
+    ],
+    "respuestaCorrecta": "Estudio de factores que contribuyen al delito"
+  },
+  {
+    "pregunta": "¿Qué se busca con la intervención social desde la Criminología?",
+    "opciones": [
+      "Reducción de sanciones legales",
+      "Control de medios de comunicación",
+      "Reducción de la criminalidad mediante acciones preventivas",
+      "Revisión de leyes penales"
+    ],
+    "respuestaCorrecta": "Reducción de la criminalidad mediante acciones preventivas"
+  },
+  {
+    "pregunta": "¿Qué perfil analiza la Criminología y no el Derecho Penal?",
+    "opciones": [
+      "Tipo penal cometido",
+      "Nivel educativo del juez",
+      "Entorno familiar y social del delincuente",
+      "Grado de ejecución del delito"
+    ],
+    "respuestaCorrecta": "Entorno familiar y social del delincuente"
+  },
+  {
+    "pregunta": "¿Qué rol cumple el criminólogo en la prevención del delito?",
+    "opciones": [
+      "Aplicar la ley penal",
+      "Defender al acusado",
+      "Diseñar estrategias basadas en el análisis del comportamiento criminal",
+      "Emitir sentencias"
+    ],
+    "respuestaCorrecta": "Diseñar estrategias basadas en el análisis del comportamiento criminal"
+  },
+  {
+    "pregunta": "¿Qué enfoque tiene el Derecho Penal sobre el delito?",
+    "opciones": [
+      "Empírico",
+      "Preventivo",
+      "Normativo y sancionador",
+      "Psicosocial"
+    ],
+    "respuestaCorrecta": "Normativo y sancionador"
+  },
+  {
+    "pregunta": "¿Qué diferencia el objeto de estudio del Derecho Penal y la Criminología?",
+    "opciones": [
+      "El Derecho Penal estudia el castigo; la Criminología, las leyes",
+      "Ambas estudian los tribunales",
+      "La Criminología estudia el delito y su contexto; el Derecho Penal lo sanciona",
+      "El Derecho Penal no se basa en normas"
+    ],
+    "respuestaCorrecta": "La Criminología estudia el delito y su contexto; el Derecho Penal lo sanciona"
+  },
+  {
+    "pregunta": "¿Qué implica el carácter empírico de la Criminología?",
+    "opciones": [
+      "Se basa en doctrinas jurídicas",
+      "Aplica teorías sin pruebas",
+      "Analiza datos reales para entender el delito",
+      "No utiliza estadísticas"
+    ],
+    "respuestaCorrecta": "Analiza datos reales para entender el delito"
+  },
+  {
+    "pregunta": "¿Cuál de estas disciplinas es normativa por definición?",
+    "opciones": [
+      "Criminología",
+      "Psicología Criminal",
+      "Derecho Penal",
+      "Antropología Criminal"
+    ],
+    "respuestaCorrecta": "Derecho Penal"
+  },
+  {
+    "pregunta": "¿Qué enfoque tiene la Criminología sobre el delito?",
+    "opciones": [
+      "Solo jurídico",
+      "Estrictamente policial",
+      "Multicausal y social",
+      "Reclusivo"
+    ],
+    "respuestaCorrecta": "Multicausal y social"
+  },
+  {
+    "pregunta": "¿Qué valor tiene la prevención en Criminología?",
+    "opciones": [
+      "Secundario al castigo",
+      "No relevante",
+      "Central para reducir la delincuencia",
+      "Solo útil en menores"
+    ],
+    "respuestaCorrecta": "Central para reducir la delincuencia"
+  },
+  {
+    "pregunta": "¿Qué diferencia principal hay entre Sociología y Criminología?",
+    "opciones": [
+      "La Sociología estudia leyes penales, la Criminología no",
+      "La Criminología estudia el crimen individual; la Sociología, los fenómenos sociales colectivos",
+      "Ambas son iguales en enfoque y objeto de estudio",
+      "La Sociología solo analiza estadísticas"
+    ],
+    "respuestaCorrecta": "La Criminología estudia el crimen individual; la Sociología, los fenómenos sociales colectivos"
+  },
+  {
+    "pregunta": "¿Qué objeto estudia principalmente la Sociología?",
+    "opciones": [
+      "La psicopatía criminal",
+      "Las normas jurídicas",
+      "El comportamiento colectivo y las estructuras sociales",
+      "Las pruebas forenses"
+    ],
+    "respuestaCorrecta": "El comportamiento colectivo y las estructuras sociales"
+  },
+  {
+    "pregunta": "¿Qué elemento comparte la Criminología con la Psicología Criminal?",
+    "opciones": [
+      "El estudio de delitos económicos",
+      "La elaboración de códigos penales",
+      "El análisis del comportamiento del delincuente",
+      "La interpretación de normas jurídicas"
+    ],
+    "respuestaCorrecta": "El análisis del comportamiento del delincuente"
+  },
+  {
+    "pregunta": "¿Qué método utilizan tanto la Psicología como la Criminología?",
+    "opciones": [
+      "Dogmático",
+      "Empírico y clínico",
+      "Simbólico",
+      "Exclusivamente estadístico"
+    ],
+    "respuestaCorrecta": "Empírico y clínico"
+  },
+  {
+    "pregunta": "¿Qué busca comprender la Psicología Criminal?",
+    "opciones": [
+      "La pena aplicada",
+      "El contexto legal del delito",
+      "La motivación interna del comportamiento delictivo",
+      "Las estadísticas delictivas generales"
+    ],
+    "respuestaCorrecta": "La motivación interna del comportamiento delictivo"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la Criminología de la Antropología Criminal?",
+    "opciones": [
+      "La Criminología solo estudia criminales modernos",
+      "La Antropología Criminal se centra en aspectos biológicos; la Criminología es más amplia y social",
+      "Ambas se enfocan en restos óseos",
+      "La Criminología no se basa en ciencias sociales"
+    ],
+    "respuestaCorrecta": "La Antropología Criminal se centra en aspectos biológicos; la Criminología es más amplia y social"
+  },
+  {
+    "pregunta": "¿Qué concepto defendía la Antropología Criminal en sus orígenes?",
+    "opciones": [
+      "Que el delito es exclusivamente social",
+      "Que los delincuentes nacen con características biológicas específicas",
+      "Que la pobreza causa el crimen",
+      "Que la ley es subjetiva"
+    ],
+    "respuestaCorrecta": "Que los delincuentes nacen con características biológicas específicas"
+  },
+  {
+    "pregunta": "¿Qué autor está asociado a la Antropología Criminal clásica?",
+    "opciones": [
+      "Émile Durkheim",
+      "Beccaria",
+      "Lombroso",
+      "Bentham"
+    ],
+    "respuestaCorrecta": "Lombroso"
+  },
+  {
+    "pregunta": "¿Qué postura sostiene la Criminología actual respecto a la teoría de Lombroso?",
+    "opciones": [
+      "La considera completamente vigente",
+      "La ha superado con enfoques más integrales",
+      "La sigue aplicando en tribunales",
+      "La aplica solo en criminología juvenil"
+    ],
+    "respuestaCorrecta": "La ha superado con enfoques más integrales"
+  },
+  {
+    "pregunta": "¿Qué elemento NO estudia la Antropología Criminal clásica?",
+    "opciones": [
+      "Cráneos y fisonomía",
+      "Factores psicológicos",
+      "Estigmas físicos",
+      "Características hereditarias"
+    ],
+    "respuestaCorrecta": "Factores psicológicos"
+  },
+  {
+    "pregunta": "¿Qué enfoque propone la Criminología moderna respecto al delito?",
+    "opciones": [
+      "Exclusivamente médico",
+      "Interdisciplinario y contextual",
+      "Únicamente jurídico",
+      "Basado en castigo físico"
+    ],
+    "respuestaCorrecta": "Interdisciplinario y contextual"
+  },
+  {
+    "pregunta": "¿Qué disciplina considera el entorno cultural como clave en el delito?",
+    "opciones": [
+      "Psicología Criminal",
+      "Criminalística",
+      "Antropología",
+      "Filosofía del Derecho"
+    ],
+    "respuestaCorrecta": "Antropología"
+  },
+  {
+    "pregunta": "¿Qué estudia la Psicología Forense?",
+    "opciones": [
+      "Aspectos morales del crimen",
+      "Fenómenos religiosos relacionados al delito",
+      "Conducta humana en el contexto del sistema judicial",
+      "Teorías económicas del crimen"
+    ],
+    "respuestaCorrecta": "Conducta humana en el contexto del sistema judicial"
+  },
+  {
+    "pregunta": "¿Qué área NO es propia de la Psicología Forense?",
+    "opciones": [
+      "Evaluación de imputabilidad",
+      "Tratamiento de delincuentes",
+      "Dictado de sentencias",
+      "Mediación en conflictos"
+    ],
+    "respuestaCorrecta": "Dictado de sentencias"
+  },
+  {
+    "pregunta": "¿Qué distingue el enfoque de la Psicología Criminal del Derecho Penal?",
+    "opciones": [
+      "La Psicología Criminal busca causas y tratamiento, el Derecho Penal se enfoca en sanciones",
+      "Ambos buscan castigar",
+      "El Derecho Penal es preventivo, la Psicología no",
+      "No hay diferencias entre ellos"
+    ],
+    "respuestaCorrecta": "La Psicología Criminal busca causas y tratamiento, el Derecho Penal se enfoca en sanciones"
+  },
+  {
+    "pregunta": "¿Qué valor aporta la Sociología a la Criminología?",
+    "opciones": [
+      "La creación de códigos penales",
+      "La evaluación médica de criminales",
+      "El análisis del delito como fenómeno social",
+      "La definición de penas carcelarias"
+    ],
+    "respuestaCorrecta": "El análisis del delito como fenómeno social"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la Psicología en la intervención criminológica?",
+    "opciones": [
+      "Estudiar el Derecho Penal",
+      "Revisar leyes",
+      "Analizar la personalidad del delincuente y proponer tratamientos",
+      "Desarrollar campañas publicitarias"
+    ],
+    "respuestaCorrecta": "Analizar la personalidad del delincuente y proponer tratamientos"
+  },
+  {
+    "pregunta": "¿Qué disciplina combina la Psicología con el sistema legal?",
+    "opciones": [
+      "Psicología Clínica",
+      "Derecho Penal",
+      "Psicología Forense",
+      "Antropología Jurídica"
+    ],
+    "respuestaCorrecta": "Psicología Forense"
+  },
+  {
+    "pregunta": "¿Qué aportes se valoran hoy en día de la Psicología Criminal?",
+    "opciones": [
+      "Revisión de normas jurídicas",
+      "Diagnóstico de peligrosidad y capacidad de reinserción",
+      "Análisis del Código Penal",
+      "Aplicación de castigos físicos"
+    ],
+    "respuestaCorrecta": "Diagnóstico de peligrosidad y capacidad de reinserción"
+  },
+  {
+    "pregunta": "¿Qué vínculo hay entre Psicología y Criminología?",
+    "opciones": [
+      "Ambas dictan normas penales",
+      "La Psicología es auxiliar; ayuda a comprender y tratar al infractor",
+      "La Criminología depende completamente de la Psicología",
+      "No hay relación entre ambas"
+    ],
+    "respuestaCorrecta": "La Psicología es auxiliar; ayuda a comprender y tratar al infractor"
+  },
+  {
+    "pregunta": "¿Qué función cumple la Criminología Clínica?",
+    "opciones": [
+      "Clasificar tipos penales",
+      "Evaluar científicamente al infractor y proponer medidas individualizadas",
+      "Aplicar sanciones judiciales",
+      "Redactar informes policiales"
+    ],
+    "respuestaCorrecta": "Evaluar científicamente al infractor y proponer medidas individualizadas"
+  },
+  {
+    "pregunta": "¿Qué distingue a la Criminología Clínica del resto?",
+    "opciones": [
+      "Su enfoque exclusivamente legal",
+      "Su aplicación en laboratorios médicos",
+      "Su atención individualizada a cada infractor",
+      "Su trabajo exclusivo con víctimas"
+    ],
+    "respuestaCorrecta": "Su atención individualizada a cada infractor"
+  },
+  {
+    "pregunta": "¿Qué disciplinas integran el enfoque clínico de la Criminología?",
+    "opciones": [
+      "Solo medicina y derecho",
+      "Psicología, psiquiatría, trabajo social, derecho",
+      "Filosofía y biología",
+      "Educación y teología"
+    ],
+    "respuestaCorrecta": "Psicología, psiquiatría, trabajo social, derecho"
+  },
+  {
+    "pregunta": "¿Qué tipo de intervención se busca en la Criminología Clínica?",
+    "opciones": [
+      "Punitiva",
+      "Educativa exclusivamente",
+      "Preventiva, terapéutica y resocializadora",
+      "Recaudatoria"
+    ],
+    "respuestaCorrecta": "Preventiva, terapéutica y resocializadora"
+  },
+  {
+    "pregunta": "¿Qué perfil se realiza al infractor desde la Criminología Clínica?",
+    "opciones": [
+      "Perfil policial",
+      "Perfil político",
+      "Perfil clínico-criminológico",
+      "Perfil psicológico general"
+    ],
+    "respuestaCorrecta": "Perfil clínico-criminológico"
+  },
+  {
+    "pregunta": "¿Qué contenido debe tener un informe criminológico clínico?",
+    "opciones": [
+      "Solo diagnóstico jurídico",
+      "Datos biográficos, análisis conductual, entorno, motivaciones y propuestas",
+      "Cantidad de delitos cometidos",
+      "Sanciones recibidas anteriormente"
+    ],
+    "respuestaCorrecta": "Datos biográficos, análisis conductual, entorno, motivaciones y propuestas"
+  },
+  {
+    "pregunta": "¿Qué utilidad tiene el informe clínico-criminológico?",
+    "opciones": [
+      "Emitir sentencias",
+      "Determinar si una conducta es delito",
+      "Orientar medidas judiciales y penitenciarias personalizadas",
+      "Reformar leyes penales"
+    ],
+    "respuestaCorrecta": "Orientar medidas judiciales y penitenciarias personalizadas"
+  },
+  {
+    "pregunta": "¿En qué momento puede aplicarse la Criminología Clínica?",
+    "opciones": [
+      "Solo en el juicio oral",
+      "Durante todas las fases del proceso penal",
+      "Exclusivamente en prisión",
+      "Una vez finalizada la condena"
+    ],
+    "respuestaCorrecta": "Durante todas las fases del proceso penal"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la entrevista clínica con el infractor?",
+    "opciones": [
+      "Averiguar su historia escolar",
+      "Determinar su grado de culpabilidad legal",
+      "Recoger información para conocer su personalidad y contexto",
+      "Evaluar su defensa legal"
+    ],
+    "respuestaCorrecta": "Recoger información para conocer su personalidad y contexto"
+  },
+  {
+    "pregunta": "¿Qué papel tiene el criminólogo clínico en la ejecución penal?",
+    "opciones": [
+      "Determinar las penas que se aplican",
+      "Revisar las leyes penales",
+      "Asesorar en la adaptación de medidas al perfil del infractor",
+      "Emitir resoluciones judiciales"
+    ],
+    "respuestaCorrecta": "Asesorar en la adaptación de medidas al perfil del infractor"
+  },
+  {
+    "pregunta": "¿Qué permite detectar la Criminología Clínica en los infractores?",
+    "opciones": [
+      "Su nivel económico",
+      "Rasgos de peligrosidad y posibilidades de reinserción",
+      "Su nacionalidad",
+      "La legalidad de su condena"
+    ],
+    "respuestaCorrecta": "Rasgos de peligrosidad y posibilidades de reinserción"
+  },
+  {
+    "pregunta": "¿Qué herramienta principal usa la Criminología Clínica para evaluar al infractor?",
+    "opciones": [
+      "Cámara de seguridad",
+      "Informe policial",
+      "Entrevista personal",
+      "Pruebas genéticas"
+    ],
+    "respuestaCorrecta": "Entrevista personal"
+  },
+  {
+    "pregunta": "¿Qué factor se analiza en el contexto familiar del infractor?",
+    "opciones": [
+      "Propiedades heredadas",
+      "Número de hermanos",
+      "Relaciones y apoyo familiar",
+      "Ingresos económicos de los abuelos"
+    ],
+    "respuestaCorrecta": "Relaciones y apoyo familiar"
+  },
+  {
+    "pregunta": "¿Qué valor tiene el análisis de motivaciones en la Criminología Clínica?",
+    "opciones": [
+      "Ninguno en el tratamiento",
+      "Permite justificar legalmente el delito",
+      "Ayuda a entender y tratar la causa del comportamiento delictivo",
+      "Solo sirve para estadísticas"
+    ],
+    "respuestaCorrecta": "Ayuda a entender y tratar la causa del comportamiento delictivo"
+  },
+  {
+    "pregunta": "¿Qué medida se puede recomendar desde la Criminología Clínica?",
+    "opciones": [
+      "Incremento de la pena",
+      "Sanción administrativa",
+      "Tratamiento psicológico especializado",
+      "Prisión indefinida"
+    ],
+    "respuestaCorrecta": "Tratamiento psicológico especializado"
+  },
+  {
+    "pregunta": "¿Qué parte del sistema judicial puede beneficiarse de un informe criminológico clínico?",
+    "opciones": [
+      "Solo el tribunal constitucional",
+      "Cualquier órgano judicial o penitenciario",
+      "Solo el abogado defensor",
+      "La fiscalía exclusivamente"
+    ],
+    "respuestaCorrecta": "Cualquier órgano judicial o penitenciario"
+  },
+  {
+    "pregunta": "¿Qué aporta la Criminología Clínica al sistema penal?",
+    "opciones": [
+      "Códigos legales",
+      "Pruebas materiales",
+      "Información individualizada para la toma de decisiones",
+      "Multas más eficientes"
+    ],
+    "respuestaCorrecta": "Información individualizada para la toma de decisiones"
+  },
+  {
+    "pregunta": "¿Qué nivel de análisis se realiza en Criminología Clínica?",
+    "opciones": [
+      "Colectivo y estadístico",
+      "Político y económico",
+      "Individual y profundo",
+      "General y superficial"
+    ],
+    "respuestaCorrecta": "Individual y profundo"
+  },
+  {
+    "pregunta": "¿Qué profesional participa activamente en la Criminología Clínica?",
+    "opciones": [
+      "Arquitecto",
+      "Criminólogo clínico",
+      "Ingeniero forense",
+      "Magistrado"
+    ],
+    "respuestaCorrecta": "Criminólogo clínico"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo final de la Criminología Clínica?",
+    "opciones": [
+      "Condenar más rápidamente",
+      "Prevenir nuevos delitos mediante intervención personalizada",
+      "Emitir juicios morales",
+      "Eliminar el sistema penitenciario"
+    ],
+    "respuestaCorrecta": "Prevenir nuevos delitos mediante intervención personalizada"
+  },
+  {
+    "pregunta": "¿Qué analiza la Criminología en relación con el sistema penitenciario?",
+    "opciones": [
+      "Los presupuestos del ministerio de justicia",
+      "Las condiciones de vida, reincidencia y eficacia de las medidas privativas de libertad",
+      "La arquitectura de las cárceles",
+      "La formación académica de los funcionarios"
+    ],
+    "respuestaCorrecta": "Las condiciones de vida, reincidencia y eficacia de las medidas privativas de libertad"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el análisis del sistema penitenciario desde la Criminología?",
+    "opciones": [
+      "Reducir la duración de las penas",
+      "Eliminar las penas privativas de libertad",
+      "Evaluar si las cárceles cumplen con su función resocializadora",
+      "Aumentar la vigilancia policial"
+    ],
+    "respuestaCorrecta": "Evaluar si las cárceles cumplen con su función resocializadora"
+  },
+  {
+    "pregunta": "¿Qué problema detecta la Criminología en muchas cárceles?",
+    "opciones": [
+      "Exceso de programas educativos",
+      "Alta reinserción",
+      "Falta de intervención individualizada y condiciones deficientes",
+      "Demasiado personal cualificado"
+    ],
+    "respuestaCorrecta": "Falta de intervención individualizada y condiciones deficientes"
+  },
+  {
+    "pregunta": "¿Qué indicador usa la Criminología para evaluar la eficacia del sistema penitenciario?",
+    "opciones": [
+      "Número de celdas ocupadas",
+      "Tasa de reincidencia",
+      "Cantidad de uniformes entregados",
+      "Duración media de las condenas"
+    ],
+    "respuestaCorrecta": "Tasa de reincidencia"
+  },
+  {
+    "pregunta": "¿Qué se busca evitar mediante un sistema penitenciario efectivo?",
+    "opciones": [
+      "Que los presos estudien",
+      "Que la prensa acceda a las cárceles",
+      "Que los internos cometan nuevos delitos al salir",
+      "Que se generen gastos públicos"
+    ],
+    "respuestaCorrecta": "Que los internos cometan nuevos delitos al salir"
+  },
+  {
+    "pregunta": "¿Qué medida puede recomendar la Criminología para reducir la reincidencia?",
+    "opciones": [
+      "Aumento de la pena",
+      "Medidas educativas, laborales y terapéuticas",
+      "Aislamiento permanente",
+      "Reducción del número de visitas"
+    ],
+    "respuestaCorrecta": "Medidas educativas, laborales y terapéuticas"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe tener en cuenta la intervención penitenciaria?",
+    "opciones": [
+      "La nacionalidad del interno",
+      "El tipo de delito exclusivamente",
+      "El perfil individual del recluso",
+      "La duración de la condena"
+    ],
+    "respuestaCorrecta": "El perfil individual del recluso"
+  },
+  {
+    "pregunta": "¿Qué tipo de seguimiento puede hacer la Criminología después de la salida del recluso?",
+    "opciones": [
+      "Ninguno, termina su trabajo en prisión",
+      "Control policial exclusivo",
+      "Análisis del proceso de reintegración y apoyo comunitario",
+      "Informe sobre su patrimonio"
+    ],
+    "respuestaCorrecta": "Análisis del proceso de reintegración y apoyo comunitario"
+  },
+  {
+    "pregunta": "¿Qué problema puede surgir si no hay intervención adecuada en prisión?",
+    "opciones": [
+      "Aumento de la natalidad",
+      "Reinserción acelerada",
+      "Aislamiento perjudicial y retorno al delito",
+      "Disminución de la población carcelaria"
+    ],
+    "respuestaCorrecta": "Aislamiento perjudicial y retorno al delito"
+  },
+  {
+    "pregunta": "¿Qué se necesita para lograr la resocialización del interno?",
+    "opciones": [
+      "Presión mediática",
+      "Condenas más largas",
+      "Educación, apoyo psicológico y reintegración laboral",
+      "Privación total de comunicación"
+    ],
+    "respuestaCorrecta": "Educación, apoyo psicológico y reintegración laboral"
+  },
+  {
+    "pregunta": "¿Qué función cumple la educación en el sistema penitenciario?",
+    "opciones": [
+      "Ocupa tiempo del recluso",
+      "No tiene impacto en la reincidencia",
+      "Favorece la reflexión y el cambio de conducta",
+      "Se usa como castigo"
+    ],
+    "respuestaCorrecta": "Favorece la reflexión y el cambio de conducta"
+  },
+  {
+    "pregunta": "¿Qué barrera puede dificultar la reinserción social de los exreclusos?",
+    "opciones": [
+      "Baja tasa de delitos",
+      "Acceso a vivienda gratuita",
+      "Estigmatización social y rechazo laboral",
+      "Formación académica excesiva"
+    ],
+    "respuestaCorrecta": "Estigmatización social y rechazo laboral"
+  },
+  {
+    "pregunta": "¿Qué solución puede reducir el estigma hacia los exreclusos?",
+    "opciones": [
+      "No informar a nadie sobre su pasado",
+      "Campañas de sensibilización y programas de inserción",
+      "Aislamiento total",
+      "Pruebas médicas obligatorias"
+    ],
+    "respuestaCorrecta": "Campañas de sensibilización y programas de inserción"
+  },
+  {
+    "pregunta": "¿Qué medida puede recomendarse para el recluso con baja peligrosidad?",
+    "opciones": [
+      "Prisión perpetua",
+      "Ingreso hospitalario forzoso",
+      "Medidas alternativas a la cárcel",
+      "Aislamiento prolongado"
+    ],
+    "respuestaCorrecta": "Medidas alternativas a la cárcel"
+  },
+  {
+    "pregunta": "¿Qué ventaja tienen las medidas alternativas a la prisión?",
+    "opciones": [
+      "Menor coste económico y mayor eficacia resocializadora",
+      "Mayor severidad en el castigo",
+      "Evitan el seguimiento criminológico",
+      "Generan menos información"
+    ],
+    "respuestaCorrecta": "Menor coste económico y mayor eficacia resocializadora"
+  },
+  {
+    "pregunta": "¿Qué indicador refleja éxito en la política penitenciaria?",
+    "opciones": [
+      "Número de celdas ocupadas",
+      "Nivel de represión policial",
+      "Disminución de la reincidencia",
+      "Duración media de condenas"
+    ],
+    "respuestaCorrecta": "Disminución de la reincidencia"
+  },
+  {
+    "pregunta": "¿Qué función tiene el trabajo en prisión?",
+    "opciones": [
+      "Castigar al recluso",
+      "Generar recursos económicos para el Estado",
+      "Reforzar hábitos y competencias para la reinserción",
+      "Reducir la condena sin condiciones"
+    ],
+    "respuestaCorrecta": "Reforzar hábitos y competencias para la reinserción"
+  },
+  {
+    "pregunta": "¿Qué acción favorece la inserción social del exrecluso?",
+    "opciones": [
+      "Aislamiento social",
+      "Desconfianza institucional",
+      "Apoyo institucional, familiar y comunitario",
+      "Revisión constante de la condena"
+    ],
+    "respuestaCorrecta": "Apoyo institucional, familiar y comunitario"
+  },
+  {
+    "pregunta": "¿Qué recomienda la Criminología para reducir la reincidencia?",
+    "opciones": [
+      "Imposición de condenas más largas",
+      "Aplicación de penas más severas",
+      "Prevención, formación y apoyo social",
+      "Aumento del número de prisiones"
+    ],
+    "respuestaCorrecta": "Prevención, formación y apoyo social"
+  },
+  {
+    "pregunta": "¿Qué función tienen los programas terapéuticos en prisión?",
+    "opciones": [
+      "Eliminar la pena",
+      "Sustituir al juicio",
+      "Tratar problemas de conducta y facilitar el cambio",
+      "Reforzar la condena"
+    ],
+    "respuestaCorrecta": "Tratar problemas de conducta y facilitar el cambio"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la prevención en la Criminología moderna?",
+    "opciones": [
+      "Es secundaria frente a la represión",
+      "Solo se aplica en casos graves",
+      "Es un eje central para reducir la delincuencia",
+      "Está fuera del ámbito criminológico"
+    ],
+    "respuestaCorrecta": "Es un eje central para reducir la delincuencia"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la prevención primaria en Criminología?",
+    "opciones": [
+      "Reducir la reincidencia",
+      "Intervenir en conductas ya delictivas",
+      "Evitar que el delito ocurra actuando sobre factores de riesgo",
+      "Analizar sentencias judiciales"
+    ],
+    "respuestaCorrecta": "Evitar que el delito ocurra actuando sobre factores de riesgo"
+  },
+  {
+    "pregunta": "¿Qué se busca con la prevención secundaria?",
+    "opciones": [
+      "Eliminar leyes penales",
+      "Tratar a los delincuentes en prisión",
+      "Detectar conductas desviadas antes de que se conviertan en delito",
+      "Aumentar la vigilancia policial"
+    ],
+    "respuestaCorrecta": "Detectar conductas desviadas antes de que se conviertan en delito"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la prevención terciaria?",
+    "opciones": [
+      "Se enfoca en eliminar leyes",
+      "Aplica penas alternativas exclusivamente",
+      "Actúa después del delito para evitar la reincidencia",
+      "Se limita a campañas informativas"
+    ],
+    "respuestaCorrecta": "Actúa después del delito para evitar la reincidencia"
+  },
+  {
+    "pregunta": "¿Qué ejemplo corresponde a prevención primaria?",
+    "opciones": [
+      "Terapia para agresores",
+      "Reinserción del exrecluso",
+      "Educación en valores en escuelas",
+      "Supervisión de libertades condicionales"
+    ],
+    "respuestaCorrecta": "Educación en valores en escuelas"
+  },
+  {
+    "pregunta": "¿Qué medida es propia de la prevención secundaria?",
+    "opciones": [
+      "Medidas terapéuticas tras el delito",
+      "Modificación del código penal",
+      "Detección de riesgo en jóvenes con conductas antisociales",
+      "Sentencias más duras"
+    ],
+    "respuestaCorrecta": "Detección de riesgo en jóvenes con conductas antisociales"
+  },
+  {
+    "pregunta": "¿Qué intervención representa la prevención terciaria?",
+    "opciones": [
+      "Campaña escolar",
+      "Intervención tras la comisión del delito para evitar la reincidencia",
+      "Control migratorio",
+      "Detención preventiva"
+    ],
+    "respuestaCorrecta": "Intervención tras la comisión del delito para evitar la reincidencia"
+  },
+  {
+    "pregunta": "¿Qué enfoque tiene la prevención social del delito?",
+    "opciones": [
+      "Incrementar penas",
+      "Reforzar estructuras comunitarias y familiares",
+      "Vigilar continuamente a los ciudadanos",
+      "Cerrar centros de menores"
+    ],
+    "respuestaCorrecta": "Reforzar estructuras comunitarias y familiares"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la prevención situacional de la social?",
+    "opciones": [
+      "La social se aplica en prisiones, la situacional en escuelas",
+      "La situacional actúa sobre el entorno para dificultar el delito",
+      "La situacional se basa en apoyo emocional",
+      "No hay diferencias"
+    ],
+    "respuestaCorrecta": "La situacional actúa sobre el entorno para dificultar el delito"
+  },
+  {
+    "pregunta": "¿Qué medida es típica de la prevención situacional?",
+    "opciones": [
+      "Refuerzo educativo",
+      "Campañas de sensibilización",
+      "Iluminación de espacios públicos",
+      "Educación familiar"
+    ],
+    "respuestaCorrecta": "Iluminación de espacios públicos"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la prevención situacional?",
+    "opciones": [
+      "Eliminar las causas sociales del delito",
+      "Modificar las leyes penales",
+      "Reducir oportunidades delictivas en un contexto específico",
+      "Formar policías"
+    ],
+    "respuestaCorrecta": "Reducir oportunidades delictivas en un contexto específico"
+  },
+  {
+    "pregunta": "¿Qué medida NO es prevención primaria?",
+    "opciones": [
+      "Campaña de valores en centros educativos",
+      "Mejora de condiciones laborales",
+      "Terapia a delincuentes condenados",
+      "Refuerzo de redes sociales comunitarias"
+    ],
+    "respuestaCorrecta": "Terapia a delincuentes condenados"
+  },
+  {
+    "pregunta": "¿Qué estrategia usa la prevención secundaria?",
+    "opciones": [
+      "Iluminación de calles",
+      "Atención a grupos vulnerables y en riesgo",
+      "Reformas penitenciarias",
+      "Modificación del código penal"
+    ],
+    "respuestaCorrecta": "Atención a grupos vulnerables y en riesgo"
+  },
+  {
+    "pregunta": "¿Qué puede incluir la prevención terciaria?",
+    "opciones": [
+      "Vigilancia vecinal",
+      "Educación en valores",
+      "Programas de reinserción para exdelincuentes",
+      "Instalación de cámaras de seguridad"
+    ],
+    "respuestaCorrecta": "Programas de reinserción para exdelincuentes"
+  },
+  {
+    "pregunta": "¿Qué elemento influye en la eficacia de la prevención social?",
+    "opciones": [
+      "La dureza del castigo",
+      "El grado de vigilancia estatal",
+      "La cohesión familiar y comunitaria",
+      "El tipo de delito cometido"
+    ],
+    "respuestaCorrecta": "La cohesión familiar y comunitaria"
+  },
+  {
+    "pregunta": "¿Qué enfoque busca la prevención social del delito?",
+    "opciones": [
+      "Educativo, participativo y comunitario",
+      "Represivo y judicial",
+      "Económico y empresarial",
+      "Exclusivamente legal"
+    ],
+    "respuestaCorrecta": "Educativo, participativo y comunitario"
+  },
+  {
+    "pregunta": "¿Qué característica tiene la prevención situacional?",
+    "opciones": [
+      "Evita la vigilancia electrónica",
+      "Trabaja sobre normas jurídicas",
+      "Modifica el entorno físico para reducir el delito",
+      "Se basa en derechos humanos"
+    ],
+    "respuestaCorrecta": "Modifica el entorno físico para reducir el delito"
+  },
+  {
+    "pregunta": "¿Qué disciplina apoya las estrategias de prevención situacional?",
+    "opciones": [
+      "Antropología",
+      "Ingeniería ambiental y urbanismo",
+      "Psicoanálisis",
+      "Teología"
+    ],
+    "respuestaCorrecta": "Ingeniería ambiental y urbanismo"
+  },
+  {
+    "pregunta": "¿Qué tipo de prevención actúa directamente sobre el delincuente ya identificado?",
+    "opciones": [
+      "Primaria",
+      "Secundaria",
+      "Terciaria",
+      "Situacional"
+    ],
+    "respuestaCorrecta": "Terciaria"
+  },
+  {
+    "pregunta": "¿Qué función cumple la prevención terciaria en la política criminal?",
+    "opciones": [
+      "Revisar leyes penales",
+      "Reinsertar y evitar reincidencia",
+      "Eliminar penas privativas",
+      "Controlar la opinión pública"
+    ],
+    "respuestaCorrecta": "Reinsertar y evitar reincidencia"
+  },
+  {
+    "pregunta": "¿Qué define a la política criminal según la Criminología?",
+    "opciones": [
+      "La cantidad de leyes penales existentes",
+      "El conjunto de estrategias públicas para prevenir y responder al delito",
+      "Las normas impuestas por la policía",
+      "Las decisiones tomadas por jueces en tribunales"
+    ],
+    "respuestaCorrecta": "El conjunto de estrategias públicas para prevenir y responder al delito"
+  },
+  {
+    "pregunta": "¿Qué rol cumple el Estado en la política criminal?",
+    "opciones": [
+      "Definir la ética profesional de los criminólogos",
+      "Ejecutar sentencias judiciales",
+      "Diseñar e implementar medidas para controlar el delito",
+      "Supervisar cárceles privadas"
+    ],
+    "respuestaCorrecta": "Diseñar e implementar medidas para controlar el delito"
+  },
+  {
+    "pregunta": "¿Qué busca lograr una política criminal efectiva?",
+    "opciones": [
+      "Sancionar con mayor dureza",
+      "Prevenir el delito y proteger derechos",
+      "Aumentar el número de policías",
+      "Reducir el presupuesto penitenciario"
+    ],
+    "respuestaCorrecta": "Prevenir el delito y proteger derechos"
+  },
+  {
+    "pregunta": "¿Qué instituciones participan en la política criminal?",
+    "opciones": [
+      "Solo los tribunales",
+      "Gobierno, fuerzas de seguridad, sistema judicial y sociedad civil",
+      "Únicamente la fiscalía",
+      "Partidos políticos"
+    ],
+    "respuestaCorrecta": "Gobierno, fuerzas de seguridad, sistema judicial y sociedad civil"
+  },
+  {
+    "pregunta": "¿Qué elemento debe considerar toda política criminal moderna?",
+    "opciones": [
+      "Castigo público",
+      "Reformas constitucionales",
+      "Respeto a los derechos humanos",
+      "Eliminación de penas alternativas"
+    ],
+    "respuestaCorrecta": "Respeto a los derechos humanos"
+  },
+  {
+    "pregunta": "¿Qué modelo de política criminal prioriza la prevención sobre la represión?",
+    "opciones": [
+      "Modelo inquisitivo",
+      "Modelo autoritario",
+      "Modelo garantista",
+      "Modelo punitivo"
+    ],
+    "respuestaCorrecta": "Modelo garantista"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al modelo punitivo de política criminal?",
+    "opciones": [
+      "Promueve la mediación",
+      "Se enfoca en sanciones severas como principal respuesta al delito",
+      "Desarrolla programas comunitarios",
+      "Elimina la prisión preventiva"
+    ],
+    "respuestaCorrecta": "Se enfoca en sanciones severas como principal respuesta al delito"
+  },
+  {
+    "pregunta": "¿Qué consecuencia puede tener una política criminal excesivamente represiva?",
+    "opciones": [
+      "Mayor igualdad social",
+      "Reducción del delito automáticamente",
+      "Saturación del sistema penitenciario y vulneración de derechos",
+      "Mejor clima laboral en prisiones"
+    ],
+    "respuestaCorrecta": "Saturación del sistema penitenciario y vulneración de derechos"
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece una política criminal basada en la prevención?",
+    "opciones": [
+      "Reducción de costes judiciales y sociales a largo plazo",
+      "Mayores tasas de encarcelamiento",
+      "Aumento de la duración de las condenas",
+      "Disminución de la actividad policial"
+    ],
+    "respuestaCorrecta": "Reducción de costes judiciales y sociales a largo plazo"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la participación ciudadana en la política criminal?",
+    "opciones": [
+      "No tiene ningún papel",
+      "Es secundaria a las decisiones judiciales",
+      "Es clave para definir necesidades y construir estrategias eficaces",
+      "Se limita a votar leyes"
+    ],
+    "respuestaCorrecta": "Es clave para definir necesidades y construir estrategias eficaces"
+  },
+  {
+    "pregunta": "¿Qué valor aporta la Criminología a la política criminal?",
+    "opciones": [
+      "Interpretación legal de sentencias",
+      "Datos, análisis y propuestas para mejorar la prevención y el tratamiento del delito",
+      "Redacción de leyes",
+      "Control político de instituciones"
+    ],
+    "respuestaCorrecta": "Datos, análisis y propuestas para mejorar la prevención y el tratamiento del delito"
+  },
+  {
+    "pregunta": "¿Qué aspecto ético debe respetar toda política criminal?",
+    "opciones": [
+      "Opinión pública",
+      "Legitimidad del castigo",
+      "Presunción de culpabilidad",
+      "Exclusión social"
+    ],
+    "respuestaCorrecta": "Legitimidad del castigo"
+  },
+  {
+    "pregunta": "¿Qué herramienta puede usar el Estado para diseñar política criminal?",
+    "opciones": [
+      "Series televisivas",
+      "Manuales religiosos",
+      "Investigaciones criminológicas",
+      "Presión judicial"
+    ],
+    "respuestaCorrecta": "Investigaciones criminológicas"
+  },
+  {
+    "pregunta": "¿Qué se requiere para que una política criminal sea sostenible?",
+    "opciones": [
+      "Apoyo policial permanente",
+      "Imposición legal rígida",
+      "Evaluación constante y participación social",
+      "Aumento de sanciones"
+    ],
+    "respuestaCorrecta": "Evaluación constante y participación social"
+  },
+  {
+    "pregunta": "¿Qué representa el principio de proporcionalidad en política criminal?",
+    "opciones": [
+      "Aplicar sanciones iguales para todos",
+      "Que la sanción se adecúe a la gravedad del delito",
+      "Que todas las penas sean privativas de libertad",
+      "Que no se apliquen penas leves"
+    ],
+    "respuestaCorrecta": "Que la sanción se adecúe a la gravedad del delito"
+  },
+  {
+    "pregunta": "¿Qué debe equilibrar una política criminal eficaz?",
+    "opciones": [
+      "La ley y la economía",
+      "La represión policial con el derecho a la privacidad",
+      "La seguridad pública y los derechos individuales",
+      "La duración de las penas con el número de policías"
+    ],
+    "respuestaCorrecta": "La seguridad pública y los derechos individuales"
+  },
+  {
+    "pregunta": "¿Qué crítica se hace a las políticas criminales populistas?",
+    "opciones": [
+      "Promueven el debate social",
+      "Reforzaron el rol del criminólogo",
+      "Aumentan la eficacia del sistema",
+      "Buscan el castigo sin un análisis profundo del delito"
+    ],
+    "respuestaCorrecta": "Buscan el castigo sin un análisis profundo del delito"
+  },
+  {
+    "pregunta": "¿Qué factor debe tenerse en cuenta en la elaboración de leyes penales?",
+    "opciones": [
+      "Tradición religiosa",
+      "Grado de popularidad",
+      "Impacto social y criminológico de su aplicación",
+      "Intereses partidistas"
+    ],
+    "respuestaCorrecta": "Impacto social y criminológico de su aplicación"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en la formulación de política criminal?",
+    "opciones": [
+      "Evaluar la efectividad de medidas",
+      "Escuchar a profesionales del derecho",
+      "Actuar por impulsos emocionales o mediáticos",
+      "Proteger los derechos de las víctimas"
+    ],
+    "respuestaCorrecta": "Actuar por impulsos emocionales o mediáticos"
+  },
+  {
+    "pregunta": "¿Qué principios deberían regir una política criminal democrática?",
+    "opciones": [
+      "Severidad y control absoluto",
+      "Prevención, proporcionalidad y derechos humanos",
+      "Castigo ejemplar y aislamiento",
+      "Celeridad procesal y represión"
+    ],
+    "respuestaCorrecta": "Prevención, proporcionalidad y derechos humanos"
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la formación del criminólogo en el ámbito profesional?",
+    "opciones": [
+      "Ninguna, basta con experiencia policial",
+      "Es fundamental para intervenir eficazmente y con base científica",
+      "Solo importa si trabaja en tribunales",
+      "Se limita al conocimiento legal"
+    ],
+    "respuestaCorrecta": "Es fundamental para intervenir eficazmente y con base científica"
+  },
+  {
+    "pregunta": "¿Qué habilidades debe tener un criminólogo profesional?",
+    "opciones": [
+      "Capacidad para dictar sentencias",
+      "Conocimientos en marketing digital",
+      "Capacidad de análisis, observación, empatía y comunicación",
+      "Técnicas de defensa legal"
+    ],
+    "respuestaCorrecta": "Capacidad de análisis, observación, empatía y comunicación"
+  },
+  {
+    "pregunta": "¿Qué áreas de intervención tiene el criminólogo?",
+    "opciones": [
+      "Solo cárceles",
+      "Tribunales exclusivamente",
+      "Prevención, tratamiento, investigación y asesoramiento",
+      "Publicidad y medios"
+    ],
+    "respuestaCorrecta": "Prevención, tratamiento, investigación y asesoramiento"
+  },
+  {
+    "pregunta": "¿Qué tipo de instituciones pueden requerir criminólogos?",
+    "opciones": [
+      "Únicamente prisiones",
+      "Empresas privadas y supermercados",
+      "Centros educativos, judiciales, penitenciarios y sociales",
+      "Ministerio de turismo"
+    ],
+    "respuestaCorrecta": "Centros educativos, judiciales, penitenciarios y sociales"
+  },
+  {
+    "pregunta": "¿Qué función puede desempeñar un criminólogo en el ámbito educativo?",
+    "opciones": [
+      "Administrar recursos",
+      "Enseñar matemáticas",
+      "Prevenir conductas de riesgo y violencia escolar",
+      "Organizar excursiones"
+    ],
+    "respuestaCorrecta": "Prevenir conductas de riesgo y violencia escolar"
+  },
+  {
+    "pregunta": "¿Qué rol puede tener el criminólogo en el sistema judicial?",
+    "opciones": [
+      "Sustituir al juez",
+      "Emitir sentencias",
+      "Asesorar sobre perfiles criminológicos y riesgo de reincidencia",
+      "Dictar leyes"
+    ],
+    "respuestaCorrecta": "Asesorar sobre perfiles criminológicos y riesgo de reincidencia"
+  },
+  {
+    "pregunta": "¿Qué puede aportar el criminólogo a los cuerpos policiales?",
+    "opciones": [
+      "Formación táctica",
+      "Logística de transporte",
+      "Análisis del comportamiento delictivo y apoyo en prevención",
+      "Redacción de denuncias"
+    ],
+    "respuestaCorrecta": "Análisis del comportamiento delictivo y apoyo en prevención"
+  },
+  {
+    "pregunta": "¿Qué aporta la Criminología al tratamiento de víctimas?",
+    "opciones": [
+      "Nada, solo se enfoca en delincuentes",
+      "Justificación del daño sufrido",
+      "Apoyo, comprensión y prevención de victimización secundaria",
+      "Cálculo del daño económico"
+    ],
+    "respuestaCorrecta": "Apoyo, comprensión y prevención de victimización secundaria"
+  },
+  {
+    "pregunta": "¿Qué tareas realiza un criminólogo en centros penitenciarios?",
+    "opciones": [
+      "Supervisión de custodios",
+      "Diseño de sanciones",
+      "Evaluación de internos y diseño de programas de intervención",
+      "Gestión de recursos materiales"
+    ],
+    "respuestaCorrecta": "Evaluación de internos y diseño de programas de intervención"
+  },
+  {
+    "pregunta": "¿Qué característica debe tener un informe criminológico?",
+    "opciones": [
+      "Ser subjetivo y breve",
+      "Describir solo antecedentes penales",
+      "Estar basado en datos objetivos, análisis y propuestas",
+      "Incluir opiniones personales sin datos"
+    ],
+    "respuestaCorrecta": "Estar basado en datos objetivos, análisis y propuestas"
+  },
+  {
+    "pregunta": "¿Qué función cumple el criminólogo en atención a menores?",
+    "opciones": [
+      "Aplicar castigos físicos",
+      "Redactar sentencias",
+      "Detección de factores de riesgo y orientación preventiva",
+      "Negociar con abogados"
+    ],
+    "respuestaCorrecta": "Detección de factores de riesgo y orientación preventiva"
+  },
+  {
+    "pregunta": "¿Qué cualidad es esencial para el criminólogo en intervención directa?",
+    "opciones": [
+      "Pasividad",
+      "Autoridad punitiva",
+      "Empatía y escucha activa",
+      "Rigidez en la norma"
+    ],
+    "respuestaCorrecta": "Empatía y escucha activa"
+  },
+  {
+    "pregunta": "¿Qué actividad es propia del criminólogo investigador?",
+    "opciones": [
+      "Defensa de delincuentes",
+      "Participación en juicios",
+      "Elaboración de estudios sobre causas del delito y eficacia de intervenciones",
+      "Redacción de códigos penales"
+    ],
+    "respuestaCorrecta": "Elaboración de estudios sobre causas del delito y eficacia de intervenciones"
+  },
+  {
+    "pregunta": "¿Qué campo NO corresponde al trabajo del criminólogo?",
+    "opciones": [
+      "Intervención social",
+      "Análisis del delito",
+      "Diseño urbanístico",
+      "Prevención delictiva"
+    ],
+    "respuestaCorrecta": "Diseño urbanístico"
+  },
+  {
+    "pregunta": "¿Qué papel puede tener el criminólogo en políticas públicas?",
+    "opciones": [
+      "Ninguno",
+      "Asesor en diseño de estrategias de prevención y reinserción",
+      "Aplicación de castigos",
+      "Administración financiera"
+    ],
+    "respuestaCorrecta": "Asesor en diseño de estrategias de prevención y reinserción"
+  },
+  {
+    "pregunta": "¿Qué valor añadido aporta el criminólogo al equipo multidisciplinar?",
+    "opciones": [
+      "Capacidad punitiva",
+      "Conocimiento del código penal",
+      "Enfoque integral del comportamiento delictivo",
+      "Manejo de armas"
+    ],
+    "respuestaCorrecta": "Enfoque integral del comportamiento delictivo"
+  },
+  {
+    "pregunta": "¿Qué formación mínima se requiere para ser criminólogo?",
+    "opciones": [
+      "Educación secundaria",
+      "Técnico en emergencias",
+      "Grado universitario en Criminología",
+      "Formación policial básica"
+    ],
+    "respuestaCorrecta": "Grado universitario en Criminología"
+  },
+  {
+    "pregunta": "¿Qué función NO es propia del criminólogo?",
+    "opciones": [
+      "Asesoramiento jurídico",
+      "Prevención del delito",
+      "Intervención con víctimas",
+      "Evaluación del riesgo de reincidencia"
+    ],
+    "respuestaCorrecta": "Asesoramiento jurídico"
+  },
+  {
+    "pregunta": "¿Qué perfil profesional tiene más relación con el criminólogo?",
+    "opciones": [
+      "Arquitecto",
+      "Educador social",
+      "Contable",
+      "Cocinero penitenciario"
+    ],
+    "respuestaCorrecta": "Educador social"
+  },
+  {
+    "pregunta": "¿Qué sector puede beneficiarse del análisis criminológico en prevención?",
+    "opciones": [
+      "Sector bancario exclusivamente",
+      "Empresas tecnológicas",
+      "Ámbito comunitario, educativo y judicial",
+      "Industria del automóvil"
+    ],
+    "respuestaCorrecta": "Ámbito comunitario, educativo y judicial"
+  },
+  {
+    "pregunta": "¿Qué valor aporta el criminólogo al trabajo en equipo interdisciplinar?",
+    "opciones": [
+      "Redacción de leyes",
+      "Conocimiento profundo del sistema financiero",
+      "Análisis de causas delictivas y estrategias de intervención",
+      "Supervisión de personal penitenciario"
+    ],
+    "respuestaCorrecta": "Análisis de causas delictivas y estrategias de intervención"
+  },
+  {
+    "pregunta": "¿Qué sector profesional puede requerir criminólogos para prevención de conflictos?",
+    "opciones": [
+      "Deporte profesional",
+      "Medios de comunicación",
+      "Centros escolares",
+      "Turismo rural"
+    ],
+    "respuestaCorrecta": "Centros escolares"
+  },
+  {
+    "pregunta": "¿Qué cualidad favorece el trabajo del criminólogo en comunidades?",
+    "opciones": [
+      "Capacidad de sanción",
+      "Habilidad para redactar códigos legales",
+      "Facilidad para el diálogo y empatía con distintos actores sociales",
+      "Conocimiento técnico policial"
+    ],
+    "respuestaCorrecta": "Facilidad para el diálogo y empatía con distintos actores sociales"
+  },
+  {
+    "pregunta": "¿Qué aspecto estudia un criminólogo en la prevención comunitaria?",
+    "opciones": [
+      "Presupuestos municipales",
+      "Códigos penales regionales",
+      "Factores de riesgo social y dinámicas de grupo",
+      "Diseño arquitectónico"
+    ],
+    "respuestaCorrecta": "Factores de riesgo social y dinámicas de grupo"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el criminólogo en políticas públicas?",
+    "opciones": [
+      "Imponer penas",
+      "Desarrollar campañas electorales",
+      "Asesorar en decisiones basadas en evidencia criminológica",
+      "Recaudar fondos judiciales"
+    ],
+    "respuestaCorrecta": "Asesorar en decisiones basadas en evidencia criminológica"
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene integrar criminólogos en el ámbito judicial?",
+    "opciones": [
+      "Acelerar procesos penales",
+      "Incrementar condenas",
+      "Aportar análisis conductual para mejorar decisiones",
+      "Sustituir a fiscales"
+    ],
+    "respuestaCorrecta": "Aportar análisis conductual para mejorar decisiones"
+  },
+  {
+    "pregunta": "¿Qué actitud debe evitar un criminólogo profesional?",
+    "opciones": [
+      "Escucha activa",
+      "Colaboración interdisciplinar",
+      "Juicio moral sin análisis objetivo",
+      "Empatía con las partes"
+    ],
+    "respuestaCorrecta": "Juicio moral sin análisis objetivo"
+  },
+  {
+    "pregunta": "¿Qué recurso puede usar un criminólogo para analizar un caso concreto?",
+    "opciones": [
+      "Leyes internacionales",
+      "Publicidad institucional",
+      "Informes criminológicos, entrevistas y datos contextuales",
+      "Debates parlamentarios"
+    ],
+    "respuestaCorrecta": "Informes criminológicos, entrevistas y datos contextuales"
+  },
+  {
+    "pregunta": "¿Qué tipo de comunicación debe priorizar el criminólogo?",
+    "opciones": [
+      "Unidireccional",
+      "Formal exclusivamente",
+      "Abierta, comprensiva y adaptada al entorno",
+      "Judicial estricta"
+    ],
+    "respuestaCorrecta": "Abierta, comprensiva y adaptada al entorno"
+  },
+  {
+    "pregunta": "¿Qué papel puede jugar el criminólogo en reinserción de personas exdelincuentes?",
+    "opciones": [
+      "Negar apoyo institucional",
+      "Diseñar medidas punitivas",
+      "Facilitar orientación personalizada e inclusión social",
+      "Aplicar sanciones económicas"
+    ],
+    "respuestaCorrecta": "Facilitar orientación personalizada e inclusión social"
+  },
+  {
+    "pregunta": "¿Qué debe evitar un criminólogo en contacto con personas vulnerables?",
+    "opciones": [
+      "Adaptación del lenguaje",
+      "Trato humano y cercano",
+      "Estigmatización o etiquetado",
+      "Escucha activa"
+    ],
+    "respuestaCorrecta": "Estigmatización o etiquetado"
+  },
+  {
+    "pregunta": "¿Qué resultado se espera de la intervención criminológica eficaz?",
+    "opciones": [
+      "Más encarcelamientos",
+      "Cambio social preventivo y mejora en la calidad de vida",
+      "Mayores sanciones legales",
+      "Conflictos institucionales"
+    ],
+    "respuestaCorrecta": "Cambio social preventivo y mejora en la calidad de vida"
+  },
+  {
+    "pregunta": "¿Qué función realiza el criminólogo en conflictos escolares?",
+    "opciones": [
+      "Sustituir a los docentes",
+      "Intervenir en el aula como policía",
+      "Mediar, prevenir violencia y asesorar",
+      "Expulsar estudiantes"
+    ],
+    "respuestaCorrecta": "Mediar, prevenir violencia y asesorar"
+  },
+  {
+    "pregunta": "¿Qué instrumento es útil al criminólogo para entender conductas delictivas?",
+    "opciones": [
+      "Códigos legales",
+      "Análisis sociológicos y psicológicos",
+      "Multas penales",
+      "Bases de datos fiscales"
+    ],
+    "respuestaCorrecta": "Análisis sociológicos y psicológicos"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite una intervención más completa del criminólogo?",
+    "opciones": [
+      "Punitivo",
+      "Unidimensional",
+      "Interdisciplinar y contextual",
+      "Exclusivamente legal"
+    ],
+    "respuestaCorrecta": "Interdisciplinar y contextual"
+  },
+  {
+    "pregunta": "¿Qué elemento debe guiar la práctica del criminólogo?",
+    "opciones": [
+      "El castigo como eje",
+      "Los prejuicios personales",
+      "La evidencia científica y ética profesional",
+      "Las tendencias políticas"
+    ],
+    "respuestaCorrecta": "La evidencia científica y ética profesional"
+  },
+  {
+    "pregunta": "¿Qué desafío enfrenta el criminólogo en contextos de exclusión social?",
+    "opciones": [
+      "Falta de legislación",
+      "Falta de policías",
+      "Desconfianza institucional y barreras de acceso",
+      "Conflictos territoriales"
+    ],
+    "respuestaCorrecta": "Desconfianza institucional y barreras de acceso"
+  },
+  {
+    "pregunta": "¿Qué papel cumple el criminólogo en contextos penitenciarios?",
+    "opciones": [
+      "Determinar la condena",
+      "Emitir sentencias",
+      "Evaluar factores de riesgo y proponer medidas adaptadas",
+      "Realizar tareas administrativas"
+    ],
+    "respuestaCorrecta": "Evaluar factores de riesgo y proponer medidas adaptadas"
+  },
+  {
+    "pregunta": "¿Qué herramienta favorece el trabajo criminológico preventivo?",
+    "opciones": [
+      "Aumento de penas",
+      "Vigilancia masiva",
+      "Educación y trabajo comunitario",
+      "Reducción de programas sociales"
+    ],
+    "respuestaCorrecta": "Educación y trabajo comunitario"
+  },
+  {
+    "pregunta": "¿Qué impacto puede tener el trabajo del criminólogo en políticas públicas?",
+    "opciones": [
+      "Generar más sanciones",
+      "Reducir el papel de la policía",
+      "Contribuir con estrategias preventivas y efectivas",
+      "Sustituir a los jueces"
+    ],
+    "respuestaCorrecta": "Contribuir con estrategias preventivas y efectivas"
+  },
+  {
+    "pregunta": "¿Qué papel puede tener el criminólogo en campañas de sensibilización?",
+    "opciones": [
+      "Reforzar penas judiciales",
+      "Informar a jueces sobre leyes",
+      "Diseñar contenidos educativos para prevenir conductas delictivas",
+      "Controlar asistencia a juicios"
+    ],
+    "respuestaCorrecta": "Diseñar contenidos educativos para prevenir conductas delictivas"
+  },
+  {
+    "pregunta": "¿Qué población puede beneficiarse de la acción criminológica preventiva?",
+    "opciones": [
+      "Solo internos penitenciarios",
+      "Grupos en riesgo, menores y comunidad en general",
+      "Funcionarios judiciales",
+      "Agentes de aduanas exclusivamente"
+    ],
+    "respuestaCorrecta": "Grupos en riesgo, menores y comunidad en general"
+  },
+  {
+    "pregunta": "¿Qué actitud profesional debe evitar el criminólogo?",
+    "opciones": [
+      "Adaptación a entornos diversos",
+      "Juicio ético fundamentado",
+      "Estigmatización sin base",
+      "Comunicación empática"
+    ],
+    "respuestaCorrecta": "Estigmatización sin base"
+  },
+  {
+    "pregunta": "¿Qué recurso puede usar el criminólogo en investigación social?",
+    "opciones": [
+      "Análisis cuantitativo y cualitativo de datos",
+      "Redacción de sentencias",
+      "Normas internas policiales",
+      "Propaganda política"
+    ],
+    "respuestaCorrecta": "Análisis cuantitativo y cualitativo de datos"
+  },
+  {
+    "pregunta": "¿Qué es fundamental en la intervención criminológica con menores?",
+    "opciones": [
+      "Aplicar sanción disciplinaria",
+      "Intervenir desde la represión",
+      "Prevenir y reeducar con enfoque protector",
+      "Evaluar testamentos legales"
+    ],
+    "respuestaCorrecta": "Prevenir y reeducar con enfoque protector"
+  },
+  {
+    "pregunta": "¿Qué herramienta puede utilizar un criminólogo en prevención escolar?",
+    "opciones": [
+      "Registro policial de alumnos",
+      "Campañas de represión",
+      "Talleres participativos y educación en valores",
+      "Pruebas físicas"
+    ],
+    "respuestaCorrecta": "Talleres participativos y educación en valores"
+  },
+  {
+    "pregunta": "¿Qué resultado se espera de las campañas preventivas con adolescentes?",
+    "opciones": [
+      "Mayor desconfianza hacia las instituciones",
+      "Aumento de delitos leves",
+      "Reflexión, autoconocimiento y reducción del riesgo delictivo",
+      "Aislamiento de grupos conflictivos"
+    ],
+    "respuestaCorrecta": "Reflexión, autoconocimiento y reducción del riesgo delictivo"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en la intervención comunitaria?",
+    "opciones": [
+      "El trabajo colaborativo",
+      "Participación vecinal",
+      "Imposición sin diálogo",
+      "Valoración del entorno"
+    ],
+    "respuestaCorrecta": "Imposición sin diálogo"
+  },
+  {
+    "pregunta": "¿Qué fortalece la eficacia de los programas criminológicos?",
+    "opciones": [
+      "Intervención individual exclusiva",
+      "Autoridad policial sin participación social",
+      "Multidisciplinariedad y evaluación continua",
+      "Ausencia de planificación"
+    ],
+    "respuestaCorrecta": "Multidisciplinariedad y evaluación continua"
+  },
+  {
+    "pregunta": "¿Qué enfoque es clave en la intervención criminológica con víctimas?",
+    "opciones": [
+      "Negación del daño",
+      "Apoyo integral y prevención de revictimización",
+      "Evaluación penal del agresor",
+      "Trámite jurídico rápido"
+    ],
+    "respuestaCorrecta": "Apoyo integral y prevención de revictimización"
+  },
+  {
+    "pregunta": "¿Qué práctica mejora la prevención delictiva en entornos urbanos?",
+    "opciones": [
+      "Cierre de espacios públicos",
+      "Diseño ambiental seguro (CPTED)",
+      "Incremento de castigos penales",
+      "Normativas restrictivas sin consulta"
+    ],
+    "respuestaCorrecta": "Diseño ambiental seguro (CPTED)"
+  },
+  {
+    "pregunta": "¿Qué principio ético debe regir toda intervención criminológica?",
+    "opciones": [
+      "Rentabilidad económica",
+      "Poder institucional",
+      "Respeto a la dignidad y derechos humanos",
+      "Discrecionalidad punitiva"
+    ],
+    "respuestaCorrecta": "Respeto a la dignidad y derechos humanos"
+  },
+  {
+    "pregunta": "¿Qué mejora la efectividad de los programas de intervención?",
+    "opciones": [
+      "Aplicación uniforme sin diagnóstico",
+      "Análisis individualizado y seguimiento",
+      "Generalización sin adaptación",
+      "Aumento de sanciones"
+    ],
+    "respuestaCorrecta": "Análisis individualizado y seguimiento"
+  },
+  {
+    "pregunta": "¿Qué sector suele colaborar en intervenciones comunitarias?",
+    "opciones": [
+      "Servicios sociales, educativos y sanitarios",
+      "Clubes deportivos profesionales",
+      "Ministerios de defensa",
+      "Agencias de viajes"
+    ],
+    "respuestaCorrecta": "Servicios sociales, educativos y sanitarios"
+  },
+  {
+    "pregunta": "¿Qué evita la intervención criminológica eficaz con jóvenes?",
+    "opciones": [
+      "Sucesión de delitos",
+      "Participación social",
+      "Educación emocional",
+      "Coordinación escolar"
+    ],
+    "respuestaCorrecta": "Sucesión de delitos"
+  },
+  {
+    "pregunta": "¿Qué tipo de políticas fortalecen la prevención delictiva?",
+    "opciones": [
+      "Solo represivas",
+      "Exclusivamente policiales",
+      "Políticas integrales con enfoque social",
+      "Aumento de patrullas"
+    ],
+    "respuestaCorrecta": "Políticas integrales con enfoque social"
+  },
+  {
+    "pregunta": "¿Qué actitud favorece el vínculo con colectivos vulnerables?",
+    "opciones": [
+      "Distancia emocional",
+      "Lenguaje técnico",
+      "Confianza, escucha y respeto",
+      "Autoridad estricta"
+    ],
+    "respuestaCorrecta": "Confianza, escucha y respeto"
+  },
+  {
+    "pregunta": "¿Qué área requiere intervención criminológica en zonas urbanas?",
+    "opciones": [
+      "Decoración callejera",
+      "Ocupación comercial",
+      "Seguridad pública y convivencia",
+      "Turismo"
+    ],
+    "respuestaCorrecta": "Seguridad pública y convivencia"
+  },
+  {
+    "pregunta": "¿Qué papel juega el diagnóstico previo en la intervención criminológica?",
+    "opciones": [
+      "Es opcional",
+      "Innecesario si hay experiencia",
+      "Clave para adaptar la estrategia",
+      "Solo sirve para informes"
+    ],
+    "respuestaCorrecta": "Clave para adaptar la estrategia"
+  },
+  {
+    "pregunta": "¿Qué implica el trabajo comunitario desde la Criminología?",
+    "opciones": [
+      "Sancionar colectivamente",
+      "Seguir instrucciones judiciales",
+      "Generar participación y fortalecer redes sociales",
+      "Reducir la vigilancia policial"
+    ],
+    "respuestaCorrecta": "Generar participación y fortalecer redes sociales"
+  },
+  {
+    "pregunta": "¿Qué ámbito profesional necesita el trabajo del criminólogo para prevenir la violencia de género?",
+    "opciones": [
+      "Turismo rural",
+      "Fuerzas armadas",
+      "Servicios sociales y unidades especializadas",
+      "Administración de aduanas"
+    ],
+    "respuestaCorrecta": "Servicios sociales y unidades especializadas"
+  },
+  {
+    "pregunta": "¿Qué tarea puede asumir el criminólogo en programas de intervención con agresores?",
+    "opciones": [
+      "Defensa jurídica",
+      "Evaluación e intervención para modificar patrones violentos",
+      "Dictado de sentencias",
+      "Imposición de multas"
+    ],
+    "respuestaCorrecta": "Evaluación e intervención para modificar patrones violentos"
+  },
+  {
+    "pregunta": "¿Qué cualidad es clave para trabajar con víctimas de violencia?",
+    "opciones": [
+      "Rigor penal",
+      "Control emocional y distancia",
+      "Escucha empática y respeto al proceso personal",
+      "Neutralidad afectiva"
+    ],
+    "respuestaCorrecta": "Escucha empática y respeto al proceso personal"
+  },
+  {
+    "pregunta": "¿Qué debe evitar el criminólogo en la atención a víctimas?",
+    "opciones": [
+      "Validación de emociones",
+      "Información clara",
+      "Revictimización",
+      "Orientación social"
+    ],
+    "respuestaCorrecta": "Revictimización"
+  },
+  {
+    "pregunta": "¿Qué enfoque requiere el trabajo con víctimas vulnerables?",
+    "opciones": [
+      "Individualizado, integral y continuo",
+      "Masivo y automático",
+      "Judicial exclusivamente",
+      "Estándar y uniforme"
+    ],
+    "respuestaCorrecta": "Individualizado, integral y continuo"
+  },
+  {
+    "pregunta": "¿Qué herramienta usa el criminólogo en intervención con agresores?",
+    "opciones": [
+      "Registro penal exclusivo",
+      "Diagnóstico clínico y programas de reeducación",
+      "Pruebas médicas forenses",
+      "Control policial permanente"
+    ],
+    "respuestaCorrecta": "Diagnóstico clínico y programas de reeducación"
+  },
+  {
+    "pregunta": "¿Qué medida puede contribuir a prevenir violencia familiar?",
+    "opciones": [
+      "Aumento de penas únicamente",
+      "Aislamiento institucional",
+      "Educación en resolución pacífica de conflictos",
+      "Reducción de visitas escolares"
+    ],
+    "respuestaCorrecta": "Educación en resolución pacífica de conflictos"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la sensibilización social en la prevención del delito?",
+    "opciones": [
+      "Ninguno",
+      "Disminuye el control social",
+      "Promueve el cambio cultural y la corresponsabilidad",
+      "Justifica medidas punitivas"
+    ],
+    "respuestaCorrecta": "Promueve el cambio cultural y la corresponsabilidad"
+  },
+  {
+    "pregunta": "¿Qué principio guía la atención centrada en la víctima?",
+    "opciones": [
+      "Sanción ejemplar",
+      "Celeridad judicial",
+      "Reconocimiento, acompañamiento y reparación",
+      "Vigilancia estatal"
+    ],
+    "respuestaCorrecta": "Reconocimiento, acompañamiento y reparación"
+  },
+  {
+    "pregunta": "¿Qué enfoque mejora la eficacia de los programas con agresores?",
+    "opciones": [
+      "Castigo inmediato",
+      "Supervisión permanente",
+      "Comprensión del origen del comportamiento y reeducación",
+      "Aumento del aislamiento"
+    ],
+    "respuestaCorrecta": "Comprensión del origen del comportamiento y reeducación"
+  },
+  {
+    "pregunta": "¿Qué barrera puede dificultar la intervención criminológica con víctimas?",
+    "opciones": [
+      "Exceso de recursos",
+      "Colaboración institucional",
+      "Estigma social y miedo a denunciar",
+      "Diagnóstico adecuado"
+    ],
+    "respuestaCorrecta": "Estigma social y miedo a denunciar"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el trabajo criminológico en prevención de violencia juvenil?",
+    "opciones": [
+      "Aumento de penas",
+      "Criminalización temprana",
+      "Detección precoz y educación en valores",
+      "Control policial estricto"
+    ],
+    "respuestaCorrecta": "Detección precoz y educación en valores"
+  },
+  {
+    "pregunta": "¿Qué favorece la reinserción de personas condenadas por violencia de género?",
+    "opciones": [
+      "Reclusión permanente",
+      "Estigmatización pública",
+      "Intervención terapéutica y formación",
+      "Castigo físico"
+    ],
+    "respuestaCorrecta": "Intervención terapéutica y formación"
+  },
+  {
+    "pregunta": "¿Qué actitud promueve el cambio en agresores reincidentes?",
+    "opciones": [
+      "Humillación pública",
+      "Comprensión de consecuencias y responsabilidad",
+      "Aislamiento total",
+      "Terapia grupal sin seguimiento"
+    ],
+    "respuestaCorrecta": "Comprensión de consecuencias y responsabilidad"
+  },
+  {
+    "pregunta": "¿Qué factor refuerza la eficacia de la intervención con víctimas?",
+    "opciones": [
+      "Confianza institucional y redes de apoyo",
+      "Revisión jurídica constante",
+      "Actuación sin evaluación",
+      "Denuncia mediática"
+    ],
+    "respuestaCorrecta": "Confianza institucional y redes de apoyo"
+  },
+  {
+    "pregunta": "¿Qué medida preventiva puede aplicarse desde la Criminología con perspectiva de género?",
+    "opciones": [
+      "Formación en igualdad y resolución de conflictos",
+      "Aumento de penas carcelarias",
+      "Reducción del presupuesto social",
+      "Control de redes sociales"
+    ],
+    "respuestaCorrecta": "Formación en igualdad y resolución de conflictos"
+  },
+  {
+    "pregunta": "¿Qué aporta el enfoque de género a la Criminología?",
+    "opciones": [
+      "Enfoque neutral",
+      "Análisis punitivo exclusivo",
+      "Comprensión de desigualdades estructurales y prevención específica",
+      "Imposición de roles tradicionales"
+    ],
+    "respuestaCorrecta": "Comprensión de desigualdades estructurales y prevención específica"
+  },
+  {
+    "pregunta": "¿Qué papel puede tener el criminólogo en los medios de comunicación?",
+    "opciones": [
+      "Censura de contenido",
+      "Educación social, análisis crítico y prevención del sensacionalismo",
+      "Publicidad institucional",
+      "Redacción de series policiales"
+    ],
+    "respuestaCorrecta": "Educación social, análisis crítico y prevención del sensacionalismo"
+  },
+  {
+    "pregunta": "¿Qué error debe evitarse en la representación mediática del delito?",
+    "opciones": [
+      "Análisis contextual",
+      "Divulgación verificada",
+      "Estigmatización y espectacularización",
+      "Participación profesional"
+    ],
+    "respuestaCorrecta": "Estigmatización y espectacularización"
+  },
+  {
+    "pregunta": "¿Qué impacto tiene una comunicación responsable sobre el delito?",
+    "opciones": [
+      "Genera alarma social",
+      "Disminuye la comprensión del problema",
+      "Fomenta prevención y conciencia social",
+      "Aumenta el castigo"
+    ],
+    "respuestaCorrecta": "Fomenta prevención y conciencia social"
+  }
+]

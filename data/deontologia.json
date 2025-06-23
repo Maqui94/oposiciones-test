@@ -1,0 +1,782 @@
+[
+  {
+    "pregunta": "¿Qué parte de la ética se refiere a los deberes en una actividad profesional?",
+    "opciones": [
+      "Moral",
+      "Ética",
+      "Deontología",
+      "Derecho civil"
+    ],
+    "respuestaCorrecta": "Deontología"
+  },
+  {
+    "pregunta": "¿Qué documento proclamado en 1948 establece derechos fundamentales a nivel internacional?",
+    "opciones": [
+      "Constitución Española",
+      "Pacto Internacional de Derechos Civiles",
+      "Declaración Universal de Derechos Humanos",
+      "Carta de Derechos Fundamentales de la UE"
+    ],
+    "respuestaCorrecta": "Declaración Universal de Derechos Humanos"
+  },
+  {
+    "pregunta": "¿Cuál es el artículo de la Constitución Española que legitima a las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "Artículo 149",
+      "Artículo 15",
+      "Artículo 81",
+      "Artículo 104"
+    ],
+    "respuestaCorrecta": "Artículo 104"
+  },
+  {
+    "pregunta": "¿Qué ley regula el uso de armas de fuego por los Cuerpos y Fuerzas de Seguridad del Estado?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Instrucción de 14 de abril de 1983",
+      "Carta de Derechos Fundamentales de la UE",
+      "Ley Foral 23/2018"
+    ],
+    "respuestaCorrecta": "Instrucción de 14 de abril de 1983"
+  },
+  {
+    "pregunta": "¿Qué principio guía la proporcionalidad en la actuación policial?",
+    "opciones": [
+      "Principio de legalidad",
+      "Principio de subsidiariedad",
+      "Principio COP",
+      "Principio de inmediatez"
+    ],
+    "respuestaCorrecta": "Principio COP"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes derechos implica la protección contra tratos crueles, inhumanos o degradantes?",
+    "opciones": [
+      "Derecho a la vida",
+      "Derecho a la libertad",
+      "Derecho a la integridad personal",
+      "Derecho de reunión"
+    ],
+    "respuestaCorrecta": "Derecho a la integridad personal"
+  },
+  {
+    "pregunta": "¿Qué ley foral regula específicamente a las Policías de Navarra?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Ley Foral 23/2018",
+      "Ley Orgánica 11/1995",
+      "Carta Social Europea"
+    ],
+    "respuestaCorrecta": "Ley Foral 23/2018"
+  },
+  {
+    "pregunta": "¿Qué organismo representa la sociedad civil mundial en materia de derechos humanos?",
+    "opciones": [
+      "Consejo de Europa",
+      "Organización de Estados Americanos",
+      "Organización para la Seguridad y Cooperación en Europa",
+      "Organización de las Naciones Unidas"
+    ],
+    "respuestaCorrecta": "Organización de las Naciones Unidas"
+  },
+  {
+    "pregunta": "¿Qué documento europeo fue adoptado el 4 de noviembre de 1950 para proteger los derechos humanos?",
+    "opciones": [
+      "Código de Conducta de la ONU",
+      "Convenio Europeo para la Protección de los Derechos Humanos",
+      "Carta Social Europea",
+      "Carta de Derechos Fundamentales de la UE"
+    ],
+    "respuestaCorrecta": "Convenio Europeo para la Protección de los Derechos Humanos"
+  },
+  {
+    "pregunta": "¿Qué ley abolió definitivamente la pena de muerte en España, incluso en tiempos de guerra?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Ley Orgánica 11/1995",
+      "Ley Foral 23/2018",
+      "Ley de Reintegración y Amejoramiento del Fuero"
+    ],
+    "respuestaCorrecta": "Ley Orgánica 11/1995"
+  },
+  {
+    "pregunta": "¿Qué significa el término 'ética' según la Real Academia Española?",
+    "opciones": [
+      "Conjunto de valores religiosos que regulan la conducta de los ciudadanos.",
+      "Conjunto de normas morales que rigen la conducta de la persona en cualquier ámbito de la vida.",
+      "Normas jurídicas para el comportamiento penal.",
+      "Reglas impuestas por el estado en materia de moral pública."
+    ],
+    "respuestaCorrecta": "Conjunto de normas morales que rigen la conducta de la persona en cualquier ámbito de la vida."
+  },
+  {
+    "pregunta": "¿Qué organismo proclamó la Declaración Universal de Derechos Humanos?",
+    "opciones": [
+      "Consejo de Europa",
+      "Organización para la Seguridad y la Cooperación en Europa",
+      "Asamblea General de las Naciones Unidas",
+      "Tribunal Europeo de Derechos Humanos"
+    ],
+    "respuestaCorrecta": "Asamblea General de las Naciones Unidas"
+  },
+  {
+    "pregunta": "¿Cuál de estos principios forma parte del llamado 'principio COP'?",
+    "opciones": [
+      "Conformidad",
+      "Congruencia",
+      "Constitución",
+      "Cooperación"
+    ],
+    "respuestaCorrecta": "Congruencia"
+  },
+  {
+    "pregunta": "¿Qué documento establece los derechos y libertades en la Constitución Española?",
+    "opciones": [
+      "Título I, Capítulo II",
+      "Título II, Capítulo III",
+      "Título IV, Artículo 99",
+      "Anexo Único"
+    ],
+    "respuestaCorrecta": "Título I, Capítulo II"
+  },
+  {
+    "pregunta": "¿Qué norma establece el código de conducta para funcionarios encargados de hacer cumplir la ley?",
+    "opciones": [
+      "Recomendación Rec. (2001) 10",
+      "Resolución 34/169 de la Asamblea General de la ONU",
+      "Ley Foral 23/2018",
+      "Código Penal Militar"
+    ],
+    "respuestaCorrecta": "Resolución 34/169 de la Asamblea General de la ONU"
+  },
+  {
+    "pregunta": "¿Qué derechos deben respetar especialmente los policías respecto a los detenidos?",
+    "opciones": [
+      "Solo el derecho a la alimentación y al descanso",
+      "El derecho a portar armas",
+      "La vida, integridad física, honor y dignidad",
+      "El derecho al voto obligatorio"
+    ],
+    "respuestaCorrecta": "La vida, integridad física, honor y dignidad"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución Española prohíbe expresamente la tortura y penas inhumanas?",
+    "opciones": [
+      "Artículo 15",
+      "Artículo 23",
+      "Artículo 10",
+      "Artículo 4"
+    ],
+    "respuestaCorrecta": "Artículo 15"
+  },
+  {
+    "pregunta": "¿Qué función tiene el Tribunal Europeo de Derechos Humanos?",
+    "opciones": [
+      "Redactar leyes para la UE",
+      "Juzgar conflictos territoriales",
+      "Proteger los derechos humanos en Europa",
+      "Aprobar presupuestos de la ONU"
+    ],
+    "respuestaCorrecta": "Proteger los derechos humanos en Europa"
+  },
+  {
+    "pregunta": "¿Qué ley regula las funciones de los cuerpos policiales autonómicos como la Policía Foral?",
+    "opciones": [
+      "Ley Orgánica 11/1995",
+      "Ley Foral 23/2018",
+      "Ley de Bases de Régimen Local",
+      "LORAFNA"
+    ],
+    "respuestaCorrecta": "Ley Foral 23/2018"
+  },
+  {
+    "pregunta": "¿Qué es la deontología según la RAE?",
+    "opciones": [
+      "Parte de la ética que trata de los deberes profesionales",
+      "Una ciencia que estudia los derechos humanos",
+      "Una doctrina legal sobre los cuerpos de seguridad",
+      "Una filosofía sobre la moral religiosa"
+    ],
+    "respuestaCorrecta": "Parte de la ética que trata de los deberes profesionales"
+  },
+  {
+    "pregunta": "¿Qué es la deontología según la RAE?",
+    "opciones": [
+      "Parte de la ética que trata de los deberes profesionales",
+      "Una ciencia que estudia los derechos humanos",
+      "Una doctrina legal sobre los cuerpos de seguridad",
+      "Una filosofía sobre la moral religiosa"
+    ],
+    "respuestaCorrecta": "Parte de la ética que trata de los deberes profesionales"
+  },
+  {
+    "pregunta": "¿Cuál es la definición de 'moral' según la RAE que se aplica al contexto policial?",
+    "opciones": [
+      "Normas religiosas de comportamiento",
+      "Comportamiento en relación con el bien y el mal",
+      "Leyes jurídicas nacionales",
+      "Reglas penales impuestas por el Estado"
+    ],
+    "respuestaCorrecta": "Comportamiento en relación con el bien y el mal"
+  },
+  {
+    "pregunta": "¿Qué institución representa a la sociedad civil mundial?",
+    "opciones": [
+      "Unión Europea",
+      "OSCE",
+      "ONU",
+      "Consejo de Europa"
+    ],
+    "respuestaCorrecta": "ONU"
+  },
+  {
+    "pregunta": "¿Qué finalidad tienen las organizaciones internacionales respecto a la ética?",
+    "opciones": [
+      "Eliminar las leyes nacionales",
+      "Imponer castigos penales",
+      "Establecer estándares mínimos de normas morales",
+      "Regular únicamente el comercio exterior"
+    ],
+    "respuestaCorrecta": "Establecer estándares mínimos de normas morales"
+  },
+  {
+    "pregunta": "¿Qué valor tienen las normas de deontología policial según el texto?",
+    "opciones": [
+      "Son orientativas y flexibles",
+      "Poseen un alto nivel de exigencia",
+      "Carecen de valor legal",
+      "Son aplicables solo a nivel local"
+    ],
+    "respuestaCorrecta": "Poseen un alto nivel de exigencia"
+  },
+  {
+    "pregunta": "¿Cuál de estas declaraciones es parte de la normativa general de derechos humanos?",
+    "opciones": [
+      "Carta de la Policía de la OSCE",
+      "Código Europeo de Ética de la Policía",
+      "Declaración Universal de Derechos Humanos",
+      "Instrucción de uso de armas de 1983"
+    ],
+    "respuestaCorrecta": "Declaración Universal de Derechos Humanos"
+  },
+  {
+    "pregunta": "¿Qué ley recoge los Derechos y Libertades fundamentales en España?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Ley Foral 23/2018",
+      "Constitución Española",
+      "Pacto Internacional de Derechos Económicos"
+    ],
+    "respuestaCorrecta": "Constitución Española"
+  },
+  {
+    "pregunta": "¿Qué normativa específica adoptó la ONU en 1979 sobre conducta policial?",
+    "opciones": [
+      "Código Europeo de Ética Policial",
+      "Directrices sobre el uso de la fuerza",
+      "Código de Conducta para Funcionarios",
+      "Carta Social Europea"
+    ],
+    "respuestaCorrecta": "Código de Conducta para Funcionarios"
+  },
+  {
+    "pregunta": "¿Qué principio no está relacionado directamente con la actuación de la Policía Foral?",
+    "opciones": [
+      "Congruencia",
+      "Oportunidad",
+      "Proporcionalidad",
+      "Jerarquía penal"
+    ],
+    "respuestaCorrecta": "Jerarquía penal"
+  },
+  {
+    "pregunta": "¿Qué tribunal internacional vela por los derechos humanos en Europa?",
+    "opciones": [
+      "Tribunal Penal Internacional",
+      "Tribunal de Justicia de la UE",
+      "Tribunal Europeo de Derechos Humanos",
+      "Consejo de Seguridad de la ONU"
+    ],
+    "respuestaCorrecta": "Tribunal Europeo de Derechos Humanos"
+  },
+  {
+    "pregunta": "¿Qué ley abolió definitivamente la pena de muerte en España?",
+    "opciones": [
+      "Ley Orgánica 11/1995",
+      "Ley Foral 23/2018",
+      "Ley Orgánica 2/1986",
+      "Ley de Amnistía de 1977"
+    ],
+    "respuestaCorrecta": "Ley Orgánica 11/1995"
+  },
+  {
+    "pregunta": "¿Qué derecho implica la inviolabilidad del domicilio?",
+    "opciones": [
+      "Derecho a la vida",
+      "Derecho al honor y vida privada",
+      "Derecho a la educación",
+      "Derecho a la libertad religiosa"
+    ],
+    "respuestaCorrecta": "Derecho al honor y vida privada"
+  },
+  {
+    "pregunta": "¿Qué principio debe aplicar un agente ante una actuación policial urgente?",
+    "opciones": [
+      "Congruencia, oportunidad y proporcionalidad",
+      "Legalidad, castigo y sanción",
+      "Instrucción, delegación y obediencia",
+      "Secreto, obediencia y jerarquía"
+    ],
+    "respuestaCorrecta": "Congruencia, oportunidad y proporcionalidad"
+  },
+  {
+    "pregunta": "¿Cuál es una obligación del agente respecto a los detenidos?",
+    "opciones": [
+      "Evitar grabaciones en comisarías",
+      "Informar a sus familiares de inmediato",
+      "Velar por su vida e integridad física",
+      "Reducir su libertad de comunicación"
+    ],
+    "respuestaCorrecta": "Velar por su vida e integridad física"
+  },
+  {
+    "pregunta": "¿Qué implica el principio de secreto profesional del agente de la autoridad?",
+    "opciones": [
+      "No declarar nunca en juicio",
+      "No hablar con medios de comunicación",
+      "Guardar confidencialidad sobre la información obtenida en servicio",
+      "Mantener en secreto su número de placa"
+    ],
+    "respuestaCorrecta": "Guardar confidencialidad sobre la información obtenida en servicio"
+  },
+  {
+    "pregunta": "¿Qué recoge el artículo 104 de la Constitución Española?",
+    "opciones": [
+      "La estructura judicial del Estado",
+      "El derecho a la educación",
+      "La misión de las Fuerzas y Cuerpos de Seguridad",
+      "El régimen económico de las autonomías"
+    ],
+    "respuestaCorrecta": "La misión de las Fuerzas y Cuerpos de Seguridad"
+  },
+  {
+    "pregunta": "¿Qué ley determina los principios de actuación de la Policía Foral?",
+    "opciones": [
+      "Ley Foral 23/2018",
+      "Ley Orgánica 10/1995",
+      "Código Penal",
+      "Estatuto de Autonomía de Navarra"
+    ],
+    "respuestaCorrecta": "Ley Foral 23/2018"
+  },
+  {
+    "pregunta": "¿Qué obligación tiene un agente al realizar una detención?",
+    "opciones": [
+      "Llevar chaleco reflectante",
+      "Identificarse como policía y mostrar número",
+      "Esperar orden escrita del juez",
+      "Firmar un parte de detención"
+    ],
+    "respuestaCorrecta": "Identificarse como policía y mostrar número"
+  },
+  {
+    "pregunta": "¿Qué principio invalida una orden jerárquica a un agente?",
+    "opciones": [
+      "Que la orden sea poco clara",
+      "Que la orden suponga un delito manifiesto",
+      "Que no tenga testigos",
+      "Que no esté por escrito"
+    ],
+    "respuestaCorrecta": "Que la orden suponga un delito manifiesto"
+  },
+  {
+    "pregunta": "¿Qué se exige del agente incluso fuera de servicio?",
+    "opciones": [
+      "Nada, solo actúa en servicio",
+      "Debe actuar si peligra la integridad o la ley",
+      "Solicitar permiso superior",
+      "Informar a la prensa"
+    ],
+    "respuestaCorrecta": "Debe actuar si peligra la integridad o la ley"
+  },
+   {
+    "pregunta": "¿Qué significa la palabra 'moral' según la RAE en el contexto de la deontología policial?",
+    "opciones": [
+      "Doctrina legal sobre los cuerpos policiales",
+      "Conjunto de normas jurídicas para el orden público",
+      "Relativo a las acciones humanas desde el punto de vista del bien y del mal",
+      "Normas dictadas por la policía para regular la ética"
+    ],
+    "respuestaCorrecta": "Relativo a las acciones humanas desde el punto de vista del bien y del mal"
+  },
+  {
+    "pregunta": "¿Qué define la RAE como ética?",
+    "opciones": [
+      "El conjunto de normas jurídicas",
+      "El conjunto de normas morales que rigen la conducta",
+      "La forma de actuar de los cuerpos policiales",
+      "Las leyes impuestas por los tribunales internacionales"
+    ],
+    "respuestaCorrecta": "El conjunto de normas morales que rigen la conducta"
+  },
+  {
+    "pregunta": "¿Qué es la deontología según la RAE?",
+    "opciones": [
+      "Parte de la ética que trata de los deberes profesionales",
+      "Normas jurídicas dictadas por el Estado",
+      "Manual de comportamiento del ciudadano",
+      "Guía política de los Derechos Humanos"
+    ],
+    "respuestaCorrecta": "Parte de la ética que trata de los deberes profesionales"
+  },
+  {
+    "pregunta": "¿Qué define la RAE como derechos fundamentales?",
+    "opciones": [
+      "Normas dictadas por el parlamento",
+      "Derechos inherentes a la dignidad humana recogidos en las constituciones modernas",
+      "Garantías que otorgan los cuerpos policiales",
+      "Deberes de los funcionarios públicos"
+    ],
+    "respuestaCorrecta": "Derechos inherentes a la dignidad humana recogidos en las constituciones modernas"
+  },
+  {
+    "pregunta": "¿Qué función principal cumple la policía según la RAE?",
+    "opciones": [
+      "Establecer normas constitucionales",
+      "Velar por el mantenimiento del orden público y la seguridad de los ciudadanos",
+      "Redactar leyes",
+      "Evaluar la moral de la sociedad"
+    ],
+    "respuestaCorrecta": "Velar por el mantenimiento del orden público y la seguridad de los ciudadanos"
+  },
+  {
+    "pregunta": "¿Cuál es la relación entre deontología y moral según el documento?",
+    "opciones": [
+      "La moral dicta los deberes legales de la deontología",
+      "La deontología se basa en normas morales para definir los deberes profesionales",
+      "La moral impone normas legales en el derecho penal",
+      "La deontología es parte del ordenamiento jurídico exclusivamente"
+    ],
+    "respuestaCorrecta": "La deontología se basa en normas morales para definir los deberes profesionales"
+  },
+  {
+    "pregunta": "¿Por qué las sociedades establecen códigos deontológicos según el documento?",
+    "opciones": [
+      "Para imponer una única religión",
+      "Para imponer leyes arbitrarias",
+      "Para regular los comportamientos según estándares mínimos morales",
+      "Para promover el comercio internacional"
+    ],
+    "respuestaCorrecta": "Para regular los comportamientos según estándares mínimos morales"
+  },
+  {
+    "pregunta": "¿Qué organización representa a la sociedad civil mundial?",
+    "opciones": [
+      "OSCE",
+      "ONU",
+      "OEA",
+      "Unión Europea"
+    ],
+    "respuestaCorrecta": "ONU"
+  },
+  {
+    "pregunta": "¿Qué documentos pueden contener los códigos deontológicos?",
+    "opciones": [
+      "Constituciones, declaraciones, códigos, cartas fundamentales o de derechos",
+      "Únicamente leyes orgánicas",
+      "Manuales internos y boletines",
+      "Sentencias judiciales"
+    ],
+    "respuestaCorrecta": "Constituciones, declaraciones, códigos, cartas fundamentales o de derechos"
+  },
+  {
+    "pregunta": "¿Qué hacen los Estados al firmar declaraciones de OOII?",
+    "opciones": [
+      "Derogan su Constitución",
+      "Modifican su legislación para adaptarse a lo firmado",
+      "Ignoran el contenido si no es vinculante",
+      "Crean nuevas organizaciones internacionales"
+    ],
+    "respuestaCorrecta": "Modifican su legislación para adaptarse a lo firmado"
+  },
+  {
+    "pregunta": "¿Qué garantiza la alta exigencia de la deontología policial?",
+    "opciones": [
+      "Menor control del Estado sobre los cuerpos policiales",
+      "Mayor carga de trabajo para la policía",
+      "Una mayor garantía para la sociedad",
+      "El cumplimiento de órdenes sin cuestionamientos"
+    ],
+    "respuestaCorrecta": "Una mayor garantía para la sociedad"
+  },
+  {
+    "pregunta": "¿Qué resolución proclamó la Declaración Universal de Derechos Humanos?",
+    "opciones": [
+      "Resolución 34/169",
+      "Resolución 217 A (III)",
+      "Resolución 2200 A (XXI)",
+      "Resolución 690"
+    ],
+    "respuestaCorrecta": "Resolución 217 A (III)"
+  },
+  {
+    "pregunta": "¿Qué norma española recoge los derechos y libertades del artículo 104.1?",
+    "opciones": [
+      "Código Penal",
+      "Ley Foral 23/2018",
+      "Constitución Española",
+      "Código de Conducta Policial"
+    ],
+    "respuestaCorrecta": "Constitución Española"
+  },
+  {
+    "pregunta": "¿Qué normativa recoge la participación de las Comunidades Autónomas en seguridad pública?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Código Penal",
+      "Constitución Española, artículo 149.1.29ª",
+      "Código Europeo de Ética de la Policía"
+    ],
+    "respuestaCorrecta": "Constitución Española, artículo 149.1.29ª"
+  },
+  {
+    "pregunta": "¿Qué documento fue adoptado en La Habana en 1990?",
+    "opciones": [
+      "Código Europeo de Ética de la Policía",
+      "Principios básicos sobre el empleo de la fuerza y de armas de fuego",
+      "Directrices para la aplicación del Código de conducta",
+      "Declaración Universal de Derechos Humanos"
+    ],
+    "respuestaCorrecta": "Principios básicos sobre el empleo de la fuerza y de armas de fuego"
+  },
+  {
+    "pregunta": "¿Qué organización emitió el Código Europeo de Ética de la Policía?",
+    "opciones": [
+      "Naciones Unidas",
+      "Unión Europea",
+      "Consejo de Europa",
+      "OEA"
+    ],
+    "respuestaCorrecta": "Consejo de Europa"
+  },
+  {
+    "pregunta": "¿Qué guía ética elaboró la OSCE?",
+    "opciones": [
+      "Carta Social Europea",
+      "Código de conducta para jueces",
+      "Guía de la Policía Democrática",
+      "Código penal internacional"
+    ],
+    "respuestaCorrecta": "Guía de la Policía Democrática"
+  },
+  {
+    "pregunta": "¿Qué tipo de normativa específica está incluida en el grupo C del documento?",
+    "opciones": [
+      "Solo leyes forales",
+      "Normas de tráfico",
+      "Normativa sobre discriminación, tortura y derechos de los presos",
+      "Normativa presupuestaria"
+    ],
+    "respuestaCorrecta": "Normativa sobre discriminación, tortura y derechos de los presos"
+  },
+  {
+    "pregunta": "¿Qué establece el artículo 104 de la Constitución Española?",
+    "opciones": [
+      "La pena de muerte en caso de guerra",
+      "La protección del libre ejercicio de derechos y la seguridad ciudadana por parte de los cuerpos de seguridad",
+      "La creación de cuerpos policiales municipales",
+      "La separación de poderes"
+    ],
+    "respuestaCorrecta": "La protección del libre ejercicio de derechos y la seguridad ciudadana por parte de los cuerpos de seguridad"
+  },
+  {
+    "pregunta": "¿Qué implica una mala actuación policial según el documento?",
+    "opciones": [
+      "Una sanción administrativa",
+      "La anulación de la detención",
+      "La posible conculcación ilegítima de derechos fundamentales",
+      "Una simple falta interna"
+    ],
+    "respuestaCorrecta": "La posible conculcación ilegítima de derechos fundamentales"
+  },
+  {
+    "pregunta": "¿Qué tipo de acciones pueden limitar derechos fundamentales según el texto?",
+    "opciones": [
+      "Sugerencias verbales",
+      "Imposición de sanciones, detención, traslado, interrogatorio",
+      "Actuaciones judiciales",
+      "Advertencias sin consecuencias"
+    ],
+    "respuestaCorrecta": "Imposición de sanciones, detención, traslado, interrogatorio"
+  },
+  {
+    "pregunta": "¿Qué tribunales internacionales mencionados protegen los derechos fundamentales?",
+    "opciones": [
+      "Tribunal Penal Internacional y Corte Suprema de EE.UU.",
+      "Tribunal Europeo de Derechos Humanos y Tribunal de Justicia de la UE",
+      "Tribunal de La Haya y Corte Interamericana",
+      "Tribunal Constitucional y Tribunal de Cuentas"
+    ],
+    "respuestaCorrecta": "Tribunal Europeo de Derechos Humanos y Tribunal de Justicia de la UE"
+  },
+  {
+    "pregunta": "¿Qué doble misión tienen los policías respecto a los derechos fundamentales?",
+    "opciones": [
+      "Imponer sanciones y realizar detenciones",
+      "Ejercer el monopolio de la fuerza y garantizar orden",
+      "No vulnerarlos y garantizar que terceros no los vulneren",
+      "Redactar informes y colaborar con tribunales"
+    ],
+    "respuestaCorrecta": "No vulnerarlos y garantizar que terceros no los vulneren"
+  },
+  {
+    "pregunta": "¿Qué función tienen las leyes orgánicas según el artículo 81 de la Constitución Española?",
+    "opciones": [
+      "Establecer presupuestos anuales",
+      "Determinar las competencias del Gobierno",
+      "Desarrollar derechos fundamentales y libertades públicas",
+      "Regular relaciones internacionales"
+    ],
+    "respuestaCorrecta": "Desarrollar derechos fundamentales y libertades públicas"
+  },
+  {
+    "pregunta": "¿Qué derecho prohíbe la pena de muerte en España según la CE?",
+    "opciones": [
+      "Artículo 104",
+      "Artículo 2",
+      "Artículo 15",
+      "Artículo 6"
+    ],
+    "respuestaCorrecta": "Artículo 15"
+  },
+  {
+    "pregunta": "¿Qué artículo recoge el derecho a la integridad física y moral?",
+    "opciones": [
+      "Artículo 14 CE",
+      "Artículo 15 CE",
+      "Artículo 20 CE",
+      "Artículo 104 CE"
+    ],
+    "respuestaCorrecta": "Artículo 15 CE"
+  },
+  {
+    "pregunta": "¿Qué recoge el artículo 14 de la CE?",
+    "opciones": [
+      "Derecho a la propiedad",
+      "Derecho a la libertad de prensa",
+      "Igualdad ante la ley y no discriminación",
+      "Derecho al trabajo"
+    ],
+    "respuestaCorrecta": "Igualdad ante la ley y no discriminación"
+  },
+  {
+    "pregunta": "¿Cuál es una obligación clave de los policías en relación con la igualdad?",
+    "opciones": [
+      "Aplicar la ley según su criterio personal",
+      "Ejercer sin rendir cuentas",
+      "Actuar con respeto y convicción hacia todas las condiciones personales",
+      "Discriminar según origen nacional"
+    ],
+    "respuestaCorrecta": "Actuar con respeto y convicción hacia todas las condiciones personales"
+  },
+  {
+    "pregunta": "¿Qué libertad NO está incluida explícitamente en el derecho a la libertad según el texto?",
+    "opciones": [
+      "Libertad de creación artística",
+      "Libertad de circulación",
+      "Libertad religiosa",
+      "Libertad de invadir privacidad"
+    ],
+    "respuestaCorrecta": "Libertad de invadir privacidad"
+  },
+  {
+    "pregunta": "¿Qué derechos protege el apartado de vida privada e información?",
+    "opciones": [
+      "Honor, inviolabilidad del domicilio y protección de datos",
+      "Derecho al voto obligatorio",
+      "Acceso a la justicia gratuita",
+      "Derecho a cargos públicos"
+    ],
+    "respuestaCorrecta": "Honor, inviolabilidad del domicilio y protección de datos"
+  },
+  {
+    "pregunta": "¿Qué leyes recogen los principios básicos de actuación de la Policía Foral?",
+    "opciones": [
+      "Código Penal y CE",
+      "LOFCS y LFPN",
+      "Ley de Seguridad Nacional y LO 3/1981",
+      "LO de Transparencia y Código Civil"
+    ],
+    "respuestaCorrecta": "LOFCS y LFPN"
+  },
+  {
+    "pregunta": "¿Qué implica el principio COP?",
+    "opciones": [
+      "Control, Orden y Protocolo",
+      "Congruencia, Oportunidad y Proporcionalidad",
+      "Código de Operaciones Policiales",
+      "Conocimiento, Observación y Prueba"
+    ],
+    "respuestaCorrecta": "Congruencia, Oportunidad y Proporcionalidad"
+  },
+  {
+    "pregunta": "¿Qué exige la neutralidad política del agente?",
+    "opciones": [
+      "Respetar solo leyes locales",
+      "No actuar ante delitos electorales",
+      "No discriminar por religión, opinión u otros motivos",
+      "Ignorar el contexto ideológico"
+    ],
+    "respuestaCorrecta": "No discriminar por religión, opinión u otros motivos"
+  },
+  {
+    "pregunta": "¿Qué obligación tienen los policías respecto a los detenidos?",
+    "opciones": [
+      "Mantenerlos incomunicados",
+      "Velar por su vida, integridad física y dignidad",
+      "Custodiarlos hasta su condena firme",
+      "Someterlos a interrogatorio inmediato"
+    ],
+    "respuestaCorrecta": "Velar por su vida, integridad física y dignidad"
+  },
+  {
+    "pregunta": "¿Qué implica el secreto profesional para los policías?",
+    "opciones": [
+      "No revelar información salvo orden legal",
+      "Informar siempre a la prensa",
+      "Solo guardar secreto durante la instrucción",
+      "Contar todo al superior jerárquico"
+    ],
+    "respuestaCorrecta": "No revelar información salvo orden legal"
+  },
+  {
+    "pregunta": "¿Qué principio permite que un agente no obedezca ciertas órdenes?",
+    "opciones": [
+      "Principio de imparcialidad",
+      "Derecho de huelga",
+      "Inviolabilidad jerárquica",
+      "Inadmisibilidad de órdenes que supongan delito"
+    ],
+    "respuestaCorrecta": "Inadmisibilidad de órdenes que supongan delito"},
+  {
+    "pregunta": "¿Qué artículo de la Constitución Española trata sobre el derecho a la vida?",
+    "opciones": [
+      "Artículo 14",
+      "Artículo 15",
+      "Artículo 20",
+      "Artículo 104"
+    ],
+    "respuestaCorrecta": "Artículo 15"
+  },
+  {
+    "pregunta": "¿Qué principio impide obedecer órdenes que constituyan delito?",
+    "opciones": [
+      "Principio de subordinación estricta",
+      "Principio de obediencia debida absoluta",
+      "Limitación de jerarquía",
+      "Exclusión de órdenes manifiestamente ilegales"
+    ],
+    "respuestaCorrecta": "Exclusión de órdenes manifiestamente ilegales"
+  }
+  
+]

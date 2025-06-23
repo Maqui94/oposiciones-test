@@ -1,0 +1,3002 @@
+[
+  {
+    "pregunta": "¿Cuál es el objetivo principal de las políticas públicas de seguridad según el documento?",
+    "opciones": [
+      "El castigo penal",
+      "La prevención del delito",
+      "El control migratorio",
+      "El aumento de cárceles"
+    ],
+    "respuestaCorrecta": "La prevención del delito"
+  },
+  {
+    "pregunta": "¿Qué factores favorecen la victimización y delincuencia según el texto?",
+    "opciones": [
+      "Falta de policías y armas",
+      "Factores causales o de fondo",
+      "Reducción de leyes penales",
+      "Educación superior"
+    ],
+    "respuestaCorrecta": "Factores causales o de fondo"
+  },
+  {
+    "pregunta": "¿Qué nombre reciben los factores que están asociados a diferentes tipos de delitos?",
+    "opciones": [
+      "Factores sociales",
+      "Factores psicológicos",
+      "Factores de riesgo",
+      "Factores de poder"
+    ],
+    "respuestaCorrecta": "Factores de riesgo"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores se menciona como influencia en la criminalidad?",
+    "opciones": [
+      "Factores climáticos",
+      "Factores familiares y del entorno local",
+      "Factores lingüísticos",
+      "Factores religiosos exclusivamente"
+    ],
+    "respuestaCorrecta": "Factores familiares y del entorno local"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos más importantes del sistema penal?",
+    "opciones": [
+      "El castigo inmediato",
+      "La prevención del delito",
+      "La rehabilitación económica",
+      "El control total"
+    ],
+    "respuestaCorrecta": "La prevención del delito"
+  },
+  {
+    "pregunta": "¿Qué escuela introdujo la noción moderna de prevención?",
+    "opciones": [
+      "Escuela Clásica",
+      "Escuela Positivista",
+      "Escuela Crítica",
+      "Escuela Neoclásica"
+    ],
+    "respuestaCorrecta": "Escuela Positivista"
+  },
+  {
+    "pregunta": "¿En qué década comenzó a expandirse significativamente la noción de prevención del delito?",
+    "opciones": [
+      "Década de 1950",
+      "Década de 1970",
+      "Década de 1980",
+      "Década de 2000"
+    ],
+    "respuestaCorrecta": "Década de 1980"
+  },
+  {
+    "pregunta": "¿Cómo ha evolucionado la función de prevención desde los años 80?",
+    "opciones": [
+      "Se ha restringido solo a la función penal",
+      "Ha desaparecido del discurso policial",
+      "Ha pasado de vigilancia limitada a enfoque transversal",
+      "Ha sido sustituida por estrategias militares"
+    ],
+    "respuestaCorrecta": "Ha pasado de vigilancia limitada a enfoque transversal"
+  },
+  {
+    "pregunta": "¿Qué actores se suman a la prevención en su enfoque moderno?",
+    "opciones": [
+      "Solo fuerzas armadas",
+      "Solo ONGs",
+      "Múltiples actores estatales y comunitarios",
+      "Solo ministerios de defensa"
+    ],
+    "respuestaCorrecta": "Múltiples actores estatales y comunitarios"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre prevención del delito y estrategias nacionales de seguridad pública?",
+    "opciones": [
+      "La prevención ha sido eliminada de estas estrategias",
+      "Es un componente cada vez más importante",
+      "No se relacionan",
+      "La seguridad pública solo se basa en represión"
+    ],
+    "respuestaCorrecta": "Es un componente cada vez más importante"
+  },
+  {
+    "pregunta": "¿Qué permite determinar los factores asociados a los delitos?",
+    "opciones": [
+      "Eliminar los tribunales",
+      "Crear cárceles más grandes",
+      "Diseñar estrategias y programas para prevenir delitos",
+      "Reducir la participación comunitaria"
+    ],
+    "respuestaCorrecta": "Diseñar estrategias y programas para prevenir delitos"
+  },
+  {
+    "pregunta": "¿Qué enfoque plantea que es mejor prevenir el crimen que reprimirlo?",
+    "opciones": [
+      "Positivismo lógico",
+      "Prevención penal",
+      "Control carcelario",
+      "Sistema clásico"
+    ],
+    "respuestaCorrecta": "Prevención penal"
+  },
+  {
+    "pregunta": "¿Cómo se describe la función preventiva en el enfoque moderno?",
+    "opciones": [
+      "Como una tarea exclusiva de la policía",
+      "Como una vigilancia pasiva",
+      "Como un enfoque transversal con múltiples actores",
+      "Como una intervención militar"
+    ],
+    "respuestaCorrecta": "Como un enfoque transversal con múltiples actores"
+  },
+  {
+    "pregunta": "¿Qué influencias afectan las condiciones sociales y económicas de países según el texto?",
+    "opciones": [
+      "Normas jurídicas",
+      "Tendencias globales",
+      "Inflación monetaria",
+      "Presión militar"
+    ],
+    "respuestaCorrecta": "Tendencias globales"
+  },
+  {
+    "pregunta": "¿Qué papel tienen las políticas públicas en la actividad policial?",
+    "opciones": [
+      "Dirigir exclusivamente la represión",
+      "Orientar y establecer objetivos clave como la prevención",
+      "Eliminar la vigilancia",
+      "Aumentar el presupuesto militar"
+    ],
+    "respuestaCorrecta": "Orientar y establecer objetivos clave como la prevención"
+  },
+  {
+    "pregunta": "¿Qué aspectos deben abordarse para reducir la victimización y el delito?",
+    "opciones": [
+      "Solo presencia policial",
+      "Aspectos morales",
+      "Factores y circunstancias que afectan a personas y entornos",
+      "Factores judiciales"
+    ],
+    "respuestaCorrecta": "Factores y circunstancias que afectan a personas y entornos"
+  },
+  {
+    "pregunta": "¿Cómo influye la ONU en las estrategias de prevención del delito?",
+    "opciones": [
+      "No tiene influencia",
+      "Mediante la imposición de penas",
+      "Promoviendo estrategias basadas en múltiples causas delictivas",
+      "Con campañas publicitarias"
+    ],
+    "respuestaCorrecta": "Promoviendo estrategias basadas en múltiples causas delictivas"
+  },
+  {
+    "pregunta": "¿Qué importancia se le otorga a la prevención del delito en estrategias nacionales?",
+    "opciones": [
+      "Es secundaria",
+      "Es el objetivo menos importante",
+      "Es una función exclusiva de cárceles",
+      "Es un componente clave y creciente"
+    ],
+    "respuestaCorrecta": "Es un componente clave y creciente"
+  },
+  {
+    "pregunta": "¿Qué idea subyace en la prevención del delito según el documento?",
+    "opciones": [
+      "Los delitos no pueden prevenirse",
+      "El delito se combate solo con castigo",
+      "El delito se puede reducir si se modifican factores de riesgo",
+      "La prevención es competencia militar"
+    ],
+    "respuestaCorrecta": "El delito se puede reducir si se modifican factores de riesgo"
+  },
+  {
+    "pregunta": "¿Cómo se llama el documento de Naciones Unidas que orienta la prevención del delito?",
+    "opciones": [
+      "Convenio Penal Internacional",
+      "Conferencia de Seguridad Global",
+      "Líneas Directrices de las Naciones Unidas para la Prevención del Delito",
+      "Carta de Derechos Humanos"
+    ],
+    "respuestaCorrecta": "Líneas Directrices de las Naciones Unidas para la Prevención del Delito"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene una estrategia de prevención del delito basada en evidencia?",
+    "opciones": [
+      "Limitar la intervención de la comunidad",
+      "Imponer castigos más severos",
+      "Reducir los factores de riesgo identificados",
+      "Aumentar el poder judicial"
+    ],
+    "respuestaCorrecta": "Reducir los factores de riesgo identificados"
+  },
+  {
+    "pregunta": "¿Qué dimensión debe tener la prevención del delito para ser eficaz?",
+    "opciones": [
+      "Únicamente policial",
+      "Solo institucional",
+      "Integral y multidimensional",
+      "Basada en la ley penal"
+    ],
+    "respuestaCorrecta": "Integral y multidimensional"
+  },
+  {
+    "pregunta": "¿Qué función cumplen los gobiernos locales en la prevención del delito?",
+    "opciones": [
+      "Reprimir el delito directamente",
+      "Coordinar con las fuerzas armadas",
+      "Liderar estrategias locales de prevención",
+      "Eliminar leyes antiguas"
+    ],
+    "respuestaCorrecta": "Liderar estrategias locales de prevención"
+  },
+  {
+    "pregunta": "¿Qué actores pueden participar en las estrategias de prevención del delito?",
+    "opciones": [
+      "Solo policías",
+      "Únicamente jueces",
+      "Familias, escuelas, empresas, medios de comunicación y ONG",
+      "Diputados y fiscales"
+    ],
+    "respuestaCorrecta": "Familias, escuelas, empresas, medios de comunicación y ONG"
+  },
+  {
+    "pregunta": "¿Qué se requiere para que una estrategia de prevención sea sostenible?",
+    "opciones": [
+      "Un alto presupuesto militar",
+      "Participación exclusiva del Estado",
+      "Compromiso de todos los sectores sociales",
+      "Apoyo internacional únicamente"
+    ],
+    "respuestaCorrecta": "Compromiso de todos los sectores sociales"
+  },
+  {
+    "pregunta": "¿Qué papel tienen los medios de comunicación en la prevención del delito?",
+    "opciones": [
+      "Promover el miedo social",
+      "Silenciar la delincuencia",
+      "Transmitir información y fomentar valores de convivencia",
+      "Reforzar castigos penales"
+    ],
+    "respuestaCorrecta": "Transmitir información y fomentar valores de convivencia"
+  },
+  {
+    "pregunta": "¿Qué tipo de intervención implica la prevención social del delito?",
+    "opciones": [
+      "Militarización de barrios",
+      "Campañas punitivas",
+      "Atención a factores estructurales como pobreza, exclusión o violencia",
+      "Expulsión de jóvenes"
+    ],
+    "respuestaCorrecta": "Atención a factores estructurales como pobreza, exclusión o violencia"
+  },
+  {
+    "pregunta": "¿Qué permite un diagnóstico adecuado en prevención del delito?",
+    "opciones": [
+      "Crear nuevas cárceles",
+      "Diseñar sanciones más duras",
+      "Identificar causas y soluciones adecuadas",
+      "Reducir presupuesto educativo"
+    ],
+    "respuestaCorrecta": "Identificar causas y soluciones adecuadas"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse al implementar programas de prevención?",
+    "opciones": [
+      "Evaluación de impacto",
+      "Participación ciudadana",
+      "Intervención integral",
+      "Imposición sin diagnóstico"
+    ],
+    "respuestaCorrecta": "Imposición sin diagnóstico"
+  },
+  {
+    "pregunta": "¿Qué acción fortalece la prevención desde el entorno escolar?",
+    "opciones": [
+      "Sanción pública",
+      "Educación en valores y resolución pacífica de conflictos",
+      "Aislamiento del alumnado",
+      "Uniformidad ideológica"
+    ],
+    "respuestaCorrecta": "Educación en valores y resolución pacífica de conflictos"
+  },
+  {
+    "pregunta": "¿Qué sector NO es mencionado como clave en prevención del delito?",
+    "opciones": [
+      "Medios de comunicación",
+      "Educación",
+      "Empresas",
+      "Sector petrolero"
+    ],
+    "respuestaCorrecta": "Sector petrolero"
+  },
+  {
+    "pregunta": "¿Qué implica una política pública preventiva?",
+    "opciones": [
+      "Reprimir sin analizar",
+      "Usar exclusivamente recursos policiales",
+      "Articular sectores y reducir factores de riesgo",
+      "Incrementar penas judiciales"
+    ],
+    "respuestaCorrecta": "Articular sectores y reducir factores de riesgo"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite prevenir la violencia desde la comunidad?",
+    "opciones": [
+      "Centralización de decisiones",
+      "Participación activa y corresponsabilidad social",
+      "Militarización del territorio",
+      "Privatización de la seguridad"
+    ],
+    "respuestaCorrecta": "Participación activa y corresponsabilidad social"
+  },
+  {
+    "pregunta": "¿Qué estrategia preventiva es más efectiva según evidencia?",
+    "opciones": [
+      "Incrementar penas sin diagnóstico",
+      "Educación y desarrollo social",
+      "Represión directa",
+      "Presión mediática"
+    ],
+    "respuestaCorrecta": "Educación y desarrollo social"
+  },
+  {
+    "pregunta": "¿Qué fortalece la sostenibilidad de una política de prevención?",
+    "opciones": [
+      "Dependencia policial",
+      "Intervención internacional",
+      "Evaluación continua y participación local",
+      "Autoritarismo"
+    ],
+    "respuestaCorrecta": "Evaluación continua y participación local"
+  },
+  {
+    "pregunta": "¿Qué herramienta mejora la eficacia de la prevención?",
+    "opciones": [
+      "Imposición normativa",
+      "Diagnóstico participativo",
+      "Sanción automática",
+      "Supresión de derechos"
+    ],
+    "respuestaCorrecta": "Diagnóstico participativo"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe incluir toda política de prevención?",
+    "opciones": [
+      "Incremento de cárceles",
+      "Evaluación de resultados",
+      "Supresión de libertades",
+      "Inacción estatal"
+    ],
+    "respuestaCorrecta": "Evaluación de resultados"
+  },
+  {
+    "pregunta": "¿Qué enfoque se destaca en las políticas públicas de seguridad modernas?",
+    "opciones": [
+      "Solo vigilancia",
+      "Exclusividad judicial",
+      "Prevención basada en evidencia",
+      "Control social masivo"
+    ],
+    "respuestaCorrecta": "Prevención basada en evidencia"
+  },
+  {
+    "pregunta": "¿Qué debe guiar toda intervención preventiva?",
+    "opciones": [
+      "Intuición policial",
+      "Necesidades de control político",
+      "Información diagnóstica y análisis de contexto",
+      "Presiones económicas"
+    ],
+    "respuestaCorrecta": "Información diagnóstica y análisis de contexto"
+  },
+  {
+    "pregunta": "¿Qué relación existe entre educación y prevención del delito?",
+    "opciones": [
+      "Ninguna",
+      "La educación aumenta la impunidad",
+      "La educación fortalece valores y reduce riesgos",
+      "La educación reemplaza a la justicia"
+    ],
+    "respuestaCorrecta": "La educación fortalece valores y reduce riesgos"
+  },
+  {
+    "pregunta": "¿Qué elemento clave distingue una política preventiva de una política represiva?",
+    "opciones": [
+      "La duración de la intervención",
+      "El uso de prisión preventiva",
+      "La atención a causas sociales del delito",
+      "El número de policías desplegados"
+    ],
+    "respuestaCorrecta": "La atención a causas sociales del delito"
+  },
+  {
+    "pregunta": "¿Qué estrategia favorece la reintegración social de jóvenes en conflicto?",
+    "opciones": [
+      "Aislamiento penal",
+      "Educación, empleo y redes comunitarias",
+      "Sanciones económicas",
+      "Denuncias repetidas"
+    ],
+    "respuestaCorrecta": "Educación, empleo y redes comunitarias"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe priorizarse al trabajar con adolescentes vulnerables?",
+    "opciones": [
+      "Castigo inmediato",
+      "Observación policial",
+      "Prevención de riesgos y fortalecimiento de vínculos",
+      "Retiro de becas escolares"
+    ],
+    "respuestaCorrecta": "Prevención de riesgos y fortalecimiento de vínculos"
+  },
+  {
+    "pregunta": "¿Qué rol cumplen los centros educativos en la prevención del delito?",
+    "opciones": [
+      "Aplicar sanciones judiciales",
+      "Implementar vigilancia masiva",
+      "Generar espacios de diálogo y convivencia",
+      "Sustituir al sistema penal"
+    ],
+    "respuestaCorrecta": "Generar espacios de diálogo y convivencia"
+  },
+  {
+    "pregunta": "¿Qué función tiene el deporte en programas de prevención del delito?",
+    "opciones": [
+      "Fomentar competencia agresiva",
+      "Ocultar la violencia",
+      "Fortalecer la inclusión y reducir violencia juvenil",
+      "Aumentar la disciplina militar"
+    ],
+    "respuestaCorrecta": "Fortalecer la inclusión y reducir violencia juvenil"
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la familia en la prevención temprana?",
+    "opciones": [
+      "Es irrelevante",
+      "Solo educa en normas",
+      "Proporciona afecto, límites y sentido de pertenencia",
+      "Debe ser controlada por el Estado"
+    ],
+    "respuestaCorrecta": "Proporciona afecto, límites y sentido de pertenencia"
+  },
+  {
+    "pregunta": "¿Qué prácticas comunitarias fortalecen la prevención?",
+    "opciones": [
+      "Denuncia anónima constante",
+      "Participación, solidaridad y trabajo en red",
+      "Vigilancia masiva de vecinos",
+      "Reuniones policiales frecuentes"
+    ],
+    "respuestaCorrecta": "Participación, solidaridad y trabajo en red"
+  },
+  {
+    "pregunta": "¿Qué acciones reducen el riesgo de reincidencia delictiva?",
+    "opciones": [
+      "Mayor vigilancia",
+      "Inmovilización social",
+      "Acceso a empleo, apoyo psicosocial y redes sociales",
+      "Extensión del tiempo carcelario"
+    ],
+    "respuestaCorrecta": "Acceso a empleo, apoyo psicosocial y redes sociales"
+  },
+  {
+    "pregunta": "¿Qué elemento facilita la transformación de contextos violentos?",
+    "opciones": [
+      "Militarización",
+      "Aislamiento comunitario",
+      "Participación activa y colaboración institucional",
+      "Despliegue judicial"
+    ],
+    "respuestaCorrecta": "Participación activa y colaboración institucional"
+  },
+  {
+    "pregunta": "¿Qué visión debe evitarse en políticas de seguridad?",
+    "opciones": [
+      "Enfoque integral",
+      "Intervención temprana",
+      "Prevención de riesgos",
+      "Reducción al control policial"
+    ],
+    "respuestaCorrecta": "Reducción al control policial"
+  },
+  {
+    "pregunta": "¿Qué estrategia promueve la corresponsabilidad ciudadana?",
+    "opciones": [
+      "Acciones unilaterales del Estado",
+      "Presión punitiva",
+      "Procesos participativos y construcción colectiva",
+      "Campañas electorales"
+    ],
+    "respuestaCorrecta": "Procesos participativos y construcción colectiva"
+  },
+  {
+    "pregunta": "¿Qué tipo de enfoque mejora la prevención territorial?",
+    "opciones": [
+      "Imposición legal",
+      "Evaluación exclusivamente judicial",
+      "Abordaje intersectorial y contextual",
+      "Vigilancia privada"
+    ],
+    "respuestaCorrecta": "Abordaje intersectorial y contextual"
+  },
+  {
+    "pregunta": "¿Qué fortalece el tejido social para prevenir el delito?",
+    "opciones": [
+      "Estigmatización de zonas",
+      "Criminalización de jóvenes",
+      "Actividades comunitarias y culturales",
+      "Separación por clases sociales"
+    ],
+    "respuestaCorrecta": "Actividades comunitarias y culturales"
+  },
+  {
+    "pregunta": "¿Qué medida reduce la violencia interpersonal?",
+    "opciones": [
+      "Multiplicación de cárceles",
+      "Educación emocional y resolución de conflictos",
+      "Sanciones inmediatas",
+      "Supresión de medios digitales"
+    ],
+    "respuestaCorrecta": "Educación emocional y resolución de conflictos"
+  },
+  {
+    "pregunta": "¿Qué rol cumple el entorno barrial en prevención?",
+    "opciones": [
+      "Favorece el anonimato delictivo",
+      "Promueve desigualdades",
+      "Puede generar confianza y apoyo mutuo",
+      "Genera dependencia estatal"
+    ],
+    "respuestaCorrecta": "Puede generar confianza y apoyo mutuo"
+  },
+  {
+    "pregunta": "¿Qué herramienta favorece la prevención entre pares?",
+    "opciones": [
+      "Represión entre iguales",
+      "Competencia escolar",
+      "Mentoría y apoyo entre jóvenes",
+      "Separación por edades"
+    ],
+    "respuestaCorrecta": "Mentoría y apoyo entre jóvenes"
+  },
+  {
+    "pregunta": "¿Qué implica la inclusión efectiva para prevenir delitos?",
+    "opciones": [
+      "Redistribución punitiva",
+      "Acceso real a derechos, educación y participación",
+      "Reducción del gasto público",
+      "Supresión de asociaciones civiles"
+    ],
+    "respuestaCorrecta": "Acceso real a derechos, educación y participación"
+  },
+  {
+    "pregunta": "¿Qué enfoque garantiza prevención duradera?",
+    "opciones": [
+      "Intervención policial sin diagnóstico",
+      "Educación, oportunidades y comunidad activa",
+      "Centralización de la justicia",
+      "Vigilancia biométrica"
+    ],
+    "respuestaCorrecta": "Educación, oportunidades y comunidad activa"
+  },
+  {
+    "pregunta": "¿Qué característica tiene una política criminal humanista?",
+    "opciones": [
+      "Reprime por defecto",
+      "Fortalece estructuras militarizadas",
+      "Promueve dignidad y prevención integral",
+      "Privilegia castigo sobre prevención"
+    ],
+    "respuestaCorrecta": "Promueve dignidad y prevención integral"
+  },
+  {
+    "pregunta": "¿Qué debilita los procesos preventivos?",
+    "opciones": [
+      "Colaboración vecinal",
+      "Estigmatización, represión y exclusión",
+      "Integración territorial",
+      "Educación para la paz"
+    ],
+    "respuestaCorrecta": "Estigmatización, represión y exclusión"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene una política de seguridad ciudadana basada en derechos humanos?",
+    "opciones": [
+      "Fortalecer la represión policial",
+      "Reducir los gastos sociales",
+      "Proteger la vida, libertad y dignidad de todas las personas",
+      "Controlar los movimientos sociales"
+    ],
+    "respuestaCorrecta": "Proteger la vida, libertad y dignidad de todas las personas"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar en las intervenciones estatales para prevenir el delito?",
+    "opciones": [
+      "Acciones policiales puntuales",
+      "Coordinación institucional",
+      "Estigmatización y criminalización de poblaciones vulnerables",
+      "Participación comunitaria"
+    ],
+    "respuestaCorrecta": "Estigmatización y criminalización de poblaciones vulnerables"
+  },
+  {
+    "pregunta": "¿Qué valor debe guiar una política pública preventiva?",
+    "opciones": [
+      "La mano dura",
+      "El castigo ejemplar",
+      "La equidad y justicia social",
+      "La eficiencia económica"
+    ],
+    "respuestaCorrecta": "La equidad y justicia social"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre seguridad y desarrollo según el enfoque de prevención?",
+    "opciones": [
+      "Son excluyentes",
+      "La seguridad se impone al desarrollo",
+      "El desarrollo social fortalece la seguridad",
+      "Solo el desarrollo económico importa"
+    ],
+    "respuestaCorrecta": "El desarrollo social fortalece la seguridad"
+  },
+  {
+    "pregunta": "¿Qué papel juega el acceso a derechos en la prevención del delito?",
+    "opciones": [
+      "Ninguno",
+      "Solo en zonas urbanas",
+      "Es clave para reducir vulnerabilidades",
+      "Debe restringirse"
+    ],
+    "respuestaCorrecta": "Es clave para reducir vulnerabilidades"
+  },
+  {
+    "pregunta": "¿Qué visión se critica en los discursos punitivos?",
+    "opciones": [
+      "La prevención comunitaria",
+      "La corresponsabilidad social",
+      "El enfoque de mano dura",
+      "La justicia restaurativa"
+    ],
+    "respuestaCorrecta": "El enfoque de mano dura"
+  },
+  {
+    "pregunta": "¿Qué debilita las estrategias preventivas basadas en evidencia?",
+    "opciones": [
+      "La evaluación constante",
+      "El enfoque integral",
+      "El uso de datos confiables",
+      "La ideología punitivista"
+    ],
+    "respuestaCorrecta": "La ideología punitivista"
+  },
+  {
+    "pregunta": "¿Qué población suele ser más afectada por las políticas de criminalización?",
+    "opciones": [
+      "Adultos con estudios universitarios",
+      "Personas mayores",
+      "Población joven, pobre y marginada",
+      "Funcionarios públicos"
+    ],
+    "respuestaCorrecta": "Población joven, pobre y marginada"
+  },
+  {
+    "pregunta": "¿Qué enfoque busca transformar las causas estructurales del delito?",
+    "opciones": [
+      "Represión selectiva",
+      "Prevención social del delito",
+      "Sanción automática",
+      "Militarización de barrios"
+    ],
+    "respuestaCorrecta": "Prevención social del delito"
+  },
+  {
+    "pregunta": "¿Qué papel cumple la planificación en prevención del delito?",
+    "opciones": [
+      "Restringe la participación ciudadana",
+      "Permite establecer prioridades y coordinar acciones",
+      "Se opone a la acción policial",
+      "Sustituye a la justicia"
+    ],
+    "respuestaCorrecta": "Permite establecer prioridades y coordinar acciones"
+  },
+  {
+    "pregunta": "¿Qué debe incluir toda política integral de prevención?",
+    "opciones": [
+      "Presencia militar permanente",
+      "Diagnóstico territorial, participación y evaluación",
+      "Reducción del gasto público",
+      "Medidas judiciales estrictas"
+    ],
+    "respuestaCorrecta": "Diagnóstico territorial, participación y evaluación"
+  },
+  {
+    "pregunta": "¿Qué concepto vincula la prevención del delito con la convivencia?",
+    "opciones": [
+      "Conflicto armado",
+      "Control político",
+      "Cultura de paz",
+      "Represión preventiva"
+    ],
+    "respuestaCorrecta": "Cultura de paz"
+  },
+  {
+    "pregunta": "¿Qué estrategia favorece la inclusión de grupos excluidos?",
+    "opciones": [
+      "Segregación territorial",
+      "Educación y participación social",
+      "Cierre de espacios públicos",
+      "Vigilancia digital masiva"
+    ],
+    "respuestaCorrecta": "Educación y participación social"
+  },
+  {
+    "pregunta": "¿Qué papel juega la justicia restaurativa en prevención?",
+    "opciones": [
+      "Solo aplica en casos graves",
+      "Complementa medidas punitivas",
+      "Favorece la reparación y reconstrucción de vínculos",
+      "Sustituye al sistema penal"
+    ],
+    "respuestaCorrecta": "Favorece la reparación y reconstrucción de vínculos"
+  },
+  {
+    "pregunta": "¿Qué elemento es clave en políticas públicas basadas en evidencia?",
+    "opciones": [
+      "Aumento del castigo",
+      "Estudios previos, seguimiento y evaluación",
+      "Reducir participación civil",
+      "Promover juicios sumarios"
+    ],
+    "respuestaCorrecta": "Estudios previos, seguimiento y evaluación"
+  },
+  {
+    "pregunta": "¿Qué estrategia se menciona como eficaz para prevenir la violencia urbana?",
+    "opciones": [
+      "Aumento de patrullas",
+      "Trabajo comunitario, inclusión y diseño urbano",
+      "Vigilancia digital",
+      "Reformas legales aisladas"
+    ],
+    "respuestaCorrecta": "Trabajo comunitario, inclusión y diseño urbano"
+  },
+  {
+    "pregunta": "¿Qué principio debe orientar toda intervención preventiva?",
+    "opciones": [
+      "Proporcionalidad, participación y derechos humanos",
+      "Rapidez policial",
+      "Castigo mediático",
+      "Reducción del estado"
+    ],
+    "respuestaCorrecta": "Proporcionalidad, participación y derechos humanos"
+  },
+  {
+    "pregunta": "¿Qué impacto tiene la falta de oportunidades en los jóvenes?",
+    "opciones": [
+      "Facilita la reinserción",
+      "Reduce la migración",
+      "Aumenta la vulnerabilidad y el riesgo delictivo",
+      "Promueve el diálogo intergeneracional"
+    ],
+    "respuestaCorrecta": "Aumenta la vulnerabilidad y el riesgo delictivo"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en políticas preventivas eficaces?",
+    "opciones": [
+      "Diagnóstico previo",
+      "Ideologización, exclusión y criminalización",
+      "Evaluación participativa",
+      "Planificación intersectorial"
+    ],
+    "respuestaCorrecta": "Ideologización, exclusión y criminalización"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite reducir desigualdades sociales?",
+    "opciones": [
+      "Control policial exclusivo",
+      "Educación punitiva",
+      "Desarrollo humano con enfoque de derechos",
+      "Reclusión masiva"
+    ],
+    "respuestaCorrecta": "Desarrollo humano con enfoque de derechos"
+  },
+   {
+    "pregunta": "¿Cuál es el objetivo principal de las políticas públicas de seguridad según el documento?",
+    "opciones": [
+      "El castigo penal",
+      "La prevención del delito",
+      "El control migratorio",
+      "El aumento de cárceles"
+    ],
+    "respuestaCorrecta": "La prevención del delito"
+  },
+  {
+    "pregunta": "¿Qué factores favorecen la victimización y delincuencia según el texto?",
+    "opciones": [
+      "Falta de policías y armas",
+      "Factores causales o de fondo",
+      "Reducción de leyes penales",
+      "Educación superior"
+    ],
+    "respuestaCorrecta": "Factores causales o de fondo"
+  },
+  {
+    "pregunta": "¿Qué nombre reciben los factores que están asociados a diferentes tipos de delitos?",
+    "opciones": [
+      "Factores sociales",
+      "Factores psicológicos",
+      "Factores de riesgo",
+      "Factores de poder"
+    ],
+    "respuestaCorrecta": "Factores de riesgo"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores se menciona como influencia en la criminalidad?",
+    "opciones": [
+      "Factores climáticos",
+      "Factores familiares y del entorno local",
+      "Factores lingüísticos",
+      "Factores religiosos exclusivamente"
+    ],
+    "respuestaCorrecta": "Factores familiares y del entorno local"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos más importantes del sistema penal?",
+    "opciones": [
+      "El castigo inmediato",
+      "La prevención del delito",
+      "La rehabilitación económica",
+      "El control total"
+    ],
+    "respuestaCorrecta": "La prevención del delito"
+  },
+  {
+    "pregunta": "¿Qué escuela introdujo la noción moderna de prevención?",
+    "opciones": [
+      "Escuela Clásica",
+      "Escuela Positivista",
+      "Escuela Crítica",
+      "Escuela Neoclásica"
+    ],
+    "respuestaCorrecta": "Escuela Positivista"
+  },
+  {
+    "pregunta": "¿En qué década comenzó a expandirse significativamente la noción de prevención del delito?",
+    "opciones": [
+      "Década de 1950",
+      "Década de 1970",
+      "Década de 1980",
+      "Década de 2000"
+    ],
+    "respuestaCorrecta": "Década de 1980"
+  },
+  {
+    "pregunta": "¿Cómo ha evolucionado la función de prevención desde los años 80?",
+    "opciones": [
+      "Se ha restringido solo a la función penal",
+      "Ha desaparecido del discurso policial",
+      "Ha pasado de vigilancia limitada a enfoque transversal",
+      "Ha sido sustituida por estrategias militares"
+    ],
+    "respuestaCorrecta": "Ha pasado de vigilancia limitada a enfoque transversal"
+  },
+  {
+    "pregunta": "¿Qué actores se suman a la prevención en su enfoque moderno?",
+    "opciones": [
+      "Solo fuerzas armadas",
+      "Solo ONGs",
+      "Múltiples actores estatales y comunitarios",
+      "Solo ministerios de defensa"
+    ],
+    "respuestaCorrecta": "Múltiples actores estatales y comunitarios"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre prevención del delito y estrategias nacionales de seguridad pública?",
+    "opciones": [
+      "La prevención ha sido eliminada de estas estrategias",
+      "Es un componente cada vez más importante",
+      "No se relacionan",
+      "La seguridad pública solo se basa en represión"
+    ],
+    "respuestaCorrecta": "Es un componente cada vez más importante"
+  },
+  {
+    "pregunta": "¿Qué permite determinar los factores asociados a los delitos?",
+    "opciones": [
+      "Eliminar los tribunales",
+      "Crear cárceles más grandes",
+      "Diseñar estrategias y programas para prevenir delitos",
+      "Reducir la participación comunitaria"
+    ],
+    "respuestaCorrecta": "Diseñar estrategias y programas para prevenir delitos"
+  },
+  {
+    "pregunta": "¿Qué enfoque plantea que es mejor prevenir el crimen que reprimirlo?",
+    "opciones": [
+      "Positivismo lógico",
+      "Prevención penal",
+      "Control carcelario",
+      "Sistema clásico"
+    ],
+    "respuestaCorrecta": "Prevención penal"
+  },
+  {
+    "pregunta": "¿Cómo se describe la función preventiva en el enfoque moderno?",
+    "opciones": [
+      "Como una tarea exclusiva de la policía",
+      "Como una vigilancia pasiva",
+      "Como un enfoque transversal con múltiples actores",
+      "Como una intervención militar"
+    ],
+    "respuestaCorrecta": "Como un enfoque transversal con múltiples actores"
+  },
+  {
+    "pregunta": "¿Qué influencias afectan las condiciones sociales y económicas de países según el texto?",
+    "opciones": [
+      "Normas jurídicas",
+      "Tendencias globales",
+      "Inflación monetaria",
+      "Presión militar"
+    ],
+    "respuestaCorrecta": "Tendencias globales"
+  },
+  {
+    "pregunta": "¿Qué papel tienen las políticas públicas en la actividad policial?",
+    "opciones": [
+      "Dirigir exclusivamente la represión",
+      "Orientar y establecer objetivos clave como la prevención",
+      "Eliminar la vigilancia",
+      "Aumentar el presupuesto militar"
+    ],
+    "respuestaCorrecta": "Orientar y establecer objetivos clave como la prevención"
+  },
+  {
+    "pregunta": "¿Qué aspectos deben abordarse para reducir la victimización y el delito?",
+    "opciones": [
+      "Solo presencia policial",
+      "Aspectos morales",
+      "Factores y circunstancias que afectan a personas y entornos",
+      "Factores judiciales"
+    ],
+    "respuestaCorrecta": "Factores y circunstancias que afectan a personas y entornos"
+  },
+  {
+    "pregunta": "¿Cómo influye la ONU en las estrategias de prevención del delito?",
+    "opciones": [
+      "No tiene influencia",
+      "Mediante la imposición de penas",
+      "Promoviendo estrategias basadas en múltiples causas delictivas",
+      "Con campañas publicitarias"
+    ],
+    "respuestaCorrecta": "Promoviendo estrategias basadas en múltiples causas delictivas"
+  },
+  {
+    "pregunta": "¿Qué importancia se le otorga a la prevención del delito en estrategias nacionales?",
+    "opciones": [
+      "Es secundaria",
+      "Es el objetivo menos importante",
+      "Es una función exclusiva de cárceles",
+      "Es un componente clave y creciente"
+    ],
+    "respuestaCorrecta": "Es un componente clave y creciente"
+  },
+  {
+    "pregunta": "¿Qué idea subyace en la prevención del delito según el documento?",
+    "opciones": [
+      "Los delitos no pueden prevenirse",
+      "El delito se combate solo con castigo",
+      "El delito se puede reducir si se modifican factores de riesgo",
+      "La prevención es competencia militar"
+    ],
+    "respuestaCorrecta": "El delito se puede reducir si se modifican factores de riesgo"
+  },
+  {
+    "pregunta": "¿Cómo se llama el documento de Naciones Unidas que orienta la prevención del delito?",
+    "opciones": [
+      "Convenio Penal Internacional",
+      "Conferencia de Seguridad Global",
+      "Líneas Directrices de las Naciones Unidas para la Prevención del Delito",
+      "Carta de Derechos Humanos"
+    ],
+    "respuestaCorrecta": "Líneas Directrices de las Naciones Unidas para la Prevención del Delito"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene una estrategia de prevención del delito basada en evidencia?",
+    "opciones": [
+      "Limitar la intervención de la comunidad",
+      "Imponer castigos más severos",
+      "Reducir los factores de riesgo identificados",
+      "Aumentar el poder judicial"
+    ],
+    "respuestaCorrecta": "Reducir los factores de riesgo identificados"
+  },
+  {
+    "pregunta": "¿Qué dimensión debe tener la prevención del delito para ser eficaz?",
+    "opciones": [
+      "Únicamente policial",
+      "Solo institucional",
+      "Integral y multidimensional",
+      "Basada en la ley penal"
+    ],
+    "respuestaCorrecta": "Integral y multidimensional"
+  },
+  {
+    "pregunta": "¿Qué función cumplen los gobiernos locales en la prevención del delito?",
+    "opciones": [
+      "Reprimir el delito directamente",
+      "Coordinar con las fuerzas armadas",
+      "Liderar estrategias locales de prevención",
+      "Eliminar leyes antiguas"
+    ],
+    "respuestaCorrecta": "Liderar estrategias locales de prevención"
+  },
+  {
+    "pregunta": "¿Qué actores pueden participar en las estrategias de prevención del delito?",
+    "opciones": [
+      "Solo policías",
+      "Únicamente jueces",
+      "Familias, escuelas, empresas, medios de comunicación y ONG",
+      "Diputados y fiscales"
+    ],
+    "respuestaCorrecta": "Familias, escuelas, empresas, medios de comunicación y ONG"
+  },
+  {
+    "pregunta": "¿Qué se requiere para que una estrategia de prevención sea sostenible?",
+    "opciones": [
+      "Un alto presupuesto militar",
+      "Participación exclusiva del Estado",
+      "Compromiso de todos los sectores sociales",
+      "Apoyo internacional únicamente"
+    ],
+    "respuestaCorrecta": "Compromiso de todos los sectores sociales"
+  },
+  {
+    "pregunta": "¿Qué papel tienen los medios de comunicación en la prevención del delito?",
+    "opciones": [
+      "Promover el miedo social",
+      "Silenciar la delincuencia",
+      "Transmitir información y fomentar valores de convivencia",
+      "Reforzar castigos penales"
+    ],
+    "respuestaCorrecta": "Transmitir información y fomentar valores de convivencia"
+  },
+  {
+    "pregunta": "¿Qué tipo de intervención implica la prevención social del delito?",
+    "opciones": [
+      "Militarización de barrios",
+      "Campañas punitivas",
+      "Atención a factores estructurales como pobreza, exclusión o violencia",
+      "Expulsión de jóvenes"
+    ],
+    "respuestaCorrecta": "Atención a factores estructurales como pobreza, exclusión o violencia"
+  },
+  {
+    "pregunta": "¿Qué permite un diagnóstico adecuado en prevención del delito?",
+    "opciones": [
+      "Crear nuevas cárceles",
+      "Diseñar sanciones más duras",
+      "Identificar causas y soluciones adecuadas",
+      "Reducir presupuesto educativo"
+    ],
+    "respuestaCorrecta": "Identificar causas y soluciones adecuadas"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse al implementar programas de prevención?",
+    "opciones": [
+      "Evaluación de impacto",
+      "Participación ciudadana",
+      "Intervención integral",
+      "Imposición sin diagnóstico"
+    ],
+    "respuestaCorrecta": "Imposición sin diagnóstico"
+  },
+  {
+    "pregunta": "¿Qué acción fortalece la prevención desde el entorno escolar?",
+    "opciones": [
+      "Sanción pública",
+      "Educación en valores y resolución pacífica de conflictos",
+      "Aislamiento del alumnado",
+      "Uniformidad ideológica"
+    ],
+    "respuestaCorrecta": "Educación en valores y resolución pacífica de conflictos"
+  },
+  {
+    "pregunta": "¿Qué sector NO es mencionado como clave en prevención del delito?",
+    "opciones": [
+      "Medios de comunicación",
+      "Educación",
+      "Empresas",
+      "Sector petrolero"
+    ],
+    "respuestaCorrecta": "Sector petrolero"
+  },
+  {
+    "pregunta": "¿Qué implica una política pública preventiva?",
+    "opciones": [
+      "Reprimir sin analizar",
+      "Usar exclusivamente recursos policiales",
+      "Articular sectores y reducir factores de riesgo",
+      "Incrementar penas judiciales"
+    ],
+    "respuestaCorrecta": "Articular sectores y reducir factores de riesgo"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite prevenir la violencia desde la comunidad?",
+    "opciones": [
+      "Centralización de decisiones",
+      "Participación activa y corresponsabilidad social",
+      "Militarización del territorio",
+      "Privatización de la seguridad"
+    ],
+    "respuestaCorrecta": "Participación activa y corresponsabilidad social"
+  },
+  {
+    "pregunta": "¿Qué estrategia preventiva es más efectiva según evidencia?",
+    "opciones": [
+      "Incrementar penas sin diagnóstico",
+      "Educación y desarrollo social",
+      "Represión directa",
+      "Presión mediática"
+    ],
+    "respuestaCorrecta": "Educación y desarrollo social"
+  },
+  {
+    "pregunta": "¿Qué fortalece la sostenibilidad de una política de prevención?",
+    "opciones": [
+      "Dependencia policial",
+      "Intervención internacional",
+      "Evaluación continua y participación local",
+      "Autoritarismo"
+    ],
+    "respuestaCorrecta": "Evaluación continua y participación local"
+  },
+  {
+    "pregunta": "¿Qué herramienta mejora la eficacia de la prevención?",
+    "opciones": [
+      "Imposición normativa",
+      "Diagnóstico participativo",
+      "Sanción automática",
+      "Supresión de derechos"
+    ],
+    "respuestaCorrecta": "Diagnóstico participativo"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe incluir toda política de prevención?",
+    "opciones": [
+      "Incremento de cárceles",
+      "Evaluación de resultados",
+      "Supresión de libertades",
+      "Inacción estatal"
+    ],
+    "respuestaCorrecta": "Evaluación de resultados"
+  },
+  {
+    "pregunta": "¿Qué enfoque se destaca en las políticas públicas de seguridad modernas?",
+    "opciones": [
+      "Solo vigilancia",
+      "Exclusividad judicial",
+      "Prevención basada en evidencia",
+      "Control social masivo"
+    ],
+    "respuestaCorrecta": "Prevención basada en evidencia"
+  },
+  {
+    "pregunta": "¿Qué debe guiar toda intervención preventiva?",
+    "opciones": [
+      "Intuición policial",
+      "Necesidades de control político",
+      "Información diagnóstica y análisis de contexto",
+      "Presiones económicas"
+    ],
+    "respuestaCorrecta": "Información diagnóstica y análisis de contexto"
+  },
+  {
+    "pregunta": "¿Qué relación existe entre educación y prevención del delito?",
+    "opciones": [
+      "Ninguna",
+      "La educación aumenta la impunidad",
+      "La educación fortalece valores y reduce riesgos",
+      "La educación reemplaza a la justicia"
+    ],
+    "respuestaCorrecta": "La educación fortalece valores y reduce riesgos"
+  },
+  {
+    "pregunta": "¿Qué elemento clave distingue una política preventiva de una política represiva?",
+    "opciones": [
+      "La duración de la intervención",
+      "El uso de prisión preventiva",
+      "La atención a causas sociales del delito",
+      "El número de policías desplegados"
+    ],
+    "respuestaCorrecta": "La atención a causas sociales del delito"
+  },
+  {
+    "pregunta": "¿Qué estrategia favorece la reintegración social de jóvenes en conflicto?",
+    "opciones": [
+      "Aislamiento penal",
+      "Educación, empleo y redes comunitarias",
+      "Sanciones económicas",
+      "Denuncias repetidas"
+    ],
+    "respuestaCorrecta": "Educación, empleo y redes comunitarias"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe priorizarse al trabajar con adolescentes vulnerables?",
+    "opciones": [
+      "Castigo inmediato",
+      "Observación policial",
+      "Prevención de riesgos y fortalecimiento de vínculos",
+      "Retiro de becas escolares"
+    ],
+    "respuestaCorrecta": "Prevención de riesgos y fortalecimiento de vínculos"
+  },
+  {
+    "pregunta": "¿Qué rol cumplen los centros educativos en la prevención del delito?",
+    "opciones": [
+      "Aplicar sanciones judiciales",
+      "Implementar vigilancia masiva",
+      "Generar espacios de diálogo y convivencia",
+      "Sustituir al sistema penal"
+    ],
+    "respuestaCorrecta": "Generar espacios de diálogo y convivencia"
+  },
+  {
+    "pregunta": "¿Qué función tiene el deporte en programas de prevención del delito?",
+    "opciones": [
+      "Fomentar competencia agresiva",
+      "Ocultar la violencia",
+      "Fortalecer la inclusión y reducir violencia juvenil",
+      "Aumentar la disciplina militar"
+    ],
+    "respuestaCorrecta": "Fortalecer la inclusión y reducir violencia juvenil"
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la familia en la prevención temprana?",
+    "opciones": [
+      "Es irrelevante",
+      "Solo educa en normas",
+      "Proporciona afecto, límites y sentido de pertenencia",
+      "Debe ser controlada por el Estado"
+    ],
+    "respuestaCorrecta": "Proporciona afecto, límites y sentido de pertenencia"
+  },
+  {
+    "pregunta": "¿Qué prácticas comunitarias fortalecen la prevención?",
+    "opciones": [
+      "Denuncia anónima constante",
+      "Participación, solidaridad y trabajo en red",
+      "Vigilancia masiva de vecinos",
+      "Reuniones policiales frecuentes"
+    ],
+    "respuestaCorrecta": "Participación, solidaridad y trabajo en red"
+  },
+  {
+    "pregunta": "¿Qué acciones reducen el riesgo de reincidencia delictiva?",
+    "opciones": [
+      "Mayor vigilancia",
+      "Inmovilización social",
+      "Acceso a empleo, apoyo psicosocial y redes sociales",
+      "Extensión del tiempo carcelario"
+    ],
+    "respuestaCorrecta": "Acceso a empleo, apoyo psicosocial y redes sociales"
+  },
+  {
+    "pregunta": "¿Qué elemento facilita la transformación de contextos violentos?",
+    "opciones": [
+      "Militarización",
+      "Aislamiento comunitario",
+      "Participación activa y colaboración institucional",
+      "Despliegue judicial"
+    ],
+    "respuestaCorrecta": "Participación activa y colaboración institucional"
+  },
+  {
+    "pregunta": "¿Qué visión debe evitarse en políticas de seguridad?",
+    "opciones": [
+      "Enfoque integral",
+      "Intervención temprana",
+      "Prevención de riesgos",
+      "Reducción al control policial"
+    ],
+    "respuestaCorrecta": "Reducción al control policial"
+  },
+  {
+    "pregunta": "¿Qué estrategia promueve la corresponsabilidad ciudadana?",
+    "opciones": [
+      "Acciones unilaterales del Estado",
+      "Presión punitiva",
+      "Procesos participativos y construcción colectiva",
+      "Campañas electorales"
+    ],
+    "respuestaCorrecta": "Procesos participativos y construcción colectiva"
+  },
+  {
+    "pregunta": "¿Qué tipo de enfoque mejora la prevención territorial?",
+    "opciones": [
+      "Imposición legal",
+      "Evaluación exclusivamente judicial",
+      "Abordaje intersectorial y contextual",
+      "Vigilancia privada"
+    ],
+    "respuestaCorrecta": "Abordaje intersectorial y contextual"
+  },
+  {
+    "pregunta": "¿Qué fortalece el tejido social para prevenir el delito?",
+    "opciones": [
+      "Estigmatización de zonas",
+      "Criminalización de jóvenes",
+      "Actividades comunitarias y culturales",
+      "Separación por clases sociales"
+    ],
+    "respuestaCorrecta": "Actividades comunitarias y culturales"
+  },
+  {
+    "pregunta": "¿Qué medida reduce la violencia interpersonal?",
+    "opciones": [
+      "Multiplicación de cárceles",
+      "Educación emocional y resolución de conflictos",
+      "Sanciones inmediatas",
+      "Supresión de medios digitales"
+    ],
+    "respuestaCorrecta": "Educación emocional y resolución de conflictos"
+  },
+  {
+    "pregunta": "¿Qué rol cumple el entorno barrial en prevención?",
+    "opciones": [
+      "Favorece el anonimato delictivo",
+      "Promueve desigualdades",
+      "Puede generar confianza y apoyo mutuo",
+      "Genera dependencia estatal"
+    ],
+    "respuestaCorrecta": "Puede generar confianza y apoyo mutuo"
+  },
+  {
+    "pregunta": "¿Qué herramienta favorece la prevención entre pares?",
+    "opciones": [
+      "Represión entre iguales",
+      "Competencia escolar",
+      "Mentoría y apoyo entre jóvenes",
+      "Separación por edades"
+    ],
+    "respuestaCorrecta": "Mentoría y apoyo entre jóvenes"
+  },
+  {
+    "pregunta": "¿Qué implica la inclusión efectiva para prevenir delitos?",
+    "opciones": [
+      "Redistribución punitiva",
+      "Acceso real a derechos, educación y participación",
+      "Reducción del gasto público",
+      "Supresión de asociaciones civiles"
+    ],
+    "respuestaCorrecta": "Acceso real a derechos, educación y participación"
+  },
+  {
+    "pregunta": "¿Qué enfoque garantiza prevención duradera?",
+    "opciones": [
+      "Intervención policial sin diagnóstico",
+      "Educación, oportunidades y comunidad activa",
+      "Centralización de la justicia",
+      "Vigilancia biométrica"
+    ],
+    "respuestaCorrecta": "Educación, oportunidades y comunidad activa"
+  },
+  {
+    "pregunta": "¿Qué característica tiene una política criminal humanista?",
+    "opciones": [
+      "Reprime por defecto",
+      "Fortalece estructuras militarizadas",
+      "Promueve dignidad y prevención integral",
+      "Privilegia castigo sobre prevención"
+    ],
+    "respuestaCorrecta": "Promueve dignidad y prevención integral"
+  },
+  {
+    "pregunta": "¿Qué debilita los procesos preventivos?",
+    "opciones": [
+      "Colaboración vecinal",
+      "Estigmatización, represión y exclusión",
+      "Integración territorial",
+      "Educación para la paz"
+    ],
+    "respuestaCorrecta": "Estigmatización, represión y exclusión"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene una política de seguridad ciudadana basada en derechos humanos?",
+    "opciones": [
+      "Fortalecer la represión policial",
+      "Reducir los gastos sociales",
+      "Proteger la vida, libertad y dignidad de todas las personas",
+      "Controlar los movimientos sociales"
+    ],
+    "respuestaCorrecta": "Proteger la vida, libertad y dignidad de todas las personas"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar en las intervenciones estatales para prevenir el delito?",
+    "opciones": [
+      "Acciones policiales puntuales",
+      "Coordinación institucional",
+      "Estigmatización y criminalización de poblaciones vulnerables",
+      "Participación comunitaria"
+    ],
+    "respuestaCorrecta": "Estigmatización y criminalización de poblaciones vulnerables"
+  },
+  {
+    "pregunta": "¿Qué valor debe guiar una política pública preventiva?",
+    "opciones": [
+      "La mano dura",
+      "El castigo ejemplar",
+      "La equidad y justicia social",
+      "La eficiencia económica"
+    ],
+    "respuestaCorrecta": "La equidad y justicia social"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre seguridad y desarrollo según el enfoque de prevención?",
+    "opciones": [
+      "Son excluyentes",
+      "La seguridad se impone al desarrollo",
+      "El desarrollo social fortalece la seguridad",
+      "Solo el desarrollo económico importa"
+    ],
+    "respuestaCorrecta": "El desarrollo social fortalece la seguridad"
+  },
+  {
+    "pregunta": "¿Qué papel juega el acceso a derechos en la prevención del delito?",
+    "opciones": [
+      "Ninguno",
+      "Solo en zonas urbanas",
+      "Es clave para reducir vulnerabilidades",
+      "Debe restringirse"
+    ],
+    "respuestaCorrecta": "Es clave para reducir vulnerabilidades"
+  },
+  {
+    "pregunta": "¿Qué visión se critica en los discursos punitivos?",
+    "opciones": [
+      "La prevención comunitaria",
+      "La corresponsabilidad social",
+      "El enfoque de mano dura",
+      "La justicia restaurativa"
+    ],
+    "respuestaCorrecta": "El enfoque de mano dura"
+  },
+  {
+    "pregunta": "¿Qué debilita las estrategias preventivas basadas en evidencia?",
+    "opciones": [
+      "La evaluación constante",
+      "El enfoque integral",
+      "El uso de datos confiables",
+      "La ideología punitivista"
+    ],
+    "respuestaCorrecta": "La ideología punitivista"
+  },
+  {
+    "pregunta": "¿Qué población suele ser más afectada por las políticas de criminalización?",
+    "opciones": [
+      "Adultos con estudios universitarios",
+      "Personas mayores",
+      "Población joven, pobre y marginada",
+      "Funcionarios públicos"
+    ],
+    "respuestaCorrecta": "Población joven, pobre y marginada"
+  },
+  {
+    "pregunta": "¿Qué enfoque busca transformar las causas estructurales del delito?",
+    "opciones": [
+      "Represión selectiva",
+      "Prevención social del delito",
+      "Sanción automática",
+      "Militarización de barrios"
+    ],
+    "respuestaCorrecta": "Prevención social del delito"
+  },
+  {
+    "pregunta": "¿Qué papel cumple la planificación en prevención del delito?",
+    "opciones": [
+      "Restringe la participación ciudadana",
+      "Permite establecer prioridades y coordinar acciones",
+      "Se opone a la acción policial",
+      "Sustituye a la justicia"
+    ],
+    "respuestaCorrecta": "Permite establecer prioridades y coordinar acciones"
+  },
+  {
+    "pregunta": "¿Qué debe incluir toda política integral de prevención?",
+    "opciones": [
+      "Presencia militar permanente",
+      "Diagnóstico territorial, participación y evaluación",
+      "Reducción del gasto público",
+      "Medidas judiciales estrictas"
+    ],
+    "respuestaCorrecta": "Diagnóstico territorial, participación y evaluación"
+  },
+  {
+    "pregunta": "¿Qué concepto vincula la prevención del delito con la convivencia?",
+    "opciones": [
+      "Conflicto armado",
+      "Control político",
+      "Cultura de paz",
+      "Represión preventiva"
+    ],
+    "respuestaCorrecta": "Cultura de paz"
+  },
+  {
+    "pregunta": "¿Qué estrategia favorece la inclusión de grupos excluidos?",
+    "opciones": [
+      "Segregación territorial",
+      "Educación y participación social",
+      "Cierre de espacios públicos",
+      "Vigilancia digital masiva"
+    ],
+    "respuestaCorrecta": "Educación y participación social"
+  },
+  {
+    "pregunta": "¿Qué papel juega la justicia restaurativa en prevención?",
+    "opciones": [
+      "Solo aplica en casos graves",
+      "Complementa medidas punitivas",
+      "Favorece la reparación y reconstrucción de vínculos",
+      "Sustituye al sistema penal"
+    ],
+    "respuestaCorrecta": "Favorece la reparación y reconstrucción de vínculos"
+  },
+  {
+    "pregunta": "¿Qué elemento es clave en políticas públicas basadas en evidencia?",
+    "opciones": [
+      "Aumento del castigo",
+      "Estudios previos, seguimiento y evaluación",
+      "Reducir participación civil",
+      "Promover juicios sumarios"
+    ],
+    "respuestaCorrecta": "Estudios previos, seguimiento y evaluación"
+  },
+  {
+    "pregunta": "¿Qué estrategia se menciona como eficaz para prevenir la violencia urbana?",
+    "opciones": [
+      "Aumento de patrullas",
+      "Trabajo comunitario, inclusión y diseño urbano",
+      "Vigilancia digital",
+      "Reformas legales aisladas"
+    ],
+    "respuestaCorrecta": "Trabajo comunitario, inclusión y diseño urbano"
+  },
+  {
+    "pregunta": "¿Qué principio debe orientar toda intervención preventiva?",
+    "opciones": [
+      "Proporcionalidad, participación y derechos humanos",
+      "Rapidez policial",
+      "Castigo mediático",
+      "Reducción del estado"
+    ],
+    "respuestaCorrecta": "Proporcionalidad, participación y derechos humanos"
+  },
+  {
+    "pregunta": "¿Qué impacto tiene la falta de oportunidades en los jóvenes?",
+    "opciones": [
+      "Facilita la reinserción",
+      "Reduce la migración",
+      "Aumenta la vulnerabilidad y el riesgo delictivo",
+      "Promueve el diálogo intergeneracional"
+    ],
+    "respuestaCorrecta": "Aumenta la vulnerabilidad y el riesgo delictivo"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en políticas preventivas eficaces?",
+    "opciones": [
+      "Diagnóstico previo",
+      "Ideologización, exclusión y criminalización",
+      "Evaluación participativa",
+      "Planificación intersectorial"
+    ],
+    "respuestaCorrecta": "Ideologización, exclusión y criminalización"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite reducir desigualdades sociales?",
+    "opciones": [
+      "Control policial exclusivo",
+      "Educación punitiva",
+      "Desarrollo humano con enfoque de derechos",
+      "Reclusión masiva"
+    ],
+    "respuestaCorrecta": "Desarrollo humano con enfoque de derechos"
+  },
+  {
+    "pregunta": "¿Qué función cumple la participación ciudadana en políticas de prevención del delito?",
+    "opciones": [
+      "Sustituir a la policía",
+      "Favorecer el control político",
+      "Fortalecer el tejido social y corresponsabilidad",
+      "Evitar conflictos legales"
+    ],
+    "respuestaCorrecta": "Fortalecer el tejido social y corresponsabilidad"
+  },
+  {
+    "pregunta": "¿Cuál es una característica fundamental de los espacios de diálogo comunitario?",
+    "opciones": [
+      "Funcionan sin intervención institucional",
+      "Se centran solo en denuncias",
+      "Promueven soluciones colectivas y prevención",
+      "Limitan la participación de mujeres"
+    ],
+    "respuestaCorrecta": "Promueven soluciones colectivas y prevención"
+  },
+  {
+    "pregunta": "¿Qué papel juega la seguridad en el desarrollo local según el documento?",
+    "opciones": [
+      "Es un obstáculo para la inversión",
+      "Debe centrarse en control y represión",
+      "Es condición para el ejercicio de derechos",
+      "Compite con la economía"
+    ],
+    "respuestaCorrecta": "Es condición para el ejercicio de derechos"
+  },
+  {
+    "pregunta": "¿Qué debilita los procesos comunitarios preventivos?",
+    "opciones": [
+      "Coordinación institucional",
+      "Estigmatización de territorios",
+      "Evaluación participativa",
+      "Educación ciudadana"
+    ],
+    "respuestaCorrecta": "Estigmatización de territorios"
+  },
+  {
+    "pregunta": "¿Qué tipo de políticas permiten prevenir violencias estructurales?",
+    "opciones": [
+      "Militarización del espacio público",
+      "Campañas mediáticas de miedo",
+      "Políticas inclusivas con enfoque de derechos",
+      "Expulsión de jóvenes en riesgo"
+    ],
+    "respuestaCorrecta": "Políticas inclusivas con enfoque de derechos"
+  },
+  {
+    "pregunta": "¿Qué permite la participación activa de la comunidad?",
+    "opciones": [
+      "Reprimir con mayor fuerza",
+      "Detectar conflictos, proponer soluciones y construir confianza",
+      "Reducir presupuestos sociales",
+      "Incrementar el control territorial"
+    ],
+    "respuestaCorrecta": "Detectar conflictos, proponer soluciones y construir confianza"
+  },
+  {
+    "pregunta": "¿Qué enfoque tiene la prevención del delito desde una perspectiva integral?",
+    "opciones": [
+      "Solo legal",
+      "Solo económico",
+      "Multicausal, territorial y con participación social",
+      "Militar y policial"
+    ],
+    "respuestaCorrecta": "Multicausal, territorial y con participación social"
+  },
+  {
+    "pregunta": "¿Qué medida favorece la inclusión de jóvenes en contextos vulnerables?",
+    "opciones": [
+      "Sanciones rápidas",
+      "Educación, cultura, deporte y empleabilidad",
+      "Aislamiento preventivo",
+      "Suspensión de subsidios"
+    ],
+    "respuestaCorrecta": "Educación, cultura, deporte y empleabilidad"
+  },
+  {
+    "pregunta": "¿Qué rol tienen los gobiernos locales en la seguridad comunitaria?",
+    "opciones": [
+      "Dirigen operaciones armadas",
+      "Evalúan sentencias judiciales",
+      "Promueven participación, articulación y prevención",
+      "Redactan normas penales"
+    ],
+    "respuestaCorrecta": "Promueven participación, articulación y prevención"
+  },
+  {
+    "pregunta": "¿Qué favorece el fortalecimiento de redes comunitarias?",
+    "opciones": [
+      "Desconfianza entre actores",
+      "Sistemas cerrados",
+      "Participación activa, horizontalidad y escucha mutua",
+      "Judicialización automática"
+    ],
+    "respuestaCorrecta": "Participación activa, horizontalidad y escucha mutua"
+  },
+  {
+    "pregunta": "¿Qué recurso mejora el diseño de intervenciones preventivas?",
+    "opciones": [
+      "Campañas de miedo",
+      "Estadísticas delictivas actualizadas y contextuales",
+      "Opiniones sin fundamento",
+      "Juicios paralelos"
+    ],
+    "respuestaCorrecta": "Estadísticas delictivas actualizadas y contextuales"
+  },
+  {
+    "pregunta": "¿Qué principio debe guiar la prevención con enfoque de género?",
+    "opciones": [
+      "Pena máxima al agresor",
+      "Neutralidad institucional",
+      "Empoderamiento, equidad y protección integral",
+      "Silencio administrativo"
+    ],
+    "respuestaCorrecta": "Empoderamiento, equidad y protección integral"
+  },
+  {
+    "pregunta": "¿Qué favorece el diseño de políticas públicas participativas?",
+    "opciones": [
+      "Desconocimiento del contexto local",
+      "Evidencia, diagnóstico y trabajo conjunto",
+      "Estereotipos sociales",
+      "Centralismo institucional"
+    ],
+    "respuestaCorrecta": "Evidencia, diagnóstico y trabajo conjunto"
+  },
+  {
+    "pregunta": "¿Qué fortalece la prevención desde una perspectiva comunitaria?",
+    "opciones": [
+      "Aumento de penas",
+      "Identificación de causas y corresponsabilidad social",
+      "Vigilancia masiva",
+      "Desarticulación de redes"
+    ],
+    "respuestaCorrecta": "Identificación de causas y corresponsabilidad social"
+  },
+  {
+    "pregunta": "¿Qué se considera fundamental en políticas de prevención con enfoque territorial?",
+    "opciones": [
+      "Aplicación de leyes generales sin adaptación",
+      "Conocimiento del territorio, cultura y dinámicas locales",
+      "Uniformidad de medidas",
+      "Reforzar el castigo"
+    ],
+    "respuestaCorrecta": "Conocimiento del territorio, cultura y dinámicas locales"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite identificar conflictos emergentes?",
+    "opciones": [
+      "Tasas carcelarias",
+      "Encuestas punitivas",
+      "Espacios de escucha y articulación comunitaria",
+      "Normas sancionatorias"
+    ],
+    "respuestaCorrecta": "Espacios de escucha y articulación comunitaria"
+  },
+  {
+    "pregunta": "¿Qué visión promueve la justicia restaurativa?",
+    "opciones": [
+      "Imposición de sanciones ejemplares",
+      "Reparación del daño y reconstrucción de vínculos",
+      "Neutralización del conflicto",
+      "Aumento del castigo"
+    ],
+    "respuestaCorrecta": "Reparación del daño y reconstrucción de vínculos"
+  },
+  {
+    "pregunta": "¿Qué actores pueden colaborar en prevención con perspectiva local?",
+    "opciones": [
+      "Solo jueces y fiscales",
+      "Empresas privadas exclusivamente",
+      "Gobiernos locales, sociedad civil, escuelas y vecinos",
+      "Medios de comunicación nacionales"
+    ],
+    "respuestaCorrecta": "Gobiernos locales, sociedad civil, escuelas y vecinos"
+  },
+  {
+    "pregunta": "¿Qué genera la estigmatización de comunidades?",
+    "opciones": [
+      "Mejora del diálogo",
+      "Inclusión social",
+      "Reforzamiento del tejido social",
+      "Exclusión, aislamiento y desconfianza"
+    ],
+    "respuestaCorrecta": "Exclusión, aislamiento y desconfianza"
+  },
+  {
+    "pregunta": "¿Qué fortalece una cultura de paz en prevención del delito?",
+    "opciones": [
+      "Militarización barrial",
+      "Educación, diálogo, participación y justicia",
+      "Represión y sanciones masivas",
+      "Desarticulación comunitaria"
+    ],
+    "respuestaCorrecta": "Educación, diálogo, participación y justicia"
+  },
+  {
+    "pregunta": "¿Qué característica tiene una política de prevención centrada en derechos humanos?",
+    "opciones": [
+      "Impone control militar",
+      "Limita la participación civil",
+      "Garantiza dignidad, inclusión y no discriminación",
+      "Prioriza la represión del delito"
+    ],
+    "respuestaCorrecta": "Garantiza dignidad, inclusión y no discriminación"
+  },
+  {
+    "pregunta": "¿Qué aspecto se considera esencial para el desarrollo de políticas públicas preventivas?",
+    "opciones": [
+      "Castigos ejemplares",
+      "Justicia exclusivamente penal",
+      "Enfoque territorial y participación ciudadana",
+      "Dependencia institucional"
+    ],
+    "respuestaCorrecta": "Enfoque territorial y participación ciudadana"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite abordar las causas profundas del delito?",
+    "opciones": [
+      "Control policial constante",
+      "Despliegue militar",
+      "Prevención social con perspectiva de derechos",
+      "Castigo mediático"
+    ],
+    "respuestaCorrecta": "Prevención social con perspectiva de derechos"
+  },
+  {
+    "pregunta": "¿Qué fortalece la sostenibilidad de una estrategia preventiva?",
+    "opciones": [
+      "Planificación vertical",
+      "Presupuesto militar",
+      "Coordinación institucional, participación y evaluación continua",
+      "Eliminación de diagnósticos"
+    ],
+    "respuestaCorrecta": "Coordinación institucional, participación y evaluación continua"
+  },
+  {
+    "pregunta": "¿Qué tipo de prevención considera el contexto y cultura del territorio?",
+    "opciones": [
+      "Prevención represiva",
+      "Prevención policial",
+      "Prevención territorial integral",
+      "Justicia cerrada"
+    ],
+    "respuestaCorrecta": "Prevención territorial integral"
+  },
+  {
+    "pregunta": "¿Qué elemento permite construir políticas públicas con base sólida?",
+    "opciones": [
+      "Opiniones personales",
+      "Presión mediática",
+      "Diagnóstico participativo y evidencia",
+      "Intereses partidarios"
+    ],
+    "respuestaCorrecta": "Diagnóstico participativo y evidencia"
+  },
+  {
+    "pregunta": "¿Qué rol cumple el Estado en una política preventiva integral?",
+    "opciones": [
+      "Imponer sanciones exclusivamente",
+      "Facilitar condiciones de inclusión y equidad",
+      "Aplicar vigilancia total",
+      "Reducir servicios sociales"
+    ],
+    "respuestaCorrecta": "Facilitar condiciones de inclusión y equidad"
+  },
+  {
+    "pregunta": "¿Qué fortalece la confianza institucional en prevención?",
+    "opciones": [
+      "Sanción ejemplar",
+      "Estigmatización",
+      "Transparencia, diálogo y resultados visibles",
+      "Autoritarismo"
+    ],
+    "respuestaCorrecta": "Transparencia, diálogo y resultados visibles"
+  },
+  {
+    "pregunta": "¿Qué favorece una política de prevención en contextos urbanos?",
+    "opciones": [
+      "Incremento de patrullas",
+      "Despliegue judicial masivo",
+      "Diseño urbano seguro y participación comunitaria",
+      "Toques de queda"
+    ],
+    "respuestaCorrecta": "Diseño urbano seguro y participación comunitaria"
+  },
+  {
+    "pregunta": "¿Qué población debe ser considerada en la prevención con enfoque inclusivo?",
+    "opciones": [
+      "Solo víctimas",
+      "Personas sin antecedentes",
+      "Todas las personas, especialmente vulnerables",
+      "Solo adultos"
+    ],
+    "respuestaCorrecta": "Todas las personas, especialmente vulnerables"
+  },
+  {
+    "pregunta": "¿Qué criterio se utiliza para definir acciones preventivas en territorio?",
+    "opciones": [
+      "Cantidad de delitos",
+      "Popularidad política",
+      "Análisis multicausal y contextual",
+      "Número de jueces disponibles"
+    ],
+    "respuestaCorrecta": "Análisis multicausal y contextual"
+  },
+  {
+    "pregunta": "¿Qué práctica mejora la legitimidad de las políticas públicas?",
+    "opciones": [
+      "Silenciar a la población",
+      "Aplicar sanciones rápidamente",
+      "Incluir a la ciudadanía en el diseño de soluciones",
+      "Privatizar servicios básicos"
+    ],
+    "respuestaCorrecta": "Incluir a la ciudadanía en el diseño de soluciones"
+  },
+  {
+    "pregunta": "¿Qué enfoque ayuda a prevenir el delito sin recurrir a la represión?",
+    "opciones": [
+      "Intervención penal precoz",
+      "Educación en derechos, equidad y cultura de paz",
+      "Censura de medios",
+      "Incremento carcelario"
+    ],
+    "respuestaCorrecta": "Educación en derechos, equidad y cultura de paz"
+  },
+  {
+    "pregunta": "¿Qué principio debe guiar el trabajo institucional en prevención?",
+    "opciones": [
+      "Eficiencia política",
+      "Control absoluto",
+      "Corresponsabilidad y respeto por los derechos",
+      "Confidencialidad total"
+    ],
+    "respuestaCorrecta": "Corresponsabilidad y respeto por los derechos"
+  },
+  {
+    "pregunta": "¿Qué función tienen los indicadores en una política preventiva eficaz?",
+    "opciones": [
+      "Promocionar campañas",
+      "Sustituir juicios",
+      "Medir impacto y mejorar decisiones",
+      "Restringir recursos"
+    ],
+    "respuestaCorrecta": "Medir impacto y mejorar decisiones"
+  },
+  {
+    "pregunta": "¿Qué relación hay entre justicia social y prevención del delito?",
+    "opciones": [
+      "Ninguna",
+      "La justicia social aumenta la impunidad",
+      "La equidad y acceso a derechos reducen factores de riesgo",
+      "Justicia solo aplica en tribunales"
+    ],
+    "respuestaCorrecta": "La equidad y acceso a derechos reducen factores de riesgo"
+  },
+  {
+    "pregunta": "¿Qué práctica institucional debe evitarse en prevención?",
+    "opciones": [
+      "Evaluación participativa",
+      "Discriminación y exclusión de colectivos",
+      "Articulación multisectorial",
+      "Capacitación en derechos humanos"
+    ],
+    "respuestaCorrecta": "Discriminación y exclusión de colectivos"
+  },
+  {
+    "pregunta": "¿Qué herramienta fortalece la prevención en contextos diversos?",
+    "opciones": [
+      "Uniformidad normativa",
+      "Estándares cerrados",
+      "Adaptación a realidades locales y escucha activa",
+      "Centralismo operativo"
+    ],
+    "respuestaCorrecta": "Adaptación a realidades locales y escucha activa"
+  },
+  {
+    "pregunta": "¿Qué principio guía las políticas públicas centradas en las personas?",
+    "opciones": [
+      "Represión focalizada",
+      "Autoridad sin consulta",
+      "Participación, respeto y equidad",
+      "Neutralidad institucional"
+    ],
+    "respuestaCorrecta": "Participación, respeto y equidad"
+  },
+  {
+    "pregunta": "¿Qué elemento contribuye a la prevención desde el ámbito escolar?",
+    "opciones": [
+      "Suspensión de alumnos conflictivos",
+      "Educación emocional, convivencia y participación",
+      "Imposición disciplinaria",
+      "Aislamiento del entorno familiar"
+    ],
+    "respuestaCorrecta": "Educación emocional, convivencia y participación"
+  },
+  {
+    "pregunta": "¿Qué tipo de prevención se enfoca en la reducción de factores de riesgo antes de que ocurra un delito?",
+    "opciones": [
+      "Prevención secundaria",
+      "Prevención terciaria",
+      "Prevención primaria",
+      "Prevención punitiva"
+    ],
+    "respuestaCorrecta": "Prevención primaria"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la prevención secundaria?",
+    "opciones": [
+      "Reinsertar a personas condenadas",
+      "Reducir las oportunidades delictivas en poblaciones en riesgo",
+      "Aumentar las sanciones judiciales",
+      "Eliminar programas educativos"
+    ],
+    "respuestaCorrecta": "Reducir las oportunidades delictivas en poblaciones en riesgo"
+  },
+  {
+    "pregunta": "¿Qué busca la prevención terciaria?",
+    "opciones": [
+      "Reducir las causas estructurales",
+      "Disuadir a quienes no han delinquido",
+      "Evitar la reincidencia de quienes ya cometieron delitos",
+      "Aplicar penas más duras"
+    ],
+    "respuestaCorrecta": "Evitar la reincidencia de quienes ya cometieron delitos"
+  },
+  {
+    "pregunta": "¿Qué estrategia caracteriza a la prevención primaria?",
+    "opciones": [
+      "Focalización en reincidentes",
+      "Intervención en causas sociales estructurales",
+      "Refuerzo del control policial",
+      "Privatización del sistema penitenciario"
+    ],
+    "respuestaCorrecta": "Intervención en causas sociales estructurales"
+  },
+  {
+    "pregunta": "¿Qué acciones corresponden a la prevención secundaria?",
+    "opciones": [
+      "Modificación de leyes",
+      "Intervención en grupos sociales en situación de riesgo",
+      "Ampliación del presupuesto policial",
+      "Educación superior obligatoria"
+    ],
+    "respuestaCorrecta": "Intervención en grupos sociales en situación de riesgo"
+  },
+  {
+    "pregunta": "¿Qué medida se asocia con la prevención terciaria?",
+    "opciones": [
+      "Sanción preventiva",
+      "Educación emocional en la infancia",
+      "Programas de reinserción social",
+      "Reforma constitucional"
+    ],
+    "respuestaCorrecta": "Programas de reinserción social"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la prevención secundaria de la primaria?",
+    "opciones": [
+      "Secundaria trabaja con condenados",
+      "Primaria se enfoca en sancionar",
+      "Secundaria actúa en poblaciones vulnerables",
+      "Primaria es más coercitiva"
+    ],
+    "respuestaCorrecta": "Secundaria actúa en poblaciones vulnerables"
+  },
+  {
+    "pregunta": "¿Cuál es el foco de la prevención primaria?",
+    "opciones": [
+      "Desactivar redes delictivas",
+      "Mejorar condiciones sociales generales",
+      "Penalizar comportamientos sospechosos",
+      "Reducir el número de policías"
+    ],
+    "respuestaCorrecta": "Mejorar condiciones sociales generales"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de acción de prevención terciaria?",
+    "opciones": [
+      "Campañas educativas",
+      "Terapias para personas privadas de libertad",
+      "Controles aleatorios",
+      "Denuncias comunitarias"
+    ],
+    "respuestaCorrecta": "Terapias para personas privadas de libertad"
+  },
+  {
+    "pregunta": "¿Qué nivel de prevención se aplica antes de que se cometa cualquier delito?",
+    "opciones": [
+      "Prevención terciaria",
+      "Prevención secundaria",
+      "Prevención primaria",
+      "Prevención judicial"
+    ],
+    "respuestaCorrecta": "Prevención primaria"
+  },
+  {
+    "pregunta": "¿Qué acción forma parte de la prevención secundaria?",
+    "opciones": [
+      "Construcción de cárceles",
+      "Orientación a adolescentes en conflicto",
+      "Creación de juzgados comunitarios",
+      "Censura de contenidos mediáticos"
+    ],
+    "respuestaCorrecta": "Orientación a adolescentes en conflicto"
+  },
+  {
+    "pregunta": "¿Qué finalidad tiene la prevención terciaria en términos penales?",
+    "opciones": [
+      "Evitar que la persona vuelva a delinquir",
+      "Reforzar el castigo simbólico",
+      "Justificar el sistema punitivo",
+      "Aumentar el número de procesos judiciales"
+    ],
+    "respuestaCorrecta": "Evitar que la persona vuelva a delinquir"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un objetivo de la prevención secundaria?",
+    "opciones": [
+      "Eliminar el delito por completo",
+      "Sancionar sin juicio",
+      "Reducir la exposición de poblaciones al riesgo",
+      "Fortalecer estructuras carcelarias"
+    ],
+    "respuestaCorrecta": "Reducir la exposición de poblaciones al riesgo"
+  },
+  {
+    "pregunta": "¿Qué dimensión abordan los tres niveles de prevención?",
+    "opciones": [
+      "Exclusivamente policial",
+      "Exclusivamente judicial",
+      "Social, estructural e individual",
+      "Económica y militar"
+    ],
+    "respuestaCorrecta": "Social, estructural e individual"
+  },
+  {
+    "pregunta": "¿Qué busca prevenir la intervención primaria en contextos sociales?",
+    "opciones": [
+      "Vigilancia ilegal",
+      "Factores estructurales como desigualdad y pobreza",
+      "Campañas de castigo ejemplar",
+      "Evasión fiscal"
+    ],
+    "respuestaCorrecta": "Factores estructurales como desigualdad y pobreza"
+  },
+  {
+    "pregunta": "¿Qué prevención trabaja directamente con quienes ya han delinquido?",
+    "opciones": [
+      "Primaria",
+      "Secundaria",
+      "Terciaria",
+      "Judicial"
+    ],
+    "respuestaCorrecta": "Terciaria"
+  },
+  {
+    "pregunta": "¿Qué elemento es clave para definir estrategias preventivas?",
+    "opciones": [
+      "La reacción social inmediata",
+      "El tipo de delito y perfil de la población objetivo",
+      "Las demandas mediáticas",
+      "El gasto judicial"
+    ],
+    "respuestaCorrecta": "El tipo de delito y perfil de la población objetivo"
+  },
+  {
+    "pregunta": "¿Qué combinación de acciones es ideal para una política de prevención efectiva?",
+    "opciones": [
+      "Solo prevención primaria",
+      "Acciones represivas y policiales",
+      "Primaria, secundaria y terciaria articuladas",
+      "Cierre de espacios públicos"
+    ],
+    "respuestaCorrecta": "Primaria, secundaria y terciaria articuladas"
+  },
+  {
+    "pregunta": "¿Qué nivel de prevención incluye programas de desintoxicación para exdelincuentes?",
+    "opciones": [
+      "Prevención primaria",
+      "Prevención institucional",
+      "Prevención secundaria",
+      "Prevención terciaria"
+    ],
+    "respuestaCorrecta": "Prevención terciaria"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes programas corresponde a prevención secundaria?",
+    "opciones": [
+      "Educación inicial en valores",
+      "Terapias para reclusos",
+      "Talleres para jóvenes en situación de riesgo",
+      "Juicios orales"
+    ],
+    "respuestaCorrecta": "Talleres para jóvenes en situación de riesgo"
+  },
+  {
+    "pregunta": "¿Qué herramienta es clave para orientar políticas preventivas efectivas?",
+    "opciones": [
+      "Encuestas de opinión política",
+      "Datos confiables, actualizados y desagregados",
+      "Promesas electorales",
+      "Presencia militar continua"
+    ],
+    "respuestaCorrecta": "Datos confiables, actualizados y desagregados"
+  },
+  {
+    "pregunta": "¿Qué permite el análisis de datos desagregados por sexo, edad y territorio?",
+    "opciones": [
+      "Reducir costos del Estado",
+      "Generar campañas publicitarias",
+      "Diseñar políticas con enfoque diferencial",
+      "Homogeneizar la respuesta estatal"
+    ],
+    "respuestaCorrecta": "Diseñar políticas con enfoque diferencial"
+  },
+  {
+    "pregunta": "¿Qué es necesario para construir indicadores de prevención útiles?",
+    "opciones": [
+      "Imitar modelos internacionales",
+      "Observar redes sociales",
+      "Formular objetivos claros y medibles",
+      "Reducir el tamaño de las bases de datos"
+    ],
+    "respuestaCorrecta": "Formular objetivos claros y medibles"
+  },
+  {
+    "pregunta": "¿Qué cualidad deben tener los sistemas de información para ser útiles en prevención?",
+    "opciones": [
+      "Cerrados y confidenciales",
+      "Centralizados y limitados",
+      "Abiertos, actualizados y confiables",
+      "Reservados para las fuerzas armadas"
+    ],
+    "respuestaCorrecta": "Abiertos, actualizados y confiables"
+  },
+  {
+    "pregunta": "¿Qué valoran los indicadores de resultado en prevención?",
+    "opciones": [
+      "El gasto público invertido",
+      "La percepción mediática",
+      "Los cambios producidos en la situación abordada",
+      "El número de personas involucradas"
+    ],
+    "respuestaCorrecta": "Los cambios producidos en la situación abordada"
+  },
+  {
+    "pregunta": "¿Qué aspecto miden los indicadores de proceso?",
+    "opciones": [
+      "Impacto territorial",
+      "Participación electoral",
+      "Actividades realizadas y calidad de su implementación",
+      "Duración del mandato político"
+    ],
+    "respuestaCorrecta": "Actividades realizadas y calidad de su implementación"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite comparar avances en prevención?",
+    "opciones": [
+      "Registros judiciales únicamente",
+      "Indicadores comparables y periódicos",
+      "Encuestas espontáneas",
+      "Tendencias de redes sociales"
+    ],
+    "respuestaCorrecta": "Indicadores comparables y periódicos"
+  },
+  {
+    "pregunta": "¿Qué función tiene el diagnóstico en las políticas preventivas?",
+    "opciones": [
+      "Identificar causas, necesidades y actores clave",
+      "Justificar el gasto en seguridad",
+      "Delegar responsabilidades",
+      "Promover sanciones ejemplares"
+    ],
+    "respuestaCorrecta": "Identificar causas, necesidades y actores clave"
+  },
+  {
+    "pregunta": "¿Qué utilidad tiene un sistema de monitoreo en prevención?",
+    "opciones": [
+      "Controlar a la población",
+      "Verificar uso de redes sociales",
+      "Evaluar ejecución y redirigir acciones si es necesario",
+      "Detectar delitos graves"
+    ],
+    "respuestaCorrecta": "Evaluar ejecución y redirigir acciones si es necesario"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos favorecen políticas más eficaces?",
+    "opciones": [
+      "Generalistas y no actualizados",
+      "Desagregados por grupo etario, género y territorio",
+      "Reservados para defensa nacional",
+      "Obtenidos por rumor"
+    ],
+    "respuestaCorrecta": "Desagregados por grupo etario, género y territorio"
+  },
+  {
+    "pregunta": "¿Qué permiten los indicadores cualitativos?",
+    "opciones": [
+      "Conocer emociones y percepciones de la población",
+      "Identificar delitos graves",
+      "Reforzar acciones punitivas",
+      "Reducir recursos educativos"
+    ],
+    "respuestaCorrecta": "Conocer emociones y percepciones de la población"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse al diseñar indicadores?",
+    "opciones": [
+      "Vinculación con objetivos del programa",
+      "Formulación ambigua o poco medible",
+      "Incorporación de actores sociales",
+      "Evaluación continua"
+    ],
+    "respuestaCorrecta": "Formulación ambigua o poco medible"
+  },
+  {
+    "pregunta": "¿Qué aspecto fortalece la transparencia institucional?",
+    "opciones": [
+      "Centralización de datos",
+      "Monitoreo sin acceso público",
+      "Acceso abierto a información y resultados",
+      "Silencio administrativo"
+    ],
+    "respuestaCorrecta": "Acceso abierto a información y resultados"
+  },
+  {
+    "pregunta": "¿Qué permite la evaluación de impacto en prevención?",
+    "opciones": [
+      "Decidir castigos",
+      "Justificar la represión",
+      "Medir resultados frente a objetivos establecidos",
+      "Evitar responsabilidad institucional"
+    ],
+    "respuestaCorrecta": "Medir resultados frente a objetivos establecidos"
+  },
+  {
+    "pregunta": "¿Qué elemento mejora el diseño de intervenciones preventivas?",
+    "opciones": [
+      "Informes policiales",
+      "Revisión de sentencias",
+      "Diagnóstico territorial participativo",
+      "Discursos políticos"
+    ],
+    "respuestaCorrecta": "Diagnóstico territorial participativo"
+  },
+  {
+    "pregunta": "¿Qué se busca con la formulación de objetivos preventivos?",
+    "opciones": [
+      "Fortalecer campañas punitivas",
+      "Facilitar control social",
+      "Orientar acciones y medir avances",
+      "Proteger datos internos"
+    ],
+    "respuestaCorrecta": "Orientar acciones y medir avances"
+  },
+  {
+    "pregunta": "¿Qué debe contemplar un sistema de información útil en prevención?",
+    "opciones": [
+      "Solo estadísticas judiciales",
+      "Informes anuales cerrados",
+      "Fuentes diversas, acceso abierto y actualización periódica",
+      "Censura estatal"
+    ],
+    "respuestaCorrecta": "Fuentes diversas, acceso abierto y actualización periódica"
+  },
+  {
+    "pregunta": "¿Qué aporta la evaluación continua a una política preventiva?",
+    "opciones": [
+      "Nada, si ya está en marcha",
+      "Obstaculiza el trabajo operativo",
+      "Permite corregir errores y mejorar efectividad",
+      "Solo genera burocracia"
+    ],
+    "respuestaCorrecta": "Permite corregir errores y mejorar efectividad"
+  },
+  {
+    "pregunta": "¿Qué deben reflejar los indicadores para ser útiles?",
+    "opciones": [
+      "Cumplimiento de metas abstractas",
+      "Cantidad de leyes sancionadas",
+      "Cambios reales en la situación abordada",
+      "Presencia policial en medios"
+    ],
+    "respuestaCorrecta": "Cambios reales en la situación abordada"
+  },
+  {
+    "pregunta": "¿Qué facilita la disponibilidad de datos abiertos y accesibles?",
+    "opciones": [
+      "Control institucional cerrado",
+      "Reforzar la vigilancia",
+      "Promover transparencia y participación ciudadana",
+      "Confusión en la población"
+    ],
+    "respuestaCorrecta": "Promover transparencia y participación ciudadana"
+  },
+  {
+    "pregunta": "¿Qué permite un sistema de evaluación integral en políticas preventivas?",
+    "opciones": [
+      "Evitar participación ciudadana",
+      "Consolidar acciones sin cambios",
+      "Mejorar la efectividad mediante análisis continuo",
+      "Reducir transparencia institucional"
+    ],
+    "respuestaCorrecta": "Mejorar la efectividad mediante análisis continuo"
+  },
+  {
+    "pregunta": "¿Qué elemento es indispensable para la evaluación de impacto?",
+    "opciones": [
+      "Publicidad institucional",
+      "Opinión pública",
+      "Línea de base y objetivos definidos",
+      "Apoyo político"
+    ],
+    "respuestaCorrecta": "Línea de base y objetivos definidos"
+  },
+  {
+    "pregunta": "¿Qué acción es clave para sostener intervenciones preventivas?",
+    "opciones": [
+      "Rotación de personal frecuente",
+      "Evaluación y retroalimentación continua",
+      "Centralización de decisiones",
+      "Reducción del presupuesto"
+    ],
+    "respuestaCorrecta": "Evaluación y retroalimentación continua"
+  },
+  {
+    "pregunta": "¿Qué debe contemplar un plan de evaluación eficaz?",
+    "opciones": [
+      "Impresiones subjetivas",
+      "Resultados mediáticos",
+      "Objetivos, indicadores y fuentes verificables",
+      "Discursos oficiales"
+    ],
+    "respuestaCorrecta": "Objetivos, indicadores y fuentes verificables"
+  },
+  {
+    "pregunta": "¿Qué herramienta mejora la toma de decisiones en prevención?",
+    "opciones": [
+      "Sensación de seguridad",
+      "Publicidad institucional",
+      "Resultados evaluados con evidencia",
+      "Encuestas en redes sociales"
+    ],
+    "respuestaCorrecta": "Resultados evaluados con evidencia"
+  },
+  {
+    "pregunta": "¿Qué proceso permite ajustar las intervenciones en tiempo real?",
+    "opciones": [
+      "Supervisión judicial",
+      "Evaluación formativa",
+      "Diagnóstico censal",
+      "Cierre institucional"
+    ],
+    "respuestaCorrecta": "Evaluación formativa"
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene la evaluación participativa?",
+    "opciones": [
+      "Minimiza la rendición de cuentas",
+      "Genera rechazo ciudadano",
+      "Incorpora percepciones y fortalece legitimidad",
+      "Reduce calidad técnica"
+    ],
+    "respuestaCorrecta": "Incorpora percepciones y fortalece legitimidad"
+  },
+  {
+    "pregunta": "¿Qué limita la efectividad de políticas públicas en prevención?",
+    "opciones": [
+      "Coordinación institucional",
+      "Falta de evaluación objetiva",
+      "Participación social",
+      "Diagnóstico inicial"
+    ],
+    "respuestaCorrecta": "Falta de evaluación objetiva"
+  },
+  {
+    "pregunta": "¿Qué tipo de indicadores permiten evaluar el proceso implementado?",
+    "opciones": [
+      "Indicadores de impacto",
+      "Indicadores de contexto",
+      "Indicadores de ejecución",
+      "Indicadores presupuestarios"
+    ],
+    "respuestaCorrecta": "Indicadores de ejecución"
+  },
+  {
+    "pregunta": "¿Qué componente debe incluir un sistema de monitoreo eficaz?",
+    "opciones": [
+      "Evaluación anual cerrada",
+      "Participación del poder judicial",
+      "Sistema de recolección continua y transparente",
+      "Intervención militar"
+    ],
+    "respuestaCorrecta": "Sistema de recolección continua y transparente"
+  },
+  {
+    "pregunta": "¿Qué contribuye a la sostenibilidad de una política de prevención?",
+    "opciones": [
+      "Focalización punitiva",
+      "Evaluación de impacto con mejoras continuas",
+      "Suspensión de programas sociales",
+      "Reducción del control ciudadano"
+    ],
+    "respuestaCorrecta": "Evaluación de impacto con mejoras continuas"
+  },
+  {
+    "pregunta": "¿Qué debe analizarse para verificar la eficacia de una acción preventiva?",
+    "opciones": [
+      "Tamaño del equipo técnico",
+      "Cantidad de discursos públicos",
+      "Resultados medibles frente a objetivos planteados",
+      "Duración del programa"
+    ],
+    "respuestaCorrecta": "Resultados medibles frente a objetivos planteados"
+  },
+  {
+    "pregunta": "¿Qué fortalece la calidad institucional en políticas de prevención?",
+    "opciones": [
+      "Estigmatización de sectores",
+      "Imposición vertical",
+      "Evaluación con enfoque participativo",
+      "Centralización de datos"
+    ],
+    "respuestaCorrecta": "Evaluación con enfoque participativo"
+  },
+  {
+    "pregunta": "¿Qué beneficio tiene el seguimiento constante de indicadores?",
+    "opciones": [
+      "Evita reformular acciones",
+      "Facilita decisiones informadas y oportunas",
+      "Reduce análisis técnico",
+      "Favorece campañas publicitarias"
+    ],
+    "respuestaCorrecta": "Facilita decisiones informadas y oportunas"
+  },
+  {
+    "pregunta": "¿Qué puede hacer una política de prevención mal evaluada?",
+    "opciones": [
+      "Reducir conflictos sociales",
+      "Perpetuar desigualdades y errores",
+      "Fortalecer procesos comunitarios",
+      "Garantizar resultados positivos"
+    ],
+    "respuestaCorrecta": "Perpetuar desigualdades y errores"
+  },
+  {
+    "pregunta": "¿Qué se requiere para garantizar un sistema de evaluación eficiente?",
+    "opciones": [
+      "Publicidad constante",
+      "Juicios previos",
+      "Capacitación técnica y participación social",
+      "Control político directo"
+    ],
+    "respuestaCorrecta": "Capacitación técnica y participación social"
+  },
+  {
+    "pregunta": "¿Qué función cumple la retroalimentación en prevención?",
+    "opciones": [
+      "Cerrar programas",
+      "Justificar errores",
+      "Ajustar estrategias para mejorar resultados",
+      "Eliminar actores sociales"
+    ],
+    "respuestaCorrecta": "Ajustar estrategias para mejorar resultados"
+  },
+  {
+    "pregunta": "¿Qué es esencial para medir el impacto real de una intervención?",
+    "opciones": [
+      "Encuestas informales",
+      "Recolección de rumores",
+      "Indicadores confiables y línea de base",
+      "Opinión de medios"
+    ],
+    "respuestaCorrecta": "Indicadores confiables y línea de base"
+  },
+  {
+    "pregunta": "¿Qué herramienta mejora la rendición de cuentas en prevención?",
+    "opciones": [
+      "Evaluación opaca",
+      "Informes sin datos",
+      "Sistemas abiertos y periódicos de evaluación",
+      "Control exclusivo estatal"
+    ],
+    "respuestaCorrecta": "Sistemas abiertos y periódicos de evaluación"
+  },
+  {
+    "pregunta": "¿Qué práctica evita errores persistentes en políticas preventivas?",
+    "opciones": [
+      "Ignorar resultados",
+      "Repetir modelos antiguos",
+      "Evaluar continuamente y adaptar medidas",
+      "Censurar a opositores"
+    ],
+    "respuestaCorrecta": "Evaluar continuamente y adaptar medidas"
+  },
+  {
+    "pregunta": "¿Qué debe garantizar la formulación de una política pública de prevención?",
+    "opciones": [
+      "Exclusividad policial",
+      "Participación social y enfoque integral",
+      "Control militar del territorio",
+      "Supresión de derechos individuales"
+    ],
+    "respuestaCorrecta": "Participación social y enfoque integral"
+  },
+  {
+    "pregunta": "¿Qué valor deben tener las políticas preventivas frente a los discursos punitivos?",
+    "opciones": [
+      "Reforzar el castigo ejemplar",
+      "Legitimar el uso de la fuerza",
+      "Colocar los derechos humanos en el centro",
+      "Reducir la intervención social"
+    ],
+    "respuestaCorrecta": "Colocar los derechos humanos en el centro"
+  },
+  {
+    "pregunta": "¿Qué enfoque se destaca en las políticas de seguridad ciudadana modernas?",
+    "opciones": [
+      "Coerción institucional",
+      "Justicia retributiva",
+      "Prevención integral con base en evidencia",
+      "Autoritarismo comunitario"
+    ],
+    "respuestaCorrecta": "Prevención integral con base en evidencia"
+  },
+  {
+    "pregunta": "¿Qué fortalece la legitimidad de una política pública preventiva?",
+    "opciones": [
+      "Secrecía de información",
+      "Acciones policiales constantes",
+      "Transparencia, rendición de cuentas y evaluación",
+      "Imposición sin consulta"
+    ],
+    "respuestaCorrecta": "Transparencia, rendición de cuentas y evaluación"
+  },
+  {
+    "pregunta": "¿Qué rol debe asumir el Estado en prevención del delito?",
+    "opciones": [
+      "Solo penalizador",
+      "Actor excluyente",
+      "Promotor de inclusión, derechos y equidad",
+      "Vigilante judicial"
+    ],
+    "respuestaCorrecta": "Promotor de inclusión, derechos y equidad"
+  },
+  {
+    "pregunta": "¿Qué herramienta es esencial para mejorar intervenciones preventivas?",
+    "opciones": [
+      "Publicidad electoral",
+      "Monitoreo y evaluación sistemática",
+      "Incremento de penas",
+      "Control territorial rígido"
+    ],
+    "respuestaCorrecta": "Monitoreo y evaluación sistemática"
+  },
+  {
+    "pregunta": "¿Qué requiere una prevención eficaz a nivel local?",
+    "opciones": [
+      "Presencia militar prolongada",
+      "Importación de modelos externos",
+      "Adaptación al contexto y participación comunitaria",
+      "Recursos centralizados exclusivamente"
+    ],
+    "respuestaCorrecta": "Adaptación al contexto y participación comunitaria"
+  },
+  {
+    "pregunta": "¿Qué valor deben promover las políticas preventivas con enfoque de derechos?",
+    "opciones": [
+      "Temor social",
+      "Imposición normativa",
+      "Convivencia, equidad y justicia social",
+      "Punitivismo mediático"
+    ],
+    "respuestaCorrecta": "Convivencia, equidad y justicia social"
+  },
+  {
+    "pregunta": "¿Qué relación existe entre la educación y la prevención del delito?",
+    "opciones": [
+      "Ninguna directa",
+      "La educación reduce la efectividad de la sanción",
+      "La educación es clave para construir ciudadanía y prevenir violencia",
+      "La educación no incide en lo penal"
+    ],
+    "respuestaCorrecta": "La educación es clave para construir ciudadanía y prevenir violencia"
+  },
+  {
+    "pregunta": "¿Qué estrategia puede reducir la reincidencia delictiva?",
+    "opciones": [
+      "Aumento de penas",
+      "Internamiento prolongado",
+      "Programas de reinserción y apoyo social",
+      "Estigmatización comunitaria"
+    ],
+    "respuestaCorrecta": "Programas de reinserción y apoyo social"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en la formulación de políticas preventivas?",
+    "opciones": [
+      "Análisis de contexto",
+      "Consulta a la población",
+      "Homogeneización sin diagnóstico",
+      "Colaboración multisectorial"
+    ],
+    "respuestaCorrecta": "Homogeneización sin diagnóstico"
+  },
+  {
+    "pregunta": "¿Qué representa una política de prevención bien evaluada?",
+    "opciones": [
+      "Una carga administrativa",
+      "Una política con mayor legitimidad y eficiencia",
+      "Un gasto innecesario",
+      "Una imposición estatal"
+    ],
+    "respuestaCorrecta": "Una política con mayor legitimidad y eficiencia"
+  },
+  {
+    "pregunta": "¿Qué prácticas aumentan la eficacia de los programas preventivos?",
+    "opciones": [
+      "Secrecía institucional",
+      "Desvinculación del territorio",
+      "Evaluación periódica, participación y enfoque territorial",
+      "Imposición policial"
+    ],
+    "respuestaCorrecta": "Evaluación periódica, participación y enfoque territorial"
+  },
+  {
+    "pregunta": "¿Qué enfoque debe tener toda política pública en prevención?",
+    "opciones": [
+      "Represivo y vertical",
+      "Administrativo y punitivo",
+      "Integrador, participativo y basado en derechos",
+      "Disuasivo exclusivamente"
+    ],
+    "respuestaCorrecta": "Integrador, participativo y basado en derechos"
+  },
+  {
+    "pregunta": "¿Qué permite el uso de evidencia en la prevención del delito?",
+    "opciones": [
+      "Incrementar juicios orales",
+      "Justificar acciones arbitrarias",
+      "Diseñar políticas más efectivas y contextualizadas",
+      "Reducir la intervención estatal"
+    ],
+    "respuestaCorrecta": "Diseñar políticas más efectivas y contextualizadas"
+  },
+  {
+    "pregunta": "¿Qué contribuye al éxito de las políticas de prevención?",
+    "opciones": [
+      "Exclusión de actores sociales",
+      "Monopolio institucional",
+      "Corresponsabilidad, articulación y evaluación constante",
+      "Reproducción de modelos antiguos"
+    ],
+    "respuestaCorrecta": "Corresponsabilidad, articulación y evaluación constante"
+  },
+  {
+    "pregunta": "¿Qué debe reflejar una política de seguridad democrática?",
+    "opciones": [
+      "Prioridad punitiva",
+      "Seguridad para pocos",
+      "Enfoque en convivencia y derechos para todos",
+      "Supresión de garantías constitucionales"
+    ],
+    "respuestaCorrecta": "Enfoque en convivencia y derechos para todos"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite abordar conflictos sin violencia?",
+    "opciones": [
+      "Penalización inmediata",
+      "Control comunitario armado",
+      "Justicia restaurativa y diálogo social",
+      "Censura institucional"
+    ],
+    "respuestaCorrecta": "Justicia restaurativa y diálogo social"
+  },
+  {
+    "pregunta": "¿Qué se logra con la participación de múltiples sectores en prevención?",
+    "opciones": [
+      "Fragmentación institucional",
+      "Contradicción de políticas",
+      "Sinergia, eficacia y sostenibilidad",
+      "Reducción del control"
+    ],
+    "respuestaCorrecta": "Sinergia, eficacia y sostenibilidad"
+  },
+  {
+    "pregunta": "¿Qué favorece una mirada integral en políticas de seguridad?",
+    "opciones": [
+      "Aislamiento de actores",
+      "Reducción de presupuesto social",
+      "Inclusión de educación, salud, cultura y empleo",
+      "Control policial permanente"
+    ],
+    "respuestaCorrecta": "Inclusión de educación, salud, cultura y empleo"
+  },
+  {
+    "pregunta": "¿Qué elemento resulta fundamental para garantizar una política preventiva legítima?",
+    "opciones": [
+      "Castigo inmediato",
+      "Apoyo mediático",
+      "Participación ciudadana y evaluación constante",
+      "Incremento presupuestario policial"
+    ],
+    "respuestaCorrecta": "Participación ciudadana y evaluación constante"
+  },
+  {
+    "pregunta": "¿Qué factor permite una prevención con enfoque territorial real?",
+    "opciones": [
+      "Uniformidad normativa",
+      "Adaptación a contextos locales y necesidades reales",
+      "Control institucional cerrado",
+      "Importación de modelos externos"
+    ],
+    "respuestaCorrecta": "Adaptación a contextos locales y necesidades reales"
+  },
+  {
+    "pregunta": "¿Qué debe priorizar una política preventiva basada en derechos?",
+    "opciones": [
+      "Intervención policial intensiva",
+      "Seguridad jurídica únicamente",
+      "Igualdad, inclusión y equidad",
+      "Centralización del poder"
+    ],
+    "respuestaCorrecta": "Igualdad, inclusión y equidad"
+  },
+  {
+    "pregunta": "¿Qué enfoque permite prevenir violencias estructurales?",
+    "opciones": [
+      "Criminalización anticipada",
+      "Represión como eje central",
+      "Enfoque integral y multicausal",
+      "Vigilancia digital masiva"
+    ],
+    "respuestaCorrecta": "Enfoque integral y multicausal"
+  },
+  {
+    "pregunta": "¿Qué componente fortalece el vínculo entre ciudadanía e instituciones?",
+    "opciones": [
+      "Imposición de normas",
+      "Evaluación externa",
+      "Diálogo permanente y corresponsabilidad",
+      "Reducción del gasto social"
+    ],
+    "respuestaCorrecta": "Diálogo permanente y corresponsabilidad"
+  },
+  {
+    "pregunta": "¿Qué rol tiene la cultura de paz en la prevención del delito?",
+    "opciones": [
+      "Justifica el castigo",
+      "Sustituye la intervención estatal",
+      "Construye relaciones basadas en respeto y justicia",
+      "Minimiza la intervención comunitaria"
+    ],
+    "respuestaCorrecta": "Construye relaciones basadas en respeto y justicia"
+  },
+  {
+    "pregunta": "¿Qué valoran las políticas de prevención con perspectiva de género?",
+    "opciones": [
+      "Represión a mujeres en conflicto",
+      "Neutralidad institucional",
+      "Equidad, visibilización de desigualdades y empoderamiento",
+      "Control de espacios públicos"
+    ],
+    "respuestaCorrecta": "Equidad, visibilización de desigualdades y empoderamiento"
+  },
+  {
+    "pregunta": "¿Qué contribuye a construir comunidades más seguras?",
+    "opciones": [
+      "Militarización territorial",
+      "Reacción ante el delito exclusivamente",
+      "Prevención social, participación y cohesión",
+      "Privatización de servicios básicos"
+    ],
+    "respuestaCorrecta": "Prevención social, participación y cohesión"
+  },
+  {
+    "pregunta": "¿Qué aspecto deben evitar las políticas preventivas?",
+    "opciones": [
+      "Participación institucional",
+      "Discriminación y estigmatización",
+      "Articulación intersectorial",
+      "Promoción de derechos"
+    ],
+    "respuestaCorrecta": "Discriminación y estigmatización"
+  },
+  {
+    "pregunta": "¿Qué estrategia permite lograr cambios sostenibles en prevención?",
+    "opciones": [
+      "Incrementar el control social",
+      "Juicios más rápidos",
+      "Procesos integrales, participativos y basados en evidencia",
+      "Campañas mediáticas coercitivas"
+    ],
+    "respuestaCorrecta": "Procesos integrales, participativos y basados en evidencia"
+  },
+  {
+    "pregunta": "¿Qué base debe tener una estrategia preventiva efectiva?",
+    "opciones": [
+      "Opiniones personales",
+      "Publicidad estatal",
+      "Diagnóstico, planificación y evaluación",
+      "Medidas de urgencia"
+    ],
+    "respuestaCorrecta": "Diagnóstico, planificación y evaluación"
+  },
+  {
+    "pregunta": "¿Qué puede generar la estigmatización territorial?",
+    "opciones": [
+      "Reducción de violencia",
+      "Empoderamiento comunitario",
+      "Desconfianza y exclusión social",
+      "Aumento del sentido de pertenencia"
+    ],
+    "respuestaCorrecta": "Desconfianza y exclusión social"
+  },
+  {
+    "pregunta": "¿Qué componente es esencial para una política preventiva territorial?",
+    "opciones": [
+      "Presión judicial",
+      "Despliegue militar",
+      "Escucha activa a actores locales",
+      "Campañas sin diagnóstico"
+    ],
+    "respuestaCorrecta": "Escucha activa a actores locales"
+  },
+  {
+    "pregunta": "¿Qué enfoque contribuye a la sostenibilidad de políticas preventivas?",
+    "opciones": [
+      "Intervención reactiva",
+      "Análisis superficial",
+      "Participación social y compromiso institucional",
+      "Vigilancia sin diagnóstico"
+    ],
+    "respuestaCorrecta": "Participación social y compromiso institucional"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en el diseño de políticas de seguridad?",
+    "opciones": [
+      "Trabajo interinstitucional",
+      "Exclusión de las causas estructurales",
+      "Inclusión de jóvenes",
+      "Escucha comunitaria"
+    ],
+    "respuestaCorrecta": "Exclusión de las causas estructurales"
+  },
+  {
+    "pregunta": "¿Qué actor es clave para la prevención con enfoque de derechos?",
+    "opciones": [
+      "El ejército",
+      "Solo el poder judicial",
+      "La comunidad organizada",
+      "Los medios de comunicación"
+    ],
+    "respuestaCorrecta": "La comunidad organizada"
+  },
+  {
+    "pregunta": "¿Qué fortalece una visión intersectorial de la prevención?",
+    "opciones": [
+      "Participación de múltiples sectores en diagnóstico y acción",
+      "Reducción de servicios sociales",
+      "Acciones aisladas por ministerios",
+      "Imposición de políticas nacionales"
+    ],
+    "respuestaCorrecta": "Participación de múltiples sectores en diagnóstico y acción"
+  },
+  {
+    "pregunta": "¿Qué deben integrar las políticas públicas para tener impacto real?",
+    "opciones": [
+      "Estrategias policiales únicamente",
+      "Diagnóstico, planificación, ejecución y evaluación",
+      "Discursos sin aplicación",
+      "Criminalización selectiva"
+    ],
+    "respuestaCorrecta": "Diagnóstico, planificación, ejecución y evaluación"
+  },
+  {
+    "pregunta": "¿Qué fortalece la legitimidad de una política de prevención?",
+    "opciones": [
+      "Ocultar resultados",
+      "Centralizar decisiones",
+      "Transparencia y rendición de cuentas",
+      "Reducir el rol comunitario"
+    ],
+    "respuestaCorrecta": "Transparencia y rendición de cuentas"
+  },
+  {
+    "pregunta": "¿Qué condición es esencial para una prevención con justicia social?",
+    "opciones": [
+      "Exclusión del territorio",
+      "Desigualdad estructural",
+      "Acceso efectivo a derechos y oportunidades",
+      "Supresión de participación"
+    ],
+    "respuestaCorrecta": "Acceso efectivo a derechos y oportunidades"
+  }
+]

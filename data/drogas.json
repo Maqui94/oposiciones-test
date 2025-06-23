@@ -1,0 +1,1503 @@
+[
+  {
+    "pregunta": "¿Qué sustancia del tabaco es responsable directa de la adicción?",
+    "opciones": [
+      "Monóxido de carbono",
+      "Alquitranes",
+      "Nicotina",
+      "Amoníaco"
+    ],
+    "respuestaCorrecta": "Nicotina"
+  },
+  {
+    "pregunta": "¿Qué bebida alcohólica pertenece al grupo de las fermentadas?",
+    "opciones": [
+      "Ron",
+      "Vodka",
+      "Cerveza",
+      "Ginebra"
+    ],
+    "respuestaCorrecta": "Cerveza"
+  },
+  {
+    "pregunta": "¿Qué droga se obtiene de la planta Cannabis sativa?",
+    "opciones": [
+      "LSD",
+      "Heroína",
+      "Hachís",
+      "Cocaína"
+    ],
+    "respuestaCorrecta": "Hachís"
+  },
+  {
+    "pregunta": "¿Cuál de estos efectos es inmediato tras el consumo de cannabis?",
+    "opciones": [
+      "Mejora del rendimiento físico",
+      "Sequedad de boca y risa incontrolada",
+      "Insomnio y aumento de apetito",
+      "Dolor muscular y náuseas"
+    ],
+    "respuestaCorrecta": "Sequedad de boca y risa incontrolada"
+  },
+  {
+    "pregunta": "¿Qué nombre callejero se utiliza para referirse a la cocaína?",
+    "opciones": [
+      "Cristal",
+      "Speed",
+      "Perico",
+      "Popper"
+    ],
+    "respuestaCorrecta": "Perico"
+  },
+  {
+    "pregunta": "¿Qué droga fue inicialmente desarrollada como anestésico y es conocida como 'Special K'?",
+    "opciones": [
+      "Ketamina",
+      "MDMA",
+      "LSD",
+      "PCP"
+    ],
+    "respuestaCorrecta": "Ketamina"
+  },
+  {
+    "pregunta": "¿Qué ley castiga administrativamente la posesión de drogas en espacios públicos en España?",
+    "opciones": [
+      "Ley Orgánica 2/1986",
+      "Ley de Protección a la Infancia",
+      "Ley Orgánica 4/2015",
+      "Código Penal Militar"
+    ],
+    "respuestaCorrecta": "Ley Orgánica 4/2015"
+  },
+  {
+    "pregunta": "¿Qué droga de síntesis puede presentarse en forma de pastillas con dibujos impresos?",
+    "opciones": [
+      "Ketamina",
+      "MDMA o éxtasis",
+      "GHB",
+      "PCP"
+    ],
+    "respuestaCorrecta": "MDMA o éxtasis"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los efectos del consumo de heroína?",
+    "opciones": [
+      "Hipertensión severa",
+      "Flash de euforia y depresión respiratoria",
+      "Hiperactividad cerebral",
+      "Aumento de apetito y libido"
+    ],
+    "respuestaCorrecta": "Flash de euforia y depresión respiratoria"
+  },
+  {
+    "pregunta": "¿Qué droga se asocia a la designación callejera 'cristal'?",
+    "opciones": [
+      "Metanfetamina fumada",
+      "Éxtasis líquido",
+      "Cocaína base",
+      "PCP"
+    ],
+    "respuestaCorrecta": "Metanfetamina fumada"
+  },
+  {
+    "pregunta": "¿Qué tipo de droga es el tabaco?",
+    "opciones": [
+      "Alucinógena",
+      "Estimulante del sistema nervioso central",
+      "Depresora del sistema nervioso central",
+      "Opiáceo sintético"
+    ],
+    "respuestaCorrecta": "Estimulante del sistema nervioso central"
+  },
+  {
+    "pregunta": "¿Qué componente del tabaco causa dependencia?",
+    "opciones": [
+      "Alquitrán",
+      "Monóxido de carbono",
+      "Nicotina",
+      "Cadmio"
+    ],
+    "respuestaCorrecta": "Nicotina"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto del monóxido de carbono en el organismo?",
+    "opciones": [
+      "Disminuye el transporte de oxígeno y daña el sistema vascular",
+      "Causa euforia y desinhibición",
+      "Aumenta la memoria a corto plazo",
+      "Estimula el sistema digestivo"
+    ],
+    "respuestaCorrecta": "Disminuye el transporte de oxígeno y daña el sistema vascular"
+  },
+  {
+    "pregunta": "¿Qué sustancia del tabaco está relacionada con el cáncer?",
+    "opciones": [
+      "Fenoles",
+      "Alquitranes",
+      "Ácido cianhídrico",
+      "Metanol"
+    ],
+    "respuestaCorrecta": "Alquitranes"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los efectos visibles del tabaco en la piel?",
+    "opciones": [
+      "Aumento de melanina",
+      "Rostro del fumador",
+      "Vitiligo",
+      "Sudoración excesiva"
+    ],
+    "respuestaCorrecta": "Rostro del fumador"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la nicotina en el sistema cardiovascular?",
+    "opciones": [
+      "Disminuye el ritmo cardíaco",
+      "Produce hipotensión",
+      "Aumenta la frecuencia cardíaca y riesgo de arritmias",
+      "Favorece la relajación vascular"
+    ],
+    "respuestaCorrecta": "Aumenta la frecuencia cardíaca y riesgo de arritmias"
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia del tabaquismo en los dientes?",
+    "opciones": [
+      "Hipertrofia de encías",
+      "Manchas e infecciones",
+      "Desgaste del esmalte",
+      "Sensibilidad dental"
+    ],
+    "respuestaCorrecta": "Manchas e infecciones"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto del tabaco en los jóvenes a corto plazo?",
+    "opciones": [
+      "Hipertensión arterial",
+      "Bronquitis crónica",
+      "Disminución del rendimiento deportivo",
+      "Pérdida de visión"
+    ],
+    "respuestaCorrecta": "Disminución del rendimiento deportivo"
+  },
+  {
+    "pregunta": "¿Qué compuesto del tabaco incrementa los triglicéridos?",
+    "opciones": [
+      "Fenoles",
+      "Nicotina",
+      "Monóxido de carbono",
+      "Arsénico"
+    ],
+    "respuestaCorrecta": "Nicotina"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un irritante presente en el tabaco?",
+    "opciones": [
+      "Alquitranes",
+      "Fenoles",
+      "Nicotina",
+      "Metanol"
+    ],
+    "respuestaCorrecta": "Fenoles"
+  },
+  {
+    "pregunta": "¿Qué tipo de droga es el alcohol según el documento?",
+    "opciones": [
+      "Estimulante del sistema nervioso central",
+      "Alucinógeno",
+      "Depresora del sistema nervioso central",
+      "Ninguna de las anteriores"
+    ],
+    "respuestaCorrecta": "Depresora del sistema nervioso central"
+  },
+  {
+    "pregunta": "¿Qué bebida se obtiene por fermentación?",
+    "opciones": [
+      "Vodka",
+      "Ron",
+      "Cerveza",
+      "Ginebra"
+    ],
+    "respuestaCorrecta": "Cerveza"
+  },
+  {
+    "pregunta": "¿Qué bebida tiene una graduación alcohólica mayor a 15°?",
+    "opciones": [
+      "Sidra",
+      "Vino",
+      "Cerveza",
+      "Whisky"
+    ],
+    "respuestaCorrecta": "Whisky"
+  },
+  {
+    "pregunta": "¿Qué órgano elimina el alcohol del cuerpo?",
+    "opciones": [
+      "Estómago",
+      "Riñón",
+      "Pulmones",
+      "Hígado"
+    ],
+    "respuestaCorrecta": "Hígado"
+  },
+  {
+    "pregunta": "¿Qué daño crónico puede provocar el alcohol en el hígado?",
+    "opciones": [
+      "Encefalopatía",
+      "Hepatitis B",
+      "Cirrosis hepática",
+      "Insuficiencia renal"
+    ],
+    "respuestaCorrecta": "Cirrosis hepática"
+  },
+  {
+    "pregunta": "¿Qué grupo es más sensible a los efectos del alcohol en el aprendizaje?",
+    "opciones": [
+      "Adultos mayores",
+      "Hombres adultos",
+      "Mujeres embarazadas",
+      "Jóvenes"
+    ],
+    "respuestaCorrecta": "Jóvenes"
+  },
+  {
+    "pregunta": "¿Qué combinación acelera la intoxicación etílica?",
+    "opciones": [
+      "Alcohol con comida grasa",
+      "Alcohol con agua",
+      "Alcohol con bebidas carbónicas",
+      "Alcohol con zumo"
+    ],
+    "respuestaCorrecta": "Alcohol con bebidas carbónicas"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene combinar alcohol con tranquilizantes?",
+    "opciones": [
+      "Anulación mutua",
+      "Reducción de efectos secundarios",
+      "Aumento de efectos sedantes",
+      "Reducción del riesgo de intoxicación"
+    ],
+    "respuestaCorrecta": "Aumento de efectos sedantes"
+  },
+  {
+    "pregunta": "¿Qué indica la graduación alcohólica en una bebida?",
+    "opciones": [
+      "Cantidad de agua",
+      "Cantidad de azúcar residual",
+      "Volumen de alcohol puro",
+      "Volumen total de la botella"
+    ],
+    "respuestaCorrecta": "Volumen de alcohol puro"
+  },
+  {
+    "pregunta": "¿Qué combinación con alcohol aumenta su toxicidad aunque sus efectos se contrarresten?",
+    "opciones": [
+      "Alcohol y cannabis",
+      "Alcohol y relajantes musculares",
+      "Alcohol y cocaína",
+      "Alcohol y analgésicos"
+    ],
+    "respuestaCorrecta": "Alcohol y cocaína"
+  },
+  {
+    "pregunta": "¿Cuál es el principal principio activo del cannabis?",
+    "opciones": [
+      "CBD",
+      "THC",
+      "Opio",
+      "Mescalina"
+    ],
+    "respuestaCorrecta": "THC"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes formas de cannabis se elabora con la resina de las flores hembra?",
+    "opciones": [
+      "Marihuana",
+      "Aceite de cannabis",
+      "Hachís",
+      "Infusión"
+    ],
+    "respuestaCorrecta": "Hachís"
+  },
+  {
+    "pregunta": "¿Qué forma de consumo de cannabis tiene una absorción más lenta?",
+    "opciones": [
+      "Fumado",
+      "Vía intravenosa",
+      "Vía oral",
+      "Inhalación por pipa"
+    ],
+    "respuestaCorrecta": "Vía oral"
+  },
+  {
+    "pregunta": "¿Qué efecto inmediato produce el consumo de cannabis?",
+    "opciones": [
+      "Hipervigilancia",
+      "Sequedad de boca",
+      "Aumento del apetito sexual",
+      "Trastorno obsesivo compulsivo"
+    ],
+    "respuestaCorrecta": "Sequedad de boca"
+  },
+  {
+    "pregunta": "¿Qué síntoma se relaciona con la 'borrachera cannábica'?",
+    "opciones": [
+      "Bradicardia",
+      "Somnolencia y descoordinación",
+      "Insomnio agudo",
+      "Diarrea"
+    ],
+    "respuestaCorrecta": "Somnolencia y descoordinación"
+  },
+  {
+    "pregunta": "¿Qué duración media tiene el THC en el organismo?",
+    "opciones": [
+      "1 día",
+      "1 hora",
+      "1 semana",
+      "15 días"
+    ],
+    "respuestaCorrecta": "1 semana"
+  },
+  {
+    "pregunta": "¿Qué sistema del cuerpo humano se activa artificialmente con el cannabis?",
+    "opciones": [
+      "Sistema opioide",
+      "Sistema límbico",
+      "Sistema cannabinoide endógeno",
+      "Sistema piramidal"
+    ],
+    "respuestaCorrecta": "Sistema cannabinoide endógeno"
+  },
+  {
+    "pregunta": "¿Qué alteración cognitiva genera el consumo repetido de cannabis?",
+    "opciones": [
+      "Incremento del pensamiento abstracto",
+      "Olvido generalizado y disminución de memoria",
+      "Agudeza visual aumentada",
+      "Hipermetabolismo cerebral"
+    ],
+    "respuestaCorrecta": "Olvido generalizado y disminución de memoria"
+  },
+  {
+    "pregunta": "¿En qué casos hay evidencia científica del uso terapéutico del cannabis?",
+    "opciones": [
+      "En ansiedad y depresión leve",
+      "En casos de fiebre infantil",
+      "En náuseas por quimioterapia y esclerosis múltiple",
+      "En procesos gripales comunes"
+    ],
+    "respuestaCorrecta": "En náuseas por quimioterapia y esclerosis múltiple"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el cannabis sobre la percepción del tiempo?",
+    "opciones": [
+      "Aceleración del tiempo percibido",
+      "Sensación de lentitud en el paso del tiempo",
+      "Estancamiento del reloj biológico",
+      "Ninguno en particular"
+    ],
+    "respuestaCorrecta": "Sensación de lentitud en el paso del tiempo"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto principal de la cocaína en el sistema nervioso central?",
+    "opciones": [
+      "Depresión del sistema nervioso",
+      "Estimulación intensa",
+      "Desconexión sensorial",
+      "Sedación inmediata"
+    ],
+    "respuestaCorrecta": "Estimulación intensa"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la mezcla de cocaína y heroína?",
+    "opciones": [
+      "Blow-up",
+      "Speed-ball",
+      "Coca-her",
+      "Turbo-mix"
+    ],
+    "respuestaCorrecta": "Speed-ball"
+  },
+  {
+    "pregunta": "¿Cuál de estas formas de cocaína es la más habitual en España?",
+    "opciones": [
+      "Crack",
+      "Cocaína en polvo o clorhidrato",
+      "Basuko",
+      "Inyección líquida"
+    ],
+    "respuestaCorrecta": "Cocaína en polvo o clorhidrato"
+  },
+  {
+    "pregunta": "¿Qué efecto provoca la cocaína sobre las pupilas?",
+    "opciones": [
+      "Contracción",
+      "Dilatación",
+      "Oscurecimiento",
+      "Cierre reflejo"
+    ],
+    "respuestaCorrecta": "Dilatación"
+  },
+  {
+    "pregunta": "¿Qué síntoma NO está asociado a los efectos inmediatos de la cocaína?",
+    "opciones": [
+      "Euforia",
+      "Contracción de los vasos sanguíneos",
+      "Aumento de la temperatura corporal",
+      "Sedación intensa"
+    ],
+    "respuestaCorrecta": "Sedación intensa"
+  },
+  {
+    "pregunta": "¿Qué efecto cognitivo inicial produce la cocaína?",
+    "opciones": [
+      "Aumento de la capacidad de atención y concentración",
+      "Pérdida inmediata de memoria",
+      "Hipnosis ligera",
+      "Letargo repentino"
+    ],
+    "respuestaCorrecta": "Aumento de la capacidad de atención y concentración"
+  },
+  {
+    "pregunta": "¿Qué nombre callejero NO se utiliza para referirse a la cocaína?",
+    "opciones": [
+      "Perico",
+      "Merca",
+      "Dama blanca",
+      "Cristal"
+    ],
+    "respuestaCorrecta": "Cristal"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la cocaína sobre el apetito?",
+    "opciones": [
+      "Aumenta la sensación de hambre",
+      "Disminuye el apetito",
+      "No lo altera",
+      "Produce náuseas y vómitos inmediatos"
+    ],
+    "respuestaCorrecta": "Disminuye el apetito"
+  },
+  {
+    "pregunta": "¿Qué sistema de neurotransmisión activa la cocaína?",
+    "opciones": [
+      "Sistema serotoninérgico",
+      "Sistema noradrenérgico",
+      "Sistema dopaminérgico",
+      "Sistema opioide"
+    ],
+    "respuestaCorrecta": "Sistema dopaminérgico"
+  },
+  {
+    "pregunta": "¿Qué efecto cardiovascular produce la cocaína?",
+    "opciones": [
+      "Bradicardia",
+      "Hipotensión",
+      "Aumento del ritmo cardíaco y presión arterial",
+      "Relajación vascular"
+    ],
+    "respuestaCorrecta": "Aumento del ritmo cardíaco y presión arterial"
+  },
+  {
+    "pregunta": "¿De qué droga se deriva la heroína?",
+    "opciones": [
+      "Opio",
+      "Cocaína",
+      "Cannabis",
+      "THC"
+    ],
+    "respuestaCorrecta": "Opio"
+  },
+  {
+    "pregunta": "¿Cuál fue el objetivo original al sintetizar la heroína?",
+    "opciones": [
+      "Crear un alucinógeno potente",
+      "Producir una droga recreativa",
+      "Obtener un analgésico sin efectos adictivos",
+      "Reducir el dolor sin efectos secundarios"
+    ],
+    "respuestaCorrecta": "Obtener un analgésico sin efectos adictivos"
+  },
+  {
+    "pregunta": "¿Qué tipo de droga es la heroína?",
+    "opciones": [
+      "Alucinógeno",
+      "Depresora del sistema nervioso central",
+      "Estimulante leve",
+      "Cannabinoide"
+    ],
+    "respuestaCorrecta": "Depresora del sistema nervioso central"
+  },
+  {
+    "pregunta": "¿Qué vía de administración tiene efectos más rápidos con la heroína?",
+    "opciones": [
+      "Inhalación nasal",
+      "Ingestión oral",
+      "Inyección",
+      "Absorción sublingual"
+    ],
+    "respuestaCorrecta": "Inyección"
+  },
+  {
+    "pregunta": "¿Qué sistema del cuerpo activa la heroína?",
+    "opciones": [
+      "Sistema endocannabinoide",
+      "Sistema inmunológico",
+      "Sistema opioide",
+      "Sistema límbico"
+    ],
+    "respuestaCorrecta": "Sistema opioide"
+  },
+  {
+    "pregunta": "¿Qué síntoma inicial puede producir el consumo de heroína?",
+    "opciones": [
+      "Hipotermia severa",
+      "Sequedad de boca y náuseas",
+      "Taquicardia",
+      "Insomnio profundo"
+    ],
+    "respuestaCorrecta": "Sequedad de boca y náuseas"
+  },
+  {
+    "pregunta": "¿Qué efecto causa la heroína sobre el sistema respiratorio?",
+    "opciones": [
+      "Mejora el flujo respiratorio",
+      "Causa apnea voluntaria",
+      "Produce depresión respiratoria",
+      "Aumenta la frecuencia respiratoria"
+    ],
+    "respuestaCorrecta": "Produce depresión respiratoria"
+  },
+  {
+    "pregunta": "¿Qué fenómeno ocurre cuando el sistema nervioso se habitúa a la heroína?",
+    "opciones": [
+      "Reducción progresiva de efectos secundarios",
+      "Desarrollo de dependencia física",
+      "Aumento de la sensibilidad al dolor",
+      "Inmunidad total"
+    ],
+    "respuestaCorrecta": "Desarrollo de dependencia física"
+  },
+  {
+    "pregunta": "¿Qué efectos suelen acompañar al 'flash' de la heroína?",
+    "opciones": [
+      "Somnolencia, calma y euforia",
+      "Euforia seguida de hiperactividad",
+      "Temblores intensos",
+      "Pérdida de conciencia inmediata"
+    ],
+    "respuestaCorrecta": "Somnolencia, calma y euforia"
+  },
+  {
+    "pregunta": "¿Qué sustancias se usan para adulterar la heroína?",
+    "opciones": [
+      "Cafeína y taurina",
+      "Quinina, lactosa, almidón, barbitúricos",
+      "Paracetamol y aspirina",
+      "Alcohol y benzodiacepinas"
+    ],
+    "respuestaCorrecta": "Quinina, lactosa, almidón, barbitúricos"
+  },
+  {
+    "pregunta": "¿Qué tipo de sustancias incluye el grupo de las drogas de síntesis?",
+    "opciones": [
+      "Únicamente alucinógenos naturales",
+      "Sustancias elaboradas por fermentación",
+      "Sustancias de síntesis química con efectos estimulantes y/o alucinógenos",
+      "Opiáceos derivados de la morfina"
+    ],
+    "respuestaCorrecta": "Sustancias de síntesis química con efectos estimulantes y/o alucinógenos"
+  },
+  {
+    "pregunta": "¿Qué droga sintética es la más conocida entre las de síntesis?",
+    "opciones": [
+      "Ketamina",
+      "PCP",
+      "Éxtasis (MDMA)",
+      "GBL"
+    ],
+    "respuestaCorrecta": "Éxtasis (MDMA)"
+  },
+  {
+    "pregunta": "¿Cuál es la vía más habitual de consumo del éxtasis?",
+    "opciones": [
+      "Intravenosa",
+      "Fumada",
+      "Oral",
+      "Inhalada"
+    ],
+    "respuestaCorrecta": "Oral"
+  },
+  {
+    "pregunta": "¿Qué forma nueva del éxtasis ha aparecido en el mercado español?",
+    "opciones": [
+      "Cristal (sales cristalizadas)",
+      "Líquido de MDMA",
+      "MDMA comprimido en cápsulas negras",
+      "MDMA en aerosol"
+    ],
+    "respuestaCorrecta": "Cristal (sales cristalizadas)"
+  },
+  {
+    "pregunta": "¿Qué neurotransmisores se activan con el consumo de éxtasis?",
+    "opciones": [
+      "GABA y noradrenalina",
+      "Serotonina, dopamina y norepinefrina",
+      "Endorfinas y melatonina",
+      "Acetilcolina y histamina"
+    ],
+    "respuestaCorrecta": "Serotonina, dopamina y norepinefrina"
+  },
+  {
+    "pregunta": "¿Qué efecto sensorial produce el éxtasis?",
+    "opciones": [
+      "Insensibilidad total",
+      "Disminución de la percepción",
+      "Aumento de la percepción táctil y sensorial",
+      "Ceguera temporal"
+    ],
+    "respuestaCorrecta": "Aumento de la percepción táctil y sensorial"
+  },
+  {
+    "pregunta": "¿Qué efectos físicos inmediatos provoca el éxtasis?",
+    "opciones": [
+      "Bradicardia e hipotermia",
+      "Taquicardia, sudoración, temblores y golpe de calor",
+      "Somnolencia y rigidez",
+      "Relajación y palidez"
+    ],
+    "respuestaCorrecta": "Taquicardia, sudoración, temblores y golpe de calor"
+  },
+  {
+    "pregunta": "¿Qué término NO se asocia con el éxtasis en el argot juvenil?",
+    "opciones": [
+      "Pastis",
+      "Love",
+      "Speed",
+      "Pirulas"
+    ],
+    "respuestaCorrecta": "Speed"
+  },
+  {
+    "pregunta": "¿Por qué es más peligroso el 'cristal' frente a las pastillas tradicionales?",
+    "opciones": [
+      "Porque se administra por vía intravenosa",
+      "Porque es más adictivo por su forma molecular",
+      "Porque es más fácilmente adulterable",
+      "Porque solo se produce en Asia"
+    ],
+    "respuestaCorrecta": "Porque es más fácilmente adulterable"
+  },
+  {
+    "pregunta": "¿Qué efecto psicológico genera el éxtasis sobre el estado emocional?",
+    "opciones": [
+      "Aislamiento emocional",
+      "Sociabilidad, euforia y desinhibición",
+      "Tristeza y ansiedad",
+      "Pánico y hostilidad"
+    ],
+    "respuestaCorrecta": "Sociabilidad, euforia y desinhibición"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre químico del 'polvo de ángel'?",
+    "opciones": [
+      "Ketamina",
+      "PCP o fenciclidina",
+      "MDMA",
+      "GBL"
+    ],
+    "respuestaCorrecta": "PCP o fenciclidina"
+  },
+  {
+    "pregunta": "¿Qué efectos produce el PCP sobre el cerebro?",
+    "opciones": [
+      "Estabilidad emocional",
+      "Estimulación sensorial controlada",
+      "Bloqueo del pensamiento lógico y alteraciones emocionales",
+      "Mejora de la concentración"
+    ],
+    "respuestaCorrecta": "Bloqueo del pensamiento lógico y alteraciones emocionales"
+  },
+  {
+    "pregunta": "¿Qué riesgo tiene el PCP al combinarse con alcohol o benzodiacepinas?",
+    "opciones": [
+      "Produce efectos psicoactivos suaves",
+      "Puede poner en peligro la vida",
+      "Disminuye su efecto",
+      "No tiene efectos combinados"
+    ],
+    "respuestaCorrecta": "Puede poner en peligro la vida"
+  },
+  {
+    "pregunta": "¿Qué tipo de droga son los poppers?",
+    "opciones": [
+      "Psicodislépticos orales",
+      "Inhalantes basados en nitritos",
+      "Alucinógenos intravenosos",
+      "Opiáceos legales"
+    ],
+    "respuestaCorrecta": "Inhalantes basados en nitritos"
+  },
+  {
+    "pregunta": "¿Qué efecto producen los poppers al ser inhalados?",
+    "opciones": [
+      "Desconexión sensorial prolongada",
+      "Euforia y aumento del deseo sexual de corta duración",
+      "Somnolencia intensa",
+      "Pérdida auditiva"
+    ],
+    "respuestaCorrecta": "Euforia y aumento del deseo sexual de corta duración"
+  },
+  {
+    "pregunta": "¿Qué riesgo presenta el uso prolongado de poppers?",
+    "opciones": [
+      "Adicción a largo plazo únicamente",
+      "Tolerancia y riesgo elevado de intoxicación por sobredosis",
+      "Estimulación cardiovascular segura",
+      "Ninguno si se usa ocasionalmente"
+    ],
+    "respuestaCorrecta": "Tolerancia y riesgo elevado de intoxicación por sobredosis"
+  },
+  {
+    "pregunta": "¿Qué efecto puede tener el LSD?",
+    "opciones": [
+      "Pérdida total de conciencia",
+      "Cambios emocionales rápidos e intensos y viaje psicodélico",
+      "Sueño profundo",
+      "Anulación de la actividad cerebral"
+    ],
+    "respuestaCorrecta": "Cambios emocionales rápidos e intensos y viaje psicodélico"
+  },
+  {
+    "pregunta": "¿Qué consecuencia negativa puede producir el consumo de setas alucinógenas?",
+    "opciones": [
+      "Taquicardia",
+      "Despersonalización y crisis de pánico",
+      "Disminución del apetito",
+      "Hipotensión"
+    ],
+    "respuestaCorrecta": "Despersonalización y crisis de pánico"
+  },
+  {
+    "pregunta": "¿Qué efecto tienen las sustancias volátiles como colas y gasolina?",
+    "opciones": [
+      "Estimulación sensorial selectiva",
+      "Euforia, somnolencia y confusión",
+      "Incremento de agudeza mental",
+      "Relajación respiratoria"
+    ],
+    "respuestaCorrecta": "Euforia, somnolencia y confusión"
+  },
+  {
+    "pregunta": "¿Qué droga puede producir 'flashbacks' o reviviscencias del efecto tiempo después?",
+    "opciones": [
+      "Poppers",
+      "Cannabis",
+      "LSD",
+      "GHB"
+    ],
+    "respuestaCorrecta": "LSD"
+  },
+  {
+    "pregunta": "¿Qué tipo de droga es la metanfetamina?",
+    "opciones": [
+      "Depresora del sistema nervioso",
+      "Estimulante derivada de la anfetamina",
+      "Alucinógeno natural",
+      "Analgésico opiáceo"
+    ],
+    "respuestaCorrecta": "Estimulante derivada de la anfetamina"
+  },
+  {
+    "pregunta": "¿Qué nombre popular recibe la metanfetamina en forma cristalina?",
+    "opciones": [
+      "Speedball",
+      "Cristal o crystal",
+      "Crack",
+      "Polvo de ángel"
+    ],
+    "respuestaCorrecta": "Cristal o crystal"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los efectos inmediatos de la metanfetamina?",
+    "opciones": [
+      "Somnolencia profunda",
+      "Aumento de la atención y reducción del apetito",
+      "Bradicardia",
+      "Hipotermia"
+    ],
+    "respuestaCorrecta": "Aumento de la atención y reducción del apetito"
+  },
+  {
+    "pregunta": "¿Qué efecto cardiovascular puede provocar la metanfetamina?",
+    "opciones": [
+      "Disminución de la frecuencia cardíaca",
+      "Arritmias e hipotensión",
+      "Aumento de la frecuencia cardíaca e hipertermia",
+      "Desmayo inmediato"
+    ],
+    "respuestaCorrecta": "Aumento de la frecuencia cardíaca e hipertermia"
+  },
+  {
+    "pregunta": "¿Qué fenómeno ocurre tras el consumo por vía inyectada o fumada de metanfetamina?",
+    "opciones": [
+      "Apnea prolongada",
+      "Flash intenso y breve de placer",
+      "Pérdida total de memoria",
+      "Visión doble"
+    ],
+    "respuestaCorrecta": "Flash intenso y breve de placer"
+  },
+  {
+    "pregunta": "¿Qué comportamiento de riesgo está asociado a la metanfetamina?",
+    "opciones": [
+      "Mayor apego emocional",
+      "Relaciones sexuales de riesgo",
+      "Inhibición motora",
+      "Evitar el contacto físico"
+    ],
+    "respuestaCorrecta": "Relaciones sexuales de riesgo"
+  },
+  {
+    "pregunta": "¿Qué trastornos puede causar a largo plazo el consumo de metanfetamina?",
+    "opciones": [
+      "Aumento del apetito",
+      "Insomnio, anorexia, psicosis y alucinaciones",
+      "Desarrollo muscular",
+      "Envejecimiento retardado"
+    ],
+    "respuestaCorrecta": "Insomnio, anorexia, psicosis y alucinaciones"
+  },
+  {
+    "pregunta": "¿Qué sucede con la tolerancia a la metanfetamina?",
+    "opciones": [
+      "Disminuye con el tiempo",
+      "Se desarrolla muy lentamente",
+      "Se desarrolla muy rápidamente",
+      "No existe tolerancia"
+    ],
+    "respuestaCorrecta": "Se desarrolla muy rápidamente"
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedades puede transmitir el uso compartido de jeringuillas?",
+    "opciones": [
+      "Hipotiroidismo",
+      "Gripe estacional",
+      "SIDA y hepatitis B y C",
+      "Cáncer de piel"
+    ],
+    "respuestaCorrecta": "SIDA y hepatitis B y C"
+  },
+  {
+    "pregunta": "¿Qué alteración visual puede producir la metanfetamina a largo plazo?",
+    "opciones": [
+      "Fotofobia crónica",
+      "Visión infrarroja",
+      "Alucinaciones visuales",
+      "Agudeza visual mejorada"
+    ],
+    "respuestaCorrecta": "Alucinaciones visuales"
+  },
+  {
+    "pregunta": "¿Qué tipo de sustancia es el GHB?",
+    "opciones": [
+      "Estimulante del sistema nervioso central",
+      "Depresor del sistema nervioso central",
+      "Alucinógeno natural",
+      "Opioide sintético"
+    ],
+    "respuestaCorrecta": "Depresor del sistema nervioso central"
+  },
+  {
+    "pregunta": "¿Con qué nombre se conoce también al GHB?",
+    "opciones": [
+      "Cristal",
+      "Polvo de ángel",
+      "Éxtasis líquido",
+      "Special K"
+    ],
+    "respuestaCorrecta": "Éxtasis líquido"
+  },
+  {
+    "pregunta": "¿Cuál es una característica de presentación del GHB en el mercado ilegal?",
+    "opciones": [
+      "Cápsulas de colores",
+      "Líquido transparente",
+      "Comprimidos blancos",
+      "Polvo rosado"
+    ],
+    "respuestaCorrecta": "Líquido transparente"
+  },
+  {
+    "pregunta": "¿Cuánto duran los efectos del GHB en el organismo?",
+    "opciones": [
+      "15 minutos",
+      "30 minutos",
+      "60 a 90 minutos",
+      "4 a 6 horas"
+    ],
+    "respuestaCorrecta": "60 a 90 minutos"
+  },
+  {
+    "pregunta": "¿Qué efectos negativos puede provocar el consumo de GHB?",
+    "opciones": [
+      "Disociación visual",
+      "Alucinaciones táctiles",
+      "Depresión respiratoria, ideas delirantes y coma",
+      "Hiperactividad intensa"
+    ],
+    "respuestaCorrecta": "Depresión respiratoria, ideas delirantes y coma"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el GHB si se suspende su consumo habitual?",
+    "opciones": [
+      "Reducción de peso repentina",
+      "Síndrome de abstinencia con ansiedad y temblores",
+      "Incremento del deseo sexual",
+      "Incremento de la memoria"
+    ],
+    "respuestaCorrecta": "Síndrome de abstinencia con ansiedad y temblores"
+  },
+  {
+    "pregunta": "¿Qué sustancia tiene una estructura similar al GHB y produce los mismos efectos?",
+    "opciones": [
+      "MDMA",
+      "GBL",
+      "PCP",
+      "LSD"
+    ],
+    "respuestaCorrecta": "GBL"
+  },
+  {
+    "pregunta": "¿En qué tipo de delitos se ha asociado el uso de GHB y GBL?",
+    "opciones": [
+      "Delitos financieros",
+      "Agresiones sexuales inducidas por drogas",
+      "Robo con violencia",
+      "Suplantación de identidad"
+    ],
+    "respuestaCorrecta": "Agresiones sexuales inducidas por drogas"
+  },
+  {
+    "pregunta": "¿Qué efecto inicial busca el consumidor de GHB?",
+    "opciones": [
+      "Pérdida de conciencia",
+      "Euforia y sociabilidad",
+      "Hipnosis profunda",
+      "Alucinaciones auditivas"
+    ],
+    "respuestaCorrecta": "Euforia y sociabilidad"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los principales peligros del GHB al ser consumido oralmente?",
+    "opciones": [
+      "Reacciones alérgicas cutáneas",
+      "Dificultad para controlar la dosis y variabilidad de efectos",
+      "Daño pulmonar irreversible",
+      "Incremento del metabolismo basal"
+    ],
+    "respuestaCorrecta": "Dificultad para controlar la dosis y variabilidad de efectos"
+  },
+  {
+    "pregunta": "¿Qué tipo de medicamento es la ketamina en su origen?",
+    "opciones": [
+      "Analgésico opioide",
+      "Antibiótico de amplio espectro",
+      "Anestésico de uso humano y veterinario",
+      "Broncodilatador"
+    ],
+    "respuestaCorrecta": "Anestésico de uso humano y veterinario"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los nombres populares de la ketamina?",
+    "opciones": [
+      "Popper",
+      "Special K",
+      "Cristal",
+      "Flash"
+    ],
+    "respuestaCorrecta": "Special K"
+  },
+  {
+    "pregunta": "¿Qué efecto produce la ketamina a dosis bajas?",
+    "opciones": [
+      "Alucinaciones intensas",
+      "Somnolencia y pérdida de memoria",
+      "Síntomas similares a la borrachera por alcohol",
+      "Risa incontrolada"
+    ],
+    "respuestaCorrecta": "Síntomas similares a la borrachera por alcohol"
+  },
+  {
+    "pregunta": "¿Qué efecto puede producir la ketamina a dosis altas?",
+    "opciones": [
+      "Pérdida de apetito",
+      "Flash breve",
+      "Delirios, alucinaciones y distorsión de la realidad",
+      "Estímulo del sistema inmune"
+    ],
+    "respuestaCorrecta": "Delirios, alucinaciones y distorsión de la realidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de alteración mental puede generar la ketamina tras varios usos?",
+    "opciones": [
+      "Incremento de la lógica matemática",
+      "Amnesia retroactiva selectiva",
+      "Pérdida de memoria y concentración",
+      "Agudeza visual persistente"
+    ],
+    "respuestaCorrecta": "Pérdida de memoria y concentración"
+  },
+  {
+    "pregunta": "¿Qué riesgo vital puede tener la ketamina incluso en dosis mínimas?",
+    "opciones": [
+      "Aumento de masa muscular",
+      "Paro cardíaco o respiratorio",
+      "Deshidratación leve",
+      "Rinitis aguda"
+    ],
+    "respuestaCorrecta": "Paro cardíaco o respiratorio"
+  },
+  {
+    "pregunta": "¿Qué combinación agrava el riesgo de la ketamina?",
+    "opciones": [
+      "Con cafeína",
+      "Con alcohol u otras drogas",
+      "Con ejercicio físico",
+      "Con infusiones herbales"
+    ],
+    "respuestaCorrecta": "Con alcohol u otras drogas"
+  },
+  {
+    "pregunta": "¿Qué percepción puede tener el consumidor bajo efectos intensos de ketamina?",
+    "opciones": [
+      "Estar flotando en el aire sin vértigo",
+      "Que ha muerto o está fuera de su cuerpo",
+      "Que está hablando con claridad",
+      "Que puede leer mentes"
+    ],
+    "respuestaCorrecta": "Que ha muerto o está fuera de su cuerpo"
+  },
+  {
+    "pregunta": "¿Qué problema provoca la rápida tolerancia a la ketamina?",
+    "opciones": [
+      "Reducción del efecto alucinógeno",
+      "Incremento del precio en el mercado negro",
+      "Necesidad de dosis más altas y mayor riesgo",
+      "Suspensión espontánea del consumo"
+    ],
+    "respuestaCorrecta": "Necesidad de dosis más altas y mayor riesgo"
+  },
+  {
+    "pregunta": "¿Qué interacción con psicoestimulantes puede producir la ketamina?",
+    "opciones": [
+      "Inhibición total de la acción cerebral",
+      "Reacción impredecible y peligrosa",
+      "Relajación profunda y segura",
+      "Ninguna interacción significativa"
+    ],
+    "respuestaCorrecta": "Reacción impredecible y peligrosa"
+  },
+  {
+    "pregunta": "¿A qué grupo pertenece la sustancia m-CPP?",
+    "opciones": [
+      "Cannabinoides sintéticos",
+      "Opiáceos derivados",
+      "Piperazinas",
+      "Anfetaminas naturales"
+    ],
+    "respuestaCorrecta": "Piperazinas"
+  },
+  {
+    "pregunta": "¿Cómo se comercializa la m-CPP en el mercado ilegal?",
+    "opciones": [
+      "Líquido en frascos",
+      "Tabletas de colores y polvo",
+      "Ampollas inyectables",
+      "Cristales translúcidos"
+    ],
+    "respuestaCorrecta": "Tabletas de colores y polvo"
+  },
+  {
+    "pregunta": "¿Qué logos comerciales pueden aparecer en las pastillas de m-CPP?",
+    "opciones": [
+      "Tiburón, Lacoste, Mitsubishi",
+      "Nike, Adidas, Puma",
+      "Apple, Android, Google",
+      "Tesla, Ferrari, Rolex"
+    ],
+    "respuestaCorrecta": "Tiburón, Lacoste, Mitsubishi"
+  },
+  {
+    "pregunta": "¿Qué efectos produce la m-CPP?",
+    "opciones": [
+      "Efectos solo visuales",
+      "Propiedades estimulantes y alucinógenas",
+      "Depresión respiratoria únicamente",
+      "Anulación del gusto y olfato"
+    ],
+    "respuestaCorrecta": "Propiedades estimulantes y alucinógenas"
+  },
+  {
+    "pregunta": "¿Qué riesgo renal puede provocar la m-CPP?",
+    "opciones": [
+      "Hipertensión aguda",
+      "Daño renal",
+      "Cálculos renales",
+      "Nefritis bacteriana"
+    ],
+    "respuestaCorrecta": "Daño renal"
+  },
+  {
+    "pregunta": "¿Qué síntomas psicológicos puede causar el consumo de m-CPP?",
+    "opciones": [
+      "Euforia leve prolongada",
+      "Tristeza emocional controlada",
+      "Brotes de violencia y comportamientos psicóticos",
+      "Sueños vívidos agradables"
+    ],
+    "respuestaCorrecta": "Brotes de violencia y comportamientos psicóticos"
+  },
+  {
+    "pregunta": "¿Qué tipo de reacción puede producir el consumo de m-CPP?",
+    "opciones": [
+      "Efecto sedante generalizado",
+      "Reacciones de pánico y vómitos",
+      "Hipersensibilidad auditiva",
+      "Incremento del sistema inmune"
+    ],
+    "respuestaCorrecta": "Reacciones de pánico y vómitos"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los peligros principales de la m-CPP en comparación con el éxtasis?",
+    "opciones": [
+      "Es legal en todos los países",
+      "Se vende como si fuera éxtasis sin serlo",
+      "Produce menos efectos secundarios",
+      "Tiene efectos terapéuticos documentados"
+    ],
+    "respuestaCorrecta": "Se vende como si fuera éxtasis sin serlo"
+  },
+  {
+    "pregunta": "¿Qué efecto gastrointestinal puede tener la m-CPP?",
+    "opciones": [
+      "Aumento del apetito",
+      "Dolor de estómago y vómitos",
+      "Flatulencias frecuentes",
+      "Estreñimiento crónico"
+    ],
+    "respuestaCorrecta": "Dolor de estómago y vómitos"
+  },
+  {
+    "pregunta": "¿Qué forma de presentación NO corresponde a la m-CPP?",
+    "opciones": [
+      "Comprimidos con logos de moda",
+      "Polvo blanco mezclado con otras sustancias",
+      "Ampollas inyectables estériles",
+      "Pastillas similares al éxtasis"
+    ],
+    "respuestaCorrecta": "Ampollas inyectables estériles"
+  },
+  {
+    "pregunta": "¿Qué tipo de actos relacionados con drogas castiga el Código Penal en España?",
+    "opciones": [
+      "Solo el consumo personal",
+      "Únicamente el transporte de drogas",
+      "Cultivo, elaboración, tráfico y posesión con fines ilícitos",
+      "Posesión en cantidades pequeñas"
+    ],
+    "respuestaCorrecta": "Cultivo, elaboración, tráfico y posesión con fines ilícitos"
+  },
+  {
+    "pregunta": "¿Qué ley regula las sanciones administrativas por consumo o tenencia de drogas?",
+    "opciones": [
+      "Ley Orgánica 4/2015 de Protección de la Seguridad Ciudadana",
+      "Código Civil",
+      "Ley de Sanidad Pública",
+      "Ley de Prevención de Riesgos Laborales"
+    ],
+    "respuestaCorrecta": "Ley Orgánica 4/2015 de Protección de la Seguridad Ciudadana"
+  },
+  {
+    "pregunta": "¿Cuál es la sanción por consumir drogas en lugares públicos según la LO 4/2015?",
+    "opciones": [
+      "Prisión preventiva",
+      "Multa de 60 a 600 €",
+      "Multa de 601 a 30.000 €",
+      "Inhabilitación permanente"
+    ],
+    "respuestaCorrecta": "Multa de 601 a 30.000 €"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un menor sancionado se somete voluntariamente a rehabilitación?",
+    "opciones": [
+      "La multa se incrementa",
+      "La sanción puede suspenderse o extinguirse",
+      "Se traslada a centro de menores",
+      "Debe pagar una multa adicional"
+    ],
+    "respuestaCorrecta": "La sanción puede suspenderse o extinguirse"
+  },
+  {
+    "pregunta": "¿Qué sanción puede aplicarse por trasladar personas para facilitar su acceso a drogas?",
+    "opciones": [
+      "Ninguna si no hay tráfico",
+      "Sanción administrativa si no constituye delito",
+      "Detención inmediata",
+      "Aviso sin consecuencias"
+    ],
+    "respuestaCorrecta": "Sanción administrativa si no constituye delito"
+  },
+  {
+    "pregunta": "¿Qué se considera infracción si se permite el consumo en un local sin impedirlo?",
+    "opciones": [
+      "Falta leve",
+      "Infracción penal grave",
+      "Sanción administrativa grave",
+      "Ninguna si hay licencia"
+    ],
+    "respuestaCorrecta": "Sanción administrativa grave"
+  },
+  {
+    "pregunta": "¿Qué sanción puede recibir el cultivo de drogas en lugares visibles al público?",
+    "opciones": [
+      "Solo advertencia verbal",
+      "Multa de 60 €",
+      "Sanción administrativa si no hay delito",
+      "Arresto domiciliario"
+    ],
+    "respuestaCorrecta": "Sanción administrativa si no hay delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de sanción se impone por tenencia no destinada al tráfico en transporte público?",
+    "opciones": [
+      "Multa económica",
+      "Aviso policial",
+      "Inhabilitación de conducir",
+      "Suspensión de empleo"
+    ],
+    "respuestaCorrecta": "Multa económica"
+  },
+  {
+    "pregunta": "¿Qué instrumentos usados para el consumo de drogas pueden ser sancionables?",
+    "opciones": [
+      "Instrumentos olvidados en domicilio privado",
+      "Instrumentos abandonados en espacios públicos",
+      "Herramientas médicas personales",
+      "Objetos de colección"
+    ],
+    "respuestaCorrecta": "Instrumentos abandonados en espacios públicos"
+  },
+  {
+    "pregunta": "¿Qué sucede si el propietario de un local no impide el tráfico de drogas en su interior?",
+    "opciones": [
+      "Es sancionado penalmente directamente",
+      "No se le puede sancionar",
+      "Se le impone una sanción administrativa grave",
+      "Solo se le advierte por escrito"
+    ],
+    "respuestaCorrecta": "Se le impone una sanción administrativa grave"
+  },
+  {
+    "pregunta": "¿Qué condición se menciona para suspender una multa a menores por consumo de drogas?",
+    "opciones": [
+      "Que reconozcan el delito públicamente",
+      "Que paguen la mitad de la sanción",
+      "Que se sometan voluntariamente a tratamiento o actividades de reeducación",
+      "Que abandonen el país temporalmente"
+    ],
+    "respuestaCorrecta": "Que se sometan voluntariamente a tratamiento o actividades de reeducación"
+  },
+  {
+    "pregunta": "¿Qué tipo de transporte, si se utiliza para facilitar el acceso a drogas, puede ser sancionado?",
+    "opciones": [
+      "Solo transporte ferroviario",
+      "Solo transporte marítimo",
+      "Cualquier tipo de vehículo",
+      "Transporte aéreo únicamente"
+    ],
+    "respuestaCorrecta": "Cualquier tipo de vehículo"
+  },
+  {
+    "pregunta": "¿Qué ley establece sanciones por abandono de instrumentos usados para consumo de drogas?",
+    "opciones": [
+      "Código Penal",
+      "Ley de Sanidad",
+      "Ley Orgánica 4/2015",
+      "Ley de Prevención de Drogodependencias"
+    ],
+    "respuestaCorrecta": "Ley Orgánica 4/2015"
+  },
+  {
+    "pregunta": "¿Qué sucede si una persona realiza plantación de drogas en un lugar visible al público?",
+    "opciones": [
+      "Debe notificarlo al ayuntamiento",
+      "Se le impone una sanción si no constituye delito",
+      "Puede continuar sin problema",
+      "Se le ofrece protección jurídica"
+    ],
+    "respuestaCorrecta": "Se le impone una sanción si no constituye delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de infracción comete un local que tolera el tráfico de drogas en su interior?",
+    "opciones": [
+      "Falta leve",
+      "Falta administrativa grave",
+      "Infracción penal directa",
+      "Multa simbólica"
+    ],
+    "respuestaCorrecta": "Falta administrativa grave"
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si un local no actúa con diligencia para evitar el consumo de drogas?",
+    "opciones": [
+      "Recibe subvenciones públicas",
+      "Se le retira la licencia sin sanción",
+      "Es sancionado administrativamente",
+      "No ocurre nada si no hay delito"
+    ],
+    "respuestaCorrecta": "Es sancionado administrativamente"
+  },
+  {
+    "pregunta": "¿En qué lugares puede ser sancionable el consumo de drogas según la Ley Orgánica 4/2015?",
+    "opciones": [
+      "Solo en espacios privados",
+      "Únicamente en eventos deportivos",
+      "En vías, establecimientos y transportes públicos",
+      "Solo en centros escolares"
+    ],
+    "respuestaCorrecta": "En vías, establecimientos y transportes públicos"
+  },
+  {
+    "pregunta": "¿Qué posibilidad tiene un menor reincidente en consumo de drogas según la ley?",
+    "opciones": [
+      "Puede ir a prisión",
+      "Debe pagar siempre la multa",
+      "Puede extinguir la sanción si sigue tratamiento o reeducación",
+      "Debe declarar ante el Congreso"
+    ],
+    "respuestaCorrecta": "Puede extinguir la sanción si sigue tratamiento o reeducación"
+  },
+  {
+    "pregunta": "¿Qué finalidad tienen las actividades de reeducación para menores infractores?",
+    "opciones": [
+      "Imponer sanciones más altas",
+      "Evitar la reincidencia mediante información y concienciación",
+      "Retirarlos del sistema educativo",
+      "Promover su encarcelamiento"
+    ],
+    "respuestaCorrecta": "Evitar la reincidencia mediante información y concienciación"
+  },
+  {
+    "pregunta": "¿Qué condición debe cumplirse para que el abandono de instrumentos para drogas sea sancionable?",
+    "opciones": [
+      "Que se abandonen en domicilios",
+      "Que estén nuevos o sin usar",
+      "Que se dejen en lugares públicos",
+      "Que sean propiedad de terceros"
+    ],
+    "respuestaCorrecta": "Que se dejen en lugares públicos"
+  },
+  {
+    "pregunta": "¿Qué acción puede conllevar sanción si no se impide el tráfico de drogas en un local?",
+    "opciones": [
+      "Promoción del local",
+      "No declarar impuestos",
+      "Falta de diligencia del propietario o encargado",
+      "Venta de productos sin etiquetado"
+    ],
+    "respuestaCorrecta": "Falta de diligencia del propietario o encargado"
+  },
+  {
+    "pregunta": "¿Qué organismo es responsable de imponer las sanciones por infracciones de la Ley 4/2015?",
+    "opciones": [
+      "El Senado",
+      "La Agencia Tributaria",
+      "La Administración Pública competente",
+      "El Colegio de Médicos"
+    ],
+    "respuestaCorrecta": "La Administración Pública competente"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de las medidas como el tratamiento o reeducación para menores?",
+    "opciones": [
+      "Castigar más rápidamente",
+      "Evitar la aplicación de la ley penal",
+      "Reinserción y prevención de futuras infracciones",
+      "Privación temporal de libertad"
+    ],
+    "respuestaCorrecta": "Reinserción y prevención de futuras infracciones"
+  },
+  {
+    "pregunta": "¿Qué tipo de cultivo es sancionable si se realiza en espacios visibles al público?",
+    "opciones": [
+      "Cultivo de cáñamo industrial legal",
+      "Cualquier planta decorativa",
+      "Cultivo ilícito de drogas",
+      "Hierbas medicinales"
+    ],
+    "respuestaCorrecta": "Cultivo ilícito de drogas"
+  },
+  {
+    "pregunta": "¿Qué instrumento legal regula el abandono de efectos relacionados con el consumo de drogas?",
+    "opciones": [
+      "Ley de Enjuiciamiento Criminal",
+      "Código Penal de 1995",
+      "Ley Orgánica de Protección de la Seguridad Ciudadana",
+      "Constitución Española"
+    ],
+    "respuestaCorrecta": "Ley Orgánica de Protección de la Seguridad Ciudadana"
+  },
+  {
+    "pregunta": "¿Qué criterio se aplica para determinar la gravedad de la sanción por consumo público?",
+    "opciones": [
+      "Edad del consumidor únicamente",
+      "Reincidencia y circunstancias del hecho",
+      "Nivel educativo del infractor",
+      "Tipo de sustancia publicitada"
+    ],
+    "respuestaCorrecta": "Reincidencia y circunstancias del hecho"
+  },
+  {
+    "pregunta": "¿Qué medida puede aplicarse a un menor sancionado si abandona el tratamiento?",
+    "opciones": [
+      "Reducción de la multa",
+      "Imposición de cárcel juvenil",
+      "Reactivación de la sanción económica",
+      "Acceso restringido a transporte público"
+    ],
+    "respuestaCorrecta": "Reactivación de la sanción económica"
+  },
+  {
+    "pregunta": "¿Qué tipo de sustancias se mencionan como objeto de sanción en la LO 4/2015?",
+    "opciones": [
+      "Vitaminas y suplementos",
+      "Medicamentos homeopáticos",
+      "Drogas tóxicas, estupefacientes y psicotrópicas",
+      "Bebidas energéticas"
+    ],
+    "respuestaCorrecta": "Drogas tóxicas, estupefacientes y psicotrópicas"
+  },
+  {
+    "pregunta": "¿Qué ocurre si se tolera el consumo ilegal en un establecimiento sin intervenir?",
+    "opciones": [
+      "Se considera falta leve sin consecuencias",
+      "No tiene implicaciones si es ocasional",
+      "Se considera sanción administrativa grave",
+      "Debe notificarse al defensor del pueblo"
+    ],
+    "respuestaCorrecta": "Se considera sanción administrativa grave"
+  },
+  {
+    "pregunta": "¿Qué alternativa puede extinguir la multa para un menor por consumo ilícito?",
+    "opciones": [
+      "Abandono del país",
+      "Declaración jurada de no reincidencia",
+      "Finalización de actividad de reeducación",
+      "Pago por parte de los padres"
+    ],
+    "respuestaCorrecta": "Finalización de actividad de reeducación"
+  }
+ 
+]

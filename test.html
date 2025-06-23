@@ -231,42 +231,67 @@ function mezclarArray(array) {
       }
     }
 
-    function mostrarResultados() {
-      clearInterval(temporizador);
-      const correctas = preguntas.filter((p, i) => p.respuestaCorrecta === respuestasUsuario[i]).length;
-      document.getElementById("preguntaCard").innerHTML = `
-        <h4 class="text-center">✅ Has acertado ${correctas} de ${preguntas.length} preguntas.</h4>
-        <div class="text-center mt-4 d-flex flex-column gap-3 align-items-center">
-          <button class="btn btn-primary" onclick="revisarRespuestas()">👁 Revisar respuestas</button>
-          <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
-          <a class="btn btn-outline-secondary" href="index.html">🏠 Volver al inicio</a>
+  function mostrarResultados() {
+  clearInterval(temporizador);
+
+  if (modoJuego === "flashcards") {
+    document.getElementById("preguntaCard").innerHTML = `
+      <h4 class="text-center">📚 ¡Has terminado el modo Flashcards!</h4>
+      <div class="text-center mt-4 d-flex flex-column gap-3 align-items-center">
+        <button class="btn btn-primary" onclick="revisarRespuestas()">👁 Ver resumen</button>
+        <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
+        <a class="btn btn-outline-secondary" href="index.html">🏠 Volver al inicio</a>
+      </div>
+    `;
+    return;
+  }
+
+  const correctas = preguntas.filter((p, i) => p.respuestaCorrecta === respuestasUsuario[i]).length;
+  document.getElementById("preguntaCard").innerHTML = `
+    <h4 class="text-center">✅ Has acertado ${correctas} de ${preguntas.length} preguntas.</h4>
+    <div class="text-center mt-4 d-flex flex-column gap-3 align-items-center">
+      <button class="btn btn-primary" onclick="revisarRespuestas()">👁 Revisar respuestas</button>
+      <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
+      <a class="btn btn-outline-secondary" href="index.html">🏠 Volver al inicio</a>
+    </div>
+  `;
+}
+
+function revisarRespuestas() {
+  let contenido = "";
+
+  if (modoJuego === "flashcards") {
+    preguntas.forEach((p, i) => {
+      contenido += `
+        <p><strong>Flashcard ${i + 1}:</strong> ${p.pregunta}</p>
+        <div class="card mb-3 pregunta-box">
+          <strong>Respuesta:</strong> ${p.respuestaCorrecta}
         </div>
       `;
-    }
+    });
+  } else {
+    preguntas.forEach((p, i) => {
+      contenido += `<p><strong>Pregunta ${i + 1}:</strong> ${p.pregunta}</p>`;
+      contenido += p.opciones.map((op) => {
+        let clase = "";
+        if (op === p.respuestaCorrecta) clase = "correcta";
+        if (op === respuestasUsuario[i] && op !== p.respuestaCorrecta) clase = "incorrecta";
+        return `<div class="card mb-2 opcion ${clase}">
+                  <div class="card-body"><strong>${op}</strong></div>
+                </div>`;
+      }).join("");
+    });
+  }
 
-    function revisarRespuestas() {
-      let contenido = "";
-      preguntas.forEach((p, i) => {
-        contenido += `<p><strong>Pregunta ${i + 1}:</strong> ${p.pregunta}</p>`;
-        contenido += p.opciones.map((op) => {
-          let clase = "";
-          if (op === p.respuestaCorrecta) clase = "correcta";
-          if (op === respuestasUsuario[i] && op !== p.respuestaCorrecta) clase = "incorrecta";
-          return `<div class="card mb-2 opcion ${clase}">
-                    <div class="card-body"><strong>${op}</strong></div>
-                  </div>`;
-        }).join("");
-      });
-
-      document.getElementById("preguntaCard").innerHTML = `
-        <h4 class="text-center mb-4">👁 Revisión de respuestas</h4>
-        <div>${contenido}</div>
-        <div class="text-center mt-4">
-          <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
-          <a class="btn btn-outline-secondary ms-2" href="index.html">🏠 Volver al inicio</a>
-        </div>
-      `;
-    }
+  document.getElementById("preguntaCard").innerHTML = `
+    <h4 class="text-center mb-4">👁 Revisión de respuestas</h4>
+    <div>${contenido}</div>
+    <div class="text-center mt-4">
+      <button class="btn btn-outline-secondary" onclick="reiniciarTest()">🔁 Reiniciar test</button>
+      <a class="btn btn-outline-secondary ms-2" href="index.html">🏠 Volver al inicio</a>
+    </div>
+  `;
+}
 
     async function reiniciarTest() {
       if (!archivoJson) {

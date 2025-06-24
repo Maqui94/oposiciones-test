@@ -1,0 +1,3802 @@
+[
+  {
+    "pregunta": "¿Qué disciplina científica se encarga del estudio del delito y el delincuente?",
+    "opciones": [
+      "Sociología",
+      "Derecho Penal",
+      "Criminología",
+      "Antropología"
+    ],
+    "respuestaCorrecta": "Criminología"
+  },
+  {
+    "pregunta": "¿Qué objeto ha generado mayor número de investigaciones dentro de la criminología?",
+    "opciones": [
+      "El sistema judicial",
+      "La víctima",
+      "El delincuente",
+      "El derecho procesal"
+    ],
+    "respuestaCorrecta": "El delincuente"
+  },
+  {
+    "pregunta": "¿Qué tipos de factores se han analizado en relación con el comportamiento delictivo?",
+    "opciones": [
+      "Factores políticos",
+      "Factores biológicos, familiares y educativos",
+      "Factores climáticos",
+      "Factores culturales únicamente"
+    ],
+    "respuestaCorrecta": "Factores biológicos, familiares y educativos"
+  },
+  {
+    "pregunta": "¿Qué enfoque considera al delito como resultado de causas múltiples?",
+    "opciones": [
+      "Monocausal",
+      "Teológico",
+      "Multifactorial",
+      "Psicoanalítico"
+    ],
+    "respuestaCorrecta": "Multifactorial"
+  },
+  {
+    "pregunta": "¿Qué aspecto se analiza en la tipología delictiva?",
+    "opciones": [
+      "El juicio penal",
+      "El nivel educativo del acusado",
+      "Las formas específicas de delinquir",
+      "Las víctimas más frecuentes"
+    ],
+    "respuestaCorrecta": "Las formas específicas de delinquir"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la personalidad en el estudio del delincuente?",
+    "opciones": [
+      "Es irrelevante para la criminología",
+      "Solo se estudia en delincuentes juveniles",
+      "Es uno de los factores clave del comportamiento delictivo",
+      "Solo interesa a la psicología"
+    ],
+    "respuestaCorrecta": "Es uno de los factores clave del comportamiento delictivo"
+  },
+  {
+    "pregunta": "¿Qué tipo de delincuente suele ser objeto de estudio más frecuente?",
+    "opciones": [
+      "Delincuente político",
+      "Delincuente común",
+      "Delincuente extranjero",
+      "Delincuente procesal"
+    ],
+    "respuestaCorrecta": "Delincuente común"
+  },
+  {
+    "pregunta": "¿Qué pregunta motiva el estudio del delincuente en criminología?",
+    "opciones": [
+      "¿Cómo se castiga un delito?",
+      "¿Qué lleva a alguien a delinquir?",
+      "¿Qué juez debe intervenir?",
+      "¿Qué víctima sufre más?"
+    ],
+    "respuestaCorrecta": "¿Qué lleva a alguien a delinquir?"
+  },
+  {
+    "pregunta": "¿Qué ha favorecido el desarrollo del estudio científico del delincuente?",
+    "opciones": [
+      "El incremento de penas",
+      "La reducción de cárceles",
+      "La aparición de la criminología",
+      "El crecimiento demográfico"
+    ],
+    "respuestaCorrecta": "La aparición de la criminología"
+  },
+  {
+    "pregunta": "¿Qué relación se analiza entre la educación y la conducta delictiva?",
+    "opciones": [
+      "No hay relación",
+      "La educación genera delito",
+      "Factores educativos influyen en la delincuencia",
+      "La educación sólo influye en delitos fiscales"
+    ],
+    "respuestaCorrecta": "Factores educativos influyen en la delincuencia"
+  },
+  {
+    "pregunta": "¿Qué enfoque metodológico es más adecuado para entender al delincuente?",
+    "opciones": [
+      "Dogmático y legalista",
+      "Experimental exclusivamente",
+      "Multidisciplinar y científico",
+      "Estrictamente jurídico"
+    ],
+    "respuestaCorrecta": "Multidisciplinar y científico"
+  },
+  {
+    "pregunta": "¿Qué campo influye directamente en la formación de la personalidad del delincuente?",
+    "opciones": [
+      "La biología molecular",
+      "El marketing digital",
+      "El entorno familiar",
+      "La climatología"
+    ],
+    "respuestaCorrecta": "El entorno familiar"
+  },
+  {
+    "pregunta": "¿Qué se busca conocer al clasificar tipos de delincuentes?",
+    "opciones": [
+      "La pena que deben recibir",
+      "Su nacionalidad",
+      "Sus motivaciones y características",
+      "La opinión pública"
+    ],
+    "respuestaCorrecta": "Sus motivaciones y características"
+  },
+  {
+    "pregunta": "¿Qué se considera uno de los factores sociales influyentes en la delincuencia?",
+    "opciones": [
+      "La globalización",
+      "La marginalidad",
+      "La inflación",
+      "La música"
+    ],
+    "respuestaCorrecta": "La marginalidad"
+  },
+  {
+    "pregunta": "¿Qué aspecto personal se ha estudiado como factor en la delincuencia?",
+    "opciones": [
+      "El grupo sanguíneo",
+      "El tipo de voz",
+      "La impulsividad",
+      "El color de ojos"
+    ],
+    "respuestaCorrecta": "La impulsividad"
+  },
+  {
+    "pregunta": "¿Qué papel juegan los factores educativos en el comportamiento delictivo?",
+    "opciones": [
+      "Ninguno relevante",
+      "Son determinantes en todos los casos",
+      "Pueden ser factores de riesgo o protección",
+      "Solo afectan a delitos económicos"
+    ],
+    "respuestaCorrecta": "Pueden ser factores de riesgo o protección"
+  },
+  {
+    "pregunta": "¿Qué ha permitido la criminología respecto al análisis del delincuente?",
+    "opciones": [
+      "Aplicar castigos más severos",
+      "Sustituir a la psicología",
+      "Desarrollar estudios científicos sobre causas del delito",
+      "Eliminar el juicio penal"
+    ],
+    "respuestaCorrecta": "Desarrollar estudios científicos sobre causas del delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de tipologías se incluyen en el estudio del delincuente?",
+    "opciones": [
+      "Solo aquellas procesadas legalmente",
+      "Todas las personas con antecedentes policiales",
+      "Delincuentes comunes, violentos, sexuales y juveniles",
+      "Solo los reincidentes"
+    ],
+    "respuestaCorrecta": "Delincuentes comunes, violentos, sexuales y juveniles"
+  },
+  {
+    "pregunta": "¿Qué influencias personales pueden llevar al delito según la criminología?",
+    "opciones": [
+      "Ideologías extremas",
+      "Personalidad, emociones y entorno",
+      "Estilo musical y vestimenta",
+      "Religión personal"
+    ],
+    "respuestaCorrecta": "Personalidad, emociones y entorno"
+  },
+  {
+    "pregunta": "¿Qué disciplina ha facilitado el enfoque científico del comportamiento criminal?",
+    "opciones": [
+      "La filosofía",
+      "La estadística",
+      "La criminología",
+      "El derecho civil"
+    ],
+    "respuestaCorrecta": "La criminología"
+  },
+  {
+    "pregunta": "¿Qué ejemplo se menciona para ilustrar un uso no profesional de la violencia?",
+    "opciones": [
+      "Un juez que condena sin pruebas",
+      "Un ladrón de bancos que mata testigos",
+      "Un policía que abusa de poder",
+      "Un fiscal que encubre delitos"
+    ],
+    "respuestaCorrecta": "Un ladrón de bancos que mata testigos"
+  },
+  {
+    "pregunta": "¿Qué caracteriza el uso de la violencia en muchos delitos comunes?",
+    "opciones": [
+      "Es una violencia profesionalizada",
+      "Tiene protagonismo total en el crimen",
+      "Se usa como apoyo al acto delictivo",
+      "Es siempre premeditada"
+    ],
+    "respuestaCorrecta": "Se usa como apoyo al acto delictivo"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos se mencionan como ejemplos comunes?",
+    "opciones": [
+      "Hurtos, robos con violencia o intimidación y robos con fuerza",
+      "Estafas bancarias y delitos informáticos",
+      "Secuestros y homicidios",
+      "Blanqueo de capitales y extorsión"
+    ],
+    "respuestaCorrecta": "Hurtos, robos con violencia o intimidación y robos con fuerza"
+  },
+  {
+    "pregunta": "¿Quiénes suelen ser las víctimas en los delitos comunes mencionados?",
+    "opciones": [
+      "Jueces y abogados",
+      "Empresas de transporte",
+      "Supermercados, farmacias y transeúntes",
+      "Medios de comunicación"
+    ],
+    "respuestaCorrecta": "Supermercados, farmacias y transeúntes"
+  },
+  {
+    "pregunta": "¿Qué elemento caracteriza a la violencia usada en delitos comunes?",
+    "opciones": [
+      "Es metódica y estructurada",
+      "Se planifica con años de antelación",
+      "No alcanza el papel protagonista del crimen",
+      "Se usa con fines políticos"
+    ],
+    "respuestaCorrecta": "No alcanza el papel protagonista del crimen"
+  },
+  {
+    "pregunta": "¿Qué figura aparece como origen del delincuente común?",
+    "opciones": [
+      "El político corrupto",
+      "El estafador internacional",
+      "El delincuente esporádico",
+      "El profesional de la violencia"
+    ],
+    "respuestaCorrecta": "El delincuente esporádico"
+  },
+  {
+    "pregunta": "¿Qué sucede cuando la actividad delictiva se convierte en costumbre?",
+    "opciones": [
+      "Se justifica legalmente",
+      "La pena se reduce",
+      "Aparece el delincuente profesional",
+      "El sujeto deja de ser delincuente"
+    ],
+    "respuestaCorrecta": "Aparece el delincuente profesional"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el proceso por el que alguien empieza a delinquir y persiste en ello?",
+    "opciones": [
+      "Criminalización estructural",
+      "Carrera delictiva",
+      "Trayectoria legal",
+      "Deriva penal"
+    ],
+    "respuestaCorrecta": "Carrera delictiva"
+  },
+  {
+    "pregunta": "¿Qué indica que un delincuente ha alcanzado un cierto grado de profesionalización?",
+    "opciones": [
+      "Sufre muchas detenciones",
+      "Evita el uso de la violencia",
+      "Tiene recursos para evitar ser capturado",
+      "Comete delitos sin ayuda externa"
+    ],
+    "respuestaCorrecta": "Tiene recursos para evitar ser capturado"
+  },
+  {
+    "pregunta": "¿Qué tipo de formación puede tener un delincuente profesional?",
+    "opciones": [
+      "Penal y administrativa",
+      "Callejera y de experiencia",
+      "Militar o jurídica",
+      "Académica formal"
+    ],
+    "respuestaCorrecta": "Callejera y de experiencia"
+  },
+  {
+    "pregunta": "¿Qué puede provocar el paso de un delito ocasional a una carrera criminal?",
+    "opciones": [
+      "Una única condena judicial",
+      "El reconocimiento público",
+      "La repetición de la conducta",
+      "Un juicio mediático"
+    ],
+    "respuestaCorrecta": "La repetición de la conducta"
+  },
+  {
+    "pregunta": "¿Cuál es una característica del delincuente habitual?",
+    "opciones": [
+      "Solo comete un delito grave",
+      "Delinque como parte de su rutina de vida",
+      "Evita ser detectado por completo",
+      "Trabaja con jueces y fiscales"
+    ],
+    "respuestaCorrecta": "Delinque como parte de su rutina de vida"
+  },
+  {
+    "pregunta": "¿Qué suele buscar el delincuente común en sus actos?",
+    "opciones": [
+      "Reconocimiento político",
+      "Beneficio económico inmediato",
+      "Resarcimiento emocional",
+      "Justicia social"
+    ],
+    "respuestaCorrecta": "Beneficio económico inmediato"
+  },
+  {
+    "pregunta": "¿Qué puede marcar el inicio de la profesionalización criminal?",
+    "opciones": [
+      "El primer robo sin violencia",
+      "Un paso progresivo hacia delitos más complejos",
+      "La condena judicial sin pruebas",
+      "El abandono del entorno familiar"
+    ],
+    "respuestaCorrecta": "Un paso progresivo hacia delitos más complejos"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos comete el delincuente común según el texto?",
+    "opciones": [
+      "Homicidios seriales",
+      "Delitos económicos de alto nivel",
+      "Robos y hurtos",
+      "Corrupción institucional"
+    ],
+    "respuestaCorrecta": "Robos y hurtos"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la violencia en los actos delictivos del delincuente común?",
+    "opciones": [
+      "Es siempre esencial",
+      "Actúa como soporte y no como protagonista",
+      "Es su herramienta principal",
+      "No se utiliza en ningún caso"
+    ],
+    "respuestaCorrecta": "Actúa como soporte y no como protagonista"
+  },
+  {
+    "pregunta": "¿Cuál es el perfil típico de una víctima de delincuente común según el texto?",
+    "opciones": [
+      "Funcionarios judiciales",
+      "Propietarios de vehículos o comercios",
+      "Empresarios del sector tecnológico",
+      "Políticos de alto rango"
+    ],
+    "respuestaCorrecta": "Propietarios de vehículos o comercios"
+  },
+  {
+    "pregunta": "¿Qué factor puede evitar que un delincuente sea identificado?",
+    "opciones": [
+      "Tener formación jurídica",
+      "Eliminar a los testigos",
+      "Utilizar violencia institucional",
+      "Actuar en grupo"
+    ],
+    "respuestaCorrecta": "Eliminar a los testigos"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el estudio de la carrera delictiva?",
+    "opciones": [
+      "Aumentar la represión policial",
+      "Comprender la evolución del comportamiento criminal",
+      "Justificar los actos delictivos",
+      "Medir el impacto económico de los robos"
+    ],
+    "respuestaCorrecta": "Comprender la evolución del comportamiento criminal"
+  },
+  {
+    "pregunta": "¿Qué permite el análisis de delitos comunes y sus protagonistas?",
+    "opciones": [
+      "Clasificar delitos por regiones",
+      "Determinar medidas penales colectivas",
+      "Entender los factores que facilitan la reincidencia",
+      "Incrementar las tasas de encarcelamiento"
+    ],
+    "respuestaCorrecta": "Entender los factores que facilitan la reincidencia"
+  },
+  {
+    "pregunta": "¿Qué diferencia al primer término analizado en el estudio de carreras delictivas?",
+    "opciones": [
+      "Distingue delitos menores de mayores",
+      "Distingue entre delincuentes y no delincuentes",
+      "Distingue entre países desarrollados y en vías de desarrollo",
+      "Distingue entre víctimas y acusados"
+    ],
+    "respuestaCorrecta": "Distingue entre delincuentes y no delincuentes"
+  },
+  {
+    "pregunta": "¿Qué indica el segundo término del análisis de carreras delictivas?",
+    "opciones": [
+      "La duración de los juicios",
+      "El número de delitos cometidos en una unidad de tiempo",
+      "El número de sentencias condenatorias",
+      "El tiempo medio de internamiento"
+    ],
+    "respuestaCorrecta": "El número de delitos cometidos en una unidad de tiempo"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el estudio de las carreras delictivas?",
+    "opciones": [
+      "Determinar la peligrosidad jurídica",
+      "Analizar la relación víctima-delincuente",
+      "Identificar la evolución de la conducta criminal",
+      "Detectar errores judiciales"
+    ],
+    "respuestaCorrecta": "Identificar la evolución de la conducta criminal"
+  },
+  {
+    "pregunta": "¿Qué tipo de delincuentes cometen actos delictivos de forma aislada?",
+    "opciones": [
+      "Crónicos",
+      "Habituales",
+      "Organizados",
+      "Ocasionales"
+    ],
+    "respuestaCorrecta": "Ocasionales"
+  },
+  {
+    "pregunta": "¿Qué término se usa para los individuos que persisten en la actividad delictiva?",
+    "opciones": [
+      "Profesionales",
+      "Reincidentes",
+      "Frecuentes o crónicos",
+      "Secundarios"
+    ],
+    "respuestaCorrecta": "Frecuentes o crónicos"
+  },
+  {
+    "pregunta": "¿Qué pregunta es central en el estudio de carreras delictivas según el texto?",
+    "opciones": [
+      "¿Cómo se castiga el delito?",
+      "¿Cómo se inicia, continúa y finaliza la carrera delictiva?",
+      "¿Qué pena se debe imponer?",
+      "¿Cuál es el perfil ideal del testigo?"
+    ],
+    "respuestaCorrecta": "¿Cómo se inicia, continúa y finaliza la carrera delictiva?"
+  },
+  {
+    "pregunta": "¿Qué puede variar entre las distintas fases de la carrera delictiva?",
+    "opciones": [
+      "Los códigos penales",
+      "Las causas implicadas",
+      "La presencia policial",
+      "El número de testigos"
+    ],
+    "respuestaCorrecta": "Las causas implicadas"
+  },
+  {
+    "pregunta": "¿Qué autor citado en el texto ha investigado sobre carreras delictivas?",
+    "opciones": [
+      "Durkheim",
+      "Beccaria",
+      "Smith et al.",
+      "Lombroso"
+    ],
+    "respuestaCorrecta": "Smith et al."
+  },
+  {
+    "pregunta": "¿Qué fase no forma parte del análisis de la carrera delictiva según el texto?",
+    "opciones": [
+      "Inicio",
+      "Desarrollo",
+      "Internamiento",
+      "Desistimiento"
+    ],
+    "respuestaCorrecta": "Internamiento"
+  },
+  {
+    "pregunta": "¿Qué se considera al hablar de desistimiento delictivo?",
+    "opciones": [
+      "La reincidencia",
+      "El abandono de la actividad delictiva",
+      "El paso a delitos mayores",
+      "La conversión en testigo"
+    ],
+    "respuestaCorrecta": "El abandono de la actividad delictiva"
+  },
+  {
+    "pregunta": "¿Qué diferencia puede haber entre las causas del inicio y las del desistimiento del delito?",
+    "opciones": [
+      "Ninguna, son siempre las mismas",
+      "Las causas del desistimiento son ideológicas",
+      "Son distintas causas según la fase de la carrera delictiva",
+      "Las causas del inicio son puramente genéticas"
+    ],
+    "respuestaCorrecta": "Son distintas causas según la fase de la carrera delictiva"
+  },
+  {
+    "pregunta": "¿Qué dimensión temporal se analiza en las carreras delictivas?",
+    "opciones": [
+      "Pasado exclusivamente",
+      "Futuro probable",
+      "Evolución a lo largo del tiempo",
+      "Momento del arresto"
+    ],
+    "respuestaCorrecta": "Evolución a lo largo del tiempo"
+  },
+  {
+    "pregunta": "¿Qué permite distinguir el análisis de las carreras delictivas?",
+    "opciones": [
+      "Tipos de armas usadas",
+      "Niveles de pobreza",
+      "Diferentes trayectorias criminales",
+      "Presencia de antecedentes familiares"
+    ],
+    "respuestaCorrecta": "Diferentes trayectorias criminales"
+  },
+  {
+    "pregunta": "¿Qué puede cambiar durante la carrera delictiva de un individuo?",
+    "opciones": [
+      "Su nombre legal",
+      "Su tendencia a reincidir o desistir",
+      "Su grupo sanguíneo",
+      "La pena que se le impone"
+    ],
+    "respuestaCorrecta": "Su tendencia a reincidir o desistir"
+  },
+  {
+    "pregunta": "¿Qué perfil puede abandonar la carrera delictiva según el texto?",
+    "opciones": [
+      "El delincuente violento",
+      "El reincidente profesional",
+      "El ocasional o quien inicia la conducta",
+      "El funcionario público"
+    ],
+    "respuestaCorrecta": "El ocasional o quien inicia la conducta"
+  },
+  {
+    "pregunta": "¿Qué función cumple la criminología en el análisis de carreras delictivas?",
+    "opciones": [
+      "Determinar sentencias judiciales",
+      "Justificar la represión",
+      "Comprender factores causales en cada fase",
+      "Redactar códigos penales"
+    ],
+    "respuestaCorrecta": "Comprender factores causales en cada fase"
+  },
+  {
+    "pregunta": "¿Qué utilidad tiene conocer las fases de la carrera delictiva?",
+    "opciones": [
+      "Clasificar delitos por región",
+      "Diseñar políticas de prevención y reinserción",
+      "Asignar presupuestos a juzgados",
+      "Crear bases de datos penales"
+    ],
+    "respuestaCorrecta": "Diseñar políticas de prevención y reinserción"
+  },
+  {
+    "pregunta": "¿Qué categoría describe a quienes solo cometen delitos una vez?",
+    "opciones": [
+      "Crónicos",
+      "Experimentales",
+      "Ocasionales",
+      "Pasivos"
+    ],
+    "respuestaCorrecta": "Ocasionales"
+  },
+  {
+    "pregunta": "¿Cuál es el foco del concepto de desistimiento?",
+    "opciones": [
+      "Reducción de penas",
+      "Cese de la actividad delictiva",
+      "Cambio de víctima",
+      "Modificación del entorno"
+    ],
+    "respuestaCorrecta": "Cese de la actividad delictiva"
+  },
+  {
+    "pregunta": "¿Qué se busca entender al estudiar cómo termina una carrera delictiva?",
+    "opciones": [
+      "El tipo de condena más eficaz",
+      "Qué hace que alguien deje de delinquir",
+      "Cómo influyen los medios de comunicación",
+      "El nivel educativo del delincuente"
+    ],
+    "respuestaCorrecta": "Qué hace que alguien deje de delinquir"
+  },
+  {
+    "pregunta": "¿Qué suponen generalmente los delitos contra la propiedad?",
+    "opciones": [
+      "Agresiones físicas",
+      "Destrucción de la moral pública",
+      "Adquisición ilegal de dinero o bienes materiales",
+      "Ataques contra personas jurídicas"
+    ],
+    "respuestaCorrecta": "Adquisición ilegal de dinero o bienes materiales"
+  },
+  {
+    "pregunta": "¿Qué otro resultado pueden tener los delitos contra la propiedad además del robo?",
+    "opciones": [
+      "Uso de armas de fuego",
+      "Destrucción de la propiedad",
+      "Acoso laboral",
+      "Falsificación de pruebas"
+    ],
+    "respuestaCorrecta": "Destrucción de la propiedad"
+  },
+  {
+    "pregunta": "¿Qué aspecto psicológico tienen en común los delitos violentos y los delitos contra la propiedad?",
+    "opciones": [
+      "El uso de la fuerza física",
+      "La premeditación",
+      "La despersonalización de la víctima",
+      "El carácter impulsivo del delito"
+    ],
+    "respuestaCorrecta": "La despersonalización de la víctima"
+  },
+  {
+    "pregunta": "¿Qué buscan evitar los delincuentes en los robos en viviendas?",
+    "opciones": [
+      "Ser grabados",
+      "Dejar huellas",
+      "La confrontación con la víctima",
+      "El uso de tecnología"
+    ],
+    "respuestaCorrecta": "La confrontación con la víctima"
+  },
+  {
+    "pregunta": "¿Qué se deduce del hecho de que los delincuentes eviten a la víctima en delitos contra la propiedad?",
+    "opciones": [
+      "Que sienten placer al causar daño",
+      "Que buscan confrontación directa",
+      "Que no se solazan observando el daño psicológico de la víctima",
+      "Que prefieren el contacto cara a cara"
+    ],
+    "respuestaCorrecta": "Que no se solazan observando el daño psicológico de la víctima"
+  },
+  {
+    "pregunta": "¿Qué facilita el proceso psicológico de neutralización del delito?",
+    "opciones": [
+      "La presencia policial",
+      "La falta de evidencias físicas",
+      "La ausencia de la víctima",
+      "La repetición del delito"
+    ],
+    "respuestaCorrecta": "La ausencia de la víctima"
+  },
+  {
+    "pregunta": "¿Por qué es más sencillo cometer un delito en ausencia de la víctima?",
+    "opciones": [
+      "Se minimizan los tiempos de ejecución",
+      "Disminuye el estrés del delincuente",
+      "La justificación del acto es más fácil",
+      "Se evita la alarma social"
+    ],
+    "respuestaCorrecta": "La justificación del acto es más fácil"
+  },
+  {
+    "pregunta": "¿Qué tipo de delito se menciona como ejemplo típico de neutralización?",
+    "opciones": [
+      "El homicidio",
+      "El robo en vivienda",
+      "El secuestro",
+      "La estafa bancaria"
+    ],
+    "respuestaCorrecta": "El robo en vivienda"
+  },
+  {
+    "pregunta": "¿Qué proceso psicológico permite que el delincuente no experimente culpa inmediata?",
+    "opciones": [
+      "Despersonalización del delito",
+      "Neutralización de la conciencia",
+      "Empatía selectiva",
+      "Racionalización estadística"
+    ],
+    "respuestaCorrecta": "Neutralización de la conciencia"
+  },
+  {
+    "pregunta": "¿Qué tipo de víctima es más propensa a la despersonalización?",
+    "opciones": [
+      "Víctimas de delitos de odio",
+      "Víctimas con relación cercana",
+      "Víctimas ausentes del lugar del hecho",
+      "Víctimas de agresiones físicas"
+    ],
+    "respuestaCorrecta": "Víctimas ausentes del lugar del hecho"
+  },
+  {
+    "pregunta": "¿Qué sucede con la responsabilidad moral cuando no se ve el daño causado?",
+    "opciones": [
+      "Aumenta la conciencia",
+      "Se justifica aún más el acto",
+      "Se diluye y se racionaliza el delito",
+      "Impide cualquier acción delictiva"
+    ],
+    "respuestaCorrecta": "Se diluye y se racionaliza el delito"
+  },
+  {
+    "pregunta": "¿Qué forma parte del mecanismo psicológico de neutralización del delito?",
+    "opciones": [
+      "El miedo a la detención",
+      "La venganza",
+      "La minimización del daño causado",
+      "La agresividad del entorno"
+    ],
+    "respuestaCorrecta": "La minimización del daño causado"
+  },
+  {
+    "pregunta": "¿Qué refuerza la ausencia de contacto con la víctima en delitos contra la propiedad?",
+    "opciones": [
+      "La necesidad de armas",
+      "La facilidad de huida",
+      "La posibilidad de no reconocer la humanidad de la víctima",
+      "La complicidad ciudadana"
+    ],
+    "respuestaCorrecta": "La posibilidad de no reconocer la humanidad de la víctima"
+  },
+  {
+    "pregunta": "¿Cómo influye la falta de visibilidad del sufrimiento de la víctima en el delincuente?",
+    "opciones": [
+      "Le impulsa a pedir perdón",
+      "Le impide actuar con violencia",
+      "Facilita el autoengaño sobre las consecuencias del acto",
+      "Genera una mayor conexión emocional"
+    ],
+    "respuestaCorrecta": "Facilita el autoengaño sobre las consecuencias del acto"
+  },
+  {
+    "pregunta": "¿Qué puede reducir el impacto emocional negativo del delito para el infractor?",
+    "opciones": [
+      "El acompañamiento psicológico",
+      "La rapidez del acto",
+      "La ausencia de la víctima",
+      "El tipo de objeto robado"
+    ],
+    "respuestaCorrecta": "La ausencia de la víctima"
+  },
+  {
+    "pregunta": "¿Qué consecuencia tiene el anonimato de la víctima en el proceso delictivo?",
+    "opciones": [
+      "Genera rechazo al delito",
+      "Estimula la violencia",
+      "Contribuye a la desinhibición del infractor",
+      "Produce empatía inmediata"
+    ],
+    "respuestaCorrecta": "Contribuye a la desinhibición del infractor"
+  },
+  {
+    "pregunta": "¿Qué reduce el riesgo de culpa según el análisis del delincuente?",
+    "opciones": [
+      "El beneficio obtenido",
+      "La impunidad institucional",
+      "La lejanía emocional con la víctima",
+      "La repetición del delito"
+    ],
+    "respuestaCorrecta": "La lejanía emocional con la víctima"
+  },
+  {
+    "pregunta": "¿Qué facilita al delincuente la falta de confrontación directa?",
+    "opciones": [
+      "La decisión de actuar en grupo",
+      "La racionalización y negación de daños",
+      "El uso de armas de fuego",
+      "El seguimiento mediático"
+    ],
+    "respuestaCorrecta": "La racionalización y negación de daños"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando el delincuente no asocia al acto una víctima concreta?",
+    "opciones": [
+      "Actúa con remordimiento",
+      "Pierde la motivación delictiva",
+      "Asume más riesgos legales",
+      "Se reduce su carga emocional negativa"
+    ],
+    "respuestaCorrecta": "Se reduce su carga emocional negativa"
+  },
+  {
+    "pregunta": "¿Qué permite justificar el delito desde el punto de vista del delincuente?",
+    "opciones": [
+      "La pobreza",
+      "La falta de oportunidades",
+      "La despersonalización de la víctima",
+      "La falta de castigo"
+    ],
+    "respuestaCorrecta": "La despersonalización de la víctima"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia se emplea como medio para alcanzar otro fin?",
+    "opciones": [
+      "Violencia espontánea",
+      "Violencia simbólica",
+      "Violencia instrumental",
+      "Violencia ritual"
+    ],
+    "respuestaCorrecta": "Violencia instrumental"
+  },
+  {
+    "pregunta": "¿Qué motivaciones se asocian a la violencia instrumental?",
+    "opciones": [
+      "Rabia acumulada",
+      "Control emocional",
+      "Venganza, dinero o abuso",
+      "Deseo de justicia"
+    ],
+    "respuestaCorrecta": "Venganza, dinero o abuso"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia surge como respuesta a una amenaza o provocación?",
+    "opciones": [
+      "Violencia estructural",
+      "Violencia simbólica",
+      "Violencia reactiva",
+      "Violencia coercitiva"
+    ],
+    "respuestaCorrecta": "Violencia reactiva"
+  },
+  {
+    "pregunta": "¿Qué autor señala la distinción entre violencia instrumental y reactiva?",
+    "opciones": [
+      "No se menciona autor",
+      "Lombroso",
+      "Smith et al.",
+      "Beccaria"
+    ],
+    "respuestaCorrecta": "No se menciona autor"
+  },
+  {
+    "pregunta": "¿Qué se argumenta sobre la utilidad de distinguir tipos de violencia?",
+    "opciones": [
+      "No tiene aplicación real",
+      "Es irrelevante para la criminología moderna",
+      "Puede ser útil en varios sectores de la criminología aplicada",
+      "Solo se usa en derecho penal"
+    ],
+    "respuestaCorrecta": "Puede ser útil en varios sectores de la criminología aplicada"
+  },
+  {
+    "pregunta": "¿Qué sectores se benefician de la distinción entre tipos de violencia?",
+    "opciones": [
+      "Marketing forense",
+      "Criminología teórica",
+      "Perfil criminológico, tratamiento y predicción de reincidencia",
+      "Educación vial"
+    ],
+    "respuestaCorrecta": "Perfil criminológico, tratamiento y predicción de reincidencia"
+  },
+  {
+    "pregunta": "¿Qué crítica se hace a la distinción entre violencia instrumental y reactiva?",
+    "opciones": [
+      "Que se basa en datos no verificables",
+      "Que ignora la motivación emocional",
+      "Que algunos sujetos pueden alternar entre una y otra",
+      "Que favorece al delincuente"
+    ],
+    "respuestaCorrecta": "Que algunos sujetos pueden alternar entre una y otra"
+  },
+  {
+    "pregunta": "¿Qué implica la posibilidad de alternar entre tipos de violencia?",
+    "opciones": [
+      "Dificulta su clasificación clara",
+      "Invalida la existencia de violencia",
+      "Hace irrelevante el estudio criminológico",
+      "Aumenta las penas aplicables"
+    ],
+    "respuestaCorrecta": "Dificulta su clasificación clara"
+  },
+  {
+    "pregunta": "¿Para qué sirve la clasificación de violencia según el texto?",
+    "opciones": [
+      "Diseñar políticas económicas",
+      "Organizar juicios por tipo de víctima",
+      "Ayudar en la predicción del riesgo de reincidencia",
+      "Evaluar los costes judiciales"
+    ],
+    "respuestaCorrecta": "Ayudar en la predicción del riesgo de reincidencia"
+  },
+  {
+    "pregunta": "¿Qué puede derivarse del uso de violencia instrumental en delitos sexuales?",
+    "opciones": [
+      "Una pena menor",
+      "Una valoración psiquiátrica favorable",
+      "El control de la víctima como fin último",
+      "La protección del entorno"
+    ],
+    "respuestaCorrecta": "El control de la víctima como fin último"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia se puede planificar con antelación según el texto?",
+    "opciones": [
+      "Violencia impulsiva",
+      "Violencia emocional",
+      "Violencia instrumental",
+      "Violencia simbólica"
+    ],
+    "respuestaCorrecta": "Violencia instrumental"
+  },
+  {
+    "pregunta": "¿Qué elemento puede complicar la aplicación de la distinción violencia instrumental/reactiva?",
+    "opciones": [
+      "La falta de datos",
+      "La sobrecarga judicial",
+      "La mezcla de motivaciones en el mismo sujeto",
+      "La edad del agresor"
+    ],
+    "respuestaCorrecta": "La mezcla de motivaciones en el mismo sujeto"
+  },
+  {
+    "pregunta": "¿Qué sugiere la violencia reactiva sobre el autocontrol?",
+    "opciones": [
+      "Implica mucho autocontrol",
+      "Implica la ausencia de autocontrol",
+      "Es una respuesta institucional",
+      "Se basa en datos racionales"
+    ],
+    "respuestaCorrecta": "Implica la ausencia de autocontrol"
+  },
+  {
+    "pregunta": "¿Qué puede suponer una agresión instrumental en el tratamiento del delincuente?",
+    "opciones": [
+      "Un enfoque terapéutico orientado a la impulsividad",
+      "Una condena sin opción a reinserción",
+      "Un perfil más frío y planificador",
+      "Una evaluación como sujeto inimputable"
+    ],
+    "respuestaCorrecta": "Un perfil más frío y planificador"
+  },
+  {
+    "pregunta": "¿Qué posibilidad existe en muchos casos reales de violencia?",
+    "opciones": [
+      "Que toda violencia sea justificada",
+      "Que haya una superposición de tipos de violencia",
+      "Que no pueda ser explicada",
+      "Que desaparezca con la educación"
+    ],
+    "respuestaCorrecta": "Que haya una superposición de tipos de violencia"
+  },
+  {
+    "pregunta": "¿Qué aspecto puede ser clave en la predicción del riesgo de reincidencia?",
+    "opciones": [
+      "El nivel socioeconómico",
+      "El tipo de arma utilizada",
+      "El tipo de violencia ejercida",
+      "La nacionalidad del agresor"
+    ],
+    "respuestaCorrecta": "El tipo de violencia ejercida"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia tiene mayor carga emocional inmediata?",
+    "opciones": [
+      "Violencia profesional",
+      "Violencia instrumental",
+      "Violencia reactiva",
+      "Violencia ritual"
+    ],
+    "respuestaCorrecta": "Violencia reactiva"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia suele tener menor planificación?",
+    "opciones": [
+      "Violencia institucional",
+      "Violencia instrumental",
+      "Violencia reactiva",
+      "Violencia simbólica"
+    ],
+    "respuestaCorrecta": "Violencia reactiva"
+  },
+  {
+    "pregunta": "¿Qué utilidad práctica se menciona para la criminología aplicada respecto a la violencia?",
+    "opciones": [
+      "Asignación de fiscales",
+      "Clasificación de centros penitenciarios",
+      "Tratamiento individualizado del delincuente",
+      "Selección de jurados"
+    ],
+    "respuestaCorrecta": "Tratamiento individualizado del delincuente"
+  },
+  {
+    "pregunta": "¿Qué puede aportar la clasificación violencia instrumental/reactiva al perfil criminológico?",
+    "opciones": [
+      "Más claridad en las condenas",
+      "Diferenciación de responsabilidad penal",
+      "Indicadores de peligrosidad futura",
+      "Justificación moral del delito"
+    ],
+    "respuestaCorrecta": "Indicadores de peligrosidad futura"
+  },
+  {
+    "pregunta": "¿Qué tasa de homicidios tenía España en el año 2007?",
+    "opciones": [
+      "2,1 por 100.000 habitantes",
+      "1,1 por 100.000 habitantes",
+      "3,4 por 100.000 habitantes",
+      "0,6 por 100.000 habitantes"
+    ],
+    "respuestaCorrecta": "1,1 por 100.000 habitantes"
+  },
+  {
+    "pregunta": "¿Qué país tenía la tasa de homicidios más baja en 2007 según el texto?",
+    "opciones": [
+      "Alemania",
+      "Noruega",
+      "Italia",
+      "Reino Unido"
+    ],
+    "respuestaCorrecta": "Noruega"
+  },
+  {
+    "pregunta": "¿Qué tasa de homicidios presentaba Noruega en 2007?",
+    "opciones": [
+      "0,6",
+      "1,1",
+      "1,7",
+      "2,3"
+    ],
+    "respuestaCorrecta": "0,6"
+  },
+  {
+    "pregunta": "¿Qué país tenía una tasa de homicidios de 2,9 en Europa en 2007?",
+    "opciones": [
+      "Turquía",
+      "Finlandia",
+      "Escocia",
+      "Irlanda"
+    ],
+    "respuestaCorrecta": "Finlandia"
+  },
+  {
+    "pregunta": "¿Qué país se menciona con una tasa de homicidios de 2,5?",
+    "opciones": [
+      "Francia",
+      "Italia",
+      "Turquía",
+      "España"
+    ],
+    "respuestaCorrecta": "Turquía"
+  },
+  {
+    "pregunta": "¿Qué país igualaba la tasa de homicidios de España según datos anteriores a 2007?",
+    "opciones": [
+      "Italia",
+      "Francia",
+      "Escocia",
+      "Estonia"
+    ],
+    "respuestaCorrecta": "Italia"
+  },
+  {
+    "pregunta": "¿Qué tasa presentaba Francia en homicidios consumados por 100.000 habitantes?",
+    "opciones": [
+      "1,1",
+      "2,3",
+      "1,6",
+      "1,7"
+    ],
+    "respuestaCorrecta": "1,6"
+  },
+  {
+    "pregunta": "¿Qué países lideraban las tasas más altas de homicidio en Europa según el texto?",
+    "opciones": [
+      "Escocia y Turquía",
+      "Estonia y Lituania",
+      "Italia y Finlandia",
+      "España y Francia"
+    ],
+    "respuestaCorrecta": "Estonia y Lituania"
+  },
+  {
+    "pregunta": "¿Qué tasa tenía Estonia en homicidios según el documento?",
+    "opciones": [
+      "1,6",
+      "2,5",
+      "7,1",
+      "0,6"
+    ],
+    "respuestaCorrecta": "7,1"
+  },
+  {
+    "pregunta": "¿Qué país tenía una tasa de 7,4 homicidios por 100.000 habitantes?",
+    "opciones": [
+      "Lituania",
+      "Estonia",
+      "Irlanda",
+      "Reino Unido"
+    ],
+    "respuestaCorrecta": "Lituania"
+  },
+  {
+    "pregunta": "¿Qué país tenía una tasa de homicidios de 1,4 según el texto?",
+    "opciones": [
+      "Italia",
+      "Reino Unido con Gales",
+      "Finlandia",
+      "Francia"
+    ],
+    "respuestaCorrecta": "Reino Unido con Gales"
+  },
+  {
+    "pregunta": "¿Qué país registraba una tasa de 1,7 homicidios?",
+    "opciones": [
+      "Irlanda",
+      "Alemania",
+      "Austria",
+      "Turquía"
+    ],
+    "respuestaCorrecta": "Irlanda"
+  },
+  {
+    "pregunta": "¿Qué valor tenía la tasa de Escocia en homicidios según el documento?",
+    "opciones": [
+      "0,6",
+      "2,3",
+      "1,1",
+      "1,6"
+    ],
+    "respuestaCorrecta": "2,3"
+  },
+  {
+    "pregunta": "¿Qué otro país tenía el mismo índice que España en años previos a 2007?",
+    "opciones": [
+      "Francia",
+      "Alemania",
+      "Italia",
+      "Irlanda"
+    ],
+    "respuestaCorrecta": "Italia"
+  },
+  {
+    "pregunta": "¿Qué países tenían tasas inferiores a la de España?",
+    "opciones": [
+      "Austria, Noruega, Suiza e Islandia",
+      "Francia, Alemania, Escocia y Finlandia",
+      "Italia, Irlanda, Turquía y Lituania",
+      "Estonia, Alemania, Reino Unido y Finlandia"
+    ],
+    "respuestaCorrecta": "Austria, Noruega, Suiza e Islandia"
+  },
+  {
+    "pregunta": "¿Qué fenómeno no parece haber afectado a la incidencia de homicidios en España?",
+    "opciones": [
+      "La inmigración",
+      "La globalización",
+      "La crisis económica",
+      "La reforma judicial"
+    ],
+    "respuestaCorrecta": "La crisis económica"
+  },
+  {
+    "pregunta": "¿Qué conclusión se sugiere sobre la criminalidad durante la crisis económica?",
+    "opciones": [
+      "Aumentó drásticamente",
+      "Se mantuvo estable en términos de homicidios",
+      "Disminuyó en todos los países",
+      "Fue más visible en los medios"
+    ],
+    "respuestaCorrecta": "Se mantuvo estable en términos de homicidios"
+  },
+  {
+    "pregunta": "¿Qué país no presentó datos de homicidios según el documento?",
+    "opciones": [
+      "Rusia",
+      "Reino Unido",
+      "Francia",
+      "Alemania"
+    ],
+    "respuestaCorrecta": "Rusia"
+  },
+  {
+    "pregunta": "¿Cuál era el índice de homicidios en Alemania en 2007?",
+    "opciones": [
+      "1,4",
+      "1,1",
+      "1,0",
+      "0,6"
+    ],
+    "respuestaCorrecta": "1,0"
+  },
+  {
+    "pregunta": "¿Qué aspecto destaca el texto sobre el bienestar en Europa?",
+    "opciones": [
+      "Los países con mayor bienestar tienen más homicidios",
+      "El bienestar no afecta a la violencia",
+      "Hay casos como Finlandia con alta tasa pese a buen bienestar",
+      "Solo los países pobres tienen tasas altas"
+    ],
+    "respuestaCorrecta": "Hay casos como Finlandia con alta tasa pese a buen bienestar"
+  },
+  {
+    "pregunta": "¿Qué característica distingue a un asesino en serie?",
+    "opciones": [
+      "Actúa sin planificación",
+      "Comete un único crimen por impulso",
+      "Planifica sus crímenes y considera las consecuencias",
+      "Solo actúa en grupo"
+    ],
+    "respuestaCorrecta": "Planifica sus crímenes y considera las consecuencias"
+  },
+  {
+    "pregunta": "¿Qué rasgo comparten los asesinos en serie según el texto?",
+    "opciones": [
+      "Son todos menores de edad",
+      "Son psicópatas o psicóticos",
+      "Son víctimas de delirios colectivos",
+      "Son incapaces de razonar"
+    ],
+    "respuestaCorrecta": "Son psicópatas o psicóticos"
+  },
+  {
+    "pregunta": "¿Qué diferencia principal hay entre psicópata y psicótico?",
+    "opciones": [
+      "El grado de violencia que ejercen",
+      "El número de delitos cometidos",
+      "El contacto con la realidad",
+      "El género predominante"
+    ],
+    "respuestaCorrecta": "El contacto con la realidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de razonamiento tiene el psicópata?",
+    "opciones": [
+      "Ilógico y desorganizado",
+      "Con visiones religiosas",
+      "Lógico según sus metas",
+      "Basado en impulsos sin control"
+    ],
+    "respuestaCorrecta": "Lógico según sus metas"
+  },
+  {
+    "pregunta": "¿Qué no experimenta el psicópata según el texto?",
+    "opciones": [
+      "Impulsividad",
+      "Alucinaciones y delirios",
+      "Deseo de reconocimiento",
+      "Necesidad de huir"
+    ],
+    "respuestaCorrecta": "Alucinaciones y delirios"
+  },
+  {
+    "pregunta": "¿Qué tipo de creencia absurda puede tener un psicótico?",
+    "opciones": [
+      "Que alguien le espía y quiere matarlo",
+      "Que puede volar como un pájaro",
+      "Que debe ganar dinero",
+      "Que es el mejor en todo"
+    ],
+    "respuestaCorrecta": "Que alguien le espía y quiere matarlo"
+  },
+  {
+    "pregunta": "¿Qué le falla al psicópata según el texto?",
+    "opciones": [
+      "Su capacidad de planificar",
+      "Su capacidad de razonar lógicamente",
+      "Su capacidad de empatizar emocionalmente",
+      "Su memoria de largo plazo"
+    ],
+    "respuestaCorrecta": "Su capacidad de empatizar emocionalmente"
+  },
+  {
+    "pregunta": "¿Qué emoción tiene alterada el psicópata?",
+    "opciones": [
+      "La ira",
+      "La tristeza",
+      "La empatía",
+      "El miedo"
+    ],
+    "respuestaCorrecta": "La empatía"
+  },
+  {
+    "pregunta": "¿Qué tipo de alteración no afecta al psicópata?",
+    "opciones": [
+      "Emocional",
+      "Lógica",
+      "Delirante",
+      "Afectiva"
+    ],
+    "respuestaCorrecta": "Delirante"
+  },
+  {
+    "pregunta": "¿Qué fenómeno no experimenta un psicópata según el texto?",
+    "opciones": [
+      "Desinterés afectivo",
+      "Visiones",
+      "Ausencia de remordimiento",
+      "Razonamiento según objetivos"
+    ],
+    "respuestaCorrecta": "Visiones"
+  },
+  {
+    "pregunta": "¿Qué facultad emocional se encuentra ausente en el psicópata?",
+    "opciones": [
+      "La capacidad de sentir remordimiento",
+      "La capacidad de tomar decisiones",
+      "La capacidad de mentir",
+      "La capacidad de planificar"
+    ],
+    "respuestaCorrecta": "La capacidad de sentir remordimiento"
+  },
+  {
+    "pregunta": "¿Qué diferencia clave tiene el psicótico respecto al psicópata?",
+    "opciones": [
+      "Comete más delitos",
+      "Es más inteligente",
+      "Tiene alucinaciones y delirios",
+      "Planifica con más éxito"
+    ],
+    "respuestaCorrecta": "Tiene alucinaciones y delirios"
+  },
+  {
+    "pregunta": "¿Qué es una alucinación según el texto?",
+    "opciones": [
+      "Una idea fija",
+      "Una reacción emocional",
+      "Percibir cosas que no existen",
+      "Soñar despierto"
+    ],
+    "respuestaCorrecta": "Percibir cosas que no existen"
+  },
+  {
+    "pregunta": "¿Qué es un delirio según la definición del documento?",
+    "opciones": [
+      "Un sentimiento intenso",
+      "Una creencia absurda e inamovible",
+      "Una emoción sin control",
+      "Una conducta antisocial"
+    ],
+    "respuestaCorrecta": "Una creencia absurda e inamovible"
+  },
+  {
+    "pregunta": "¿Qué capacidad sí conserva el psicópata?",
+    "opciones": [
+      "Empatía",
+      "Visión distorsionada",
+      "Lógica racional",
+      "Alucinaciones"
+    ],
+    "respuestaCorrecta": "Lógica racional"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo típico de delirio citado en el texto?",
+    "opciones": [
+      "Creer que alguien le espía y busca matarlo",
+      "Pensar que es culpable de todo",
+      "Imaginar que lo observan por redes sociales",
+      "Soñar con asesinar a alguien"
+    ],
+    "respuestaCorrecta": "Creer que alguien le espía y busca matarlo"
+  },
+  {
+    "pregunta": "¿Qué patología impide distinguir entre realidad y ficción?",
+    "opciones": [
+      "Psicosis",
+      "Psicopatía",
+      "Trastorno de personalidad",
+      "Trastorno obsesivo"
+    ],
+    "respuestaCorrecta": "Psicosis"
+  },
+  {
+    "pregunta": "¿Qué elemento está ausente en el razonamiento psicópata?",
+    "opciones": [
+      "Interés personal",
+      "Lógica",
+      "Empatía",
+      "Metas"
+    ],
+    "respuestaCorrecta": "Empatía"
+  },
+  {
+    "pregunta": "¿Qué función no se ve alterada en el psicópata?",
+    "opciones": [
+      "Memoria",
+      "Empatía",
+      "Afecto",
+      "Conexión emocional"
+    ],
+    "respuestaCorrecta": "Memoria"
+  },
+  {
+    "pregunta": "¿Qué no experimenta el psicópata respecto a los demás?",
+    "opciones": [
+      "Deseo de comunicarse",
+      "Dolor físico",
+      "Conexión emocional",
+      "Motivación económica"
+    ],
+    "respuestaCorrecta": "Conexión emocional"
+  },
+  {
+    "pregunta": "¿Qué delito implica atentado contra la libertad sexual con uso de violencia o intimidación?",
+    "opciones": [
+      "Exhibicionismo",
+      "Corrupción de menores",
+      "Agresión sexual",
+      "Abuso sexual"
+    ],
+    "respuestaCorrecta": "Agresión sexual"
+  },
+  {
+    "pregunta": "¿Qué define la violación según el texto?",
+    "opciones": [
+      "Un abuso continuado",
+      "Un acto de intimidación sin violencia",
+      "Acceso carnal con violencia o intimidación",
+      "La presión emocional sobre la víctima"
+    ],
+    "respuestaCorrecta": "Acceso carnal con violencia o intimidación"
+  },
+  {
+    "pregunta": "¿Qué vías de acceso carnal menciona el delito de violación?",
+    "opciones": [
+      "Solo vaginal",
+      "Vaginal, anal o bucal",
+      "Anal y oral únicamente",
+      "Cualquier contacto físico"
+    ],
+    "respuestaCorrecta": "Vaginal, anal o bucal"
+  },
+  {
+    "pregunta": "¿Qué delito se configura sin necesidad de violencia ni intimidación pero sin consentimiento?",
+    "opciones": [
+      "Acoso sexual",
+      "Abuso sexual",
+      "Violación",
+      "Corrupción de menores"
+    ],
+    "respuestaCorrecta": "Abuso sexual"
+  },
+  {
+    "pregunta": "¿Qué conducta caracteriza el acoso sexual según el texto?",
+    "opciones": [
+      "Imposición violenta de una relación",
+      "Comportamiento repetido con connotación sexual",
+      "Observación no consentida",
+      "Uso de objetos en zonas íntimas"
+    ],
+    "respuestaCorrecta": "Comportamiento repetido con connotación sexual"
+  },
+  {
+    "pregunta": "¿Qué tipo de delito consiste en exhibir los genitales ante un menor?",
+    "opciones": [
+      "Agresión sexual",
+      "Abuso sexual",
+      "Exhibicionismo",
+      "Violación"
+    ],
+    "respuestaCorrecta": "Exhibicionismo"
+  },
+  {
+    "pregunta": "¿Qué delito implica provocar o incitar a menores a prácticas sexuales?",
+    "opciones": [
+      "Abuso sexual",
+      "Exhibicionismo",
+      "Corrupción de menores",
+      "Acoso sexual"
+    ],
+    "respuestaCorrecta": "Corrupción de menores"
+  },
+  {
+    "pregunta": "¿Qué finalidad puede tener la provocación sexual según la ley?",
+    "opciones": [
+      "Castigar con menos pena",
+      "Iniciar relaciones emocionales",
+      "Satisfacción personal sin contacto físico",
+      "Incitar al consumo de material pornográfico"
+    ],
+    "respuestaCorrecta": "Incitar al consumo de material pornográfico"
+  },
+  {
+    "pregunta": "¿Qué se requiere para considerar agresión sexual el acto de acceso carnal?",
+    "opciones": [
+      "Consentimiento implícito",
+      "Ausencia de testigos",
+      "Violencia o intimidación",
+      "Que sea cometido por un adulto"
+    ],
+    "respuestaCorrecta": "Violencia o intimidación"
+  },
+  {
+    "pregunta": "¿Qué delito ocurre si hay contacto sexual sin consentimiento y sin violencia?",
+    "opciones": [
+      "Violación",
+      "Abuso sexual",
+      "Exhibicionismo",
+      "Corrupción de menores"
+    ],
+    "respuestaCorrecta": "Abuso sexual"
+  },
+  {
+    "pregunta": "¿Qué tipo de acceso define la violación legalmente?",
+    "opciones": [
+      "Solo por contacto visual",
+      "Cualquier acceso físico con consentimiento",
+      "Acceso carnal vaginal, anal o bucal con violencia o intimidación",
+      "Acompañamiento prolongado a la víctima"
+    ],
+    "respuestaCorrecta": "Acceso carnal vaginal, anal o bucal con violencia o intimidación"
+  },
+  {
+    "pregunta": "¿Qué elemento diferencia el abuso del acoso sexual?",
+    "opciones": [
+      "El lugar donde ocurre",
+      "La edad del agresor",
+      "El tipo de contacto físico",
+      "La presencia o ausencia de contacto físico"
+    ],
+    "respuestaCorrecta": "La presencia o ausencia de contacto físico"
+  },
+  {
+    "pregunta": "¿Qué pena corresponde a la corrupción de menores según el texto?",
+    "opciones": [
+      "Multa administrativa",
+      "No se menciona en el texto",
+      "Advertencia judicial",
+      "Inhabilitación laboral exclusivamente"
+    ],
+    "respuestaCorrecta": "No se menciona en el texto"
+  },
+  {
+    "pregunta": "¿Qué comportamiento NO forma parte del abuso sexual según el documento?",
+    "opciones": [
+      "Contacto físico sin consentimiento",
+      "Presión emocional sin violencia",
+      "Relación con intimidación grave",
+      "Falta de consentimiento sin violencia"
+    ],
+    "respuestaCorrecta": "Relación con intimidación grave"
+  },
+  {
+    "pregunta": "¿Qué delito se produce por gestos obscenos sin contacto físico?",
+    "opciones": [
+      "Acoso sexual",
+      "Abuso sexual",
+      "Exhibicionismo",
+      "Violación"
+    ],
+    "respuestaCorrecta": "Exhibicionismo"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una característica típica del acoso sexual?",
+    "opciones": [
+      "Relación basada en chantaje",
+      "Comportamiento repetido con connotación sexual",
+      "Agresión con objetos",
+      "Aparición de lesiones físicas"
+    ],
+    "respuestaCorrecta": "Comportamiento repetido con connotación sexual"
+  },
+  {
+    "pregunta": "¿Qué se entiende por provocación sexual?",
+    "opciones": [
+      "Invitar a una cita",
+      "Observar a una persona sin que se dé cuenta",
+      "Promover prácticas sexuales ante menores o incapaces",
+      "Enviar cartas amorosas a desconocidos"
+    ],
+    "respuestaCorrecta": "Promover prácticas sexuales ante menores o incapaces"
+  },
+  {
+    "pregunta": "¿Qué categoría penal cubre la difusión de pornografía a menores?",
+    "opciones": [
+      "Agresión sexual",
+      "Corrupción de menores",
+      "Exhibicionismo",
+      "Acoso sexual"
+    ],
+    "respuestaCorrecta": "Corrupción de menores"
+  },
+  {
+    "pregunta": "¿Qué diferencia principal hay entre abuso y agresión sexual?",
+    "opciones": [
+      "El número de víctimas",
+      "El tipo de pena",
+      "El uso de violencia o intimidación",
+      "El contexto familiar"
+    ],
+    "respuestaCorrecta": "El uso de violencia o intimidación"
+  },
+  {
+    "pregunta": "¿Qué delito contempla el Código Penal por enseñar genitales a menores?",
+    "opciones": [
+      "Acoso sexual",
+      "Violación",
+      "Exhibicionismo",
+      "Abuso sexual"
+    ],
+    "respuestaCorrecta": "Exhibicionismo"
+  },
+  {
+    "pregunta": "¿Qué tipo de conductas incluye el abuso sexual infantil físico?",
+    "opciones": [
+      "Solo contacto visual",
+      "Besos en la mejilla",
+      "Violación vaginal, anal o bucal; caricias; masturbación",
+      "Conversaciones inapropiadas"
+    ],
+    "respuestaCorrecta": "Violación vaginal, anal o bucal; caricias; masturbación"
+  },
+  {
+    "pregunta": "¿Qué otros actos forman parte del abuso sexual infantil según el texto?",
+    "opciones": [
+      "Uso de lenguaje vulgar",
+      "Críticas al comportamiento",
+      "Exhibicionismo y obligar a tener contacto con animales",
+      "Presión académica excesiva"
+    ],
+    "respuestaCorrecta": "Exhibicionismo y obligar a tener contacto con animales"
+  },
+  {
+    "pregunta": "¿Qué se considera explotación o corrupción en el abuso infantil?",
+    "opciones": [
+      "Negarse a dar regalos",
+      "Usar al menor en grabaciones pornográficas o prostitución",
+      "Infringir normas educativas",
+      "Alejar al menor de su familia"
+    ],
+    "respuestaCorrecta": "Usar al menor en grabaciones pornográficas o prostitución"
+  },
+  {
+    "pregunta": "¿Qué acto NO se incluye como forma de abuso en el documento?",
+    "opciones": [
+      "Frotamiento",
+      "Seducción del menor",
+      "Mostrar dibujos animados",
+      "Obligar a presenciar actos sexuales"
+    ],
+    "respuestaCorrecta": "Mostrar dibujos animados"
+  },
+  {
+    "pregunta": "¿Qué técnica usan frecuentemente los abusadores en vez de violencia física?",
+    "opciones": [
+      "Control financiero",
+      "Sedación química",
+      "Influencia, seducción o temor",
+      "Aislamiento familiar"
+    ],
+    "respuestaCorrecta": "Influencia, seducción o temor"
+  },
+  {
+    "pregunta": "¿Qué problema puede generar el abuso sexual continuado en la infancia?",
+    "opciones": [
+      "Problemas dermatológicos",
+      "Altas capacidades cognitivas",
+      "Problemas psicopatológicos",
+      "Mayor rendimiento escolar"
+    ],
+    "respuestaCorrecta": "Problemas psicopatológicos"
+  },
+  {
+    "pregunta": "¿Qué tipo de entorno es habitual en los abusos sexuales infantiles?",
+    "opciones": [
+      "Desconocidos en la calle",
+      "Ámbitos institucionales",
+      "Entornos cercanos como familia o amistades",
+      "Espacios virtuales exclusivamente"
+    ],
+    "respuestaCorrecta": "Entornos cercanos como familia o amistades"
+  },
+  {
+    "pregunta": "¿Qué forma parte del abuso sin contacto físico según el texto?",
+    "opciones": [
+      "Invitar a salir al menor",
+      "Mostrar escenas sexuales",
+      "Llamadas telefónicas prolongadas",
+      "Prohibiciones disciplinarias"
+    ],
+    "respuestaCorrecta": "Mostrar escenas sexuales"
+  },
+  {
+    "pregunta": "¿Qué medio se utiliza para fomentar la prostitución infantil?",
+    "opciones": [
+      "Educación sexual",
+      "Juegos de rol",
+      "Explotación sexual organizada",
+      "Disciplina estricta"
+    ],
+    "respuestaCorrecta": "Explotación sexual organizada"
+  },
+  {
+    "pregunta": "¿Qué ejemplo NO pertenece al abuso infantil físico según el documento?",
+    "opciones": [
+      "Penetración digital",
+      "Violación anal",
+      "Conversaciones sobre sexualidad",
+      "Masturbación forzada"
+    ],
+    "respuestaCorrecta": "Conversaciones sobre sexualidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de abuso puede incluir la obligación de ver actos sexuales de otros?",
+    "opciones": [
+      "Abuso verbal",
+      "Corrupción de menores",
+      "Abuso sexual infantil sin contacto",
+      "Prostitución forzada"
+    ],
+    "respuestaCorrecta": "Abuso sexual infantil sin contacto"
+  },
+  {
+    "pregunta": "¿Qué factor aumenta el riesgo de problemas psicológicos en menores abusados?",
+    "opciones": [
+      "La cantidad de agresores",
+      "La edad del agresor",
+      "La continuidad del abuso",
+      "La denuncia pública"
+    ],
+    "respuestaCorrecta": "La continuidad del abuso"
+  },
+  {
+    "pregunta": "¿Qué método no violento facilita el abuso según el texto?",
+    "opciones": [
+      "Aislamiento social",
+      "Uso de drogas",
+      "Seducción e influencia emocional",
+      "Privación de sueño"
+    ],
+    "respuestaCorrecta": "Seducción e influencia emocional"
+  },
+  {
+    "pregunta": "¿Qué medio de explotación se menciona como parte del abuso infantil?",
+    "opciones": [
+      "Tareas domésticas",
+      "Participación en grabaciones pornográficas",
+      "Educación privada",
+      "Supervisión constante"
+    ],
+    "respuestaCorrecta": "Participación en grabaciones pornográficas"
+  },
+  {
+    "pregunta": "¿Dónde se producen muchas situaciones de abuso infantil?",
+    "opciones": [
+      "En la calle",
+      "En contextos familiares y de confianza",
+      "En centros penitenciarios",
+      "En parques públicos"
+    ],
+    "respuestaCorrecta": "En contextos familiares y de confianza"
+  },
+  {
+    "pregunta": "¿Qué NO suele usarse en los abusos sexuales a menores según el texto?",
+    "opciones": [
+      "La intimidación directa",
+      "La violencia física inmediata",
+      "La seducción",
+      "El uso de chantaje emocional"
+    ],
+    "respuestaCorrecta": "La violencia física inmediata"
+  },
+  {
+    "pregunta": "¿Qué caracteriza el abuso infantil reiterado?",
+    "opciones": [
+      "Se produce siempre en lugares públicos",
+      "Se detiene tras la primera denuncia",
+      "Tiene efectos prolongados en el menor",
+      "Implica diferentes víctimas"
+    ],
+    "respuestaCorrecta": "Tiene efectos prolongados en el menor"
+  },
+  {
+    "pregunta": "¿Qué impacto tiene el abuso en la salud mental del menor?",
+    "opciones": [
+      "Refuerza la autoestima",
+      "Reduce la ansiedad",
+      "Genera trastornos psicopatológicos",
+      "Estimula la independencia"
+    ],
+    "respuestaCorrecta": "Genera trastornos psicopatológicos"
+  },
+  {
+    "pregunta": "¿Qué técnica facilita que el menor no denuncie el abuso?",
+    "opciones": [
+      "Exceso de libertad",
+      "Incertidumbre escolar",
+      "Miedo inducido y dependencia emocional",
+      "Vigilancia policial"
+    ],
+    "respuestaCorrecta": "Miedo inducido y dependencia emocional"
+  },
+  {
+    "pregunta": "¿Qué práctica no constituye abuso sexual infantil según el texto?",
+    "opciones": [
+      "Obligar a observar pornografía",
+      "Proponer matrimonio simbólico",
+      "Penetración digital",
+      "Caricias íntimas sin consentimiento"
+    ],
+    "respuestaCorrecta": "Proponer matrimonio simbólico"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de episodios de agresión sexual fue cometido por un solo agresor según Pulido et al. (1988)?",
+    "opciones": [
+      "50%",
+      "70%",
+      "35%",
+      "90%"
+    ],
+    "respuestaCorrecta": "70%"
+  },
+  {
+    "pregunta": "¿En qué porcentaje de casos hubo dos víctimas en los estudios de Pulido et al. (1988)?",
+    "opciones": [
+      "10%",
+      "7%",
+      "3,5%",
+      "20%"
+    ],
+    "respuestaCorrecta": "3,5%"
+  },
+  {
+    "pregunta": "¿Qué parte de las agresiones se cometieron usando solo las manos como arma?",
+    "opciones": [
+      "10%",
+      "50%",
+      "Casi la mitad",
+      "Más del 70%"
+    ],
+    "respuestaCorrecta": "Casi la mitad"
+  },
+  {
+    "pregunta": "¿Qué tipo de objetos se usaron en el 20% de las agresiones según el estudio?",
+    "opciones": [
+      "Sillas o botellas",
+      "Objetos cortantes o punzantes",
+      "Armas de fuego",
+      "Ropa de la víctima"
+    ],
+    "respuestaCorrecta": "Objetos cortantes o punzantes"
+  },
+  {
+    "pregunta": "¿Qué factor se relaciona con el aumento de la gravedad de los actos cometidos?",
+    "opciones": [
+      "Edad de la víctima",
+      "Número de víctimas",
+      "Edad del agresor",
+      "Lugar del delito"
+    ],
+    "respuestaCorrecta": "Edad del agresor"
+  },
+  {
+    "pregunta": "¿Cómo cambia la duración de la agresión si intervienen varios agresores?",
+    "opciones": [
+      "Es más corta",
+      "No varía",
+      "Es más larga",
+      "Depende de la víctima"
+    ],
+    "respuestaCorrecta": "Es más larga"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de violaciones con un solo agresor duran de minutos a una hora?",
+    "opciones": [
+      "60%",
+      "76,8%",
+      "30%",
+      "90%"
+    ],
+    "respuestaCorrecta": "76,8%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de violaciones con múltiples agresores duran entre media hora y 24 horas?",
+    "opciones": [
+      "60%",
+      "50%",
+      "73,4%",
+      "20%"
+    ],
+    "respuestaCorrecta": "73,4%"
+  },
+  {
+    "pregunta": "¿Qué variable influye en la duración de los episodios de agresión sexual?",
+    "opciones": [
+      "Hora del día",
+      "Número de agresores",
+      "Lugar del delito",
+      "Sexo del agresor"
+    ],
+    "respuestaCorrecta": "Número de agresores"
+  },
+  {
+    "pregunta": "¿Qué aspecto fue analizado por Pulido et al. en 1988?",
+    "opciones": [
+      "Reincidencia de agresores",
+      "Duración, número de agresores y uso de armas",
+      "Edad de las víctimas exclusivamente",
+      "Penas judiciales impuestas"
+    ],
+    "respuestaCorrecta": "Duración, número de agresores y uso de armas"
+  },
+  {
+    "pregunta": "¿Cuál es el número más común de víctimas por episodio de agresión sexual según Pulido et al. (1988)?",
+    "opciones": [
+      "Tres o más",
+      "Dos",
+      "Una",
+      "Cinco"
+    ],
+    "respuestaCorrecta": "Una"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia representa la utilización de objetos punzantes en una agresión?",
+    "opciones": [
+      "Psicológica",
+      "Instrumental",
+      "Simbológica",
+      "No intencional"
+    ],
+    "respuestaCorrecta": "Instrumental"
+  },
+  {
+    "pregunta": "¿Cuál es la media de duración de una violación múltiple según los datos?",
+    "opciones": [
+      "10 minutos",
+      "De media hora a 24 horas",
+      "Menos de 15 minutos",
+      "Más de 2 días"
+    ],
+    "respuestaCorrecta": "De media hora a 24 horas"
+  },
+  {
+    "pregunta": "¿Qué proporción de violaciones múltiples dura más de media hora?",
+    "opciones": [
+      "90%",
+      "50%",
+      "73,4%",
+      "30%"
+    ],
+    "respuestaCorrecta": "73,4%"
+  },
+  {
+    "pregunta": "¿Qué relación se establece entre la edad del agresor y el daño causado?",
+    "opciones": [
+      "A menor edad, mayor violencia",
+      "A mayor edad, más daño",
+      "No hay relación",
+      "Solo se vincula con el lugar del hecho"
+    ],
+    "respuestaCorrecta": "A mayor edad, más daño"
+  },
+  {
+    "pregunta": "¿Qué categoría de armas es más frecuente en estas agresiones?",
+    "opciones": [
+      "Fuego",
+      "Explosivos",
+      "Manos u objetos punzantes",
+      "Armas químicas"
+    ],
+    "respuestaCorrecta": "Manos u objetos punzantes"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de agresiones involucra armas distintas de las manos?",
+    "opciones": [
+      "50%",
+      "70%",
+      "20%",
+      "30%"
+    ],
+    "respuestaCorrecta": "20%"
+  },
+  {
+    "pregunta": "¿Qué representa la duración más corta en los episodios con un solo agresor?",
+    "opciones": [
+      "Unas horas",
+      "De minutos a una hora",
+      "Más de un día",
+      "Solo segundos"
+    ],
+    "respuestaCorrecta": "De minutos a una hora"
+  },
+  {
+    "pregunta": "¿Cuál fue la metodología principal del estudio citado?",
+    "opciones": [
+      "Encuestas a víctimas",
+      "Análisis de sentencias judiciales",
+      "Estudio de episodios documentados",
+      "Entrevistas a agresores"
+    ],
+    "respuestaCorrecta": "Estudio de episodios documentados"
+  },
+  {
+    "pregunta": "¿Qué patrón se repite en agresiones con múltiples agresores?",
+    "opciones": [
+      "Menor uso de la fuerza",
+      "Duración más corta",
+      "Duración más larga",
+      "Menor número de víctimas"
+    ],
+    "respuestaCorrecta": "Duración más larga"
+  },
+  {
+    "pregunta": "¿Qué tipo de habilidades presentan déficits los agresores sexuales según el texto?",
+    "opciones": [
+      "Habilidades matemáticas",
+      "Habilidades de interacción social",
+      "Habilidades deportivas",
+      "Habilidades culinarias"
+    ],
+    "respuestaCorrecta": "Habilidades de interacción social"
+  },
+  {
+    "pregunta": "¿Qué afecta directamente la falta de habilidades sociales?",
+    "opciones": [
+      "Relaciones afectivas e íntimas",
+      "Rendimiento académico",
+      "Memoria a largo plazo",
+      "Capacidad de leer"
+    ],
+    "respuestaCorrecta": "Relaciones afectivas e íntimas"
+  },
+  {
+    "pregunta": "¿Qué muestran muchos abusadores sexuales según el texto?",
+    "opciones": [
+      "Altos niveles de empatía",
+      "Menor empatía y mayor ansiedad social",
+      "Habilidades parentales desarrolladas",
+      "Baja impulsividad emocional"
+    ],
+    "respuestaCorrecta": "Menor empatía y mayor ansiedad social"
+  },
+  {
+    "pregunta": "¿Qué genera en los abusadores la combinación de déficits sociales y ansiedad?",
+    "opciones": [
+      "Mayor éxito profesional",
+      "Aislamiento social",
+      "Necesidad de ayuda médica",
+      "Conductas violentas inmediatas"
+    ],
+    "respuestaCorrecta": "Aislamiento social"
+  },
+  {
+    "pregunta": "¿Qué tipo de distorsión cognitiva puede tener un abusador sexual?",
+    "opciones": [
+      "Interpretar a los menores como parejas sexuales viables",
+      "Asociar el castigo con éxito",
+      "Creer que el delito siempre es necesario",
+      "Pensar que las víctimas siempre mienten"
+    ],
+    "respuestaCorrecta": "Interpretar a los menores como parejas sexuales viables"
+  },
+  {
+    "pregunta": "¿Qué autor se menciona respecto a las distorsiones cognitivas en agresores?",
+    "opciones": [
+      "Pulido",
+      "Brown",
+      "Smith",
+      "Martínez"
+    ],
+    "respuestaCorrecta": "Brown"
+  },
+  {
+    "pregunta": "¿Qué favorece las distorsiones cognitivas de los abusadores sexuales?",
+    "opciones": [
+      "La experiencia en terapia",
+      "El entorno escolar",
+      "El aislamiento social y la baja empatía",
+      "El conocimiento jurídico"
+    ],
+    "respuestaCorrecta": "El aislamiento social y la baja empatía"
+  },
+  {
+    "pregunta": "¿Qué justificación pueden usar algunos agresores sexuales de menores?",
+    "opciones": [
+      "La ignorancia de la ley",
+      "La cultura del entorno",
+      "La viabilidad de los menores como pareja sexual",
+      "La provocación de la víctima"
+    ],
+    "respuestaCorrecta": "La viabilidad de los menores como pareja sexual"
+  },
+  {
+    "pregunta": "¿Qué tipo de relaciones se mencionan también en el texto además del abuso infantil?",
+    "opciones": [
+      "Relaciones entre adultos",
+      "Relaciones con animales",
+      "Relaciones virtuales",
+      "Relaciones entre hermanos"
+    ],
+    "respuestaCorrecta": "Relaciones entre adultos"
+  },
+  {
+    "pregunta": "¿Qué es una posible consecuencia de la ansiedad social en los agresores?",
+    "opciones": [
+      "Mayor nivel de estudios",
+      "Impulsividad afectiva",
+      "Retiro del entorno social",
+      "Desarrollo de habilidades directivas"
+    ],
+    "respuestaCorrecta": "Retiro del entorno social"
+  },
+  {
+    "pregunta": "¿Qué justificación interna puede usar el abusador para no sentir culpa?",
+    "opciones": [
+      "Cree que no hay víctimas reales",
+      "Interpreta a los menores como adultos",
+      "Se considera a sí mismo víctima",
+      "No recuerda sus actos"
+    ],
+    "respuestaCorrecta": "Interpreta a los menores como adultos"
+  },
+  {
+    "pregunta": "¿Qué tipo de relaciones resultan afectadas por la falta de habilidades sociales?",
+    "opciones": [
+      "Relaciones laborales exclusivamente",
+      "Relaciones de amistad virtual",
+      "Relaciones afectivas e íntimas",
+      "Relaciones internacionales"
+    ],
+    "respuestaCorrecta": "Relaciones afectivas e íntimas"
+  },
+  {
+    "pregunta": "¿Qué puede dificultar la integración de un agresor en la vida familiar?",
+    "opciones": [
+      "Su nivel de estudios",
+      "La ansiedad ante situaciones sociales",
+      "Su historial clínico",
+      "El entorno económico"
+    ],
+    "respuestaCorrecta": "La ansiedad ante situaciones sociales"
+  },
+  {
+    "pregunta": "¿Qué déficit contribuye al aislamiento del agresor?",
+    "opciones": [
+      "Habilidades matemáticas",
+      "Habilidades laborales",
+      "Habilidades sociales",
+      "Habilidades motoras"
+    ],
+    "respuestaCorrecta": "Habilidades sociales"
+  },
+  {
+    "pregunta": "¿Qué distorsión cognitiva favorece el contacto sexual con menores?",
+    "opciones": [
+      "Interpretación de normas religiosas",
+      "Consideración de los menores como objetos de amor",
+      "Confusión entre juego y afecto",
+      "Distorsión del lenguaje corporal"
+    ],
+    "respuestaCorrecta": "Consideración de los menores como objetos de amor"
+  },
+  {
+    "pregunta": "¿Qué factor psicológico presentan muchos agresores sexuales?",
+    "opciones": [
+      "Hiperactividad",
+      "Déficit de atención",
+      "Baja empatía",
+      "Sobredotación intelectual"
+    ],
+    "respuestaCorrecta": "Baja empatía"
+  },
+  {
+    "pregunta": "¿Qué relación puede haber entre ansiedad social y agresión sexual?",
+    "opciones": [
+      "La ansiedad reduce la probabilidad de agresión",
+      "No se relacionan entre sí",
+      "La ansiedad puede aislar y fomentar distorsiones cognitivas",
+      "La ansiedad desaparece con la agresión"
+    ],
+    "respuestaCorrecta": "La ansiedad puede aislar y fomentar distorsiones cognitivas"
+  },
+  {
+    "pregunta": "¿Qué comportamiento es común en agresores con distorsiones cognitivas?",
+    "opciones": [
+      "Negación de sus actos",
+      "Aceptación pública de culpabilidad",
+      "Justificación emocional",
+      "Falsificación de pruebas"
+    ],
+    "respuestaCorrecta": "Justificación emocional"
+  },
+  {
+    "pregunta": "¿Qué característica social limita el desarrollo de vínculos en el agresor?",
+    "opciones": [
+      "Nivel económico",
+      "Aspecto físico",
+      "Déficits en habilidades de interacción social",
+      "Ubicación geográfica"
+    ],
+    "respuestaCorrecta": "Déficits en habilidades de interacción social"
+  },
+  {
+    "pregunta": "¿Qué función cumplen las distorsiones cognitivas en el agresor?",
+    "opciones": [
+      "Fomentar el arrepentimiento",
+      "Permitir la convivencia en sociedad",
+      "Justificar sus actos ante sí mismo",
+      "Impedir el recuerdo de los hechos"
+    ],
+    "respuestaCorrecta": "Justificar sus actos ante sí mismo"
+  },
+  {
+    "pregunta": "¿Qué característica mostraban los agresores que fueron víctimas infantiles de agresión física y sexual?",
+    "opciones": [
+      "Mayor nivel de estudios",
+      "Menor empatía por mujeres en situaciones de agresión",
+      "Rechazo total a la violencia",
+      "Alta autoestima"
+    ],
+    "respuestaCorrecta": "Menor empatía por mujeres en situaciones de agresión"
+  },
+  {
+    "pregunta": "¿Qué tipo de víctimas adultas mencionan haber agredido más los ex-víctimas infantiles?",
+    "opciones": [
+      "Varones jóvenes",
+      "Víctimas adultas femeninas",
+      "Niños",
+      "Personas mayores"
+    ],
+    "respuestaCorrecta": "Víctimas adultas femeninas"
+  },
+  {
+    "pregunta": "¿Qué son las tipologías según el texto?",
+    "opciones": [
+      "Clasificaciones de víctimas",
+      "Diagnósticos clínicos",
+      "Clasificaciones de delincuentes según características relevantes",
+      "Estudios sobre reincidencia"
+    ],
+    "respuestaCorrecta": "Clasificaciones de delincuentes según características relevantes"
+  },
+  {
+    "pregunta": "¿Qué finalidad tienen las tipologías aunque no sean totalmente satisfactorias?",
+    "opciones": [
+      "Justificar las penas",
+      "Facilitar la detención policial",
+      "Ayudar a identificar aspectos fundamentales del caso",
+      "Reducir condenas"
+    ],
+    "respuestaCorrecta": "Ayudar a identificar aspectos fundamentales del caso"
+  },
+  {
+    "pregunta": "¿Qué institución elaboró una de las tipologías más divulgadas sobre violadores?",
+    "opciones": [
+      "Universidad de Harvard",
+      "Centro de Estudios Penales",
+      "Centro de Tratamiento Bridgewater",
+      "Organización Mundial de la Salud"
+    ],
+    "respuestaCorrecta": "Centro de Tratamiento Bridgewater"
+  },
+  {
+    "pregunta": "¿Qué se espera obtener al clasificar a los delincuentes por tipologías?",
+    "opciones": [
+      "Una explicación completa del delito",
+      "Una predicción exacta de la reincidencia",
+      "Una mejora en el análisis individual del caso",
+      "La reducción automática de penas"
+    ],
+    "respuestaCorrecta": "Una mejora en el análisis individual del caso"
+  },
+  {
+    "pregunta": "¿Qué relación se establece entre la victimización infantil y la conducta delictiva adulta?",
+    "opciones": [
+      "No hay relación según el texto",
+      "Existe una relación directa con mayor agresión a mujeres",
+      "Los ex-víctimas son menos violentos",
+      "Los ex-víctimas desarrollan más empatía"
+    ],
+    "respuestaCorrecta": "Existe una relación directa con mayor agresión a mujeres"
+  },
+  {
+    "pregunta": "¿Qué pueden reflejar las distorsiones cognitivas de los agresores que fueron víctimas?",
+    "opciones": [
+      "Arrepentimiento",
+      "Racionalización del daño sufrido",
+      "Minimización del sufrimiento de otras víctimas",
+      "Memoria selectiva"
+    ],
+    "respuestaCorrecta": "Minimización del sufrimiento de otras víctimas"
+  },
+  {
+    "pregunta": "¿Qué puede facilitar la tipología en un proceso penal?",
+    "opciones": [
+      "Reducir el juicio oral",
+      "Evitar testimonios",
+      "Entender mejor el perfil del agresor",
+      "Proteger al fiscal"
+    ],
+    "respuestaCorrecta": "Entender mejor el perfil del agresor"
+  },
+  {
+    "pregunta": "¿Qué función no tiene la tipología según el texto?",
+    "opciones": [
+      "Comprender mejor aspectos individuales",
+      "Justificar legalmente el delito",
+      "Identificar patrones",
+      "Apoyar decisiones terapéuticas"
+    ],
+    "respuestaCorrecta": "Justificar legalmente el delito"
+  },
+  {
+    "pregunta": "¿Cuál es una utilidad práctica de las tipologías aunque no expliquen la etiología del delito?",
+    "opciones": [
+      "Justificar al delincuente",
+      "Clasificar jurídicamente el caso",
+      "Ayudar a entender mejor aspectos del individuo",
+      "Evitar la intervención de expertos"
+    ],
+    "respuestaCorrecta": "Ayudar a entender mejor aspectos del individuo"
+  },
+  {
+    "pregunta": "¿Qué variable influye en la aparición de distorsiones cognitivas en abusadores?",
+    "opciones": [
+      "Edad adulta",
+      "Experiencia laboral",
+      "Victimización infantil previa",
+      "Educación universitaria"
+    ],
+    "respuestaCorrecta": "Victimización infantil previa"
+  },
+  {
+    "pregunta": "¿Qué aspecto se considera clave para desarrollar tipologías eficaces?",
+    "opciones": [
+      "Datos económicos del agresor",
+      "Características individuales del delincuente",
+      "Lugar de residencia",
+      "Número de agresiones"
+    ],
+    "respuestaCorrecta": "Características individuales del delincuente"
+  },
+  {
+    "pregunta": "¿Qué relación se establece entre empatía y conducta agresiva según el documento?",
+    "opciones": [
+      "A mayor empatía, mayor violencia",
+      "Menor empatía se asocia con más agresión",
+      "La empatía no influye en la agresión",
+      "Empatía elevada favorece la reincidencia"
+    ],
+    "respuestaCorrecta": "Menor empatía se asocia con más agresión"
+  },
+  {
+    "pregunta": "¿Qué tipo de clasificación no pertenece a las tipologías del documento?",
+    "opciones": [
+      "Por edad de la víctima",
+      "Por características individuales",
+      "Por patrón de conducta",
+      "Por localización geográfica"
+    ],
+    "respuestaCorrecta": "Por localización geográfica"
+  },
+  {
+    "pregunta": "¿Qué objetivo tienen las tipologías según el texto?",
+    "opciones": [
+      "Identificar culpables rápidamente",
+      "Determinar la duración de condenas",
+      "Ayudar a comprender cada caso individual",
+      "Reemplazar al peritaje psicológico"
+    ],
+    "respuestaCorrecta": "Ayudar a comprender cada caso individual"
+  },
+  {
+    "pregunta": "¿Qué motivación puede tener un agresor que fue víctima en la infancia?",
+    "opciones": [
+      "Repetir el patrón recibido",
+      "Rechazar la violencia",
+      "Buscar ayuda profesional",
+      "Evitar el contacto con víctimas"
+    ],
+    "respuestaCorrecta": "Repetir el patrón recibido"
+  },
+  {
+    "pregunta": "¿Qué representa el Centro de Tratamiento Bridgewater?",
+    "opciones": [
+      "Una prisión de máxima seguridad",
+      "Un centro de salud mental para menores",
+      "Una institución que desarrolló una tipología de violadores",
+      "Una ONG internacional"
+    ],
+    "respuestaCorrecta": "Una institución que desarrolló una tipología de violadores"
+  },
+  {
+    "pregunta": "¿Qué aspecto de las víctimas adultas afecta más a los ex-víctimas agresores?",
+    "opciones": [
+      "Su actitud legal",
+      "Su comportamiento sexual",
+      "Su género femenino",
+      "Su edad avanzada"
+    ],
+    "respuestaCorrecta": "Su género femenino"
+  },
+  {
+    "pregunta": "¿Qué variable puede condicionar la conducta agresiva futura según el texto?",
+    "opciones": [
+      "El nivel de estudios",
+      "La inteligencia emocional",
+      "La historia de victimización infantil",
+      "La situación laboral"
+    ],
+    "respuestaCorrecta": "La historia de victimización infantil"
+  },
+  {
+    "pregunta": "¿Qué banda latina es mencionada como la de mayor presencia en España según el informe de 2006?",
+    "opciones": [
+      "Ñetas",
+      "Latin Kings",
+      "Trinitarios",
+      "Mara Salvatrucha"
+    ],
+    "respuestaCorrecta": "Latin Kings"
+  },
+  {
+    "pregunta": "¿Qué organismo elaboró el informe sobre bandas latinas en 2006?",
+    "opciones": [
+      "Ministerio del Interior",
+      "Guardia Civil",
+      "Cuerpo Nacional de Policía",
+      "Centro de Investigaciones Sociológicas"
+    ],
+    "respuestaCorrecta": "Cuerpo Nacional de Policía"
+  },
+  {
+    "pregunta": "¿Cuál fue el origen inicial declarado de los Latin Kings según el informe?",
+    "opciones": [
+      "Una organización empresarial",
+      "Una secta religiosa",
+      "Una hermandad de apoyo a los latinos",
+      "Una banda criminal"
+    ],
+    "respuestaCorrecta": "Una hermandad de apoyo a los latinos"
+  },
+  {
+    "pregunta": "¿En qué han derivado con el tiempo los Latin Kings según el documento?",
+    "opciones": [
+      "En una organización educativa",
+      "En una ONG comunitaria",
+      "En una organización criminal",
+      "En una cooperativa de barrio"
+    ],
+    "respuestaCorrecta": "En una organización criminal"
+  },
+  {
+    "pregunta": "¿Qué tipo de estructura presentan actualmente los Latin Kings según el informe?",
+    "opciones": [
+      "Horizontal y democrática",
+      "Difusa y espontánea",
+      "Clandestina, poderosa y jerarquizada",
+      "Abierta y colaborativa"
+    ],
+    "respuestaCorrecta": "Clandestina, poderosa y jerarquizada"
+  },
+  {
+    "pregunta": "¿Qué documento deben conocer y acatar los miembros de los Latin Kings?",
+    "opciones": [
+      "El Código del Silencio",
+      "La Carta Magna",
+      "La Biblia o Constitución",
+      "El Reglamento Civil"
+    ],
+    "respuestaCorrecta": "La Biblia o Constitución"
+  },
+  {
+    "pregunta": "¿Cuál fue una razón para la creación de los Latin Kings según el texto?",
+    "opciones": [
+      "Fines económicos",
+      "Difusión cultural",
+      "Protección frente a agresiones de otras bandas",
+      "Oposición política"
+    ],
+    "respuestaCorrecta": "Protección frente a agresiones de otras bandas"
+  },
+  {
+    "pregunta": "¿Qué año corresponde al informe policial mencionado en el texto?",
+    "opciones": [
+      "2008",
+      "2006",
+      "2010",
+      "2003"
+    ],
+    "respuestaCorrecta": "2006"
+  },
+  {
+    "pregunta": "¿Qué grupo fue identificado como el más organizado entre las bandas latinas en España?",
+    "opciones": [
+      "Latin Kings",
+      "Ñetas",
+      "Mara Salvatrucha",
+      "Bloods"
+    ],
+    "respuestaCorrecta": "Latin Kings"
+  },
+  {
+    "pregunta": "¿Cómo se define la evolución de los Latin Kings en el documento?",
+    "opciones": [
+      "De pandilla callejera a movimiento político",
+      "De asociación vecinal a cooperativa cultural",
+      "De hermandad de apoyo a organización criminal",
+      "De banda musical a colectivo educativo"
+    ],
+    "respuestaCorrecta": "De hermandad de apoyo a organización criminal"
+  },
+  {
+    "pregunta": "¿Qué elemento indica que los Latin Kings han evolucionado hacia una organización criminal?",
+    "opciones": [
+      "Su expansión internacional",
+      "La posesión de un himno",
+      "Una estructura jerarquizada y clandestina",
+      "Su origen estadounidense"
+    ],
+    "respuestaCorrecta": "Una estructura jerarquizada y clandestina"
+  },
+  {
+    "pregunta": "¿Qué documento interno rige el comportamiento de los Latin Kings?",
+    "opciones": [
+      "El Código Ético",
+      "El Manual del Guerrero",
+      "La Biblia o Constitución",
+      "La Ley del Rey"
+    ],
+    "respuestaCorrecta": "La Biblia o Constitución"
+  },
+  {
+    "pregunta": "¿Qué finalidad original tenían los Latin Kings en Europa según el informe?",
+    "opciones": [
+      "Difundir la cultura latina",
+      "Luchar por los derechos civiles",
+      "Proteger a latinos frente a otras bandas",
+      "Reclutar nuevos miembros"
+    ],
+    "respuestaCorrecta": "Proteger a latinos frente a otras bandas"
+  },
+  {
+    "pregunta": "¿Qué rol juega la jerarquía dentro de los Latin Kings según el texto?",
+    "opciones": [
+      "Es simbólica y decorativa",
+      "No existe formalmente",
+      "Estructura el funcionamiento como grupo organizado",
+      "Solo aplica fuera de España"
+    ],
+    "respuestaCorrecta": "Estructura el funcionamiento como grupo organizado"
+  },
+  {
+    "pregunta": "¿Qué transformación sufrieron los Latin Kings con el paso del tiempo?",
+    "opciones": [
+      "Se disolvieron tras persecuciones",
+      "Se legalizaron como ONG",
+      "Se convirtieron en grupo clandestino y delictivo",
+      "Se integraron en el sistema educativo"
+    ],
+    "respuestaCorrecta": "Se convirtieron en grupo clandestino y delictivo"
+  },
+  {
+    "pregunta": "¿Qué informe policial se cita en el documento?",
+    "opciones": [
+      "Informe del Ministerio de Justicia",
+      "Estudio de la Universidad de Salamanca",
+      "Informe de los servicios de información del CNP",
+      "Memoria de Instituciones Penitenciarias"
+    ],
+    "respuestaCorrecta": "Informe de los servicios de información del CNP"
+  },
+  {
+    "pregunta": "¿Qué banda es citada como ejemplo de organización delictiva en el texto?",
+    "opciones": [
+      "Latin Kings",
+      "Trinitarios",
+      "Mara 18",
+      "Ñetas"
+    ],
+    "respuestaCorrecta": "Latin Kings"
+  },
+  {
+    "pregunta": "¿Qué caracteriza el actual funcionamiento de los Latin Kings?",
+    "opciones": [
+      "Actos públicos y transparencia",
+      "Asambleas abiertas",
+      "Estructura jerarquizada y secreta",
+      "Participación en elecciones"
+    ],
+    "respuestaCorrecta": "Estructura jerarquizada y secreta"
+  },
+  {
+    "pregunta": "¿Qué característica del grupo es fundamental para su cohesión?",
+    "opciones": [
+      "El uso del uniforme",
+      "La lectura diaria de su Biblia",
+      "La aceptación de sus normas internas",
+      "La violencia pública"
+    ],
+    "respuestaCorrecta": "La aceptación de sus normas internas"
+  },
+  {
+    "pregunta": "¿Qué cambio institucional experimentaron los Latin Kings en España?",
+    "opciones": [
+      "Se registraron como asociación cultural",
+      "Pasaron de apoyo comunitario a crimen organizado",
+      "Adoptaron políticas de integración",
+      "Se disolvieron voluntariamente"
+    ],
+    "respuestaCorrecta": "Pasaron de apoyo comunitario a crimen organizado"
+  },
+  {
+    "pregunta": "¿Qué ley regula la responsabilidad penal del menor en España?",
+    "opciones": [
+      "Código Penal Juvenil",
+      "Ley de Protección del Menor",
+      "Ley Orgánica de Responsabilidad Penal del Menor",
+      "Ley de Enjuiciamiento Criminal"
+    ],
+    "respuestaCorrecta": "Ley Orgánica de Responsabilidad Penal del Menor"
+  },
+  {
+    "pregunta": "¿En qué año se aprobó la LORPM?",
+    "opciones": [
+      "2005",
+      "1995",
+      "2000",
+      "2010"
+    ],
+    "respuestaCorrecta": "2000"
+  },
+  {
+    "pregunta": "¿Qué crítica se hacía a la LORPM según el texto?",
+    "opciones": [
+      "Era demasiado punitiva",
+      "No era clara en sus artículos",
+      "Era una ley blanda y sin recursos suficientes",
+      "No contemplaba delitos graves"
+    ],
+    "respuestaCorrecta": "Era una ley blanda y sin recursos suficientes"
+  },
+  {
+    "pregunta": "¿Qué medida tomó el Gobierno antes de la entrada en vigor de la LORPM?",
+    "opciones": [
+      "Eliminó las penas de privación de libertad",
+      "Aumentó la duración máxima de sanciones en centros cerrados",
+      "Redujo la edad penal",
+      "Amplió los beneficios penitenciarios"
+    ],
+    "respuestaCorrecta": "Aumentó la duración máxima de sanciones en centros cerrados"
+  },
+  {
+    "pregunta": "¿Qué edad abarca el sector juvenil mencionado en la página 14?",
+    "opciones": [
+      "14 y 15 años",
+      "18 y 19 años",
+      "16 y 17 años",
+      "12 y 13 años"
+    ],
+    "respuestaCorrecta": "16 y 17 años"
+  },
+  {
+    "pregunta": "¿Cuál era la sanción máxima en centro cerrado antes del cambio?",
+    "opciones": [
+      "3 años",
+      "5 años",
+      "8 años",
+      "10 años"
+    ],
+    "respuestaCorrecta": "5 años"
+  },
+  {
+    "pregunta": "¿Cuál fue la nueva sanción máxima en centro cerrado tras la reforma previa a la entrada en vigor?",
+    "opciones": [
+      "10 años",
+      "7 años",
+      "8 años",
+      "6 años"
+    ],
+    "respuestaCorrecta": "8 años"
+  },
+  {
+    "pregunta": "¿Qué motivó la reforma del límite de sanción antes de la entrada en vigor de la LORPM?",
+    "opciones": [
+      "La presión internacional",
+      "Evitar su derogación",
+      "Contrarrestar la percepción de debilidad punitiva",
+      "Reclamos judiciales"
+    ],
+    "respuestaCorrecta": "Contrarrestar la percepción de debilidad punitiva"
+  },
+  {
+    "pregunta": "¿Qué recursos se señalaba que faltaban para aplicar correctamente la LORPM?",
+    "opciones": [
+      "Recursos técnicos",
+      "Recursos personales",
+      "Recursos económicos",
+      "Recursos legales"
+    ],
+    "respuestaCorrecta": "Recursos económicos"
+  },
+  {
+    "pregunta": "¿Qué aspecto comunicativo se critica en la implementación de la LORPM?",
+    "opciones": [
+      "La falta de apoyo de los medios",
+      "Que no se supo explicar correctamente",
+      "Su campaña de marketing fue agresiva",
+      "El lenguaje técnico era excesivo"
+    ],
+    "respuestaCorrecta": "Que no se supo explicar correctamente"
+  },
+  {
+    "pregunta": "¿Qué calificativo recibió la LORPM al poco tiempo de ser aprobada?",
+    "opciones": [
+      "Ley ejemplar",
+      "Ley eficiente",
+      "Ley blanda",
+      "Ley inconstitucional"
+    ],
+    "respuestaCorrecta": "Ley blanda"
+  },
+  {
+    "pregunta": "¿Cuál fue uno de los principales desafíos para implementar la LORPM?",
+    "opciones": [
+      "Falta de apoyo judicial",
+      "Ausencia de formación policial",
+      "Falta de recursos económicos",
+      "Exceso de reformas legislativas"
+    ],
+    "respuestaCorrecta": "Falta de recursos económicos"
+  },
+  {
+    "pregunta": "¿Qué objetivo tenía el aumento de la sanción máxima en centro cerrado?",
+    "opciones": [
+      "Equipararse al Código Penal",
+      "Facilitar la reinserción",
+      "Solventar la supuesta debilidad punitiva",
+      "Reducir la reincidencia"
+    ],
+    "respuestaCorrecta": "Solventar la supuesta debilidad punitiva"
+  },
+  {
+    "pregunta": "¿Qué edad mínima establece la LORPM para la responsabilidad penal del menor?",
+    "opciones": [
+      "14 años",
+      "12 años",
+      "10 años",
+      "16 años"
+    ],
+    "respuestaCorrecta": "14 años"
+  },
+  {
+    "pregunta": "¿Cómo fue interpretada inicialmente la LORPM por parte de la sociedad?",
+    "opciones": [
+      "Como demasiado estricta",
+      "Como ineficiente",
+      "Como permisiva y poco punitiva",
+      "Como una ley ejemplar"
+    ],
+    "respuestaCorrecta": "Como permisiva y poco punitiva"
+  },
+  {
+    "pregunta": "¿Qué acción tomó el Gobierno para reforzar el carácter punitivo de la LORPM?",
+    "opciones": [
+      "Rebajó la edad penal",
+      "Creó nuevos delitos para menores",
+      "Aumentó la pena máxima en centro cerrado",
+      "Duplicó el número de jueces de menores"
+    ],
+    "respuestaCorrecta": "Aumentó la pena máxima en centro cerrado"
+  },
+  {
+    "pregunta": "¿Qué sector de edad juvenil se menciona en la página 14?",
+    "opciones": [
+      "15 y 16 años",
+      "16 y 17 años",
+      "13 y 14 años",
+      "18 y 19 años"
+    ],
+    "respuestaCorrecta": "16 y 17 años"
+  },
+  {
+    "pregunta": "¿Qué ámbito ha sido muy controvertido en la criminología aplicada española reciente?",
+    "opciones": [
+      "La política penitenciaria",
+      "El sistema de justicia juvenil",
+      "La vigilancia electrónica",
+      "La protección de testigos"
+    ],
+    "respuestaCorrecta": "El sistema de justicia juvenil"
+  },
+  {
+    "pregunta": "¿Qué aspecto no supo comunicarse adecuadamente sobre la LORPM?",
+    "opciones": [
+      "Su carácter no tan blando",
+      "Su coste económico",
+      "Su impacto en adultos",
+      "Su oposición internacional"
+    ],
+    "respuestaCorrecta": "Su carácter no tan blando"
+  },
+  {
+    "pregunta": "¿Qué elemento se incrementó antes de la entrada en vigor de la LORPM?",
+    "opciones": [
+      "El número de centros de reeducación",
+      "La duración máxima de internamiento en centro cerrado",
+      "La edad mínima de responsabilidad penal",
+      "Las competencias del Tribunal Supremo"
+    ],
+    "respuestaCorrecta": "La duración máxima de internamiento en centro cerrado"
+  },
+  {
+    "pregunta": "¿Qué naturaleza tiene la disposición sancionadora en el sistema penal juvenil según el texto?",
+    "opciones": [
+      "Disciplinaria exclusivamente",
+      "Simbólica y ejemplarizante",
+      "Jurídica con exigencia de responsabilidad",
+      "Meramente asistencial"
+    ],
+    "respuestaCorrecta": "Jurídica con exigencia de responsabilidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de hechos generan responsabilidad penal en los menores?",
+    "opciones": [
+      "Conductas contrarias a la moral",
+      "Incumplimiento escolar",
+      "Hechos tipificados como delitos o faltas",
+      "Actos desobedientes"
+    ],
+    "respuestaCorrecta": "Hechos tipificados como delitos o faltas"
+  },
+  {
+    "pregunta": "¿Qué carácter tiene la intervención jurídica en menores infractores?",
+    "opciones": [
+      "Estrictamente punitivo",
+      "Educativo y de especial intensidad",
+      "Totalmente asistencial",
+      "Reparador sin sanción"
+    ],
+    "respuestaCorrecta": "Educativo y de especial intensidad"
+  },
+  {
+    "pregunta": "¿Qué se rechaza expresamente como finalidad en el derecho penal de menores?",
+    "opciones": [
+      "Educación",
+      "Reinserción",
+      "Proporcionalidad entre hecho y sanción",
+      "Intervención judicial"
+    ],
+    "respuestaCorrecta": "Proporcionalidad entre hecho y sanción"
+  },
+  {
+    "pregunta": "¿Qué instituciones son competentes para ejecutar las medidas impuestas en sentencia?",
+    "opciones": [
+      "Ministerio de Justicia",
+      "Juzgados ordinarios",
+      "Entidades autonómicas de protección de menores",
+      "Ministerio del Interior"
+    ],
+    "respuestaCorrecta": "Entidades autonómicas de protección de menores"
+  },
+  {
+    "pregunta": "¿Qué tipo de medidas se aplican según el caso concreto?",
+    "opciones": [
+      "Las previstas en el Código Penal común",
+      "Medidas acordadas por las familias",
+      "Medidas aconsejadas por las circunstancias del caso",
+      "Medidas penitenciarias generales"
+    ],
+    "respuestaCorrecta": "Medidas aconsejadas por las circunstancias del caso"
+  },
+  {
+    "pregunta": "¿Qué diferencia clave se menciona entre el derecho penal de adultos y el de menores?",
+    "opciones": [
+      "El lugar de reclusión",
+      "La edad límite",
+      "La finalidad educativa vs. proporcionalidad sancionadora",
+      "El idioma procesal"
+    ],
+    "respuestaCorrecta": "La finalidad educativa vs. proporcionalidad sancionadora"
+  },
+  {
+    "pregunta": "¿Qué finalidad busca el sistema de responsabilidad penal juvenil?",
+    "opciones": [
+      "Castigo ejemplarizante",
+      "Educación y reinserción",
+      "Sanción pública",
+      "Castigo rápido"
+    ],
+    "respuestaCorrecta": "Educación y reinserción"
+  },
+  {
+    "pregunta": "¿Qué es rechazado expresamente como objetivo en la normativa de menores?",
+    "opciones": [
+      "La reeducación",
+      "La libertad vigilada",
+      "La proporcionalidad del castigo",
+      "La mediación"
+    ],
+    "respuestaCorrecta": "La proporcionalidad del castigo"
+  },
+  {
+    "pregunta": "¿Qué organismo tiene competencias para reformar y proteger a menores?",
+    "opciones": [
+      "El Congreso",
+      "La Audiencia Nacional",
+      "Las comunidades autónomas",
+      "El Tribunal Supremo"
+    ],
+    "respuestaCorrecta": "Las comunidades autónomas"
+  },
+  {
+    "pregunta": "¿Cuál es una característica clave del sistema sancionador juvenil?",
+    "opciones": [
+      "Su discrecionalidad judicial total",
+      "Su enfoque terapéutico único",
+      "Su vinculación a medidas educativas",
+      "Su semejanza al sistema adulto"
+    ],
+    "respuestaCorrecta": "Su vinculación a medidas educativas"
+  },
+  {
+    "pregunta": "¿Qué se entiende por intervención de especial intensidad en el ámbito juvenil?",
+    "opciones": [
+      "Aplicación de medidas más duras",
+      "Educación firme sin imitación del castigo adulto",
+      "Privación automática de libertad",
+      "Medidas exclusivamente preventivas"
+    ],
+    "respuestaCorrecta": "Educación firme sin imitación del castigo adulto"
+  },
+  {
+    "pregunta": "¿Cuál es el criterio esencial para aplicar una medida al menor infractor?",
+    "opciones": [
+      "La voluntad del juez",
+      "La edad cronológica",
+      "Las circunstancias concretas del caso",
+      "El tipo penal del delito"
+    ],
+    "respuestaCorrecta": "Las circunstancias concretas del caso"
+  },
+  {
+    "pregunta": "¿Qué elemento no forma parte del sistema penal juvenil según el texto?",
+    "opciones": [
+      "Naturaleza educativa",
+      "Medidas de reforma",
+      "Proporcionalidad sanción-delito",
+      "Ejecutabilidad por comunidades"
+    ],
+    "respuestaCorrecta": "Proporcionalidad sanción-delito"
+  },
+  {
+    "pregunta": "¿Qué tipo de hechos generan una intervención penal en menores?",
+    "opciones": [
+      "Hechos tipificados como delitos o faltas",
+      "Conductas inmorales",
+      "Incumplimientos escolares",
+      "Desobediencia a los padres"
+    ],
+    "respuestaCorrecta": "Hechos tipificados como delitos o faltas"
+  },
+  {
+    "pregunta": "¿Qué expresa el rechazo a la proporcionalidad sanción-delito en menores?",
+    "opciones": [
+      "Que el castigo sea más severo",
+      "Que no haya ninguna sanción",
+      "Que la intervención sea educativa y no punitiva",
+      "Que las penas se ajusten a la norma"
+    ],
+    "respuestaCorrecta": "Que la intervención sea educativa y no punitiva"
+  },
+  {
+    "pregunta": "¿Qué diferencia la ejecución de medidas en menores respecto al sistema penal adulto?",
+    "opciones": [
+      "La intervención de entes privados",
+      "La ausencia de jueces",
+      "La competencia autonómica",
+      "La sanción administrativa"
+    ],
+    "respuestaCorrecta": "La competencia autonómica"
+  },
+  {
+    "pregunta": "¿Qué se pretende evitar con el enfoque educativo del sistema juvenil?",
+    "opciones": [
+      "El uso de sentencias firmes",
+      "La reincidencia judicial",
+      "Las finalidades sancionadoras adultas",
+      "La intervención del Ministerio Fiscal"
+    ],
+    "respuestaCorrecta": "Las finalidades sancionadoras adultas"
+  },
+  {
+    "pregunta": "¿Qué distingue la reacción jurídica frente al menor infractor?",
+    "opciones": [
+      "Su automaticidad",
+      "Su fin educativo y no retributivo",
+      "Su rapidez procesal",
+      "Su coste económico"
+    ],
+    "respuestaCorrecta": "Su fin educativo y no retributivo"
+  },
+  {
+    "pregunta": "¿Qué se busca con la especial intensidad de la intervención jurídica en menores?",
+    "opciones": [
+      "Desincentivar la reincidencia",
+      "Incrementar la penalización",
+      "Reeducar sin imitar el sistema adulto",
+      "Castigar proporcionalmente"
+    ],
+    "respuestaCorrecta": "Reeducar sin imitar el sistema adulto"
+  },
+  {
+    "pregunta": "¿Qué medida contempla el internamiento en régimen cerrado, semiabierto o abierto?",
+    "opciones": [
+      "Privación de libertad por delitos graves",
+      "Internamiento terapéutico especializado",
+      "Detención provisional preventiva",
+      "Centro de inserción sociolaboral"
+    ],
+    "respuestaCorrecta": "Internamiento terapéutico especializado"
+  },
+  {
+    "pregunta": "¿A qué jóvenes se destina el internamiento terapéutico?",
+    "opciones": [
+      "A quienes tienen delitos leves",
+      "A menores reincidentes",
+      "A quienes padezcan alteraciones psíquicas o adicciones",
+      "A infractores por delitos económicos"
+    ],
+    "respuestaCorrecta": "A quienes padezcan alteraciones psíquicas o adicciones"
+  },
+  {
+    "pregunta": "¿Qué finalidad tiene la atención educativa en los centros terapéuticos?",
+    "opciones": [
+      "Reforzar las materias escolares",
+      "Aplicar castigos proporcionales",
+      "Proporcionar tratamiento específico",
+      "Enseñar oficios laborales"
+    ],
+    "respuestaCorrecta": "Proporcionar tratamiento específico"
+  },
+  {
+    "pregunta": "¿Qué tipos de sustancias se mencionan como motivo para internamiento terapéutico?",
+    "opciones": [
+      "Vitaminas y proteínas",
+      "Bebidas energéticas y cafeína",
+      "Alcohol, drogas tóxicas y sustancias psicotrópicas",
+      "Analgésicos y antibióticos"
+    ],
+    "respuestaCorrecta": "Alcohol, drogas tóxicas y sustancias psicotrópicas"
+  },
+  {
+    "pregunta": "¿Qué debe seguir el menor durante el tratamiento ambulatorio?",
+    "opciones": [
+      "Un código penal específico",
+      "Una dieta equilibrada",
+      "Pautas fijadas para el tratamiento",
+      "Un régimen de visitas con los padres"
+    ],
+    "respuestaCorrecta": "Pautas fijadas para el tratamiento"
+  },
+  {
+    "pregunta": "¿Dónde debe asistir el menor en tratamiento ambulatorio?",
+    "opciones": [
+      "Al juzgado de menores",
+      "A la comisaría local",
+      "Al centro designado por la medida",
+      "Al centro penitenciario más cercano"
+    ],
+    "respuestaCorrecta": "Al centro designado por la medida"
+  },
+  {
+    "pregunta": "¿Qué periodicidad tiene el tratamiento ambulatorio?",
+    "opciones": [
+      "Anual",
+      "A demanda del menor",
+      "Según indique el juez",
+      "La requerida por el tratamiento"
+    ],
+    "respuestaCorrecta": "La requerida por el tratamiento"
+  },
+  {
+    "pregunta": "¿Qué tipo de alteración también puede justificar un tratamiento ambulatorio?",
+    "opciones": [
+      "Alteraciones alimenticias",
+      "Trastornos del sueño",
+      "Alteraciones en la percepción",
+      "Problemas escolares leves"
+    ],
+    "respuestaCorrecta": "Alteraciones en la percepción"
+  },
+  {
+    "pregunta": "¿Cuál es la medida que obliga al menor a acudir diariamente a una institución pero sin internamiento?",
+    "opciones": [
+      "Libertad vigilada",
+      "Asistencia a centro de día",
+      "Internamiento semiabierto",
+      "Tratamiento ambulatorio"
+    ],
+    "respuestaCorrecta": "Asistencia a centro de día"
+  },
+  {
+    "pregunta": "¿Qué modalidad permite tratar al menor sin ingreso permanente?",
+    "opciones": [
+      "Tratamiento ambulatorio",
+      "Internamiento terapéutico cerrado",
+      "Asistencia comunitaria",
+      "Supervisión virtual"
+    ],
+    "respuestaCorrecta": "Tratamiento ambulatorio"
+  },
+  {
+    "pregunta": "¿Qué medida está destinada a menores con dependencia de sustancias?",
+    "opciones": [
+      "Trabajo comunitario",
+      "Asistencia escolar reforzada",
+      "Internamiento terapéutico",
+      "Amonestación judicial"
+    ],
+    "respuestaCorrecta": "Internamiento terapéutico"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del tratamiento ambulatorio según el texto?",
+    "opciones": [
+      "Reducir los costos judiciales",
+      "Evitar el internamiento",
+      "Tratar anomalías psíquicas o adicciones",
+      "Aumentar la presencia en centros escolares"
+    ],
+    "respuestaCorrecta": "Tratar anomalías psíquicas o adicciones"
+  },
+  {
+    "pregunta": "¿En qué consiste la asistencia a un centro de día para menores?",
+    "opciones": [
+      "Internamiento sin contacto exterior",
+      "Permanencia total en centros cerrados",
+      "Acudir al centro durante el día y residir fuera",
+      "Acompañamiento psicológico diario en el hogar"
+    ],
+    "respuestaCorrecta": "Acudir al centro durante el día y residir fuera"
+  },
+  {
+    "pregunta": "¿Qué tipos de régimen puede tener el internamiento terapéutico?",
+    "opciones": [
+      "Flexible o rotatorio",
+      "Diurno o nocturno",
+      "Cerrado, semiabierto o abierto",
+      "Voluntario o forzoso"
+    ],
+    "respuestaCorrecta": "Cerrado, semiabierto o abierto"
+  },
+  {
+    "pregunta": "¿Qué elemento distingue al tratamiento ambulatorio frente al internamiento?",
+    "opciones": [
+      "No requiere traslado al centro judicial",
+      "No implica alojamiento permanente",
+      "Se realiza solo en hospitales",
+      "No incluye seguimiento médico"
+    ],
+    "respuestaCorrecta": "No implica alojamiento permanente"
+  },
+  {
+    "pregunta": "¿Qué trastornos justifican el uso de medidas terapéuticas?",
+    "opciones": [
+      "Trastornos de conducta escolar exclusivamente",
+      "Anomalías psíquicas y alteraciones de la realidad",
+      "Problemas de integración cultural",
+      "Conflictos familiares graves"
+    ],
+    "respuestaCorrecta": "Anomalías psíquicas y alteraciones de la realidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de sustancias se incluyen en las medidas de tratamiento terapéutico?",
+    "opciones": [
+      "Sustancias alimenticias",
+      "Vitaminas y minerales",
+      "Sustancias psicotrópicas y tóxicas",
+      "Complementos deportivos"
+    ],
+    "respuestaCorrecta": "Sustancias psicotrópicas y tóxicas"
+  },
+  {
+    "pregunta": "¿Qué tipo de atención educativa se menciona en los internamientos terapéuticos?",
+    "opciones": [
+      "Atención domiciliaria",
+      "Educación ordinaria intensiva",
+      "Atención educativa especializada",
+      "Formación profesional básica"
+    ],
+    "respuestaCorrecta": "Atención educativa especializada"
+  },
+  {
+    "pregunta": "¿Qué característica tiene el centro al que debe acudir el menor con tratamiento ambulatorio?",
+    "opciones": [
+      "Es de libre elección",
+      "Debe ser el más cercano",
+      "Está designado por la medida",
+      "Funciona solo por derivación médica"
+    ],
+    "respuestaCorrecta": "Está designado por la medida"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad común de las tres medidas descritas (internamiento terapéutico, ambulatorio y centro de día)?",
+    "opciones": [
+      "Aumentar la vigilancia policial",
+      "Castigar a los reincidentes",
+      "Reeducar y tratar problemas psíquicos o de adicción",
+      "Separar a los menores de sus familias"
+    ],
+    "respuestaCorrecta": "Reeducar y tratar problemas psíquicos o de adicción"
+  },
+  {
+    "pregunta": "¿Qué implica la medida de convivencia con otra persona o familia?",
+    "opciones": [
+      "Aislamiento total del menor",
+      "Internamiento en régimen cerrado",
+      "Vivir con personas seleccionadas para su proceso de socialización",
+      "Supervisión por parte de la policía"
+    ],
+    "respuestaCorrecta": "Vivir con personas seleccionadas para su proceso de socialización"
+  },
+  {
+    "pregunta": "¿Qué requisito se menciona para imponer la medida de prestaciones en beneficio de la comunidad?",
+    "opciones": [
+      "Que el menor esté en libertad vigilada",
+      "El consentimiento del menor",
+      "Delito de violencia de género",
+      "Edad mínima de 17 años"
+    ],
+    "respuestaCorrecta": "El consentimiento del menor"
+  },
+  {
+    "pregunta": "¿Qué tipo de actividades contempla la medida de prestaciones comunitarias?",
+    "opciones": [
+      "Actividades remuneradas en centros educativos",
+      "Tareas retribuidas por ayuntamientos",
+      "Actividades no remuneradas de interés social",
+      "Cursos de formación profesional"
+    ],
+    "respuestaCorrecta": "Actividades no remuneradas de interés social"
+  },
+  {
+    "pregunta": "¿Qué población se puede beneficiar indirectamente de las prestaciones comunitarias?",
+    "opciones": [
+      "Solo entidades públicas",
+      "Personas en situación de precariedad",
+      "Funcionarios judiciales",
+      "Empresas colaboradoras"
+    ],
+    "respuestaCorrecta": "Personas en situación de precariedad"
+  },
+  {
+    "pregunta": "¿Qué distingue a las tareas socioeducativas de otras medidas?",
+    "opciones": [
+      "Deben realizarse en internamiento",
+      "No pueden imponerse sin audiencia pública",
+      "No requieren internamiento",
+      "Exigen acompañamiento policial"
+    ],
+    "respuestaCorrecta": "No requieren internamiento"
+  },
+  {
+    "pregunta": "¿Qué finalidad tienen las tareas socioeducativas según el texto?",
+    "opciones": [
+      "Punitiva",
+      "Ejemplarizante",
+      "Educativa",
+      "Penal sustitutiva"
+    ],
+    "respuestaCorrecta": "Educativa"
+  },
+  {
+    "pregunta": "¿Qué medida permite al juez reprender verbalmente al menor?",
+    "opciones": [
+      "Libertad vigilada",
+      "Amonestación",
+      "Prestaciones comunitarias",
+      "Convivencia externa"
+    ],
+    "respuestaCorrecta": "Amonestación"
+  },
+  {
+    "pregunta": "¿Qué carácter tiene la medida de amonestación?",
+    "opciones": [
+      "Penal",
+      "Verbal y educativa",
+      "Psicológica",
+      "Económica"
+    ],
+    "respuestaCorrecta": "Verbal y educativa"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la amonestación por parte del juez?",
+    "opciones": [
+      "Intimidar al menor",
+      "Reforzar la autoridad judicial",
+      "Hacer reflexionar sobre su conducta",
+      "Imponer una pena ejemplar"
+    ],
+    "respuestaCorrecta": "Hacer reflexionar sobre su conducta"
+  },
+  {
+    "pregunta": "¿Qué medida puede implicar la privación del permiso de conducir?",
+    "opciones": [
+      "Libertad vigilada",
+      "Medidas accesorias",
+      "Medida de privación de facultades",
+      "Medida específica del juez"
+    ],
+    "respuestaCorrecta": "Medida específica del juez"
+  },
+  {
+    "pregunta": "¿Qué medida puede obligar al menor a convivir fuera de su núcleo familiar?",
+    "opciones": [
+      "Internamiento terapéutico",
+      "Amonestación",
+      "Convivencia con otra persona o grupo educativo",
+      "Tratamiento ambulatorio"
+    ],
+    "respuestaCorrecta": "Convivencia con otra persona o grupo educativo"
+  },
+  {
+    "pregunta": "¿Cuál es la condición obligatoria para imponer la medida de prestaciones comunitarias?",
+    "opciones": [
+      "Dictamen médico favorable",
+      "Que exista reincidencia",
+      "Consentimiento del menor",
+      "Edad superior a 15 años"
+    ],
+    "respuestaCorrecta": "Consentimiento del menor"
+  },
+  {
+    "pregunta": "¿Qué se persigue con la convivencia con grupos educativos o familias externas?",
+    "opciones": [
+      "Separación judicial",
+      "Reeducación mediante orientación social",
+      "Castigo indirecto",
+      "Evaluación psicológica continua"
+    ],
+    "respuestaCorrecta": "Reeducación mediante orientación social"
+  },
+  {
+    "pregunta": "¿Qué distingue la amonestación respecto a otras medidas?",
+    "opciones": [
+      "Su duración mínima es de un año",
+      "No requiere ejecución posterior",
+      "Va acompañada de internamiento",
+      "Debe ser ratificada por el fiscal"
+    ],
+    "respuestaCorrecta": "No requiere ejecución posterior"
+  },
+  {
+    "pregunta": "¿Qué es la finalidad de una amonestación judicial a un menor?",
+    "opciones": [
+      "Aplicar una sanción ejemplar",
+      "Establecer antecedentes penales",
+      "Advertir verbalmente sobre consecuencias futuras",
+      "Ejercer presión emocional"
+    ],
+    "respuestaCorrecta": "Advertir verbalmente sobre consecuencias futuras"
+  },
+  {
+    "pregunta": "¿Qué tipo de actividades son las tareas socioeducativas?",
+    "opciones": [
+      "Actividades académicas obligatorias",
+      "Ejercicios físicos obligatorios",
+      "Actividades sin internamiento con valor formativo",
+      "Sanciones disciplinarias"
+    ],
+    "respuestaCorrecta": "Actividades sin internamiento con valor formativo"
+  },
+  {
+    "pregunta": "¿Qué medidas no implican necesariamente privación de libertad?",
+    "opciones": [
+      "Tratamiento ambulatorio y tareas socioeducativas",
+      "Internamiento terapéutico",
+      "Régimen cerrado",
+      "Asistencia policial"
+    ],
+    "respuestaCorrecta": "Tratamiento ambulatorio y tareas socioeducativas"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el menor no consiente la prestación comunitaria?",
+    "opciones": [
+      "Se sustituye por multa",
+      "No puede imponerse la medida",
+      "Se reduce su duración",
+      "Debe asistir a una vista judicial"
+    ],
+    "respuestaCorrecta": "No puede imponerse la medida"
+  },
+  {
+    "pregunta": "¿Qué busca la medida de convivencia con terceros?",
+    "opciones": [
+      "Alejar al menor del entorno escolar",
+      "Promover aislamiento emocional",
+      "Fomentar su proceso de socialización",
+      "Ejercer disciplina militar"
+    ],
+    "respuestaCorrecta": "Fomentar su proceso de socialización"
+  },
+  {
+    "pregunta": "¿Qué medida puede aplicarse sin necesidad de otras sanciones adicionales?",
+    "opciones": [
+      "Privación de libertad",
+      "Amonestación",
+      "Convivencia educativa",
+      "Internamiento abierto"
+    ],
+    "respuestaCorrecta": "Amonestación"
+  },
+  {
+    "pregunta": "¿Qué tipo de intervenciones se contemplan en el sistema penal juvenil según el documento?",
+    "opciones": [
+      "Psicoterapéuticas, de salud mental, ocio y familiares",
+      "Únicamente de internamiento",
+      "Solo medidas disciplinarias",
+      "Exclusivamente intervenciones sanitarias"
+    ],
+    "respuestaCorrecta": "Psicoterapéuticas, de salud mental, ocio y familiares"
+  },
+  {
+    "pregunta": "¿Qué se entiende por intervenciones en salud en este contexto?",
+    "opciones": [
+      "Evaluaciones médicas obligatorias",
+      "Acciones dirigidas a trastornos mentales",
+      "Distribución de medicación preventiva",
+      "Tratamientos odontológicos"
+    ],
+    "respuestaCorrecta": "Acciones dirigidas a trastornos mentales"
+  },
+  {
+    "pregunta": "¿Qué otro ámbito se incluye como intervención según el texto además del psicológico?",
+    "opciones": [
+      "Área jurídica",
+      "Área de mediación",
+      "Ocio y tiempo libre",
+      "Área educativa universitaria"
+    ],
+    "respuestaCorrecta": "Ocio y tiempo libre"
+  },
+  {
+    "pregunta": "¿Qué tipo de conductas incluye la ciberdelincuencia en sentido tipológico?",
+    "opciones": [
+      "Solo delitos de odio",
+      "Comportamientos con características criminológicas en ciberespacio",
+      "Delitos fiscales cometidos online",
+      "Simulación de contratos en internet"
+    ],
+    "respuestaCorrecta": "Comportamientos con características criminológicas en ciberespacio"
+  },
+  {
+    "pregunta": "¿Qué ejemplo se menciona como ciberdelito en sentido tipológico?",
+    "opciones": [
+      "Venta de medicamentos online",
+      "Acceso ilícito a un sistema informático ajeno",
+      "Infracciones de tráfico",
+      "Subida de vídeos sin derechos"
+    ],
+    "respuestaCorrecta": "Acceso ilícito a un sistema informático ajeno"
+  },
+  {
+    "pregunta": "¿Qué otro ejemplo se indica de ciberdelito tipológico?",
+    "opciones": [
+      "Envío masivo de spam",
+      "Publicación de noticias falsas",
+      "Contacto online de un adulto con menor con fines sexuales",
+      "Simulación de identidad en foros"
+    ],
+    "respuestaCorrecta": "Contacto online de un adulto con menor con fines sexuales"
+  },
+  {
+    "pregunta": "¿Cómo se define la ciberdelincuencia en sentido normativo?",
+    "opciones": [
+      "Como amenazas genéricas en redes",
+      "Como tipificaciones penales concretas en leyes",
+      "Como conducta disruptiva digital",
+      "Como actos contrarios a la moral"
+    ],
+    "respuestaCorrecta": "Como tipificaciones penales concretas en leyes"
+  },
+  {
+    "pregunta": "¿Qué bien jurídico se menciona como afectado en la ciberdelincuencia?",
+    "opciones": [
+      "El derecho civil",
+      "El interés político",
+      "Bienes jurídicos dignos de protección",
+      "El derecho laboral"
+    ],
+    "respuestaCorrecta": "Bienes jurídicos dignos de protección"
+  },
+  {
+    "pregunta": "¿Qué artículo del Código Penal menciona el texto como ejemplo de ciberdelito?",
+    "opciones": [
+      "147.2",
+      "183.1",
+      "197.3",
+      "180.2"
+    ],
+    "respuestaCorrecta": "197.3"
+  },
+  {
+    "pregunta": "¿Qué caracteriza el uso del ciberespacio en conductas delictivas?",
+    "opciones": [
+      "La imposibilidad de sanción",
+      "La rápida propagación",
+      "La afectación de bienes jurídicos por medios informáticos",
+      "Su falta de regulación penal"
+    ],
+    "respuestaCorrecta": "La afectación de bienes jurídicos por medios informáticos"
+  },
+  {
+    "pregunta": "¿Qué tipo de contacto se considera ciberdelito en sentido tipológico según el texto?",
+    "opciones": [
+      "Conversaciones entre adultos",
+      "Propuesta de un adulto a un menor con intención sexual",
+      "Mensajes publicitarios a menores",
+      "Chats educativos sin supervisión"
+    ],
+    "respuestaCorrecta": "Propuesta de un adulto a un menor con intención sexual"
+  },
+  {
+    "pregunta": "¿Qué define el sentido normativo de ciberdelincuencia?",
+    "opciones": [
+      "Conductas sin sanción jurídica",
+      "Hechos punibles no identificados",
+      "Conductas que se encuadran en tipos penales específicos",
+      "Delitos éticamente reprobables"
+    ],
+    "respuestaCorrecta": "Conductas que se encuadran en tipos penales específicos"
+  },
+  {
+    "pregunta": "¿Qué tipo de medidas complementarias se contemplan para menores infractores?",
+    "opciones": [
+      "Represalias económicas",
+      "Intervenciones psicoterapéuticas, de salud y familiares",
+      "Aislamiento voluntario",
+      "Clases de educación física"
+    ],
+    "respuestaCorrecta": "Intervenciones psicoterapéuticas, de salud y familiares"
+  },
+  {
+    "pregunta": "¿Qué ámbito se menciona junto a ocio y tiempo libre como área de intervención?",
+    "opciones": [
+      "Revisión judicial mensual",
+      "Intervenciones familiares",
+      "Capacitación laboral",
+      "Evaluación de entorno"
+    ],
+    "respuestaCorrecta": "Intervenciones familiares"
+  },
+  {
+    "pregunta": "¿Qué objetivo persiguen las intervenciones en ocio y tiempo libre?",
+    "opciones": [
+      "Controlar la jornada escolar",
+      "Desconectar del entorno familiar",
+      "Fomentar alternativas saludables de socialización",
+      "Reducir las sanciones penales"
+    ],
+    "respuestaCorrecta": "Fomentar alternativas saludables de socialización"
+  },
+  {
+    "pregunta": "¿Qué categoría de ciberdelincuencia incluye acciones como hackeo de sistemas?",
+    "opciones": [
+      "Ciberdelito normativo",
+      "Ciberdelito tipológico",
+      "Delito económico digital",
+      "Delito contra la seguridad"
+    ],
+    "respuestaCorrecta": "Ciberdelito tipológico"
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia de los delitos cometidos en el ciberespacio según el texto?",
+    "opciones": [
+      "Castigo simbólico",
+      "Rápida detención del delincuente",
+      "Afectación de bienes jurídicos protegidos",
+      "Exención de responsabilidad penal"
+    ],
+    "respuestaCorrecta": "Afectación de bienes jurídicos protegidos"
+  },
+  {
+    "pregunta": "¿Qué caracteriza el artículo 197.3 mencionado en el documento?",
+    "opciones": [
+      "Tipifica el acoso escolar",
+      "Regula la protección de datos personales",
+      "Sanciona la difusión no consentida de imágenes íntimas",
+      "Prohíbe el uso de redes sociales a menores"
+    ],
+    "respuestaCorrecta": "Sanciona la difusión no consentida de imágenes íntimas"
+  },
+  {
+    "pregunta": "¿Qué tipo de intervención puede implicar también a las familias de los menores?",
+    "opciones": [
+      "Prestaciones en beneficio de la comunidad",
+      "Internamiento terapéutico",
+      "Intervenciones con menores y sus familias",
+      "Medidas de libertad vigilada"
+    ],
+    "respuestaCorrecta": "Intervenciones con menores y sus familias"
+  },
+  {
+    "pregunta": "¿Qué criterio se usa para clasificar los ciberdelitos en sentido tipológico?",
+    "opciones": [
+      "El tipo de dispositivo utilizado",
+      "La edad del infractor",
+      "Su perfil criminológico en el ciberespacio",
+      "La ubicación del servidor"
+    ],
+    "respuestaCorrecta": "Su perfil criminológico en el ciberespacio"
+  },
+  {
+    "pregunta": "¿Qué tipo de delito se considera que será más frecuente en Internet según el texto?",
+    "opciones": [
+      "Vandalismo virtual",
+      "Amenazas por redes sociales",
+      "Delitos económicos cibernéticos",
+      "Descargas ilegales"
+    ],
+    "respuestaCorrecta": "Delitos económicos cibernéticos"
+  },
+  {
+    "pregunta": "¿Qué quedará en segundo plano frente a los delitos de enriquecimiento ilícito online?",
+    "opciones": [
+      "Distribución de software",
+      "Amenazas personales",
+      "Bromas y destrozos infantiles",
+      "Robos con violencia"
+    ],
+    "respuestaCorrecta": "Bromas y destrozos infantiles"
+  },
+  {
+    "pregunta": "¿Qué ha motivado un cambio en la ética de los piratas informáticos?",
+    "opciones": [
+      "El endurecimiento de las penas",
+      "La vigilancia de las redes",
+      "La amplia divulgación de conocimientos informáticos",
+      "La colaboración con la policía"
+    ],
+    "respuestaCorrecta": "La amplia divulgación de conocimientos informáticos"
+  },
+  {
+    "pregunta": "¿Qué recurso se menciona como ampliamente accesible en Internet?",
+    "opciones": [
+      "Contraseñas de administradores",
+      "Códigos fuente para crear malware",
+      "Datos bancarios robados",
+      "Listados de vulnerabilidades web"
+    ],
+    "respuestaCorrecta": "Códigos fuente para crear malware"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la disponibilidad de códigos fuente maliciosos?",
+    "opciones": [
+      "Mayor necesidad de formación universitaria",
+      "Reducción del número de hackers",
+      "Bajada del umbral de conocimientos necesarios",
+      "Creación de redes educativas especializadas"
+    ],
+    "respuestaCorrecta": "Bajada del umbral de conocimientos necesarios"
+  },
+  {
+    "pregunta": "¿Qué tipo de software malicioso se menciona como ejemplo?",
+    "opciones": [
+      "Spyware y adware",
+      "Troyanos y gusanos",
+      "Antivirus y cortafuegos",
+      "Rootkits y exploits"
+    ],
+    "respuestaCorrecta": "Troyanos y gusanos"
+  },
+  {
+    "pregunta": "¿Qué representa el umbral más bajo en el contexto de intrusión informática?",
+    "opciones": [
+      "Acceso legal a redes sociales",
+      "Mayor dificultad técnica para hackear",
+      "Facilidad para convertirse en intruso",
+      "Aumento de precios de herramientas legales"
+    ],
+    "respuestaCorrecta": "Facilidad para convertirse en intruso"
+  },
+  {
+    "pregunta": "¿Qué práctica ilegal está al alcance de más personas según el texto?",
+    "opciones": [
+      "La encriptación de discos",
+      "La programación en Python",
+      "La creación de virus informáticos",
+      "El diseño gráfico por IA"
+    ],
+    "respuestaCorrecta": "La creación de virus informáticos"
+  },
+  {
+    "pregunta": "¿Qué fenómeno está asociado a la evolución de la ciberdelincuencia?",
+    "opciones": [
+      "Mayor anonimato en redes sociales",
+      "Sofisticación tecnológica solo para expertos",
+      "Enriquecimiento ilícito mediante delitos online",
+      "Colaboración internacional contra el delito"
+    ],
+    "respuestaCorrecta": "Enriquecimiento ilícito mediante delitos online"
+  },
+  {
+    "pregunta": "¿Qué uso ilegal de la red se menciona junto con la pornografía?",
+    "opciones": [
+      "Blanqueo de dinero",
+      "Venta de medicamentos sin receta",
+      "Tráfico de armas",
+      "Difusión de códigos maliciosos"
+    ],
+    "respuestaCorrecta": "Difusión de códigos maliciosos"
+  },
+  {
+    "pregunta": "¿Qué facilita el acceso público a conocimientos informáticos?",
+    "opciones": [
+      "La formación profesional reglada",
+      "El bloqueo de portales educativos",
+      "La multiplicación de sitios con contenido técnico",
+      "El control de redes sociales"
+    ],
+    "respuestaCorrecta": "La multiplicación de sitios con contenido técnico"
+  },
+  {
+    "pregunta": "¿Qué ha disminuido la barrera de entrada para ser hacker?",
+    "opciones": [
+      "El control estatal",
+      "La gratuidad de la educación superior",
+      "La disponibilidad de trucos y algoritmos en Internet",
+      "Las campañas de prevención del delito"
+    ],
+    "respuestaCorrecta": "La disponibilidad de trucos y algoritmos en Internet"
+  },
+  {
+    "pregunta": "¿Qué sucede con las actividades delictivas simples en comparación con las económicas?",
+    "opciones": [
+      "Pasan a primer plano",
+      "Son las más sancionadas",
+      "Quedan en segundo plano",
+      "Aumentan su repercusión legal"
+    ],
+    "respuestaCorrecta": "Quedan en segundo plano"
+  },
+  {
+    "pregunta": "¿Qué se ha vuelto más accesible según el texto?",
+    "opciones": [
+      "Sistemas de seguridad digital",
+      "Herramientas de programación web",
+      "Algoritmos y trucos informáticos",
+      "Protección de datos personales"
+    ],
+    "respuestaCorrecta": "Algoritmos y trucos informáticos"
+  },
+  {
+    "pregunta": "¿Qué tipo de delitos aumentan con la masificación del acceso digital?",
+    "opciones": [
+      "Delitos por imprudencia",
+      "Ciberdelitos económicos",
+      "Hurtos tradicionales",
+      "Infracciones administrativas"
+    ],
+    "respuestaCorrecta": "Ciberdelitos económicos"
+  },
+  {
+    "pregunta": "¿Qué supone un menor umbral técnico para los aspirantes a intrusos?",
+    "opciones": [
+      "Mayor especialización legal",
+      "Más necesidad de supervisión judicial",
+      "Acceso más fácil a delitos informáticos",
+      "Sanciones automáticas"
+    ],
+    "respuestaCorrecta": "Acceso más fácil a delitos informáticos"
+  },
+  {
+    "pregunta": "¿Qué papel juegan los sitios web en la ciberdelincuencia según el texto?",
+    "opciones": [
+      "Actúan como defensores del usuario",
+      "Facilitan el acceso a códigos maliciosos",
+      "Difunden buenas prácticas de ciberseguridad",
+      "Controlan los accesos a redes privadas"
+    ],
+    "respuestaCorrecta": "Facilitan el acceso a códigos maliciosos"
+  },
+  {
+    "pregunta": "¿Qué combinación favorece el auge de la ciberdelincuencia según el texto?",
+    "opciones": [
+      "Anonimato y legislación laxa",
+      "Alta motivación y pobreza",
+      "Divulgación técnica y enriquecimiento fácil",
+      "Ignorancia general y medios tradicionales"
+    ],
+    "respuestaCorrecta": "Divulgación técnica y enriquecimiento fácil"
+  },
+  {
+    "pregunta": "¿Qué tecnología permite crear virus sin gran dificultad?",
+    "opciones": [
+      "Compiladores legales",
+      "Lenguajes de marcado",
+      "Códigos fuente disponibles online",
+      "Antivirus en código abierto"
+    ],
+    "respuestaCorrecta": "Códigos fuente disponibles online"
+  },
+  {
+    "pregunta": "¿Qué conducta se vincula al cambio en la ética hacker según el texto?",
+    "opciones": [
+      "Colaborar con la justicia",
+      "Buscar visibilidad mediática",
+      "Obtener beneficios económicos ilícitos",
+      "Rechazar la tecnología"
+    ],
+    "respuestaCorrecta": "Obtener beneficios económicos ilícitos"
+  }
+]

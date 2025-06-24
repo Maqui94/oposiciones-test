@@ -1,0 +1,613 @@
+[
+    {
+      "pregunta": "¿Cuál es el objeto de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Proteger a las mujeres de la violencia de género",
+        "B) Erradicar la violencia de género en la Comunidad Foral de Navarra",
+        "C) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "D) Todas las anteriores"
+      ],
+      "respuestaCorrecta": "D) Todas las anteriores"
+    },
+    {
+      "pregunta": "¿Cuál es el ámbito de aplicación de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Solo para las mujeres que vivan en la Comunidad Foral de Navarra",
+        "B) Solo para las mujeres que trabajen en la Comunidad Foral de Navarra",
+        "C) Para todas las mujeres que vivan o trabajen en la Comunidad Foral de Navarra y que se encuentren en una situación de violencia de género",
+        "D) Para todas las mujeres que se encuentren en una situación de violencia de género, independientemente de su lugar de residencia o trabajo"
+      ],
+      "respuestaCorrecta": "C) Para todas las mujeres que vivan o trabajen en la Comunidad Foral de Navarra y que se encuentren en una situación de violencia de género"
+    },
+    {
+      "pregunta": "¿Cuál es el concepto de violencia contra las mujeres según la Ley Foral 14/2015, de 10 de abril?",
+      "opciones": [
+        "A) La violencia física o psicológica ejercida contra una mujer por su pareja o expareja",
+        "B) La violencia física, psicológica, sexual o económica ejercida contra una mujer por cualquier persona",
+        "C) La violencia física o psicológica ejercida contra una mujer por su familia o entorno cercano",
+        "D) La violencia física o psicológica ejercida contra una mujer por razones de género"
+      ],
+      "respuestaCorrecta": "B) La violencia física, psicológica, sexual o económica ejercida contra una mujer por cualquier persona"
+    },
+    {
+      "pregunta": "¿Cuáles son las manifestaciones de la violencia contra las mujeres según la Ley Foral 14/2015, de 10 de abril?",
+      "opciones": [
+        "A) La violencia en la pareja o expareja, la violencia sexual y el feminicidio",
+        "B) La violencia en la pareja o expareja, la violencia sexual, el feminicidio, la trata de mujeres y niñas, la prostitución y/o explotación sexual, el matrimonio a edad temprana, concertado o forzado y la mutilación genital femenina",
+        "C) La violencia en la pareja o expareja, la violencia sexual y la trata de mujeres y niñas",
+        "D) La violencia en la pareja o expareja, el feminicidio y la mutilación genital femenina"
+      ],
+      "respuestaCorrecta": "B) La violencia en la pareja o expareja, la violencia sexual, el feminicidio, la trata de mujeres y niñas, la prostitución y/o explotación sexual, el matrimonio a edad temprana, concertado o forzado y la mutilación genital femenina"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Proteger a las mujeres de la violencia de género",
+        "B) Erradicar la violencia de género en la Comunidad Foral de Navarra",
+        "C) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "D) Todas las anteriores"
+      ],
+      "respuestaCorrecta": "D) Todas las anteriores"
+    },
+    {
+      "pregunta": "¿Cuál es el título II de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Disposiciones generales",
+        "B) Investigación y recogida de información",
+        "C) Prevención y sensibilización",
+        "D) Detección y atención de la violencia contra las mujeres"
+      ],
+      "respuestaCorrecta": "B) Investigación y recogida de información"
+    },
+    {
+      "pregunta": "¿Cuál es el artículo 7 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Investigación",
+        "B) Recogida de información y encuestas",
+        "C) Prevención y sensibilización",
+        "D) Detección y atención de la violencia contra las mujeres"
+      ],
+      "respuestaCorrecta": "A) Investigación"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo del artículo 9 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Promover cambios en los comportamientos socioculturales para erradicar la violencia de género",
+        "B) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "C) Proteger a las mujeres de la violencia de género",
+        "D) Erradicar la violencia de género en la Comunidad Foral de Navarra"
+      ],
+      "respuestaCorrecta": "A) Promover cambios en los comportamientos socioculturales para erradicar la violencia de género"
+    },
+    {
+      "pregunta": "¿Cuál es el título V de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Disposiciones generales",
+        "B) Investigación y recogida de información",
+        "C) Prevención y sensibilización",
+        "D) Recursos y servicios de atención y recuperación"
+      ],
+      "respuestaCorrecta": "D) Recursos y servicios de atención y recuperación"
+    },
+    {
+      "pregunta": "¿Cuál es el artículo 31 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Concepto de violencia contra las mujeres",
+        "B) Manifestaciones de la violencia contra las mujeres",
+        "C) Recursos y servicios de atención y recuperación",
+        "D) Atención integral para las mujeres supervivientes de violencia contra las mujeres"
+      ],
+      "respuestaCorrecta": "D) Atención integral para las mujeres supervivientes de violencia contra las mujeres"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Proteger a las mujeres de la violencia de género",
+        "B) Erradicar la violencia de género en la Comunidad Foral de Navarra",
+        "C) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "D) Todas las anteriores"
+      ],
+      "respuestaCorrecta": "D) Todas las anteriores"
+    },
+    {
+      "pregunta": "¿Cuál es el ámbito de aplicación de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Solo para las mujeres que vivan en la Comunidad Foral de Navarra",
+        "B) Solo para las mujeres que trabajen en la Comunidad Foral de Navarra",
+        "C) Para todas las mujeres que vivan o trabajen en la Comunidad Foral de Navarra y que se encuentren en una situación de violencia de género",
+        "D) Para todas las mujeres que se encuentren en una situación de violencia de género, independientemente de su lugar de residencia o trabajo"
+      ],
+      "respuestaCorrecta": "C) Para todas las mujeres que vivan o trabajen en la Comunidad Foral de Navarra y que se encuentren en una situación de violencia de género"
+    },
+    {
+      "pregunta": "¿Cuál es el concepto de violencia contra las mujeres según la Ley Foral 14/2015, de 10 de abril?",
+      "opciones": [
+        "A) La violencia física o psicológica ejercida contra una mujer por su pareja o expareja",
+        "B) La violencia física, psicológica, sexual o económica ejercida contra una mujer por cualquier persona",
+        "C) La violencia física o psicológica ejercida contra una mujer por su familia o entorno cercano",
+        "D) La violencia física o psicológica ejercida contra una mujer por razones de género"
+      ],
+      "respuestaCorrecta": "B) La violencia física, psicológica, sexual o económica ejercida contra una mujer por cualquier persona"
+    },
+    {
+      "pregunta": "¿Cuáles son las manifestaciones de la violencia contra las mujeres según la Ley Foral 14/2015, de 10 de abril?",
+      "opciones": [
+        "A) La violencia en la pareja o expareja, la violencia sexual y el feminicidio",
+        "B) La violencia en la pareja o expareja, la violencia sexual, el feminicidio, la trata de mujeres y niñas, la prostitución y/o explotación sexual, el matrimonio a edad temprana, concertado o forzado y la mutilación genital femenina",
+        "C) La violencia en la pareja o expareja, la violencia sexual y la trata de mujeres y niñas",
+        "D) La violencia en la pareja o expareja, el feminicidio y la mutilación genital femenina"
+      ],
+      "respuestaCorrecta": "B) La violencia en la pareja o expareja, la violencia sexual, el feminicidio, la trata de mujeres y niñas, la prostitución y/o explotación sexual, el matrimonio a edad temprana, concertado o forzado y la mutilación genital femenina"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Proteger a las mujeres de la violencia de género",
+        "B) Erradicar la violencia de género en la Comunidad Foral de Navarra",
+        "C) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "D) Todas las anteriores"
+      ],
+      "respuestaCorrecta": "D) Todas las anteriores"
+    },
+    {
+      "pregunta": "¿Cuál es el título II de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Disposiciones generales",
+        "B) Investigación y recogida de información",
+        "C) Prevención y sensibilización",
+        "D) Detección y atención de la violencia contra las mujeres"
+      ],
+      "respuestaCorrecta": "B) Investigación y recogida de información"
+    },
+    {
+      "pregunta": "¿Cuál es el artículo 7 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Investigación",
+        "B) Recogida de información y encuestas",
+        "C) Prevención y sensibilización",
+        "D) Detección y atención de la violencia contra las mujeres"
+      ],
+      "respuestaCorrecta": "A) Investigación"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo del artículo 9 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Promover cambios en los comportamientos socioculturales para erradicar la violencia de género",
+        "B) Garantizar la igualdad de género en la Comunidad Foral de Navarra",
+        "C) Proteger a las mujeres de la violencia de género",
+        "D) Erradicar la violencia de género en la Comunidad Foral de Navarra"
+      ],
+      "respuestaCorrecta": "A) Promover cambios en los comportamientos socioculturales para erradicar la violencia de género"
+    },
+    {
+      "pregunta": "¿Cuál es el título V de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+      "opciones": [
+        "A) Disposiciones generales",
+        "B) Investigación y recogida de información",
+        "C) Prevención y sensibilización",
+        "D) Recursos y servicios de atención y recuperación"
+      ],
+      "respuestaCorrecta": "D) Recursos y servicios de atención y recuperación"
+    },
+    {
+  "pregunta": "¿Cuál es el título V de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+  "opciones": [
+    "A) Disposiciones generales",
+    "B) Investigación y recogida de información",
+    "C) Prevención y sensibilización",
+    "D) Recursos y servicios de atención y recuperación"
+  ],
+  "respuestaCorrecta": "D) Recursos y servicios de atención y recuperación"
+},
+{
+  "pregunta": "¿Cuál es el artículo 31 de la Ley Foral 14/2015, de 10 de abril, para actuar contra la violencia hacia las mujeres?",
+  "opciones": [
+    "A) Concepto de violencia contra las mujeres",
+    "B) Manifestaciones de la violencia contra las mujeres",
+    "C) Recursos y servicios de atención y recuperación",
+    "D) Atención integral para las mujeres supervivientes de violencia contra las mujeres"
+  ],
+  "respuestaCorrecta": "D) Atención integral para las mujeres supervivientes de violencia contra las mujeres"
+},
+{
+    "pregunta": "¿Qué ley foral deroga la Ley Foral 14/2015, de 10 de abril?",
+    "opciones": [
+      "La Ley Foral 22/2002, de 2 de julio",
+      "La Ley Foral 1/2004, de 28 de diciembre",
+      "La Ley Orgánica 1/2015, de 30 de marzo",
+      "La Ley Foral 12/1997, de 4 de noviembre"
+    ],
+    "respuestaCorrecta": "La Ley Foral 22/2002, de 2 de julio"
+  },
+  {
+    "pregunta": "¿Qué ámbito cubre la Ley Foral 14/2015?",
+    "opciones": [
+      "Todas las mujeres en la Comunidad Foral de Navarra que sufran violencia",
+      "Solo mujeres residentes permanentes en Navarra",
+      "Todas las mujeres de nacionalidad española",
+      "Mujeres migrantes con residencia legal"
+    ],
+    "respuestaCorrecta": "Todas las mujeres en la Comunidad Foral de Navarra que sufran violencia"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes no es una manifestación de la violencia contra las mujeres según la ley?",
+    "opciones": [
+      "El feminicidio",
+      "La violencia económica",
+      "La violencia verbal entre iguales",
+      "La mutilación genital femenina"
+    ],
+    "respuestaCorrecta": "La violencia verbal entre iguales"
+  },
+   {
+    "pregunta": "¿Cuál es uno de los principios rectores de la Ley Foral 14/2015?",
+    "opciones": [
+      "Respeto y no revictimización",
+      "Análisis fiscal progresivo",
+      "Preponderancia de la mediación",
+      "Neutralidad institucional"
+    ],
+    "respuestaCorrecta": "Respeto y no revictimización"
+  },
+  {
+    "pregunta": "¿Qué servicio debe estar disponible las 24 horas según la ley?",
+    "opciones": [
+      "Centro de formación judicial",
+      "Unidad forense ambulatoria",
+      "Línea telefónica de información y emergencia",
+      "Servicio de mediación de pareja"
+    ],
+    "respuestaCorrecta": "Línea telefónica de información y emergencia"
+  },
+  {
+    "pregunta": "¿Qué tipo de violencia se menciona explícitamente en el artículo 3 de la ley?",
+    "opciones": [
+      "Violencia digital aleatoria",
+      "Violencia económica",
+      "Violencia accidental",
+      "Violencia espontánea"
+    ],
+    "respuestaCorrecta": "Violencia económica"
+  },
+  {
+    "pregunta": "¿Qué grupo también se considera víctima directa según la ley?",
+    "opciones": [
+      "Comunidad vecinal",
+      "Miembros del entorno escolar",
+      "Hijos e hijas de las mujeres víctimas",
+      "Otros funcionarios públicos"
+    ],
+    "respuestaCorrecta": "Hijos e hijas de las mujeres víctimas"
+  },
+ {
+    "pregunta": "¿Qué manifestación de violencia implica la privación intencionada de recursos?",
+    "opciones": [
+      "Violencia económica",
+      "Violencia afectiva",
+      "Violencia simbólica",
+      "Violencia administrativa"
+    ],
+    "respuestaCorrecta": "Violencia económica"
+  },
+  {
+    "pregunta": "¿Qué forma de violencia incluye el acoso en el trabajo?",
+    "opciones": [
+      "Violencia sexual",
+      "Violencia física",
+      "Violencia política",
+      "Violencia accidental"
+    ],
+    "respuestaCorrecta": "Violencia sexual"
+  },
+   {
+    "pregunta": "¿Qué forma de violencia incluye el acoso en el trabajo? ",
+    "opciones": [
+      "Violencia sexual",
+      "Violencia física",
+      "Violencia política",
+      "Violencia accidental"
+    ],
+    "respuestaCorrecta": "Violencia sexual"
+  },
+   {
+    "pregunta": "¿Qué derecho se garantiza a las mujeres con discapacidad sensorial o extranjeras según el artículo 1?",
+    "opciones": [
+      "Asistencia de intérprete en un plazo razonable",
+      "Acceso preferente a ayudas económicas",
+      "Escolarización directa sin informes",
+      "Representación letrada gratuita en todos los casos"
+    ],
+    "respuestaCorrecta": "Asistencia de intérprete en un plazo razonable"
+  },
+  {
+    "pregunta": "Según el artículo 2, ¿quiénes pueden beneficiarse de las medidas de la ley además de las mujeres víctimas?",
+    "opciones": [
+      "Sus hijos e hijas menores y otros familiares convivientes",
+      "Solo mujeres empadronadas en Navarra",
+      "Todas las personas extranjeras",
+      "Ciudadanos con rentas bajas"
+    ],
+    "respuestaCorrecta": "Sus hijos e hijas menores y otros familiares convivientes"
+  },
+  {
+    "pregunta": "¿Cuál es una forma de violencia reconocida en el artículo 3 de la Ley Foral 14/2015?",
+    "opciones": [
+      "Matrimonio forzado",
+      "Violencia simbólica",
+      "Manipulación ideológica",
+      "Censura cultural"
+    ],
+    "respuestaCorrecta": "Matrimonio forzado"
+  },
+  {
+    "pregunta": "¿Qué documento sirve para acreditar la condición de víctima según el artículo 4?",
+    "opciones": [
+      "Informe del Ministerio Fiscal",
+      "Copia del DNI",
+      "Denuncia policial sin pruebas",
+      "Certificado de empadronamiento"
+    ],
+    "respuestaCorrecta": "Informe del Ministerio Fiscal"
+  },
+  {
+    "pregunta": "¿Cómo define el artículo 5 a las supervivientes?",
+    "opciones": [
+      "Víctimas que han iniciado un proceso de recuperación",
+      "Mujeres que denunciaron sin pruebas",
+      "Agresoras rehabilitadas",
+      "Personas voluntarias en programas sociales"
+    ],
+    "respuestaCorrecta": "Víctimas que han iniciado un proceso de recuperación"
+  },
+  {
+    "pregunta": "¿Qué principio rector excluye la mediación en casos de violencia de género?",
+    "opciones": [
+      "Enfoque de género",
+      "Equidad penal",
+      "Neutralidad de la víctima",
+      "Coordinación educativa"
+    ],
+    "respuestaCorrecta": "Enfoque de género"
+  },
+  {
+    "pregunta": "¿Qué órgano impulsa estudios sobre la violencia según el artículo 7?",
+    "opciones": [
+      "Departamento competente en igualdad",
+      "Consejo Escolar de Navarra",
+      "Servicio Navarro de Salud",
+      "Instituto Nacional de Estadística"
+    ],
+    "respuestaCorrecta": "Departamento competente en igualdad"
+  },
+  {
+    "pregunta": "¿Qué debe incluir el mapa de recursos según el artículo 8?",
+    "opciones": [
+      "Servicios y distribución geográfica",
+      "Listado de agresores reincidentes",
+      "Centros escolares por municipio",
+      "Número de habitantes hombres por zona"
+    ],
+    "respuestaCorrecta": "Servicios y distribución geográfica"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos del artículo 9 sobre prevención?",
+    "opciones": [
+      "Erradicar prácticas basadas en la inferioridad de la mujer",
+      "Limitar el acceso a redes sociales",
+      "Fomentar la mediación en conflictos",
+      "Eliminar la televisión pública"
+    ],
+    "respuestaCorrecta": "Erradicar prácticas basadas en la inferioridad de la mujer"
+  },
+  {
+    "pregunta": "¿Qué medidas incluye el artículo 10 en el ámbito educativo?",
+    "opciones": [
+      "Desarrollo de una asignatura de educación afectivo-sexual",
+      "Supresión de tutorías escolares",
+      "Desvinculación del profesorado en prevención",
+      "Educación religiosa obligatoria"
+    ],
+    "respuestaCorrecta": "Desarrollo de una asignatura de educación afectivo-sexual"
+  },
+  {
+    "pregunta": "¿Qué contenido debe incluirse en los currículos educativos según el artículo 12?",
+    "opciones": [
+      "Promoción de la igualdad entre mujeres y hombres",
+      "Técnicas de negociación empresarial",
+      "Introducción a la economía doméstica",
+      "Defensa personal obligatoria"
+    ],
+    "respuestaCorrecta": "Promoción de la igualdad entre mujeres y hombres"
+  },
+  {
+    "pregunta": "¿Qué atención se garantiza a niños y niñas en el artículo 15?",
+    "opciones": [
+      "Escolarización inmediata si cambian de centro por violencia",
+      "Incorporación automática a centros de menores",
+      "Clases de refuerzo obligatorio",
+      "Evaluación mensual obligatoria"
+    ],
+    "respuestaCorrecta": "Escolarización inmediata si cambian de centro por violencia"
+  },
+  {
+    "pregunta": "¿Qué deben evitar los medios de comunicación públicos según el artículo 18?",
+    "opciones": [
+      "Emitir contenidos vejatorios relacionados con las mujeres",
+      "Transmitir películas extranjeras",
+      "Divulgar noticias políticas",
+      "Difundir programas educativos"
+    ],
+    "respuestaCorrecta": "Emitir contenidos vejatorios relacionados con las mujeres"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de los protocolos del artículo 20?",
+    "opciones": [
+      "Detectar e identificar situaciones de violencia contra las mujeres",
+      "Aplicar normas fiscales de igualdad",
+      "Gestionar denuncias por vía telemática",
+      "Supervisar a asociaciones feministas"
+    ],
+    "respuestaCorrecta": "Detectar e identificar situaciones de violencia contra las mujeres"
+  },
+  {
+    "pregunta": "¿Qué derecho reconoce el artículo 21 a todas las mujeres que han sufrido violencia?",
+    "opciones": [
+      "Acceso a la atención sanitaria sin importar su situación administrativa",
+      "Pensión vitalicia",
+      "Bono mensual de transporte",
+      "Residencia automática"
+    ],
+    "respuestaCorrecta": "Acceso a la atención sanitaria sin importar su situación administrativa"
+  },
+  {
+    "pregunta": "¿Qué instrumento establece el artículo 25 en el ámbito sanitario?",
+    "opciones": [
+      "Sistema de registro de casos de violencia",
+      "Índice de salud reproductiva",
+      "Padrón municipal de víctimas",
+      "Archivo de sanciones judiciales"
+    ],
+    "respuestaCorrecta": "Sistema de registro de casos de violencia"
+  },
+  {
+    "pregunta": "¿Qué incluye el artículo 28 sobre servicios sociales?",
+    "opciones": [
+      "Protocolos de actuación con indicadores de detección",
+      "Prestación universal básica",
+      "Asignación de trabajadoras sociales por barrio",
+      "Formación exclusivamente online"
+    ],
+    "respuestaCorrecta": "Protocolos de actuación con indicadores de detección"
+  },
+  {
+    "pregunta": "¿Qué tipo de ayuda contempla el artículo 51?",
+    "opciones": [
+      "Ayudas de emergencia ante situaciones sociales urgentes",
+      "Becas para estudiantes sin recursos",
+      "Subvenciones a entidades privadas",
+      "Ayudas a empresas tecnológicas"
+    ],
+    "respuestaCorrecta": "Ayudas de emergencia ante situaciones sociales urgentes"
+  },
+  {
+    "pregunta": "¿Qué artículo establece medidas para acceso a vivienda protegida?",
+    "opciones": [
+      "Artículo 56",
+      "Artículo 35",
+      "Artículo 17",
+      "Artículo 3"
+    ],
+    "respuestaCorrecta": "Artículo 56"
+  },
+  {
+    "pregunta": "¿Qué acción permite el artículo 65 a la Administración de Navarra en juicios penales graves?",
+    "opciones": [
+      "Personarse como acusación popular",
+      "Emitir sentencias vinculantes",
+      "Conceder indultos automáticos",
+      "Eliminar registros de antecedentes"
+    ],
+    "respuestaCorrecta": "Personarse como acusación popular"
+  },
+  {
+    "pregunta": "¿Qué tipo de atención reconoce el artículo 23 como básica en salud mental?",
+    "opciones": [
+      "Asistencia psicológica a mujeres víctimas de violencia",
+      "Revisión médica semestral",
+      "Hospitalización obligatoria",
+      "Orientación telefónica general"
+    ],
+    "respuestaCorrecta": "Asistencia psicológica a mujeres víctimas de violencia"
+  },
+  {
+    "pregunta": "¿Qué se regula en el artículo 30 sobre servicios sociales?",
+    "opciones": [
+      "Incorporación de indicadores de violencia en encuestas sociales",
+      "Nombramiento de inspectores sociales",
+      "Creación de albergues para personas sin hogar",
+      "Financiación directa de asociaciones"
+    ],
+    "respuestaCorrecta": "Incorporación de indicadores de violencia en encuestas sociales"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del artículo 31?",
+    "opciones": [
+      "Atención integral para la completa recuperación de mujeres supervivientes",
+      "Asistencia exclusiva en procesos judiciales",
+      "Ayudas para la compra de electrodomésticos",
+      "Derivación automática al SEPE"
+    ],
+    "respuestaCorrecta": "Atención integral para la completa recuperación de mujeres supervivientes"
+  },
+  {
+    "pregunta": "¿Qué servicio presta atención telefónica 24 horas según el artículo 34?",
+    "opciones": [
+      "Línea de información y emergencia para mujeres víctimas",
+      "Centro de mediación de conflictos",
+      "Unidad de protección infantil",
+      "Defensor del Pueblo"
+    ],
+    "respuestaCorrecta": "Línea de información y emergencia para mujeres víctimas"
+  },
+  {
+    "pregunta": "¿Qué garantiza el artículo 37 a niños y niñas?",
+    "opciones": [
+      "Atención psicológica especializada si han convivido con violencia",
+      "Acceso gratuito al comedor escolar",
+      "Asignación de tutores personales",
+      "Vacaciones escolares ampliadas"
+    ],
+    "respuestaCorrecta": "Atención psicológica especializada si han convivido con violencia"
+  },
+  {
+    "pregunta": "¿Qué indica el artículo 38 sobre la atención a víctimas de violencia sexual?",
+    "opciones": [
+      "Solo atención médica inmediata",
+      "Asistencia exclusiva para extranjeras",
+      "Debe incluir atención psicológica, jurídica y social",
+      "Un seguimiento exclusivo por parte policial"
+    ],
+    "respuestaCorrecta": "Debe incluir atención psicológica, jurídica y social"
+  },
+  {
+    "pregunta": "¿Qué recurso contempla el artículo 44?",
+    "opciones": [
+      "Red de comedores escolares",
+      "Pabellón municipal de eventos",
+      "Centro de urgencia para mujeres en riesgo",
+      "Unidad móvil de testigos"
+    ],
+    "respuestaCorrecta": "Centro de urgencia para mujeres en riesgo"
+  },
+  {
+    "pregunta": "¿Qué recoge el artículo 48 sobre empleo?",
+    "opciones": [
+      "Bonificaciones en IRPF",
+      "Prioridad en subvenciones de empleo para víctimas",
+      "Cursos de idiomas gratuitos",
+      "Subvención directa a empleadores"
+    ],
+    "respuestaCorrecta": "Prioridad en subvenciones de empleo para víctimas"
+  },
+  {
+    "pregunta": "¿Qué tipo de ayuda contempla el artículo 54?",
+    "opciones": [
+      "Asistencia jurídica universal",
+      "Bono de transporte interurbano",
+      "Acceso abreviado a la renta de inclusión social",
+      "Exención total de impuestos"
+    ],
+    "respuestaCorrecta": "Acceso abreviado a la renta de inclusión social"
+  },
+  {
+    "pregunta": "¿Qué regula el artículo 61?",
+    "opciones": [
+      "Evaluación semestral de jueces",
+      "Creación de programas de ocio nocturno",
+      "Financiación de los cuerpos de seguridad",
+      "Protección efectiva de las víctimas mediante planes específicos"
+    ],
+    "respuestaCorrecta": "Protección efectiva de las víctimas mediante planes específicos"
+  }
+
+  ]

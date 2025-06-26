@@ -3,380 +3,72 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Temario Policía Foral</title>
+  <title>Temario Oposiciones</title>
 
-  <!-- Bootstrap CSS -->
+  <!-- Bootstrap y fuentes -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
 
-  <style>
-    body {
-      background-color: #ffeb3b;
-      font-family: 'Segoe UI', sans-serif;
-      padding: 40px 10px;
-    }
-
-    .container {
-      max-width: 900px;
-    }
-
-    h1 {
-      font-weight: bold;
-      margin-bottom: 30px;
-      text-align: center;
-    }
-
-    .accordion-button {
-      font-weight: bold;
-    }
-
-    .accordion-item {
-      border-radius: 8px;
-      overflow: hidden;
-      margin-bottom: 20px;
-      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    .accordion-body {
-      padding-top: 10px;
-    }
-
-    .tema-lista {
-      list-style: none;
-      padding-left: 0;
-      margin: 0;
-    }
-
-    .tema-lista li {
-      margin: 10px 0;
-    }
-
-    .tema-btn {
-      background-color: #fff;
-      padding: 12px 20px;
-      border-radius: 20px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-weight: 500;
-      border: none;
-      width: 100%;
-      text-align: left;
-      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
-      transition: transform 0.2s ease, background-color 0.2s ease;
-    }
-
-    .tema-btn i {
-      color: #666;
-    }
-
-    .tema-btn:hover {
-      transform: scale(1.03);
-      background-color: #fff176;
-    }
-
-    /* Colores por bloque */
-    .bloque1 .accordion-button,
-    .bloque1 .accordion-body {
-      background-color: #fff8e1;
-    }
-
-    .bloque2 .accordion-button,
-    .bloque2 .accordion-body {
-      background-color: #e1f5fe;
-    }
-
-    .bloque3 .accordion-button,
-    .bloque3 .accordion-body {
-      background-color: #e8f5e9;
-    }
-
-    .bloque4 .accordion-button,
-    .bloque4 .accordion-body {
-      background-color: #f3e5f5;
-    }
-
-    /* Modal */
-    .custom-modal {
-      position: fixed;
-      z-index: 9999;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background-color: rgba(0, 0, 0, 0.5);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .custom-modal-content {
-      background-color: #fffde7;
-      display: flex;
-      flex-wrap: wrap;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 10px #00000050;
-      max-width: 800px;
-      width: 90%;
-      gap: 30px;
-    }
-
-    .modal-texto {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-
-    .modal-imagen {
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-    }
-
-    .modal-imagen img {
-      max-height: 220px;
-      width: auto;
-    }
-
-    body.modal-open main {
-      filter: blur(5px);
-      pointer-events: none;
-      user-select: none;
-    }
-  </style>
+  <!-- Estilos principales -->
+  <link rel="stylesheet" href="style/main.css">
 </head>
 <body>
-<main>
-  <div class="container">
-    <h1>Temario Policía Foral</h1>
-<div class="text-end mb-3">
-  <button class="btn btn-outline-dark" onclick="mostrarModalModoJuego()">
-    <i class="fas fa-cog"></i> Modo de Juego
+
+  <!-- Botón para alternar modo oscuro -->
+  <button id="modoOscuroBtn" class="btn btn-sm position-fixed top-0 end-0 m-3 z-3" title="Cambiar modo">
+    <i class="fas fa-moon"></i>
   </button>
-  <div class="text-end small text-muted mt-1">
-  Modo actual: <strong id="modoActual">Examen</strong>
-</div>
-</div>
+
+  <!-- Contenido principal -->
+  <main class="container py-4">
+    <h1 class="text-center fw-bold mb-4">Temario Policía Foral</h1>
+
+    <!-- Selector de modo de juego -->
+    <div class="text-end mb-3">
+      <button class="btn btn-outline-dark" onclick="mostrarModalModoJuego()">
+        <i class="fas fa-cog"></i> Modo de Juego
+      </button>
+      <div class="text-end small text-muted mt-1" >
+        Modo actual: <strong id="modoActual">Examen</strong>
+      </div>
+    </div>
+
+    <!-- Acordeón de bloques temáticos (se rellena con JS) -->
     <div class="accordion" id="temarioAccordion">
+      <!-- Los bloques se insertan desde main.js -->
+    </div>
+  </main>
 
-      <!-- Bloque 1 -->
-      <div class="accordion-item bloque1">
-        <h2 class="accordion-header" id="heading1">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bloque1">
-            📚 Ciencias Humanas
-          </button>
-        </h2>
-        <div id="bloque1" class="accordion-collapse collapse" data-bs-parent="#temarioAccordion">
-          <div class="accordion-body">
-            <ul class="tema-lista">
-              <li><button class="tema-btn" data-json="deontologia.json"><i class="fas fa-user-shield"></i> Deontología policial</button></li>
-              <li><button class="tema-btn" data-json="drogas.json"><i class="fas fa-wine-bottle"></i> Toxicomanías y alcoholismo</button></li>
-              <li><button class="tema-btn" data-json="demografia.json"><i class="fas fa-users"></i> El contexto sociodemográfico de la familia navarra</button></li>
-              <li><button class="tema-btn" data-json="criminologia.json"><i class="fas fa-user-secret"></i> Criminología</button></li>
-              <li><button class="tema-btn" data-json="prevencion.json"><i class="fas fa-shield-alt"></i> Prevención del delito</button></li>
-              <li><button class="tema-btn" data-json="delincuente.json"><i class="fas fa-user-ninja"></i> El delincuente</button></li>
-              <li><button class="tema-btn" data-json="victimas.json"><i class="fas fa-heart-broken"></i> La víctima</button></li>
-              <li><button class="tema-btn" data-json="mujeres.json"><i class="fas fa-balance-scale"></i> Ley Foral 14/2015 de 10 de abril</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-comments"></i> Habilidades sociales y técnicas de comunicación</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-pen-fancy"></i> Ortografía básica</button></li>
-            </ul>
-          </div>
-        </div>
+  <!-- Modal de bienvenida -->
+  <div id="alertaTest" class="custom-modal">
+    <div class="custom-modal-content">
+      <div class="modal-texto">
+        <h4><strong>Test Policía Foral</strong></h4>
+        <p>Este test está basado en el temario oficial.<br>Pulsa ‘Aceptar’ para comenzar.</p>
+        <button class="btn btn-primary mt-3" onclick="cerrarAlerta()">Aceptar</button>
       </div>
-      <!-- Bloque 2 -->
-      <div class="accordion-item bloque2">
-        <h2 class="accordion-header" id="heading2">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bloque2">
-            🗺️ Conocimiento del Territorio de Navarra
-          </button>
-        </h2>
-        <div id="bloque2" class="accordion-collapse collapse" data-bs-parent="#temarioAccordion">
-          <div class="accordion-body">
-            <ul class="tema-lista">
-              <li><button class="tema-btn" data-json="carreteras.json"><i class="fas fa-road"></i> Carreteras, mapa y travesías</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-map"></i> Geografía de Navarra. Atlas 2023</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-globe-europe"></i> Navarra-Geografía</button></li>
-            </ul>
-          </div>
-        </div>
+      <div class="modal-imagen">
+        <img src="assets/policia-foral.png" alt="Policía Foral saludando" />
       </div>
-      <!-- Bloque 3 -->
-     <div class="accordion-item bloque3">
-        <h2 class="accordion-header" id="heading3">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bloque3">
-            ⚖️ Legislación
-          </button>
-        </h2>
-        <div id="bloque3" class="accordion-collapse collapse" data-bs-parent="#temarioAccordion">
-          <div class="accordion-body">
-            <ul class="tema-lista">
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-balance-scale"></i> Las fuentes del Derecho</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-gavel"></i> Constitución Española de 1978</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-euro-sign"></i> La Unión Europea</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-file-signature"></i> Actos administrativos</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-tasks"></i> Procedimiento administrativo</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-university"></i> LORAFNA</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-landmark"></i> Parlamento, Cámara de Comptos y Defensor</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-users-cog"></i> Gobierno de Navarra</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-sitemap"></i> Administración de Navarra</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-money-check-alt"></i> Hacienda Pública Foral</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-user-shield"></i> Transparencia, Datos e Igualdad</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-gavel"></i> Código Penal</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-scroll"></i> Enjuiciamiento Criminal y Habeas Corpus</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-shield-alt"></i> Ley Seguridad Ciudadana</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-user-secret"></i> Fuerzas y Cuerpos de Seguridad</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-exclamation-triangle"></i> Ley Seguridad Pública Navarra</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-id-badge"></i> Ley de Policías de Navarra</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-briefcase"></i> Estatuto del Personal APN</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-building"></i> Reglamento Policía Foral</button></li>
-              <li><button class="tema-btn" data-json="XXXX.json"><i class="fas fa-exchange-alt"></i> Provisión de puestos</button></li>
-            </ul>
-          </div>
-        </div>
+    </div>
+  </div>
+
+  <!-- Modal de selección de modo de juego -->
+  <div id="modalModoJuego" class="custom-modal d-none">
+    <div class="custom-modal-content flex-column text-center">
+      <h4>Selecciona el modo de juego</h4>
+      <div class="d-grid gap-2 mt-3">
+        <button class="btn btn-warning" onclick="setModoJuego('examen')">📝 Modo Examen</button>
+        <button class="btn btn-success" onclick="setModoJuego('repaso')">🔍 Modo Repaso</button>
+        <button class="btn btn-info" onclick="setModoJuego('flashcards')">🃏 Modo Flashcards</button>
+        <button class="btn btn-outline-secondary mt-2" onclick="cerrarModalModoJuego()">Cancelar</button>
       </div>
-
-      <!-- Bloque 4 -->
-     <div class="accordion-item bloque4">
-  <h2 class="accordion-header" id="heading4">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bloque4">
-      💻 Conocimientos Técnicos
-    </button>
-  </h2>
-  <div id="bloque4" class="accordion-collapse collapse" data-bs-parent="#temarioAccordion">
-    <div class="accordion-body">
-      <ul class="tema-lista">
-        <li>
-          <button class="tema-btn" data-json="XXXX.json">
-            <i class="fas fa-desktop"></i> Sistema Operativo Windows 10
-          </button>
-        </li>
-        <li>
-          <button class="tema-btn" data-json="XXXX.json">
-            <i class="fas fa-file-word"></i> Microsoft Word 2016
-          </button>
-        </li>
-        <li>
-          <button class="tema-btn" data-json="XXXX.json">
-            <i class="fas fa-file-excel"></i> Microsoft Excel 2016
-          </button>
-        </li>
-        <li>
-          <button class="tema-btn" data-json="XXXX.json">
-            <i class="fas fa-globe"></i> Internet, navegadores, intranet y correo electrónico
-          </button>
-        </li>
-        <li>
-          <button class="tema-btn" data-json="XXXX.json">
-            <i class="fas fa-hashtag"></i> Redes sociales y Códigos Maliciosos
-          </button>
-        </li>
-      </ul>
     </div>
   </div>
-</div>
 
-    </div>
-  </div>
-</main>
-
-<!-- Modal -->
-<div id="alertaTest" class="custom-modal">
-  <div class="custom-modal-content">
-    <div class="modal-texto">
-      <h4><strong>Test Policía Foral</strong></h4>
-      <p>Este test está basado en el temario oficial de la Policía Foral.<br>
-        Pulsa ‘Aceptar’ para comenzar.</p>
-      <button class="btn btn-primary mt-3" onclick="cerrarAlerta()">Aceptar</button>
-    </div>
-    <div class="modal-imagen">
-      <img src="assets/policia-foral.png" alt="Policía Foral saludando" />
-    </div>
-  </div>
-</div>
-<div id="modalModoJuego" class="custom-modal" style="display: none;">
-  <div class="custom-modal-content flex-column text-center">
-    <h4>Selecciona el modo de juego</h4>
-    <div class="d-grid gap-2 mt-3">
-      <button class="btn btn-warning" onclick="setModoJuego('examen') "   title="20 preguntas aleatorias. No verás si aciertas hasta el final.">📝 Modo Examen</button>
-      <button class="btn btn-success" onclick="setModoJuego('repaso')" title="Te dirá si aciertas o fallas cada pregunta justo al contestar.">🔍 Modo Repaso</button>
-      <button class="btn btn-info" onclick="setModoJuego('flashcards')" title="Solo muestra la pregunta. Al pulsar siguiente, se voltea y muestra la respuesta.">🃏 Modo Flashcards</button>
-      <button class="btn btn-outline-secondary mt-2" onclick="cerrarModalModoJuego()">Cancelar</button>
-    </div>
-  </div>
-</div>
-<!-- Bootstrap JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script>
-  window.onload = () => {
-    document.body.classList.add("modal-open");
-    document.getElementById("alertaTest").style.display = "flex";
-  }
-
-  function cerrarAlerta() {
-    document.body.classList.remove("modal-open");
-    document.getElementById("alertaTest").style.display = "none";
-  }
-</script>
-<script>
-  function mezclarArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-  }
-
-  document.querySelectorAll('.tema-btn').forEach(boton => {
-    boton.addEventListener('click', async () => {
-      const jsonFile = boton.dataset.json;
-
-      try {
-        const response = await fetch(`./data/${jsonFile}`);
-        const todasLasPreguntas = await response.json();
-
-        // Elimina preguntas repetidas (por texto)
-        const preguntasUnicas = todasLasPreguntas.filter(
-          (p, i, self) => i === self.findIndex(q => q.pregunta === p.pregunta)
-        );
-
-        // Baraja las preguntas y toma 20
-        const preguntasAleatorias = mezclarArray(preguntasUnicas)
-          .slice(0, 20)
-          .map(p => ({
-            ...p,
-            opciones: mezclarArray([...p.opciones]) // Baraja las opciones también
-          }));
-
-        localStorage.setItem("preguntas", JSON.stringify(preguntasAleatorias));
-        localStorage.setItem("tema", boton.textContent.trim());
-        localStorage.setItem("modoJuego", localStorage.getItem("modoJuego") || "examen");
-        localStorage.setItem("archivoJson", jsonFile);
-
-        window.location.href = "test.html";
-      } catch (error) {
-        alert("Error al cargar las preguntas. Asegúrate de que el archivo JSON existe.");
-        console.error(error);
-      }
-    });
-  });
-
-  function mostrarModalModoJuego() {
-    document.getElementById("modalModoJuego").style.display = "flex";
-    document.body.classList.add("modal-open");
-  }
-
-  function cerrarModalModoJuego() {
-    document.getElementById("modalModoJuego").style.display = "none";
-    document.body.classList.remove("modal-open");
-  }
-
-  function setModoJuego(modo) {
-    localStorage.setItem("modoJuego", modo);
-    document.getElementById("modoActual").textContent = modo.toUpperCase();
-    cerrarModalModoJuego();
-  }
-
-  document.getElementById("modoActual").textContent =
-    (localStorage.getItem("modoJuego") || "examen").toUpperCase();
-</script>
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="scripts/main.js"></script>
 </body>
 </html>

@@ -1,96 +1,61 @@
-#temario-info {
-  margin: 30px 0;
-  background-color: #fffde7;
-  padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 0 10px #ffe082;
+/* ------------------------- */
+/* main.css - Estilos generales y variables */
+/* ------------------------- */
+
+/* === Variables (modo claro) === */
+:root {
+  --bg-color: #fffde7;
+  --text-color: #212121;
+  --card-bg: #ffffff;
+  --accent: #ffd600;
+  --hover: #fff176;
+  --shadow: rgba(0, 0, 0, 0.08);
+  --correct: #c8e6c9;
+  --incorrect: #ffcdd2;
 }
 
-.bloque {
-  margin-bottom: 25px;
+/* === Modo oscuro === */
+body.dark-mode {
+  --bg-color: #121212;
+  --text-color: #000;
+  --card-bg: #1e1e1e;
+  --accent: #ffb300;
+  --hover: #424242;
+  --shadow: rgba(255, 255, 255, 0.05);
+  --correct: #2e7d32;
+  --incorrect: #c62828;
 }
 
-.bloque h2 {
-  color: #f9a825;
-  border-bottom: 2px solid #fbc02d;
-  padding-bottom: 5px;
+/* === Estilo base === */
+body {
+  font-family: 'Rubik', 'Segoe UI', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 40px 10px;
 }
 
-.bloque ul {
-  list-style-type: disc;
-  padding-left: 20px;
-  margin-top: 10px;
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
 }
 
-.bloque ul li {
-  margin: 5px 0;
-}
-#quiz {
-  margin-top: 30px;
+h1, h3, h4 {
+  color: var(--text-color);
 }
 
-#question-text {
-  font-size: 1.2rem;
-  margin-bottom: 20px;
+/* === Botón modo oscuro === */
+#modoOscuroBtn {
+  background-color: var(--card-bg);
+  border: 1px solid var(--accent);
+  color: var(--accent);
+}
+#modoOscuroBtn:hover {
+  background-color: var(--hover);
 }
 
-#options button {
-  display: block;
-  width: 100%;
-  margin: 10px 0;
-  padding: 10px;
-  background-color: #fff8e1;
-  border: 2px solid #fdd835;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.2s;
-}
-
-#options button:hover {
-  background-color: #fceabb;
-}
-
-#options button.correct {
-  background-color: #c8e6c9;
-  border-color: #2e7d32;
-}
-
-#options button.wrong {
-  background-color: #ffcdd2;
-  border-color: #c62828;
-}
-
-#next-btn {
-  margin-top: 20px;
-  background-color: #fbc02d;
-  color: #fff;
-  font-weight: bold;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#next-btn:hover {
-  background-color: #f9a825;
-}
-
-.hidden {
-  display: none;
-}
-.modal {
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  z-index: 1055;
-}
-/* Fondo difuminado */
-body.modal-open main {
-  filter: blur(5px);
-  pointer-events: none;
-  user-select: none;
-}
-
-/* Modal personalizado */
+/* === Modal === */
 .custom-modal {
   position: fixed;
   z-index: 9999;
@@ -102,13 +67,14 @@ body.modal-open main {
 }
 
 .custom-modal-content {
-  background-color: #fffde7;
-  display: flex;
+  background-color: var(--card-bg);
   padding: 30px;
   border-radius: 12px;
-  box-shadow: 0 0 10px #00000050;
+  box-shadow: 0 0 10px var(--shadow);
   max-width: 800px;
   width: 90%;
+  display: flex;
+  flex-wrap: wrap;
   gap: 30px;
 }
 
@@ -119,72 +85,134 @@ body.modal-open main {
   justify-content: center;
 }
 
-.modal-imagen {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-}
-
-.modal-imagen img {
-  max-width: 160px;
-  height: auto;
-}
-body.modal-open main {
-  filter: blur(5px);
-  pointer-events: none;
-  user-select: none;
-}
-
-.custom-modal {
-  position: fixed;
-  z-index: 9999;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.custom-modal-content {
-  background-color: #fffde7;
-  display: flex;
-  flex-wrap: wrap;
-  padding: 30px;
-  border-radius: 12px;
-  box-shadow: 0 0 10px #00000050;
-  max-width: 800px;
-  width: 90%;
-  gap: 30px;
-}
-
 .modal-imagen img {
   max-height: 220px;
   width: auto;
 }
+
+/* === Temas y bloques === */
 .tema-btn {
-  background-color: #fff59d;
-  color: #212121;
-  border: none;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  padding: 14px 24px;
   border-radius: 15px;
-  padding: 10px 15px;
-  margin: 6px 0;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+  font-weight: 500;
+  border: none;
+  width: 100%;
+  text-align: left;
+  box-shadow: 0 1px 4px var(--shadow);
+  transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
 .tema-btn:hover {
-  background-color: #ffeb3b;
-  transform: scale(1.02);
-  cursor: pointer;
+  transform: scale(1.03);
+  background-color: var(--hover);
 }
 
-.tema-btn:active,
-.tema-btn:focus {
-  background-color: #fdd835 !important;
-  outline: none;
-  box-shadow: inset 0 0 5px #fbc02d;
+.bloque1 .tema-btn:hover { background-color: #fbc02d; color: #000; }
+.bloque2 .tema-btn:hover { background-color: #64b5f6; color: #000; }
+.bloque3 .tema-btn:hover { background-color: #81c784; color: #000; }
+.bloque4 .tema-btn:hover { background-color: #ba68c8; color: #000; }
+
+.tema-btn i { color: inherit; }
+
+.tema-lista {
+  padding-left: 0;
+  margin-top: 16px;
+}
+.tema-lista li {
+  list-style: none;
+  margin-bottom: 16px;
+}
+
+.accordion-item {
+  border-radius: 8px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  box-shadow: 0 3px 6px var(--shadow);
+}
+
+.accordion-button {
+  font-weight: bold;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+.bloque1 .accordion-button, .bloque1 .accordion-body { background-color: #FFF3E0; }
+.bloque1 .tema-btn { background-color: #FFE0B2; }
+
+.bloque2 .accordion-button, .bloque2 .accordion-body { background-color: #E3F2FD; }
+.bloque2 .tema-btn { background-color: #BBDEFB; }
+
+.bloque3 .accordion-button, .bloque3 .accordion-body { background-color: #E8F5E9; }
+.bloque3 .tema-btn { background-color: #C8E6C9; }
+
+.bloque4 .accordion-button, .bloque4 .accordion-body { background-color: #F3E5F5; }
+.bloque4 .tema-btn { background-color: #E1BEE7; }
+
+/* === Modo oscuro: Forzar iconos dentro de los botones visibles === */
+body.dark-mode .tema-btn i {
+  color: #000 !important;
+}
+
+/* === Personalizaciones específicas para MODO OSCURO === */
+body.dark-mode h1,
+body.dark-mode h4,
+body.dark-mode .custom-modal-content h3,
+body.dark-mode #modoActual,
+body.dark-mode #modoOscuroBtn {
+  color: var(--accent) !important;
+  font-weight: bold;
+}
+
+body.dark-mode .modo-actual,
+body.dark-mode .modo-texto {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+body.dark-mode .custom-modal-content p {
+  color: var(--accent);
+}
+
+body.dark-mode .custom-modal-content button {
+  background-color: var(--accent);
+  color: #000;
+  border: none;
+  transition: background-color 0.2s ease;
+}
+
+body.dark-mode .custom-modal-content button:hover {
+  background-color: var(--hover);
+}
+/* === Botón de Modo de Juego en modo oscuro === */
+body.dark-mode .btn-outline-dark {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+body.dark-mode .btn-outline-dark:hover {
+  background-color: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+}
+
+/* === Texto "Modo actual" en amarillo === */
+body.dark-mode .text-muted,
+body.dark-mode #modoActual {
+  color: var(--accent) !important;
+  font-weight: bold;
+}
+.tema-btn.disabled,
+.tema-btn:disabled {
+  background-color: #ccc !important;
+  color: #666 !important;
+  cursor: not-allowed !important;
+  border: 1px solid #aaa !important;
+  opacity: 0.7;
+  pointer-events: none;
+  font-style: italic;
 }

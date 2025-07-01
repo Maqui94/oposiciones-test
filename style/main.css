@@ -216,3 +216,72 @@ body.dark-mode #modoActual {
   pointer-events: none;
   font-style: italic;
 }
+.contenedor-botones-popup {
+  position: relative;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.botones-en-linea {
+  display: flex;
+  gap: 20px;
+}
+
+.boton-circular {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s;
+}
+
+.boton-cafe {
+  background-color: #fdd835;
+  color: black;
+}
+.boton-cafe:hover {
+  background-color: #fbc02d;
+}
+
+.boton-mensaje {
+  background-color: #90caf9;
+  color: black;
+}
+.boton-mensaje:hover {
+  background-color: #64b5f6;
+}
+
+.popup {
+  display: none;
+  position: absolute;
+  bottom: 70px;
+  background-color: #fff8e1;
+  color: #333;
+  border-radius: 12px;
+  padding: 16px;
+  width: 280px;
+  font-size: 0.95rem;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  z-index: 100;
+  text-align: center;
+  transform: translateX(-50%);
+  left: 50%;
+}
+
+.popup.visible {
+  display: block;
+}
+
+.popup-contacto {
+  background-color: #e3f2fd;
+}

@@ -206,3 +206,55 @@ function cerrarAlerta() {
   document.body.classList.remove("modal-open");
   document.getElementById("alertaTest").style.display = "none";
 }
+
+// ---------------------------
+// ✉️ CONTACTO y ☕ DONACIÓN con protección Base64
+// ---------------------------
+document.addEventListener("DOMContentLoaded", () => {
+  const btnDonacion = document.getElementById("btnDonacion");
+  const btnContacto = document.getElementById("btnContacto");
+  const popupDonacion = document.getElementById("popupDonacion");
+  const popupContacto = document.getElementById("popupContacto");
+
+  // Enlaces codificados en Base64
+  const correoBase64 = "bWFxdWkuZGV2ZWxvcEBnbWFpbC5jb20=";
+  const revolutBase64 = "aHR0cHM6Ly9yZXZvbHV0Lm1lL2Fkcmlhbno1Yzg="; 
+
+  const correoLink = document.getElementById("correoLink");
+  const donarLink = document.getElementById("donarLink");
+
+  if (correoLink) {
+  correoLink.href = "https://mail.google.com/mail/?view=cm&to=" + atob(correoBase64);
+  correoLink.target = "_blank"; // Abre Gmail en nueva pestaña
+}
+  if (donarLink) {
+    donarLink.href = atob(revolutBase64);
+  }
+
+  // Mostrar / ocultar popups
+  if (btnDonacion && popupDonacion) {
+    btnDonacion.addEventListener("click", (e) => {
+      e.stopPropagation();
+      popupDonacion.classList.toggle("visible");
+      popupContacto.classList.remove("visible");
+    });
+  }
+
+  if (btnContacto && popupContacto) {
+    btnContacto.addEventListener("click", (e) => {
+      e.stopPropagation();
+      popupContacto.classList.toggle("visible");
+      popupDonacion.classList.remove("visible");
+    });
+  }
+
+  // Cierre al hacer clic fuera
+  document.addEventListener("click", (e) => {
+    if (!popupDonacion.contains(e.target) && e.target !== btnDonacion) {
+      popupDonacion.classList.remove("visible");
+    }
+    if (!popupContacto.contains(e.target) && e.target !== btnContacto) {
+      popupContacto.classList.remove("visible");
+    }
+  });
+});

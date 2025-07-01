@@ -215,3 +215,24 @@ function mezclarArray(array) {
   }
   return array;
 }
+document.addEventListener("DOMContentLoaded", () => {
+  const bloqueDonacion = document.getElementById("bloqueDonacion");
+  const btnCafe = document.getElementById("btnCafeTest");
+  const btnCerrar = document.getElementById("cerrarDonacion");
+  const linkDonar = document.getElementById("donarLinkTest");
+
+  // Protege el enlace de donación
+  if (linkDonar) {
+    linkDonar.href = "https://" + "revolut.me/" + "adrianz5c8";
+  }
+
+  btnCerrar.addEventListener("click", () => {
+    bloqueDonacion.style.display = "none";
+    btnCafe.classList.remove("d-none");
+  });
+
+  btnCafe.addEventListener("click", () => {
+    bloqueDonacion.style.display = "block";
+    btnCafe.classList.add("d-none");
+  });
+});

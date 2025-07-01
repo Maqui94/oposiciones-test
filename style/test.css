@@ -191,3 +191,46 @@ body.dark-mode #timer {
   color: var(--accent) !important;
   font-weight: bold;
 }
+.bloque-donacion {
+  background-color: #fff8e1;
+  color: #333;
+  border: 2px solid #fbc02d;
+  padding: 16px 20px;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 30px auto 20px;
+  text-align: center;
+  font-size: 1.1rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+}
+
+.bloque-donacion strong {
+  color: #e65100;
+}
+
+.bloque-donacion a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.bloque-donacion a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+.btn-cerrar-donacion {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: #333;
+}

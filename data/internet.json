@@ -1,0 +1,1052 @@
+[
+  {
+    "pregunta": "¿Qué significa el término 'Internet' según su origen?",
+    "opciones": [
+      "Red nacional de información",
+      "Intercambio técnico de datos",
+      "Interconnected Networks",
+      "International Net"
+    ],
+    "respuestaCorrecta": "Interconnected Networks"
+  },
+  {
+    "pregunta": "¿Cuál es el protocolo principal que utiliza Internet?",
+    "opciones": [
+      "HTTP/HTTPS",
+      "FTP",
+      "IPX/SPX",
+      "TCP/IP"
+    ],
+    "respuestaCorrecta": "TCP/IP"
+  },
+  {
+    "pregunta": "¿En qué año fue desarrollada la red que dio origen a Internet?",
+    "opciones": [
+      "1985",
+      "1995",
+      "1969",
+      "1979"
+    ],
+    "respuestaCorrecta": "1969"
+  },
+  {
+    "pregunta": "¿Cuál fue el propósito inicial del desarrollo de Internet?",
+    "opciones": [
+      "Educación universitaria",
+      "Acceso público a la información",
+      "Conectar computadoras militares",
+      "Redes sociales"
+    ],
+    "respuestaCorrecta": "Conectar computadoras militares"
+  },
+  {
+    "pregunta": "¿Qué tecnología permitió la expansión de Internet en los años 90?",
+    "opciones": [
+      "Protocolo IPX",
+      "World Wide Web (www)",
+      "Sistema operativo UNIX",
+      "Correo electrónico"
+    ],
+    "respuestaCorrecta": "World Wide Web (www)"
+  },
+  {
+    "pregunta": "¿Qué formato utilizan los archivos consultados en la World Wide Web?",
+    "opciones": [
+      "SMTP",
+      "XML",
+      "HTTP",
+      "DOC"
+    ],
+    "respuestaCorrecta": "HTTP"
+  },
+  {
+    "pregunta": "¿Qué dispositivo convierte señales analógicas en digitales para conectarse a Internet?",
+    "opciones": [
+      "Router",
+      "Switch",
+      "Servidor",
+      "Modem"
+    ],
+    "respuestaCorrecta": "Modem"
+  },
+  {
+    "pregunta": "¿Cuál es una desventaja de la conexión a Internet mediante línea telefónica analógica?",
+    "opciones": [
+      "Requiere un servidor dedicado",
+      "No permite el uso simultáneo de teléfono e Internet",
+      "Solo sirve para redes inalámbricas",
+      "Tiene un alto coste de infraestructura"
+    ],
+    "respuestaCorrecta": "No permite el uso simultáneo de teléfono e Internet"
+  },
+  {
+    "pregunta": "¿Qué mejora principal ofrecía la tecnología RDSI frente a la red analógica?",
+    "opciones": [
+      "Mayor movilidad",
+      "Menor consumo energético",
+      "Uso simultáneo de teléfono e Internet",
+      "Transmisión por fibra óptica"
+    ],
+    "respuestaCorrecta": "Uso simultáneo de teléfono e Internet"
+  },
+  {
+    "pregunta": "¿Qué significa ADSL?",
+    "opciones": [
+      "Analog Digital System Line",
+      "Asimetric Digital Subscriber Line",
+      "Advanced Data System Link",
+      "Automatic Download Service Line"
+    ],
+    "respuestaCorrecta": "Asimetric Digital Subscriber Line"
+  },
+  {
+    "pregunta": "¿Qué velocidad de descarga puede alcanzar el ADSL?",
+    "opciones": [
+      "Hasta 1 Mbps",
+      "Hasta 5 Mbps",
+      "Hasta 20 Mbps",
+      "Hasta 100 Mbps"
+    ],
+    "respuestaCorrecta": "Hasta 20 Mbps"
+  },
+  {
+    "pregunta": "¿Qué característica destaca en la fibra óptica como medio de conexión?",
+    "opciones": [
+      "Conexión inalámbrica",
+      "Mayor estabilidad y velocidad de transmisión",
+      "Reducción de calidad por distancia",
+      "Fácil instalación doméstica"
+    ],
+    "respuestaCorrecta": "Mayor estabilidad y velocidad de transmisión"
+  },
+  {
+    "pregunta": "¿Cuál es la principal desventaja de la fibra óptica según el texto?",
+    "opciones": [
+      "Velocidad limitada",
+      "Riesgo de interferencias",
+      "Inestabilidad en la conexión",
+      "Coste de infraestructura"
+    ],
+    "respuestaCorrecta": "Coste de infraestructura"
+  },
+  {
+    "pregunta": "¿Qué elemento permite a un navegador dirigir al usuario a una página web?",
+    "opciones": [
+      "Gestor de contraseñas",
+      "Panel de control",
+      "Barra de búsqueda",
+      "Interfaz de usuario"
+    ],
+    "respuestaCorrecta": "Barra de búsqueda"
+  },
+  {
+    "pregunta": "¿Qué es un navegador web?",
+    "opciones": [
+      "Una base de datos en línea",
+      "Un gestor de correo electrónico",
+      "Una aplicación para acceder a la web",
+      "Una red privada virtual"
+    ],
+    "respuestaCorrecta": "Una aplicación para acceder a la web"
+  },
+  {
+    "pregunta": "¿Qué funcionalidad se ha añadido a la barra de direcciones de los navegadores modernos?",
+    "opciones": [
+      "Reproducción de video",
+      "Marcadores automáticos",
+      "Búsquedas desde la barra a través de un servicio de búsqueda",
+      "Bloqueo de ventanas emergentes"
+    ],
+    "respuestaCorrecta": "Búsquedas desde la barra a través de un servicio de búsqueda"
+  },
+  {
+    "pregunta": "¿Qué protocolo se utiliza para la comunicación entre navegador y servidor?",
+    "opciones": [
+      "FTP",
+      "HTTPS",
+      "HTTP",
+      "DNS"
+    ],
+    "respuestaCorrecta": "HTTP"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre HTTP y HTTPS?",
+    "opciones": [
+      "HTTPS permite transferir imágenes",
+      "HTTP es más moderno",
+      "HTTPS es una versión más segura de HTTP",
+      "HTTP cifra los datos y HTTPS no"
+    ],
+    "respuestaCorrecta": "HTTPS es una versión más segura de HTTP"
+  },
+  {
+    "pregunta": "¿Qué protocolo está dedicado específicamente a la transferencia de archivos?",
+    "opciones": [
+      "HTTP",
+      "SMTP",
+      "FTP",
+      "HTTPS"
+    ],
+    "respuestaCorrecta": "FTP"
+  },
+  {
+    "pregunta": "¿Qué tipo de documentos descarga y muestra un navegador web?",
+    "opciones": [
+      "PDF",
+      "TXT",
+      "HTML",
+      "XML"
+    ],
+    "respuestaCorrecta": "HTML"
+  },
+  {
+    "pregunta": "¿Qué contenido adicional pueden reproducir los navegadores además de mostrar HTML?",
+    "opciones": [
+      "Bases de datos",
+      "Programas ejecutables",
+      "Sonidos o videos en formatos web",
+      "Animaciones en Flash exclusivamente"
+    ],
+    "respuestaCorrecta": "Sonidos o videos en formatos web"
+  },
+  {
+    "pregunta": "¿Para qué sirven los marcadores o favoritos en un navegador?",
+    "opciones": [
+      "Reiniciar configuraciones del sistema",
+      "Recordar contraseñas",
+      "Acceder directamente a páginas guardadas",
+      "Actualizar automáticamente el navegador"
+    ],
+    "respuestaCorrecta": "Acceder directamente a páginas guardadas"
+  },
+  {
+    "pregunta": "¿Qué es una cookie según el texto?",
+    "opciones": [
+      "Un programa malicioso",
+      "Un complemento del navegador",
+      "Un archivo que recopila información sobre la navegación",
+      "Un archivo de imagen web"
+    ],
+    "respuestaCorrecta": "Un archivo que recopila información sobre la navegación"
+  },
+  {
+    "pregunta": "¿Qué permite hacer un navegador con archivos desde la web?",
+    "opciones": [
+      "Convertirlos en cookies",
+      "Transferirlos a la nube automáticamente",
+      "Descargarlos al equipo del usuario",
+      "Bloquear todos los archivos automáticamente"
+    ],
+    "respuestaCorrecta": "Descargarlos al equipo del usuario"
+  },
+  {
+    "pregunta": "¿Qué medida de seguridad han adoptado los navegadores ante el aumento de descargas?",
+    "opciones": [
+      "Prohibir la descarga de archivos ZIP",
+      "Desactivar JavaScript por defecto",
+      "Análisis en tiempo real de software malicioso",
+      "Cifrado obligatorio de toda descarga"
+    ],
+    "respuestaCorrecta": "Análisis en tiempo real de software malicioso"
+  },
+  {
+    "pregunta": "¿Qué factor ha impulsado el uso de navegadores en dispositivos móviles?",
+    "opciones": [
+      "El fin del uso de ordenadores",
+      "La aparición de redes sociales",
+      "La liberalización de las tarifas de datos",
+      "La reducción del tamaño de las pantallas"
+    ],
+    "respuestaCorrecta": "La liberalización de las tarifas de datos"
+  },
+  {
+    "pregunta": "¿Qué dispositivo ha superado al ordenador como método principal de acceso a Internet?",
+    "opciones": [
+      "Portátiles",
+      "Consolas de videojuegos",
+      "Smartphones",
+      "Televisores inteligentes"
+    ],
+    "respuestaCorrecta": "Smartphones"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes navegadores es desarrollado por Google?",
+    "opciones": [
+      "Opera",
+      "Safari",
+      "Google Chrome",
+      "Mozilla Firefox"
+    ],
+    "respuestaCorrecta": "Google Chrome"
+  },
+  {
+    "pregunta": "¿Qué característica destaca en Google Chrome según el texto?",
+    "opciones": [
+      "Es el navegador con más opciones de personalización",
+      "Está especializado en reproducción multimedia",
+      "Destaca por su velocidad al procesar JavaScript",
+      "Permite descargas ilimitadas"
+    ],
+    "respuestaCorrecta": "Destaca por su velocidad al procesar JavaScript"
+  },
+  {
+    "pregunta": "¿Cuál de estos navegadores NO se menciona como uno de los más populares?",
+    "opciones": [
+      "Mozilla Firefox",
+      "Internet Explorer",
+      "Opera",
+      "Safari"
+    ],
+    "respuestaCorrecta": "Internet Explorer"
+  },
+  {
+    "pregunta": "¿Qué característica convirtió a Google Chrome en el navegador más usado del mundo?",
+    "opciones": [
+      "Su interfaz compleja y configurable",
+      "Su alto consumo de memoria",
+      "Su simplicidad de uso e interfaz sencilla",
+      "Su integración con Windows 10"
+    ],
+    "respuestaCorrecta": "Su simplicidad de uso e interfaz sencilla"
+  },
+  {
+    "pregunta": "¿Cuál es una de las principales ventajas de Google Chrome?",
+    "opciones": [
+      "Incompatibilidad con móviles",
+      "Baja frecuencia de actualizaciones",
+      "Integración con Gmail, Drive y Maps",
+      "Consumo bajo de memoria virtual"
+    ],
+    "respuestaCorrecta": "Integración con Gmail, Drive y Maps"
+  },
+  {
+    "pregunta": "¿Qué desventaja se menciona de Google Chrome?",
+    "opciones": [
+      "No soporta extensiones",
+      "Incompatibilidad con sistemas móviles",
+      "Interfaz complicada",
+      "Alto consumo de memoria virtual"
+    ],
+    "respuestaCorrecta": "Alto consumo de memoria virtual"
+  },
+  {
+    "pregunta": "¿Qué navegador fue desarrollado como sustituto de Internet Explorer?",
+    "opciones": [
+      "Mozilla Firefox",
+      "Microsoft Edge",
+      "Opera",
+      "Google Chrome"
+    ],
+    "respuestaCorrecta": "Microsoft Edge"
+  },
+  {
+    "pregunta": "¿Para qué sistema operativo fue desarrollado específicamente Microsoft Edge?",
+    "opciones": [
+      "Windows 7",
+      "macOS",
+      "Windows 10",
+      "Linux"
+    ],
+    "respuestaCorrecta": "Windows 10"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del motor de renderizado utilizado por Microsoft Edge?",
+    "opciones": [
+      "Blink",
+      "Gecko",
+      "Trident",
+      "EdgeHTML"
+    ],
+    "respuestaCorrecta": "EdgeHTML"
+  },
+  {
+    "pregunta": "¿Qué mejora buscaba EdgeHTML frente a su predecesor?",
+    "opciones": [
+      "Compatibilidad con Java",
+      "Soporte para cookies",
+      "Velocidad de navegación",
+      "Capacidad de bloqueo de anuncios"
+    ],
+    "respuestaCorrecta": "Velocidad de navegación"
+  },
+  {
+    "pregunta": "¿Qué ventaja energética ofrece Microsoft Edge?",
+    "opciones": [
+      "Reduce el brillo de la pantalla",
+      "Disminuye el uso del procesador",
+      "Provoca mayor ahorro de batería",
+      "Evita el uso del disco duro"
+    ],
+    "respuestaCorrecta": "Provoca mayor ahorro de batería"
+  },
+  {
+    "pregunta": "¿Qué tecnología permite hacer anotaciones con stylus en Microsoft Edge?",
+    "opciones": [
+      "JavaFX",
+      "Adobe Air",
+      "Windows Ink",
+      "Cortana"
+    ],
+    "respuestaCorrecta": "Windows Ink"
+  },
+  {
+    "pregunta": "¿Qué funcionalidad NO se menciona como incluida en Microsoft Edge?",
+    "opciones": [
+      "Soporte para PDF",
+      "Reproductor de video AVI",
+      "Adobe Flash Player",
+      "Lector EPUB"
+    ],
+    "respuestaCorrecta": "Reproductor de video AVI"
+  },
+  {
+    "pregunta": "¿Qué limitación tiene Microsoft Edge frente a otros navegadores?",
+    "opciones": [
+      "No permite visualizar vídeos",
+      "No permite instalar extensiones",
+      "Tiene menos privacidad y seguridad",
+      "No funciona en tablets"
+    ],
+    "respuestaCorrecta": "Tiene menos privacidad y seguridad"
+  },
+  {
+    "pregunta": "¿Qué tipo de software es Mozilla Firefox?",
+    "opciones": [
+      "Software propietario",
+      "Código cerrado de Microsoft",
+      "Navegador libre y de código abierto",
+      "Sistema operativo alternativo"
+    ],
+    "respuestaCorrecta": "Navegador libre y de código abierto"
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene Mozilla Firefox sobre otros navegadores?",
+    "opciones": [
+      "Interfaz mínima",
+      "Compatibilidad con extensiones",
+      "Solo funciona en Windows",
+      "Bloquea todas las cookies"
+    ],
+    "respuestaCorrecta": "Compatibilidad con extensiones"
+  },
+  {
+    "pregunta": "¿Cuál es un punto débil de Mozilla Firefox?",
+    "opciones": [
+      "No permite descargas",
+      "Interfaz algo recargada",
+      "No soporta HTML5",
+      "Es incompatible con móviles"
+    ],
+    "respuestaCorrecta": "Interfaz algo recargada"
+  },
+  {
+    "pregunta": "¿Para qué sistema operativo fue creado originalmente Safari?",
+    "opciones": [
+      "Linux",
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "respuestaCorrecta": "macOS"
+  },
+  {
+    "pregunta": "¿Qué tipo de software es el navegador Safari?",
+    "opciones": [
+      "Código abierto",
+      "Software libre",
+      "Código cerrado",
+      "Software multiplataforma"
+    ],
+    "respuestaCorrecta": "Código cerrado"
+  },
+  {
+    "pregunta": "¿Qué ventaja proporciona el modelo de código cerrado en Safari?",
+    "opciones": [
+      "Permite contribuciones de los usuarios",
+      "Reduce la compatibilidad con Apple",
+      "Mejora la seguridad del sistema y del navegador",
+      "Permite instalar cualquier extensión"
+    ],
+    "respuestaCorrecta": "Mejora la seguridad del sistema y del navegador"
+  },
+  {
+    "pregunta": "¿Cuál es una desventaja de Safari debido a su código cerrado?",
+    "opciones": [
+      "Es incompatible con dispositivos Apple",
+      "No puede navegar por páginas web",
+      "Depende exclusivamente de mejoras de Apple",
+      "Requiere hardware especial"
+    ],
+    "respuestaCorrecta": "Depende exclusivamente de mejoras de Apple"
+  },
+  {
+    "pregunta": "¿En qué dispositivo se popularizó inicialmente Safari?",
+    "opciones": [
+      "iPod Classic",
+      "iMac",
+      "iPhone",
+      "MacBook Air"
+    ],
+    "respuestaCorrecta": "iPhone"
+  },
+  {
+    "pregunta": "¿Cuál de estas es una ventaja exclusiva del navegador Safari?",
+    "opciones": [
+      "Modo consola",
+      "Vista del lector para lectura de textos",
+      "Compatibilidad con extensiones de Chrome",
+      "Integración con Linux"
+    ],
+    "respuestaCorrecta": "Vista del lector para lectura de textos"
+  },
+  {
+    "pregunta": "¿Qué navegador fue desarrollado por Opera Software?",
+    "opciones": [
+      "Chrome",
+      "Safari",
+      "Opera",
+      "Firefox"
+    ],
+    "respuestaCorrecta": "Opera"
+  },
+  {
+    "pregunta": "¿Qué dispositivo NO se menciona como compatible con Opera?",
+    "opciones": [
+      "Ordenadores de sobremesa",
+      "Smartphones",
+      "Tablets",
+      "Consolas de videojuegos"
+    ],
+    "respuestaCorrecta": "Consolas de videojuegos"
+  },
+  {
+    "pregunta": "¿Cuál es el motor de búsqueda predeterminado en Opera?",
+    "opciones": [
+      "Bing",
+      "Yahoo",
+      "DuckDuckGo",
+      "Google"
+    ],
+    "respuestaCorrecta": "Google"
+  },
+  {
+    "pregunta": "¿Qué característica permite ejecutar Opera desde un USB?",
+    "opciones": [
+      "Modo incógnito",
+      "Modo ahorro de batería",
+      "Versión portable",
+      "Modo sin conexión"
+    ],
+    "respuestaCorrecta": "Versión portable"
+  },
+  {
+    "pregunta": "¿Qué funcionalidad incorporó Opera para navegar con gestos?",
+    "opciones": [
+      "Reconocimiento facial",
+      "Gestos con ratón para acciones comunes",
+      "Atajos de teclado personalizables",
+      "Reconocimiento por voz"
+    ],
+    "respuestaCorrecta": "Gestos con ratón para acciones comunes"
+  },
+  {
+    "pregunta": "¿Qué limitación presenta Opera respecto a otros navegadores?",
+    "opciones": [
+      "No puede abrir archivos PDF",
+      "Carece de versión móvil",
+      "Pocas actualizaciones y extensiones limitadas",
+      "No permite conexión a redes privadas"
+    ],
+    "respuestaCorrecta": "Pocas actualizaciones y extensiones limitadas"
+  },
+  {
+    "pregunta": "¿Qué es una intranet?",
+    "opciones": [
+      "Una red abierta para cualquier usuario",
+      "Un tipo de virus informático",
+      "Una red informática privada para un grupo concreto",
+      "Una red que conecta todos los dispositivos de Apple"
+    ],
+    "respuestaCorrecta": "Una red informática privada para un grupo concreto"
+  },
+  {
+    "pregunta": "¿Qué propósito principal tiene una intranet?",
+    "opciones": [
+      "Compartir archivos con todo Internet",
+      "Servir como sistema operativo",
+      "Reproducir multimedia localmente",
+      "Compartir información, recursos y soporte interno"
+    ],
+    "respuestaCorrecta": "Compartir información, recursos y soporte interno"
+  },
+  {
+    "pregunta": "¿Dónde se utiliza habitualmente una intranet?",
+    "opciones": [
+      "Redes sociales",
+      "Entornos de juego",
+      "Empresas y organismos oficiales",
+      "Bibliotecas públicas"
+    ],
+    "respuestaCorrecta": "Empresas y organismos oficiales"
+  },
+  {
+    "pregunta": "¿Qué medida de seguridad se toma en las intranets?",
+    "opciones": [
+      "Bloqueo de toda navegación",
+      "Desactivación del correo electrónico",
+      "Limitación de instalación de aplicaciones",
+      "Uso exclusivo de extensiones .exe"
+    ],
+    "respuestaCorrecta": "Limitación de instalación de aplicaciones"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los cortafuegos (Firewalls) en una intranet?",
+    "opciones": [
+      "Permitir el acceso remoto a todos los usuarios",
+      "Actualizar los contenidos automáticamente",
+      "Impedir el acceso a usuarios no autorizados",
+      "Aumentar la velocidad de navegación"
+    ],
+    "respuestaCorrecta": "Impedir el acceso a usuarios no autorizados"
+  },
+  {
+    "pregunta": "¿Qué puede hacer una intranet para evitar riesgos por equipos no corporativos?",
+    "opciones": [
+      "Conceder acceso temporal",
+      "Deshabilitar conexiones seguras",
+      "Impedir la conexión de dichos equipos",
+      "Permitir acceso solo por VPN"
+    ],
+    "respuestaCorrecta": "Impedir la conexión de dichos equipos"
+  },
+  {
+    "pregunta": "¿Qué tipo de acceso puede establecer una intranet según la categoría del usuario?",
+    "opciones": [
+      "Acceso limitado por zona geográfica",
+      "Acceso universal sin restricciones",
+      "Acceso restringido a ciertos recursos",
+      "Acceso según tipo de dispositivo"
+    ],
+    "respuestaCorrecta": "Acceso restringido a ciertos recursos"
+  },
+  {
+    "pregunta": "¿Cuál NO es un beneficio del uso de una intranet?",
+    "opciones": [
+      "Mejora en las comunicaciones organizativas",
+      "Mayor número de virus informáticos",
+      "Ahorro económico y de tiempo",
+      "Mejora en la conectividad entre usuarios"
+    ],
+    "respuestaCorrecta": "Mayor número de virus informáticos"
+  },
+  {
+    "pregunta": "¿Qué desventaja se asocia al uso de intranet?",
+    "opciones": [
+      "No permite el envío de correos",
+      "Requiere mantenimiento y vigilancia frecuente",
+      "Es incompatible con ordenadores portátiles",
+      "Dificulta el trabajo colaborativo"
+    ],
+    "respuestaCorrecta": "Requiere mantenimiento y vigilancia frecuente"
+  },
+  {
+    "pregunta": "¿Qué otro riesgo se menciona en el uso de intranets?",
+    "opciones": [
+      "Inestabilidad del sistema operativo",
+      "Interrupción del suministro eléctrico",
+      "Infección por virus informáticos",
+      "Pérdida de conexión Bluetooth"
+    ],
+    "respuestaCorrecta": "Infección por virus informáticos"
+  },
+  {
+    "pregunta": "¿Cuál es una necesidad constante en las intranets?",
+    "opciones": [
+      "Actualizar contenidos regularmente",
+      "Reiniciar los servidores cada día",
+      "Cambiar el hardware del router",
+      "Eliminar las bases de datos periódicamente"
+    ],
+    "respuestaCorrecta": "Actualizar contenidos regularmente"
+  },
+  {
+    "pregunta": "¿Qué tipo de servicio es el correo electrónico?",
+    "opciones": [
+      "Servicio privado de pago",
+      "Servicio físico de mensajería",
+      "Servicio gratuito de internet",
+      "Servicio exclusivo para empresas"
+    ],
+    "respuestaCorrecta": "Servicio gratuito de internet"
+  },
+  {
+    "pregunta": "¿Cuál es el contenido que puede incluir un correo electrónico?",
+    "opciones": [
+      "Solo texto y vídeos",
+      "Solo documentos en PDF",
+      "Solo texto sin adjuntos",
+      "Texto, imágenes, documentos u otros archivos informáticos"
+    ],
+    "respuestaCorrecta": "Texto, imágenes, documentos u otros archivos informáticos"
+  },
+  {
+    "pregunta": "¿Qué parte del sistema de correo electrónico cumple una función similar al correo postal?",
+    "opciones": [
+      "El antivirus",
+      "El navegador web",
+      "El servidor",
+      "El cortafuegos"
+    ],
+    "respuestaCorrecta": "El servidor"
+  },
+  {
+    "pregunta": "¿Qué elemento se encarga de recibir y distribuir los mensajes en el correo electrónico?",
+    "opciones": [
+      "El receptor",
+      "El servidor",
+      "El emisor",
+      "El dominio"
+    ],
+    "respuestaCorrecta": "El servidor"
+  },
+  {
+    "pregunta": "¿Cuál es la estructura básica de una cuenta de correo electrónico?",
+    "opciones": [
+      "Nombre + punto + extensión",
+      "Nombre de usuario + número + dominio",
+      "Nombre de usuario + @ + dominio",
+      "Código postal + @ + dominio"
+    ],
+    "respuestaCorrecta": "Nombre de usuario + @ + dominio"
+  },
+  {
+    "pregunta": "¿Qué símbolo aparece siempre entre el nombre de usuario y el dominio en un correo electrónico?",
+    "opciones": [
+      "#",
+      "$",
+      "@",
+      "%"
+    ],
+    "respuestaCorrecta": "@"
+  },
+  {
+    "pregunta": "¿Qué tipo de extensión puede tener un dominio de correo electrónico?",
+    "opciones": [
+      ".jpg",
+      ".pdf",
+      ".COM o .ORG o .es",
+      ".zip"
+    ],
+    "respuestaCorrecta": ".COM o .ORG o .es"
+  },
+  {
+    "pregunta": "¿Qué ocurre con el mensaje una vez el destinatario lo abre?",
+    "opciones": [
+      "Se borra automáticamente",
+      "Puede finalizar o reenviarse",
+      "Se archiva y no se puede responder",
+      "Se convierte en un archivo HTML"
+    ],
+    "respuestaCorrecta": "Puede finalizar o reenviarse"
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si una dirección de correo electrónico está escrita incorrectamente?",
+    "opciones": [
+      "El mensaje se convierte en spam",
+      "Se envía automáticamente al destinatario correcto",
+      "El servidor lo devuelve al emisor o llega a un receptor no deseado",
+      "Se bloquea la cuenta de correo"
+    ],
+    "respuestaCorrecta": "El servidor lo devuelve al emisor o llega a un receptor no deseado"
+  },
+  {
+    "pregunta": "¿Cuál es el protocolo estándar para el correo saliente?",
+    "opciones": [
+      "POP3",
+      "SMTP",
+      "HTTP",
+      "IMAP"
+    ],
+    "respuestaCorrecta": "SMTP"
+  },
+  {
+    "pregunta": "¿Qué protocolo permite acceder al correo electrónico desde diferentes ubicaciones?",
+    "opciones": [
+      "POP3",
+      "SMTP",
+      "FTP",
+      "IMAP"
+    ],
+    "respuestaCorrecta": "IMAP"
+  },
+  {
+    "pregunta": "¿Cuál es el protocolo más indicado si se consulta el correo desde un punto fijo?",
+    "opciones": [
+      "SMTP",
+      "HTTP",
+      "IMAP",
+      "POP3"
+    ],
+    "respuestaCorrecta": "POP3"
+  },
+  {
+    "pregunta": "¿Qué protocolo descarga los mensajes directamente al ordenador del usuario?",
+    "opciones": [
+      "SMTP",
+      "POP3",
+      "IMAP",
+      "HTTPS"
+    ],
+    "respuestaCorrecta": "POP3"
+  },
+  {
+    "pregunta": "¿Qué protocolo mantiene los mensajes en el servidor hasta ser descargados?",
+    "opciones": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "FTP"
+    ],
+    "respuestaCorrecta": "IMAP"
+  },
+  {
+    "pregunta": "¿Qué combinación de protocolos se emplea habitualmente para consultar el correo desde distintos lugares?",
+    "opciones": [
+      "SMTP y POP3",
+      "IMAP y POP3",
+      "SMTP y IMAP",
+      "HTTP y SMTP"
+    ],
+    "respuestaCorrecta": "SMTP y IMAP"
+  },
+  {
+    "pregunta": "¿Qué se entiende por 'destinatario en copia (CC)' en un correo electrónico?",
+    "opciones": [
+      "El mensaje está cifrado para este receptor",
+      "El mensaje se le reenvía automáticamente",
+      "Recibe el mensaje sin ser el receptor principal",
+      "Puede modificar el contenido del mensaje"
+    ],
+    "respuestaCorrecta": "Recibe el mensaje sin ser el receptor principal"
+  },
+  {
+    "pregunta": "¿Qué función tiene el campo 'CCO' en un correo electrónico?",
+    "opciones": [
+      "Reenvía el mensaje a todos los contactos",
+      "El receptor en copia oculta no puede ver el mensaje",
+      "Oculta al destinatario principal del mensaje",
+      "El resto de receptores no pueden ver que ha sido copiado"
+    ],
+    "respuestaCorrecta": "El resto de receptores no pueden ver que ha sido copiado"
+  },
+  {
+    "pregunta": "¿Qué sucede cuando un receptor reenvía un email?",
+    "opciones": [
+      "El asunto se elimina automáticamente",
+      "El mensaje se convierte en borrador",
+      "El asunto va precedido por Rv: o Fwd:",
+      "El mensaje se borra del servidor"
+    ],
+    "respuestaCorrecta": "El asunto va precedido por Rv: o Fwd:"
+  },
+  {
+    "pregunta": "¿Qué letras indican que un mensaje ha sido reenviado?",
+    "opciones": [
+      "Re:",
+      "Fwd: o Rv:",
+      "CC:",
+      "CCO:"
+    ],
+    "respuestaCorrecta": "Fwd: o Rv:"
+  },
+  {
+    "pregunta": "¿Qué letras aparecen en el asunto cuando un mensaje ha sido respondido?",
+    "opciones": [
+      "Fwd:",
+      "Rv:",
+      "Re:",
+      "Res:"
+    ],
+    "respuestaCorrecta": "Re:"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los protocolos de correo electrónico?",
+    "opciones": [
+      "Cifrar la información bancaria",
+      "Permitir la descarga de archivos grandes",
+      "Facilitar el envío y recepción de mensajes",
+      "Detectar correos no deseados"
+    ],
+    "respuestaCorrecta": "Facilitar el envío y recepción de mensajes"
+  },
+  {
+    "pregunta": "¿Qué protocolo usa una trama TCP/IP para enviar correos?",
+    "opciones": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "HTTPS"
+    ],
+    "respuestaCorrecta": "SMTP"
+  },
+  {
+    "pregunta": "¿Qué uso habitual se da al protocolo POP3?",
+    "opciones": [
+      "Equipos que necesitan acceder al correo desde diferentes ubicaciones",
+      "Servidores de bases de datos remotas",
+      "Equipos domésticos o de trabajo en punto fijo",
+      "Reenviar correos a múltiples cuentas"
+    ],
+    "respuestaCorrecta": "Equipos domésticos o de trabajo en punto fijo"
+  },
+  {
+    "pregunta": "¿Qué indica el dato 'Tamaño' en un correo electrónico?",
+    "opciones": [
+      "El número de destinatarios del mensaje",
+      "La cantidad de veces que ha sido reenviado",
+      "La cantidad de kilobytes o megabytes que ocupa",
+      "El número de archivos adjuntos"
+    ],
+    "respuestaCorrecta": "La cantidad de kilobytes o megabytes que ocupa"
+  },
+  {
+    "pregunta": "¿Cómo se representa habitualmente la existencia de un archivo adjunto en un correo?",
+    "opciones": [
+      "Con una bandera roja",
+      "Con un icono",
+      "Con un asterisco",
+      "Con un texto en negrita"
+    ],
+    "respuestaCorrecta": "Con un icono"
+  },
+  {
+    "pregunta": "¿Qué significa que un mensaje tenga una 'marca de seguimiento'?",
+    "opciones": [
+      "Que el mensaje contiene un virus",
+      "Que se trata de un mensaje a tener en cuenta",
+      "Que el mensaje ha sido reenviado muchas veces",
+      "Que se encuentra en la bandeja de borradores"
+    ],
+    "respuestaCorrecta": "Que se trata de un mensaje a tener en cuenta"
+  },
+  {
+    "pregunta": "¿Qué utilidad tiene el campo 'Recibido' en un correo?",
+    "opciones": [
+      "Identificar si contiene virus",
+      "Mostrar la dirección IP del remitente",
+      "Ordenar los mensajes por orden de llegada",
+      "Eliminar automáticamente correos antiguos"
+    ],
+    "respuestaCorrecta": "Ordenar los mensajes por orden de llegada"
+  },
+  {
+    "pregunta": "¿Qué muestra el campo 'Enviado' en un correo electrónico?",
+    "opciones": [
+      "La prioridad del mensaje",
+      "La fecha de salida del mensaje desde el buzón del emisor",
+      "El nombre del destinatario principal",
+      "La ubicación del servidor"
+    ],
+    "respuestaCorrecta": "La fecha de salida del mensaje desde el buzón del emisor"
+  },
+  {
+    "pregunta": "¿Qué es la bandeja de entrada en un cliente de correo electrónico?",
+    "opciones": [
+      "El lugar donde se almacenan los borradores",
+      "El espacio para guardar correos reenviados",
+      "El lugar al que llegan los mensajes nuevos",
+      "Una carpeta personalizada por el usuario"
+    ],
+    "respuestaCorrecta": "El lugar al que llegan los mensajes nuevos"
+  },
+  {
+    "pregunta": "¿Cómo se suelen marcar los emails no leídos en la bandeja de entrada?",
+    "opciones": [
+      "Con una contraseña",
+      "En cursiva",
+      "Con un color de fondo rojo",
+      "En negrita o sombreado"
+    ],
+    "respuestaCorrecta": "En negrita o sombreado"
+  },
+  {
+    "pregunta": "¿Qué función cumple la carpeta 'Correo no deseado'?",
+    "opciones": [
+      "Almacena mensajes reenviados",
+      "Guarda correos eliminados",
+      "Almacena emails de emisores desconocidos para revisarlos sin que interfieran",
+      "Contiene todos los mensajes marcados como urgentes"
+    ],
+    "respuestaCorrecta": "Almacena emails de emisores desconocidos para revisarlos sin que interfieran"
+  },
+  {
+    "pregunta": "¿Qué sucede con los correos en la carpeta de 'Correo no deseado' tras un tiempo?",
+    "opciones": [
+      "Se envían a la bandeja de entrada",
+      "Se reenvían al remitente",
+      "Se convierten en borradores",
+      "Se eliminan automáticamente para liberar espacio"
+    ],
+    "respuestaCorrecta": "Se eliminan automáticamente para liberar espacio"
+  },
+  {
+    "pregunta": "¿Qué contiene la carpeta de 'Borradores'?",
+    "opciones": [
+      "Correos enviados",
+      "Mensajes que han sido eliminados",
+      "Correos incompletos o no enviados",
+      "Spam que ha sido leído"
+    ],
+    "respuestaCorrecta": "Correos incompletos o no enviados"
+  },
+  {
+    "pregunta": "¿Qué almacena la carpeta 'Elementos enviados'?",
+    "opciones": [
+      "Respuestas automáticas del servidor",
+      "Borradores de mensajes antiguos",
+      "Copias de los mensajes enviados",
+      "Correos reenviados por terceros"
+    ],
+    "respuestaCorrecta": "Copias de los mensajes enviados"
+  },
+  {
+    "pregunta": "¿Qué tipo de mensajes se guardan en la papelera o elementos eliminados?",
+    "opciones": [
+      "Solo los no leídos",
+      "Los que contienen virus",
+      "Los eliminados de otras bandejas",
+      "Los mensajes cifrados"
+    ],
+    "respuestaCorrecta": "Los eliminados de otras bandejas"
+  },
+  {
+    "pregunta": "¿Qué función tienen las carpetas personales en un cliente de correo?",
+    "opciones": [
+      "Clasificar los mensajes según el idioma",
+      "Almacenar correos de redes sociales",
+      "Guardar correos de copia oculta",
+      "Clasificar los mensajes según contenido, ámbito u otras categorías"
+    ],
+    "respuestaCorrecta": "Clasificar los mensajes según contenido, ámbito u otras categorías"
+  },
+  {
+    "pregunta": "¿Qué bandeja almacena automáticamente los correos eliminados?",
+    "opciones": [
+      "Correo no deseado",
+      "Entrada",
+      "Borradores",
+      "Papelera"
+    ],
+    "respuestaCorrecta": "Papelera"
+  },
+  {
+    "pregunta": "¿Qué categoría NO aparece entre las bandejas estándar de un cliente de correo?",
+    "opciones": [
+      "Bandeja de entrada",
+      "Correo no deseado",
+      "Buzón de exportaciones",
+      "Elementos enviados"
+    ],
+    "respuestaCorrecta": "Buzón de exportaciones"
+  }
+]

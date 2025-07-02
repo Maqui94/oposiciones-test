@@ -1,0 +1,1802 @@
+[
+  {
+    "pregunta": "¿Cada cuánto tiempo se elige el Parlamento Europeo?",
+    "opciones": [
+      "Cada tres años",
+      "Cada cuatro años",
+      "Cada cinco años",
+      "Cada seis años"
+    ],
+    "respuestaCorrecta": "Cada cinco años"
+  },
+  {
+    "pregunta": "¿En qué año se celebraron las últimas elecciones al Parlamento Europeo según el texto?",
+    "opciones": [
+      "2020",
+      "2019",
+      "2021",
+      "2018"
+    ],
+    "respuestaCorrecta": "2019"
+  },
+  {
+    "pregunta": "¿Quién propone la legislación que aprueba el Parlamento Europeo?",
+    "opciones": [
+      "El Consejo Europeo",
+      "El Tribunal de Justicia",
+      "La Comisión Europea",
+      "Los parlamentos nacionales"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Qué instituciones aprueban conjuntamente la legislación de la UE?",
+    "opciones": [
+      "El Parlamento Europeo y el Tribunal de Justicia",
+      "El Parlamento Europeo y la Comisión Europea",
+      "El Parlamento Europeo y el Consejo de la Unión Europea",
+      "La Comisión Europea y el Consejo Europeo"
+    ],
+    "respuestaCorrecta": "El Parlamento Europeo y el Consejo de la Unión Europea"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes no es una competencia legislativa del Parlamento Europeo?",
+    "opciones": [
+      "Decidir sobre acuerdos internacionales",
+      "Decidir sobre ampliaciones de la UE",
+      "Interpretar el derecho comunitario",
+      "Pedir a la Comisión que elabore propuestas"
+    ],
+    "respuestaCorrecta": "Interpretar el derecho comunitario"
+  },
+  {
+    "pregunta": "¿Cuál es una competencia de supervisión del Parlamento Europeo?",
+    "opciones": [
+      "Redactar tratados",
+      "Aprobar el presupuesto anual de cada Estado",
+      "Formular preguntas a la Comisión y al Consejo",
+      "Controlar a los gobiernos regionales"
+    ],
+    "respuestaCorrecta": "Formular preguntas a la Comisión y al Consejo"
+  },
+  {
+    "pregunta": "¿Qué institución elige el Parlamento Europeo?",
+    "opciones": [
+      "Al Presidente del Tribunal de Justicia",
+      "Al Alto Representante de la Unión",
+      "Al Presidente de la Comisión",
+      "Al Presidente del Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Al Presidente de la Comisión"
+  },
+  {
+    "pregunta": "¿Qué puede aprobar el Parlamento Europeo contra la Comisión?",
+    "opciones": [
+      "Una moción de confianza",
+      "Una moción de censura",
+      "Una ley derogatoria",
+      "Una sanción administrativa"
+    ],
+    "respuestaCorrecta": "Una moción de censura"
+  },
+  {
+    "pregunta": "¿Qué consecuencia tiene una moción de censura aprobada por el Parlamento Europeo?",
+    "opciones": [
+      "Disolución del Parlamento",
+      "Cierre del Banco Central Europeo",
+      "Dimisión de la Comisión",
+      "Expulsión de miembros del Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Dimisión de la Comisión"
+  },
+  {
+    "pregunta": "¿Qué aprueba el Parlamento en relación al presupuesto?",
+    "opciones": [
+      "La recaudación de impuestos nacionales",
+      "El presupuesto de cada Estado",
+      "La gestión del presupuesto de la UE",
+      "El presupuesto del Consejo de Europa"
+    ],
+    "respuestaCorrecta": "La gestión del presupuesto de la UE"
+  },
+  {
+    "pregunta": "¿Qué acción realiza el Parlamento respecto a las peticiones de los ciudadanos?",
+    "opciones": [
+      "Las remite al Tribunal de Justicia",
+      "Las transfiere a los Estados miembros",
+      "Las examina",
+      "Las ignora por falta de competencia"
+    ],
+    "respuestaCorrecta": "Las examina"
+  },
+  {
+    "pregunta": "¿Con qué institución debate el Parlamento Europeo la política monetaria?",
+    "opciones": [
+      "El Consejo de la Unión Europea",
+      "El Tribunal de Cuentas",
+      "El Banco Central Europeo",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "El Banco Central Europeo"
+  },
+  {
+    "pregunta": "¿Qué función realiza el Parlamento respecto a los procesos electorales?",
+    "opciones": [
+      "Convoca elecciones locales",
+      "Observación electoral",
+      "Organiza elecciones autonómicas",
+      "Vigila elecciones en Estados Unidos"
+    ],
+    "respuestaCorrecta": "Observación electoral"
+  },
+  {
+    "pregunta": "¿Qué tipo de control ejerce el Parlamento sobre las instituciones de la UE?",
+    "opciones": [
+      "Control judicial",
+      "Control administrativo",
+      "Control político",
+      "Control democrático"
+    ],
+    "respuestaCorrecta": "Control democrático"
+  },
+  {
+    "pregunta": "¿Cuál de estas no es una función del Parlamento Europeo?",
+    "opciones": [
+      "Aprobar legislación",
+      "Supervisar instituciones",
+      "Debatir política monetaria",
+      "Emitir sentencias judiciales"
+    ],
+    "respuestaCorrecta": "Emitir sentencias judiciales"
+  },
+  {
+    "pregunta": "¿Quién establece el presupuesto de la Unión Europea junto con el Consejo?",
+    "opciones": [
+      "El Banco Central Europeo",
+      "La Comisión Europea",
+      "El Tribunal de Cuentas",
+      "El Parlamento Europeo"
+    ],
+    "respuestaCorrecta": "El Parlamento Europeo"
+  },
+  {
+    "pregunta": "¿Qué aprueba el Parlamento Europeo además del presupuesto anual?",
+    "opciones": [
+      "El Tratado de Lisboa",
+      "La política monetaria",
+      "El marco financiero plurianual",
+      "Los estatutos de los eurodiputados"
+    ],
+    "respuestaCorrecta": "El marco financiero plurianual"
+  },
+  {
+    "pregunta": "¿Cuál es el número máximo de eurodiputados que puede haber en el Parlamento Europeo?",
+    "opciones": [
+      "700",
+      "750",
+      "705",
+      "730"
+    ],
+    "respuestaCorrecta": "705"
+  },
+  {
+    "pregunta": "¿Cuál es el número mínimo de eurodiputados que puede tener un país miembro?",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "respuestaCorrecta": "6"
+  },
+  {
+    "pregunta": "¿Según qué criterio se asigna el número de eurodiputados por país?",
+    "opciones": [
+      "Equidad territorial",
+      "Representación absoluta",
+      "Proporcionalidad decreciente",
+      "Reparto igualitario"
+    ],
+    "respuestaCorrecta": "Proporcionalidad decreciente"
+  },
+  {
+    "pregunta": "¿Cómo se agrupan los diputados en el Parlamento Europeo?",
+    "opciones": [
+      "Por idiomas",
+      "Por afinidades políticas",
+      "Por nacionalidad",
+      "Por bloques económicos"
+    ],
+    "respuestaCorrecta": "Por afinidades políticas"
+  },
+  {
+    "pregunta": "¿Qué función tiene el Presidente del Parlamento Europeo respecto al presupuesto?",
+    "opciones": [
+      "Revisarlo junto al Consejo",
+      "Ejecutarlo en nombre de la Comisión",
+      "Dar el visto bueno final",
+      "Negociarlo con los Estados miembros"
+    ],
+    "respuestaCorrecta": "Dar el visto bueno final"
+  },
+  {
+    "pregunta": "¿Cuántas comisiones tiene el Parlamento Europeo según el texto?",
+    "opciones": [
+      "15",
+      "25",
+      "20",
+      "30"
+    ],
+    "respuestaCorrecta": "20"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las comisiones en el Parlamento Europeo?",
+    "opciones": [
+      "Redactar el presupuesto nacional",
+      "Elegir al Presidente del Parlamento",
+      "Preparar la legislación",
+      "Revisar tratados internacionales"
+    ],
+    "respuestaCorrecta": "Preparar la legislación"
+  },
+  {
+    "pregunta": "¿Dónde se celebran habitualmente las sesiones plenarias del Parlamento Europeo?",
+    "opciones": [
+      "Bruselas",
+      "Luxemburgo",
+      "París",
+      "Estrasburgo"
+    ],
+    "respuestaCorrecta": "Estrasburgo"
+  },
+  {
+    "pregunta": "¿Qué ocurre durante las sesiones plenarias del Parlamento Europeo?",
+    "opciones": [
+      "Se elabora la legislación",
+      "Se aprueban las leyes propuestas",
+      "Se entrevista a los Comisarios",
+      "Se presentan las peticiones ciudadanas"
+    ],
+    "respuestaCorrecta": "Se aprueban las leyes propuestas"
+  },
+  {
+    "pregunta": "¿Cuántos días al mes suelen durar las sesiones plenarias en Estrasburgo?",
+    "opciones": [
+      "Dos días",
+      "Tres días",
+      "Cuatro días",
+      "Cinco días"
+    ],
+    "respuestaCorrecta": "Cuatro días"
+  },
+  {
+    "pregunta": "¿Qué otra ciudad puede acoger sesiones plenarias del Parlamento Europeo además de Estrasburgo?",
+    "opciones": [
+      "Luxemburgo",
+      "Bruselas",
+      "Roma",
+      "Berlín"
+    ],
+    "respuestaCorrecta": "Bruselas"
+  },
+  {
+    "pregunta": "¿Cuál es una función del Consejo Europeo según el texto?",
+    "opciones": [
+      "Aprobar leyes europeas",
+      "Ejecutar políticas fiscales",
+      "Establecer prioridades políticas generales",
+      "Redactar el presupuesto europeo"
+    ],
+    "respuestaCorrecta": "Establecer prioridades políticas generales"
+  },
+  {
+    "pregunta": "¿Con qué frecuencia se celebran las cumbres del Consejo Europeo?",
+    "opciones": [
+      "Mensualmente",
+      "Trimestralmente",
+      "Anualmente",
+      "Cada dos semanas"
+    ],
+    "respuestaCorrecta": "Trimestralmente"
+  },
+  {
+    "pregunta": "¿Cuál es una de las funciones del Consejo Europeo?",
+    "opciones": [
+      "Interpretar el Derecho de la UE",
+      "Adoptar leyes comunitarias",
+      "Establecer la política exterior y de seguridad común",
+      "Elegir a los eurodiputados"
+    ],
+    "respuestaCorrecta": "Establecer la política exterior y de seguridad común"
+  },
+  {
+    "pregunta": "¿Quiénes componen el Consejo Europeo?",
+    "opciones": [
+      "Los ministros de economía de cada Estado",
+      "Los jueces del Tribunal de Justicia y el Presidente del Consejo",
+      "Los jefes de Estado o de Gobierno de la UE, el Presidente del Consejo Europeo y el Presidente de la Comisión",
+      "Los diputados nacionales junto al Presidente del Parlamento"
+    ],
+    "respuestaCorrecta": "Los jefes de Estado o de Gobierno de la UE, el Presidente del Consejo Europeo y el Presidente de la Comisión"
+  },
+  {
+    "pregunta": "¿Cuánto dura el mandato del Presidente del Consejo Europeo?",
+    "opciones": [
+      "Cinco años no renovables",
+      "Dos años y medio, renovable una vez",
+      "Un año con posibilidad de renovación indefinida",
+      "Cuatro años sin posibilidad de renovación"
+    ],
+    "respuestaCorrecta": "Dos años y medio, renovable una vez"
+  },
+  {
+    "pregunta": "¿Qué institución representa al Consejo Europeo ante el resto del mundo?",
+    "opciones": [
+      "El Presidente del Parlamento Europeo",
+      "El Alto Representante de la UE",
+      "El Presidente del Consejo Europeo",
+      "El Comisario de Asuntos Exteriores"
+    ],
+    "respuestaCorrecta": "El Presidente del Consejo Europeo"
+  },
+  {
+    "pregunta": "¿Con qué frecuencia se reúne habitualmente el Consejo Europeo?",
+    "opciones": [
+      "Una vez al mes",
+      "Cada dos meses",
+      "Cuatro veces al año",
+      "Una vez cada semestre"
+    ],
+    "respuestaCorrecta": "Cuatro veces al año"
+  },
+  {
+    "pregunta": "¿Quién convoca las reuniones extraordinarias del Consejo Europeo?",
+    "opciones": [
+      "El Presidente del Parlamento Europeo",
+      "El Presidente del Consejo Europeo",
+      "El Consejo de la UE",
+      "La Comisión Europea"
+    ],
+    "respuestaCorrecta": "El Presidente del Consejo Europeo"
+  },
+  {
+    "pregunta": "¿Qué procedimiento de votación utiliza generalmente el Consejo Europeo?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Consenso",
+      "Voto ponderado"
+    ],
+    "respuestaCorrecta": "Consenso"
+  },
+  {
+    "pregunta": "¿Qué instituciones pueden recibir encargos del Consejo Europeo para gestionar propuestas?",
+    "opciones": [
+      "El Tribunal de Justicia y el Consejo de Europa",
+      "La Comisión Europea o el Consejo de la UE",
+      "El Parlamento Europeo o el Tribunal de Cuentas",
+      "El Banco Central Europeo y el Comité de las Regiones"
+    ],
+    "respuestaCorrecta": "La Comisión Europea o el Consejo de la UE"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre el Consejo Europeo y el Consejo de la Unión Europea?",
+    "opciones": [
+      "El Consejo Europeo está formado por jueces y el otro por ministros",
+      "El Consejo Europeo toma decisiones judiciales y el otro legislativas",
+      "El Consejo Europeo marca las grandes líneas políticas y el otro adopta medidas legislativas",
+      "Ambos órganos tienen las mismas funciones"
+    ],
+    "respuestaCorrecta": "El Consejo Europeo marca las grandes líneas políticas y el otro adopta medidas legislativas"
+  },
+  {
+    "pregunta": "¿Qué órgano no debe confundirse con el Consejo de la Unión Europea?",
+    "opciones": [
+      "El Comité Económico y Social",
+      "El Consejo de Seguridad de la ONU",
+      "El Consejo de Europa",
+      "El Consejo Económico y Financiero"
+    ],
+    "respuestaCorrecta": "El Consejo de Europa"
+  },
+  {
+    "pregunta": "¿Qué ministros participan en las reuniones del Consejo de la UE?",
+    "opciones": [
+      "Solo los ministros de exteriores",
+      "Ministros con competencias sobre los temas a tratar",
+      "Ministros de justicia de cada país",
+      "Solo los ministros de hacienda"
+    ],
+    "respuestaCorrecta": "Ministros con competencias sobre los temas a tratar"
+  },
+  {
+    "pregunta": "¿Qué responsabilidad tienen los ministros en el Consejo de la UE?",
+    "opciones": [
+      "Pueden modificar leyes nacionales",
+      "Toman decisiones individuales sin compromiso",
+      "Tienen competencias para comprometer a sus gobiernos",
+      "Solo asesoran sin capacidad de decisión"
+    ],
+    "respuestaCorrecta": "Tienen competencias para comprometer a sus gobiernos"
+  },
+  {
+    "pregunta": "¿Cuál es el papel principal del Consejo de la UE junto al Parlamento Europeo?",
+    "opciones": [
+      "Supervisar elecciones",
+      "Dirigir política monetaria",
+      "Órgano de decisión de la UE",
+      "Aplicar sanciones judiciales"
+    ],
+    "respuestaCorrecta": "Órgano de decisión de la UE"
+  },
+  {
+    "pregunta": "¿Qué tipo de políticas coordina el Consejo de la Unión Europea?",
+    "opciones": [
+      "Políticas nacionales exclusivamente",
+      "Políticas internas de los partidos",
+      "Políticas europeas en general",
+      "Políticas sindicales"
+    ],
+    "respuestaCorrecta": "Políticas europeas en general"
+  },
+  {
+    "pregunta": "¿Cuál de estas afirmaciones es correcta sobre el Consejo de la UE?",
+    "opciones": [
+      "Es el mismo que el Consejo de Europa",
+      "Es un órgano judicial europeo",
+      "No debe confundirse con el Consejo Europeo",
+      "Sus decisiones son irrelevantes"
+    ],
+    "respuestaCorrecta": "No debe confundirse con el Consejo Europeo"
+  },
+  {
+    "pregunta": "¿Qué institución propone la legislación que negocian el Parlamento Europeo y el Consejo de la UE?",
+    "opciones": [
+      "El Consejo Europeo",
+      "La Comisión Europea",
+      "El Comité de las Regiones",
+      "El Banco Central Europeo"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Qué función tiene el Consejo de la UE respecto a las políticas de los Estados miembros?",
+    "opciones": [
+      "Dirigirlas",
+      "Anularlas",
+      "Financiarlas",
+      "Coordinarlas"
+    ],
+    "respuestaCorrecta": "Coordinarlas"
+  },
+  {
+    "pregunta": "¿Quién desarrolla la política exterior y de seguridad de la UE siguiendo las directrices del Consejo Europeo?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "La Comisión Europea",
+      "El Consejo de la UE",
+      "El Comité de Representantes Permanentes"
+    ],
+    "respuestaCorrecta": "El Consejo de la UE"
+  },
+  {
+    "pregunta": "¿Qué institución celebra acuerdos con países y organizaciones internacionales?",
+    "opciones": [
+      "El Consejo de la UE",
+      "El Consejo Europeo",
+      "El Tribunal de Justicia",
+      "El Banco Central Europeo"
+    ],
+    "respuestaCorrecta": "El Consejo de la UE"
+  },
+  {
+    "pregunta": "¿Quién aprueba el presupuesto de la UE junto con el Parlamento Europeo?",
+    "opciones": [
+      "El Consejo de Europa",
+      "El Consejo de la UE",
+      "El Comité Económico y Social",
+      "El Banco Europeo de Inversiones"
+    ],
+    "respuestaCorrecta": "El Consejo de la UE"
+  },
+  {
+    "pregunta": "¿Cuántas formaciones distintas puede adoptar el Consejo de la UE?",
+    "opciones": [
+      "12",
+      "15",
+      "10",
+      "8"
+    ],
+    "respuestaCorrecta": "10"
+  },
+  {
+    "pregunta": "¿Qué ministros participan en cada reunión del Consejo de la UE?",
+    "opciones": [
+      "Los ministros de justicia",
+      "Los ministros de economía",
+      "Los ministros permanentes",
+      "Los ministros competentes según el tema tratado"
+    ],
+    "respuestaCorrecta": "Los ministros competentes según el tema tratado"
+  },
+  {
+    "pregunta": "¿Qué Consejo es presidido de forma permanente por el Alto Representante para la Política Exterior?",
+    "opciones": [
+      "Consejo de Medio Ambiente",
+      "Consejo de Asuntos Económicos",
+      "Consejo de Asuntos Generales",
+      "Consejo de Ministros de Asuntos Exteriores"
+    ],
+    "respuestaCorrecta": "Consejo de Ministros de Asuntos Exteriores"
+  },
+  {
+    "pregunta": "¿Qué país preside el Consejo de Medio Ambiente durante la presidencia rotatoria de Estonia?",
+    "opciones": [
+      "Finlandia",
+      "Francia",
+      "Estonia",
+      "Suecia"
+    ],
+    "respuestaCorrecta": "Estonia"
+  },
+  {
+    "pregunta": "¿Quién garantiza la coherencia del Consejo de la UE con apoyo del Comité de Representantes Permanentes?",
+    "opciones": [
+      "El Consejo de Asuntos Generales",
+      "El Consejo Europeo",
+      "El Parlamento Europeo",
+      "El Eurogrupo"
+    ],
+    "respuestaCorrecta": "El Consejo de Asuntos Generales"
+  },
+  {
+    "pregunta": "¿Qué función tienen los miembros del Comité de Representantes Permanentes?",
+    "opciones": [
+      "Vigilar las elecciones",
+      "Emitir sanciones judiciales",
+      "Actuar como embajadores nacionales ante la UE",
+      "Representar a los partidos políticos"
+    ],
+    "respuestaCorrecta": "Actuar como embajadores nacionales ante la UE"
+  },
+  {
+    "pregunta": "¿Cuándo se reúnen los ministros de economía y finanzas de la eurozona en el marco del Eurogrupo?",
+    "opciones": [
+      "Después del Consejo Ecofin",
+      "El mismo día que el Parlamento Europeo",
+      "Un día antes del Consejo de Asuntos Económicos y Financieros",
+      "Los sábados por la tarde"
+    ],
+    "respuestaCorrecta": "Un día antes del Consejo de Asuntos Económicos y Financieros"
+  },
+  {
+    "pregunta": "¿Cómo se aprueban oficialmente los acuerdos del Eurogrupo?",
+    "opciones": [
+      "Mediante referéndum",
+      "Con ratificación del Parlamento Europeo",
+      "Por votación en el Consejo, solo con ministros de la eurozona",
+      "Por decisión del Presidente del Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Por votación en el Consejo, solo con ministros de la eurozona"
+  },
+  {
+    "pregunta": "¿Cuándo se celebran las sesiones públicas del Consejo de la UE?",
+    "opciones": [
+      "Cuando tratan asuntos internacionales",
+      "Cuando debaten o votan proyectos legislativos",
+      "Solo cuando hay prensa",
+      "Cuando se aprueba el presupuesto"
+    ],
+    "respuestaCorrecta": "Cuando debaten o votan proyectos legislativos"
+  },
+  {
+    "pregunta": "¿Qué tipo de mayoría se necesita habitualmente para aprobar decisiones en el Consejo de la UE?",
+    "opciones": [
+      "Mayoría absoluta",
+      "Unanimidad",
+      "Mayoría cualificada",
+      "Mayoría simple"
+    ],
+    "respuestaCorrecta": "Mayoría cualificada"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de Estados miembros debe aprobar una decisión por mayoría cualificada en el Consejo de la UE?",
+    "opciones": [
+      "50%",
+      "55%",
+      "60%",
+      "65%"
+    ],
+    "respuestaCorrecta": "55%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de la población de la UE deben representar los Estados que aprueban una decisión por mayoría cualificada?",
+    "opciones": [
+      "50%",
+      "55%",
+      "60%",
+      "65%"
+    ],
+    "respuestaCorrecta": "65%"
+  },
+  {
+    "pregunta": "¿Cuántos países como mínimo deben oponerse para bloquear una decisión del Consejo?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "respuestaCorrecta": "4"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de la población debe representar el grupo de países que bloquea una decisión?",
+    "opciones": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "respuestaCorrecta": "35%"
+  },
+  {
+    "pregunta": "¿Qué decisiones requieren la aprobación unánime de todos los Estados miembros?",
+    "opciones": [
+      "Decisiones de política monetaria",
+      "Decisiones administrativas",
+      "Decisiones sobre fiscalidad y política exterior",
+      "Decisiones presupuestarias"
+    ],
+    "respuestaCorrecta": "Decisiones sobre fiscalidad y política exterior"
+  },
+  {
+    "pregunta": "¿Cómo se adoptan las cuestiones administrativas y de procedimiento en el Consejo de la UE?",
+    "opciones": [
+      "Por unanimidad",
+      "Por mayoría simple",
+      "Por mayoría absoluta",
+      "Por mayoría cualificada"
+    ],
+    "respuestaCorrecta": "Por mayoría simple"
+  },
+  {
+    "pregunta": "¿En qué lenguas se pueden seguir en directo las sesiones públicas del Consejo?",
+    "opciones": [
+      "En las tres lenguas oficiales de trabajo",
+      "En inglés y francés",
+      "En la lengua del país que preside",
+      "En todas las lenguas de la UE"
+    ],
+    "respuestaCorrecta": "En todas las lenguas de la UE"
+  },
+  {
+    "pregunta": "¿Qué documentos se hacen públicos cuando una sesión del Consejo es pública?",
+    "opciones": [
+      "Solo el resumen ejecutivo",
+      "Actas y votaciones",
+      "Intervenciones escritas",
+      "Notas de prensa"
+    ],
+    "respuestaCorrecta": "Actas y votaciones"
+  },
+  {
+    "pregunta": "¿Qué tipo de órgano es la Comisión Europea?",
+    "opciones": [
+      "Un órgano judicial",
+      "Una agencia técnica",
+      "El órgano ejecutivo independiente de la UE",
+      "Una cámara legislativa"
+    ],
+    "respuestaCorrecta": "El órgano ejecutivo independiente de la UE"
+  },
+  {
+    "pregunta": "¿Quién es responsable de elaborar propuestas de nueva legislación europea?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo de la UE",
+      "El Comité de las Regiones",
+      "La Comisión Europea"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Quién aplica las decisiones del Parlamento Europeo y del Consejo de la UE?",
+    "opciones": [
+      "El Banco Central Europeo",
+      "La Comisión Europea",
+      "El Tribunal de Cuentas",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Qué tipo de leyes propone la Comisión Europea?",
+    "opciones": [
+      "Leyes que benefician a un único Estado",
+      "Leyes que favorecen a las multinacionales",
+      "Leyes que protegen los intereses de la UE y sus ciudadanos",
+      "Leyes de competencia nacional exclusiva"
+    ],
+    "respuestaCorrecta": "Leyes que protegen los intereses de la UE y sus ciudadanos"
+  },
+  {
+    "pregunta": "¿Qué garantiza la calidad técnica de las leyes propuestas por la Comisión?",
+    "opciones": [
+      "Las votaciones en el Parlamento",
+      "El control del Tribunal de Justicia",
+      "Consultas con expertos y ciudadanos",
+      "El Comité de Representantes Permanentes"
+    ],
+    "respuestaCorrecta": "Consultas con expertos y ciudadanos"
+  },
+  {
+    "pregunta": "¿Quién fija las prioridades de gasto de la UE junto con la Comisión?",
+    "opciones": [
+      "El Comité Económico y Social",
+      "El Consejo Europeo",
+      "El Parlamento y el Consejo de la UE",
+      "El Banco Central Europeo"
+    ],
+    "respuestaCorrecta": "El Parlamento y el Consejo de la UE"
+  },
+  {
+    "pregunta": "¿Qué órgano supervisa el gasto del dinero gestionado por la Comisión Europea?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Comité de las Regiones",
+      "El Tribunal de Cuentas",
+      "El Consejo de Ministros"
+    ],
+    "respuestaCorrecta": "El Tribunal de Cuentas"
+  },
+  {
+    "pregunta": "¿Quién garantiza el cumplimiento de la legislación de la UE junto con el Tribunal de Justicia?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo de la UE",
+      "La Comisión Europea",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Qué institución representa a la UE ante organismos internacionales en política comercial y ayuda humanitaria?",
+    "opciones": [
+      "El Consejo Europeo",
+      "La Comisión Europea",
+      "El Parlamento Europeo",
+      "El Tribunal de Justicia"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Qué órgano negocia acuerdos internacionales en nombre de la UE?",
+    "opciones": [
+      "El Consejo de Ministros",
+      "La Comisión Europea",
+      "El Tribunal de Cuentas",
+      "El Parlamento Europeo"
+    ],
+    "respuestaCorrecta": "La Comisión Europea"
+  },
+  {
+    "pregunta": "¿Cuántos Comisarios integran el liderazgo político de la Comisión Europea?",
+    "opciones": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "respuestaCorrecta": "27"
+  },
+  {
+    "pregunta": "¿Quién dirige el equipo de Comisarios de la Comisión Europea?",
+    "opciones": [
+      "El Presidente del Consejo Europeo",
+      "El Vicepresidente Ejecutivo",
+      "El Alto Representante",
+      "El Presidente de la Comisión"
+    ],
+    "respuestaCorrecta": "El Presidente de la Comisión"
+  },
+  {
+    "pregunta": "¿Qué grupo conforma el Colegio de Comisarios?",
+    "opciones": [
+      "Solo los Comisarios titulares",
+      "Los comisarios, el Parlamento y el Tribunal",
+      "El Presidente, Vicepresidentes y Comisarios",
+      "El Consejo Europeo y el Alto Representante"
+    ],
+    "respuestaCorrecta": "El Presidente, Vicepresidentes y Comisarios"
+  },
+  {
+    "pregunta": "¿Cuántos Vicepresidentes hay en el Colegio de Comisarios?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "respuestaCorrecta": "8"
+  },
+  {
+    "pregunta": "¿Cuántos Vicepresidentes ejecutivos incluye la Comisión Europea?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "respuestaCorrecta": "3"
+  },
+  {
+    "pregunta": "¿Quién se encarga de las tareas diarias dentro de la Comisión Europea?",
+    "opciones": [
+      "Los ministros nacionales",
+      "El Tribunal de Justicia",
+      "El personal técnico y juristas de la Comisión",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "El personal técnico y juristas de la Comisión"
+  },
+  {
+    "pregunta": "¿Cómo se llaman los departamentos que componen la estructura interna de la Comisión?",
+    "opciones": [
+      "Unidades ejecutivas",
+      "Direcciones Generales",
+      "Secretarías técnicas",
+      "Delegaciones europeas"
+    ],
+    "respuestaCorrecta": "Direcciones Generales"
+  },
+  {
+    "pregunta": "¿Quién presenta al candidato a Presidente de la Comisión Europea?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo Europeo",
+      "La Comisión saliente",
+      "Los ciudadanos por sufragio directo"
+    ],
+    "respuestaCorrecta": "El Consejo Europeo"
+  },
+  {
+    "pregunta": "¿Qué órgano debe aprobar al candidato propuesto como Presidente de la Comisión?",
+    "opciones": [
+      "El Comité Económico y Social",
+      "El Parlamento Europeo",
+      "El Consejo de la UE",
+      "El Banco Central Europeo"
+    ],
+    "respuestaCorrecta": "El Parlamento Europeo"
+  },
+  {
+    "pregunta": "¿Quién propone a los Vicepresidentes y Comisarios que acompañan al Presidente?",
+    "opciones": [
+      "Los grupos parlamentarios",
+      "El Tribunal de Justicia",
+      "Los países miembros",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Los países miembros"
+  },
+  {
+    "pregunta": "¿Qué hace el Parlamento Europeo antes de aceptar al Colegio de Comisarios?",
+    "opciones": [
+      "Examina los presupuestos",
+      "Realiza una comparecencia de cada candidato",
+      "Consulta con el Tribunal de Cuentas",
+      "Emite un informe técnico"
+    ],
+    "respuestaCorrecta": "Realiza una comparecencia de cada candidato"
+  },
+  {
+    "pregunta": "¿Cuándo finaliza el mandato de la actual Comisión Europea?",
+    "opciones": [
+      "31 de diciembre de 2023",
+      "1 de enero de 2025",
+      "31 de octubre de 2024",
+      "1 de julio de 2024"
+    ],
+    "respuestaCorrecta": "31 de octubre de 2024"
+  },
+  {
+    "pregunta": "¿Quién define la orientación general de la Comisión Europea?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo Europeo",
+      "El Presidente de la Comisión",
+      "El Alto Representante"
+    ],
+    "respuestaCorrecta": "El Presidente de la Comisión"
+  },
+  {
+    "pregunta": "¿Qué permite la orientación general definida por el Presidente de la Comisión?",
+    "opciones": [
+      "Aprobar los presupuestos de la UE",
+      "Fijar objetivos estratégicos y el programa anual",
+      "Ratificar tratados internacionales",
+      "Designar a los Comisarios"
+    ],
+    "respuestaCorrecta": "Fijar objetivos estratégicos y el programa anual"
+  },
+  {
+    "pregunta": "¿Cómo se toman las decisiones en la Comisión Europea?",
+    "opciones": [
+      "Por delegación del Consejo Europeo",
+      "Mediante orden ejecutiva del Presidente",
+      "Por responsabilidad colectiva entre todos los Comisarios",
+      "Solo por el voto del Alto Representante"
+    ],
+    "respuestaCorrecta": "Por responsabilidad colectiva entre todos los Comisarios"
+  },
+  {
+    "pregunta": "¿Tienen los Comisarios facultades de decisión propias por defecto?",
+    "opciones": [
+      "Sí, de manera general",
+      "Solo en política exterior",
+      "No, salvo habilitación expresa",
+      "Solo si lo aprueba el Parlamento"
+    ],
+    "respuestaCorrecta": "No, salvo habilitación expresa"
+  },
+  {
+    "pregunta": "¿Qué función cumplen los Vicepresidentes en la Comisión Europea?",
+    "opciones": [
+      "Negociar tratados",
+      "Presidir el Consejo Europeo",
+      "Coordinar trabajos y representar al Presidente",
+      "Fijar las prioridades económicas"
+    ],
+    "respuestaCorrecta": "Coordinar trabajos y representar al Presidente"
+  },
+  {
+    "pregunta": "¿Qué se fija para garantizar una colaboración eficaz en el Colegio de Comisarios?",
+    "opciones": [
+      "Auditorías mensuales",
+      "Consultas públicas",
+      "Proyectos prioritarios",
+      "Sesiones extraordinarias"
+    ],
+    "respuestaCorrecta": "Proyectos prioritarios"
+  },
+  {
+    "pregunta": "¿Qué hacen los Comisarios respecto a los Vicepresidentes en el proceso de propuestas?",
+    "opciones": [
+      "Se oponen a sus decisiones",
+      "Los evalúan anualmente",
+      "Los apoyan al presentar propuestas al Colegio",
+      "Les delegan la competencia exclusiva"
+    ],
+    "respuestaCorrecta": "Los apoyan al presentar propuestas al Colegio"
+  },
+  {
+    "pregunta": "¿Cuál es la forma habitual de tomar decisiones en la Comisión Europea?",
+    "opciones": [
+      "Por votación mayoritaria",
+      "Por orden ejecutiva del Presidente",
+      "Por consenso",
+      "Por decisión del Alto Representante"
+    ],
+    "respuestaCorrecta": "Por consenso"
+  },
+  {
+    "pregunta": "¿Qué tipo de mayoría se necesita en caso de votación en el Colegio de Comisarios?",
+    "opciones": [
+      "Unanimidad",
+      "Mayoría simple",
+      "Mayoría cualificada",
+      "Mayoría absoluta"
+    ],
+    "respuestaCorrecta": "Mayoría simple"
+  },
+  {
+    "pregunta": "¿Quién responde ante el Comisario competente en una Dirección General?",
+    "opciones": [
+      "El Alto Representante",
+      "El Tribunal de Justicia",
+      "El Director General",
+      "El Consejo de la UE"
+    ],
+    "respuestaCorrecta": "El Director General"
+  },
+  {
+    "pregunta": "¿Qué ocurre con una propuesta legislativa tras ser redactada por la Dirección General?",
+    "opciones": [
+      "Se envía al Tribunal de Justicia",
+      "Se remite al Consejo Europeo para su aprobación",
+      "Vuelve a los Comisarios para su aprobación semanal",
+      "Se publica en el Diario Oficial directamente"
+    ],
+    "respuestaCorrecta": "Vuelve a los Comisarios para su aprobación semanal"
+  },
+  {
+    "pregunta": "¿Qué instituciones reciben la propuesta oficial de la Comisión tras su aprobación?",
+    "opciones": [
+      "El Tribunal de Cuentas y el BCE",
+      "El Consejo y el Parlamento Europeo",
+      "El Comité de las Regiones y el CESE",
+      "Las embajadas de los Estados miembros"
+    ],
+    "respuestaCorrecta": "El Consejo y el Parlamento Europeo"
+  },
+  {
+    "pregunta": "¿Cuál es la función del Tribunal de Justicia de la UE?",
+    "opciones": [
+      "Redactar leyes europeas",
+      "Interpretar la legislación de la UE",
+      "Aplicar la política monetaria",
+      "Vigilar el presupuesto comunitario"
+    ],
+    "respuestaCorrecta": "Interpretar la legislación de la UE"
+  },
+  {
+    "pregunta": "¿Quién puede acudir al TJUE además de los gobiernos nacionales?",
+    "opciones": [
+      "Solo las ONGs registradas",
+      "Particulares, empresas y organizaciones",
+      "Únicamente Estados miembros",
+      "Solo instituciones financieras"
+    ],
+    "respuestaCorrecta": "Particulares, empresas y organizaciones"
+  },
+  {
+    "pregunta": "¿Qué es una decisión prejudicial en el contexto del TJUE?",
+    "opciones": [
+      "Una sentencia final obligatoria",
+      "Una recomendación del Consejo Europeo",
+      "Una interpretación solicitada por un tribunal nacional",
+      "Una norma directa emitida por la Comisión"
+    ],
+    "respuestaCorrecta": "Una interpretación solicitada por un tribunal nacional"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción permite determinar si una normativa nacional es compatible con la legislación de la UE?",
+    "opciones": [
+      "Recurso de casación",
+      "Procedimiento prejudicial",
+      "Procedimiento de infracción",
+      "Recurso por omisión"
+    ],
+    "respuestaCorrecta": "Procedimiento de infracción"
+  },
+  {
+    "pregunta": "¿Quién puede emprender un procedimiento de infracción contra un país miembro?",
+    "opciones": [
+      "Solo la Comisión Europea",
+      "El Parlamento Europeo y el Consejo",
+      "La Comisión Europea u otro país miembro",
+      "Solo el Tribunal General"
+    ],
+    "respuestaCorrecta": "La Comisión Europea u otro país miembro"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un país incumple la legislación europea?",
+    "opciones": [
+      "Se suspende su membresía",
+      "Debe modificar su constitución",
+      "Debe remediarlo o enfrentarse a sanciones",
+      "Pierde su derecho de voto"
+    ],
+    "respuestaCorrecta": "Debe remediarlo o enfrentarse a sanciones"
+  },
+  {
+    "pregunta": "¿Qué tipo de recurso permite solicitar la anulación de normas europeas?",
+    "opciones": [
+      "Recurso de casación",
+      "Procedimiento de infracción",
+      "Recurso por omisión",
+      "Recurso de anulación"
+    ],
+    "respuestaCorrecta": "Recurso de anulación"
+  },
+  {
+    "pregunta": "¿Quién puede solicitar al Tribunal la anulación de una norma europea?",
+    "opciones": [
+      "Solo el Parlamento Europeo",
+      "Gobiernos nacionales, Consejo de la UE y, en algunos casos, el Parlamento Europeo",
+      "Solo el Consejo Europeo",
+      "El Comité de las Regiones"
+    ],
+    "respuestaCorrecta": "Gobiernos nacionales, Consejo de la UE y, en algunos casos, el Parlamento Europeo"
+  },
+  {
+    "pregunta": "¿En qué caso puede un particular solicitar la anulación de una norma europea?",
+    "opciones": [
+      "Si se refiere a impuestos",
+      "Si le afecta directamente",
+      "Si tiene residencia en Bruselas",
+      "Si pertenece al TJUE"
+    ],
+    "respuestaCorrecta": "Si le afecta directamente"
+  },
+  {
+    "pregunta": "¿Qué recurso se utiliza si una institución de la UE no toma una decisión cuando debe hacerlo?",
+    "opciones": [
+      "Recurso por omisión",
+      "Recurso de casación",
+      "Procedimiento de infracción",
+      "Recurso de urgencia"
+    ],
+    "respuestaCorrecta": "Recurso por omisión"
+  },
+  {
+    "pregunta": "¿Quién puede presentar un recurso por omisión?",
+    "opciones": [
+      "Solo el Parlamento Europeo",
+      "Solo el Consejo de la UE",
+      "Gobiernos nacionales, otras instituciones o particulares en ciertos casos",
+      "Solamente los jueces nacionales"
+    ],
+    "respuestaCorrecta": "Gobiernos nacionales, otras instituciones o particulares en ciertos casos"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción puede emprender una persona o empresa si se considera perjudicada por la UE?",
+    "opciones": [
+      "Recurso indirecto",
+      "Acción por daños y perjuicios",
+      "Procedimiento de responsabilidad institucional",
+      "Apelación al Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Acción por daños y perjuicios"
+  },
+  {
+    "pregunta": "¿Qué órganos componen el TJUE?",
+    "opciones": [
+      "El Tribunal Constitucional y el Tribunal General",
+      "El Consejo y el Parlamento",
+      "El Tribunal de Justicia y el Tribunal General",
+      "La Comisión y el Tribunal de Cuentas"
+    ],
+    "respuestaCorrecta": "El Tribunal de Justicia y el Tribunal General"
+  },
+  {
+    "pregunta": "¿Qué casos resuelve el Tribunal de Justicia?",
+    "opciones": [
+      "Recursos por omisión",
+      "Cuestiones prejudiciales, recursos de anulación y casación",
+      "Daños civiles y mercantiles",
+      "Derecho penal europeo"
+    ],
+    "respuestaCorrecta": "Cuestiones prejudiciales, recursos de anulación y casación"
+  },
+  {
+    "pregunta": "¿Qué asuntos trata principalmente el Tribunal General?",
+    "opciones": [
+      "Política fiscal",
+      "Marcas comerciales, comercio, competencia y agricultura",
+      "Derechos humanos y medioambiente",
+      "Asuntos exteriores y defensa"
+    ],
+    "respuestaCorrecta": "Marcas comerciales, comercio, competencia y agricultura"
+  },
+  {
+    "pregunta": "¿Quién nombra a los jueces y abogados generales del TJUE?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo Europeo",
+      "Los Gobiernos nacionales",
+      "La Comisión Europea"
+    ],
+    "respuestaCorrecta": "Los Gobiernos nacionales"
+  },
+  {
+    "pregunta": "¿Cuál es la duración del mandato de los jueces del TJUE?",
+    "opciones": [
+      "3 años no renovables",
+      "4 años con posibilidad de reelección",
+      "5 años renovables",
+      "6 años renovables"
+    ],
+    "respuestaCorrecta": "6 años renovables"
+  },
+  {
+    "pregunta": "¿Qué se asigna a cada asunto en el Tribunal de Justicia?",
+    "opciones": [
+      "Un Comité de Revisión",
+      "Un relator del Parlamento",
+      "Un juez ponente y un abogado general",
+      "Un grupo de expertos"
+    ],
+    "respuestaCorrecta": "Un juez ponente y un abogado general"
+  },
+  {
+    "pregunta": "¿Qué sucede en la fase escrita del procedimiento ante el Tribunal de Justicia?",
+    "opciones": [
+      "Solo se celebra una vista oral",
+      "Se resuelve directamente el caso",
+      "Las partes presentan alegaciones por escrito",
+      "Solo intervienen los abogados generales"
+    ],
+    "respuestaCorrecta": "Las partes presentan alegaciones por escrito"
+  },
+  {
+    "pregunta": "¿Quién puede presentar observaciones durante la fase escrita?",
+    "opciones": [
+      "Solo los abogados de las partes",
+      "El juez ponente y el abogado general",
+      "Administraciones nacionales, instituciones europeas y particulares en ciertos casos",
+      "Solamente los jueces titulares"
+    ],
+    "respuestaCorrecta": "Administraciones nacionales, instituciones europeas y particulares en ciertos casos"
+  },
+  {
+    "pregunta": "¿Cuál es el rol del juez ponente en la fase escrita?",
+    "opciones": [
+      "Decide la sentencia",
+      "Resume las alegaciones y observaciones",
+      "Interroga a las partes",
+      "Preside la vista oral"
+    ],
+    "respuestaCorrecta": "Resume las alegaciones y observaciones"
+  },
+  {
+    "pregunta": "¿Qué determina el número de jueces que instruyen un asunto en el Tribunal?",
+    "opciones": [
+      "El abogado general",
+      "La antigüedad del caso",
+      "La importancia o complejidad del asunto",
+      "El tipo de recurso presentado"
+    ],
+    "respuestaCorrecta": "La importancia o complejidad del asunto"
+  },
+  {
+    "pregunta": "¿Cuántos jueces suelen instruir la mayoría de los asuntos en el Tribunal de Justicia?",
+    "opciones": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "respuestaCorrecta": "5"
+  },
+  {
+    "pregunta": "¿Cuándo se celebra una vista pública?",
+    "opciones": [
+      "Siempre, en todos los procedimientos",
+      "Cuando así lo decide el abogado general",
+      "Cuando lo decide el Tribunal",
+      "Solo en recursos de anulación"
+    ],
+    "respuestaCorrecta": "Cuando lo decide el Tribunal"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el Tribunal solicita dictamen al abogado general?",
+    "opciones": [
+      "Se suspende el juicio",
+      "El dictamen se emite semanas después de la vista",
+      "Debe intervenir la Comisión Europea",
+      "Se convoca un nuevo juicio"
+    ],
+    "respuestaCorrecta": "El dictamen se emite semanas después de la vista"
+  },
+  {
+    "pregunta": "¿Cuál es la última fase del procedimiento ante el TJUE?",
+    "opciones": [
+      "Audiencia de apelación",
+      "Emisión del dictamen por el abogado general",
+      "Deliberación y veredicto por los jueces",
+      "Informe del Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Deliberación y veredicto por los jueces"
+  },
+  {
+    "pregunta": "¿Qué diferencia al procedimiento del Tribunal General respecto al TJUE?",
+    "opciones": [
+      "No existe fase escrita",
+      "Se celebra siempre vista pública",
+      "Suelen instruir 3 jueces y no hay abogado general",
+      "Se limita a sentencias económicas"
+    ],
+    "respuestaCorrecta": "Suelen instruir 3 jueces y no hay abogado general"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al Derecho originario de la UE?",
+    "opciones": [
+      "Se compone de reglamentos internos del Parlamento",
+      "Son normas de aplicación regional",
+      "Son normas jurídico-internacionales",
+      "No tienen supremacía jerárquica"
+    ],
+    "respuestaCorrecta": "Son normas jurídico-internacionales"
+  },
+  {
+    "pregunta": "¿Qué tipo de normas forman parte del Derecho originario?",
+    "opciones": [
+      "Reglamentos y directivas",
+      "Tratados Constitutivos y sus modificaciones",
+      "Leyes nacionales adaptadas a la UE",
+      "Recomendaciones del Consejo"
+    ],
+    "respuestaCorrecta": "Tratados Constitutivos y sus modificaciones"
+  },
+  {
+    "pregunta": "¿Qué tipo de Derecho se añade a la división entre originario y derivado?",
+    "opciones": [
+      "Derecho institucional",
+      "Derecho comunitario interno",
+      "Derecho complementario",
+      "Derecho civil europeo"
+    ],
+    "respuestaCorrecta": "Derecho complementario"
+  },
+  {
+    "pregunta": "¿Qué elementos componen el Derecho complementario?",
+    "opciones": [
+      "Solo jurisprudencia",
+      "Normas internas y presupuestos",
+      "Principios generales, costumbre y jurisprudencia",
+      "Tratados bilaterales"
+    ],
+    "respuestaCorrecta": "Principios generales, costumbre y jurisprudencia"
+  },
+  {
+    "pregunta": "¿Qué jerarquía tiene el Derecho originario dentro del sistema normativo de la UE?",
+    "opciones": [
+      "Nivel intermedio",
+      "Normativa suprema",
+      "Normativa subsidiaria",
+      "Igual que el Derecho derivado"
+    ],
+    "respuestaCorrecta": "Normativa suprema"
+  },
+  {
+    "pregunta": "¿Qué derecho se aplica formal y materialmente al Derecho originario?",
+    "opciones": [
+      "Derecho Civil Europeo",
+      "Derecho Internacional",
+      "Derecho Administrativo",
+      "Derecho Penal Común"
+    ],
+    "respuestaCorrecta": "Derecho Internacional"
+  },
+  {
+    "pregunta": "¿Qué carácter presentan las normas esenciales del Derecho originario de la UE?",
+    "opciones": [
+      "Son normas de aplicación local",
+      "Tienen valor administrativo únicamente",
+      "Presentan una dimensión constitucional y son preeminentes",
+      "Solo aplican a los Estados fundadores"
+    ],
+    "respuestaCorrecta": "Presentan una dimensión constitucional y son preeminentes"
+  },
+  {
+    "pregunta": "¿Cuál es una característica del Derecho originario en cuanto a su contenido?",
+    "opciones": [
+      "No regula libertades fundamentales",
+      "Solo contiene normas financieras",
+      "Contiene regulaciones sobre libertades comunitarias y políticas comunes",
+      "Tiene carácter exclusivamente simbólico"
+    ],
+    "respuestaCorrecta": "Contiene regulaciones sobre libertades comunitarias y políticas comunes"
+  },
+  {
+    "pregunta": "¿Qué forma el Derecho derivado de la UE?",
+    "opciones": [
+      "Solo tratados bilaterales",
+      "Normas nacionales adaptadas",
+      "Disposiciones normativas de las instituciones con competencia conforme a los Tratados",
+      "Recomendaciones no vinculantes"
+    ],
+    "respuestaCorrecta": "Disposiciones normativas de las instituciones con competencia conforme a los Tratados"
+  },
+  {
+    "pregunta": "¿Cuál es el fundamento del Derecho derivado?",
+    "opciones": [
+      "La jurisprudencia nacional",
+      "El Derecho internacional público",
+      "Las normas constitutivas",
+      "Los acuerdos entre Estados miembros"
+    ],
+    "respuestaCorrecta": "Las normas constitutivas"
+  },
+  {
+    "pregunta": "¿Qué excepción no se incluye dentro del Derecho derivado?",
+    "opciones": [
+      "Los reglamentos",
+      "El Derecho no escrito",
+      "Las decisiones",
+      "Las directivas"
+    ],
+    "respuestaCorrecta": "El Derecho no escrito"
+  },
+  {
+    "pregunta": "¿Qué caracteriza la eficacia del Derecho derivado?",
+    "opciones": [
+      "Tiene solo efectos internos",
+      "Es simbólico pero no aplicable",
+      "Puede tener eficacia vertical y horizontal",
+      "Depende exclusivamente del derecho nacional"
+    ],
+    "respuestaCorrecta": "Puede tener eficacia vertical y horizontal"
+  },
+  {
+    "pregunta": "¿Qué implica la eficacia vertical del Derecho derivado?",
+    "opciones": [
+      "Relaciones entre particulares",
+      "Relaciones entre Estados miembros",
+      "Relaciones entre ciudadanos y la UE",
+      "Relaciones entre ciudadanos y el TJUE"
+    ],
+    "respuestaCorrecta": "Relaciones entre ciudadanos y la UE"
+  },
+  {
+    "pregunta": "¿Qué implica la eficacia horizontal del Derecho derivado?",
+    "opciones": [
+      "Relaciones entre gobiernos",
+      "Relaciones entre la Comisión y el Parlamento",
+      "Relaciones entre particulares",
+      "Relaciones entre jueces y fiscales"
+    ],
+    "respuestaCorrecta": "Relaciones entre particulares"
+  },
+  {
+    "pregunta": "¿Cuál es la principal fuente del Derecho derivado de la UE?",
+    "opciones": [
+      "La directiva",
+      "El tratado constitutivo",
+      "El reglamento",
+      "La decisión"
+    ],
+    "respuestaCorrecta": "El reglamento"
+  },
+  {
+    "pregunta": "¿Qué carácter tiene el reglamento dentro del Derecho derivado?",
+    "opciones": [
+      "Es una norma individual",
+      "Tiene alcance general e impersonal",
+      "Solo aplica a ciertos Estados",
+      "Depende de la ratificación parlamentaria"
+    ],
+    "respuestaCorrecta": "Tiene alcance general e impersonal"
+  },
+  {
+    "pregunta": "¿Qué característica tiene la directiva como norma jurídica?",
+    "opciones": [
+      "Es equivalente a un reglamento",
+      "Tiene alcance general obligatorio en todos sus elementos",
+      "Ofrece un método de legislación en dos etapas",
+      "Es una simple recomendación"
+    ],
+    "respuestaCorrecta": "Ofrece un método de legislación en dos etapas"
+  },
+  {
+    "pregunta": "¿Qué permite la directiva a los Estados miembros?",
+    "opciones": [
+      "Aplicarla de forma opcional",
+      "Ignorar sus objetivos",
+      "Adaptarla respetando particularidades nacionales",
+      "Transformarla en tratados bilaterales"
+    ],
+    "respuestaCorrecta": "Adaptarla respetando particularidades nacionales"
+  },
+  {
+    "pregunta": "¿Qué diferencia a la decisión del reglamento?",
+    "opciones": [
+      "Tiene alcance general",
+      "Obliga solo a sus destinatarios",
+      "No es obligatoria",
+      "Es aplicada solo por el TJUE"
+    ],
+    "respuestaCorrecta": "Obliga solo a sus destinatarios"
+  },
+  {
+    "pregunta": "¿Cómo se puede asimilar la decisión dentro del Derecho nacional?",
+    "opciones": [
+      "A una norma constitucional",
+      "A un decreto-ley",
+      "A un acto administrativo individual",
+      "A una ley orgánica"
+    ],
+    "respuestaCorrecta": "A un acto administrativo individual"
+  },
+  {
+    "pregunta": "¿Qué característica distingue a la decisión respecto a la directiva?",
+    "opciones": [
+      "Es optativa para los Estados",
+      "Es obligatoria solo en cuanto al resultado",
+      "Es obligatoria en todos sus elementos",
+      "Se aplica mediante leyes nacionales únicamente"
+    ],
+    "respuestaCorrecta": "Es obligatoria en todos sus elementos"
+  },
+  {
+    "pregunta": "¿Qué conserva el Estado al aplicar una directiva europea?",
+    "opciones": [
+      "El poder legislativo total",
+      "La elección del resultado a lograr",
+      "La elección de la forma jurídica de aplicación",
+      "La potestad sancionadora"
+    ],
+    "respuestaCorrecta": "La elección de la forma jurídica de aplicación"
+  },
+  {
+    "pregunta": "¿Cuándo una directiva produce efecto directo?",
+    "opciones": [
+      "Cuando el destinatario es un Estado",
+      "Siempre, sin excepción",
+      "Solo cuando lo decide el TJUE",
+      "Cuando el destinatario es un particular o empresa"
+    ],
+    "respuestaCorrecta": "Cuando el destinatario es un particular o empresa"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el destinatario de una directiva es un Estado?",
+    "opciones": [
+      "El efecto directo se mantiene igual",
+      "Solo las medidas nacionales pueden modificar la situación jurídica",
+      "Se aplica automáticamente sin adaptación",
+      "Se convierte en recomendación"
+    ],
+    "respuestaCorrecta": "Solo las medidas nacionales pueden modificar la situación jurídica"
+  },
+  {
+    "pregunta": "¿Qué son los acuerdos interinstitucionales según el artículo 295 TFUE?",
+    "opciones": [
+      "Normas vinculantes de obligado cumplimiento",
+      "Instrumentos para cooperación entre instituciones de la UE",
+      "Tratados entre Estados miembros",
+      "Resoluciones judiciales"
+    ],
+    "respuestaCorrecta": "Instrumentos para cooperación entre instituciones de la UE"
+  },
+  {
+    "pregunta": "¿Qué ámbitos regula especialmente el artículo 218 TFUE?",
+    "opciones": [
+      "Educación y medio ambiente",
+      "Seguridad social",
+      "Política exterior y de seguridad",
+      "Agricultura y pesca"
+    ],
+    "respuestaCorrecta": "Política exterior y de seguridad"
+  },
+  {
+    "pregunta": "¿Qué distingue a las recomendaciones y dictámenes dentro del Derecho de la UE?",
+    "opciones": [
+      "Tienen carácter vinculante",
+      "No vinculan jurídicamente",
+      "Son normas constitucionales",
+      "Son decretos europeos"
+    ],
+    "respuestaCorrecta": "No vinculan jurídicamente"
+  },
+  {
+    "pregunta": "¿Qué función cumplen las recomendaciones en el Derecho comunitario?",
+    "opciones": [
+      "Imponer sanciones",
+      "Obligar al cumplimiento inmediato",
+      "Invitar a adoptar conductas",
+      "Emitir resoluciones judiciales"
+    ],
+    "respuestaCorrecta": "Invitar a adoptar conductas"
+  },
+  {
+    "pregunta": "¿Qué similitud tienen las recomendaciones con las directivas?",
+    "opciones": [
+      "Son normas de aplicación obligatoria",
+      "Tienen alcance constitucional",
+      "Actúan como directivas no obligatorias",
+      "Reemplazan a los reglamentos"
+    ],
+    "respuestaCorrecta": "Actúan como directivas no obligatorias"
+  },
+  {
+    "pregunta": "¿Qué tipo de fuente se considera el Derecho complementario?",
+    "opciones": [
+      "Derecho originario",
+      "Derecho derivado",
+      "Derecho no escrito y normas internacionales",
+      "Derecho legislativo nacional"
+    ],
+    "respuestaCorrecta": "Derecho no escrito y normas internacionales"
+  },
+  {
+    "pregunta": "¿Qué elementos forman parte del Derecho internacional como fuente del Derecho comunitario?",
+    "opciones": [
+      "Normas regionales",
+      "Decretos ejecutivos",
+      "Acuerdos entre Estados y con terceros",
+      "Sentencias del TJUE"
+    ],
+    "respuestaCorrecta": "Acuerdos entre Estados y con terceros"
+  },
+  {
+    "pregunta": "¿Qué tipo de acuerdos entre Estados miembros se incluyen como fuente de Derecho internacional?",
+    "opciones": [
+      "Convenios de libre comercio",
+      "Acuerdos concluidos en Consejo",
+      "Ordenanzas municipales",
+      "Tratados firmados por el Parlamento"
+    ],
+    "respuestaCorrecta": "Acuerdos concluidos en Consejo"
+  },
+  {
+    "pregunta": "¿Qué valor tienen las declaraciones y resoluciones adoptadas de común acuerdo entre Estados miembros?",
+    "opciones": [
+      "Carecen de cualquier valor jurídico",
+      "Se consideran fuentes del Derecho internacional",
+      "Solo tienen valor simbólico",
+      "Sustituyen a las directivas"
+    ],
+    "respuestaCorrecta": "Se consideran fuentes del Derecho internacional"
+  },
+  {
+    "pregunta": "¿Qué fuentes forman parte del Derecho no escrito comunitario?",
+    "opciones": [
+      "Solo costumbre",
+      "Solo jurisprudencia",
+      "Principios generales, jurisprudencia y costumbre",
+      "Reglamentos y decisiones"
+    ],
+    "respuestaCorrecta": "Principios generales, jurisprudencia y costumbre"
+  },
+  {
+    "pregunta": "¿Cómo se clasifican los principios generales del Derecho en el ámbito comunitario?",
+    "opciones": [
+      "En principios locales y nacionales",
+      "En principios funcionales",
+      "En principios constitucionales del sistema",
+      "En principios legales y parlamentarios"
+    ],
+    "respuestaCorrecta": "En principios constitucionales del sistema"
+  },
+  {
+    "pregunta": "¿Cuál es la función de los principios constitucionales del Derecho comunitario?",
+    "opciones": [
+      "Limitar el poder judicial",
+      "Informar todo el ordenamiento jurídico comunitario",
+      "Regular exclusivamente la política exterior",
+      "Controlar la Comisión Europea"
+    ],
+    "respuestaCorrecta": "Informar todo el ordenamiento jurídico comunitario"
+  },
+  {
+    "pregunta": "¿Qué principio implica que la Unión Europea solo puede actuar en los ámbitos que le han sido atribuidos?",
+    "opciones": [
+      "Principio de subsidiariedad",
+      "Principio de proporcionalidad",
+      "Principio de atribución",
+      "Principio de no discriminación"
+    ],
+    "respuestaCorrecta": "Principio de atribución"
+  },
+  {
+    "pregunta": "¿Qué principio exige que la acción de la UE no exceda lo necesario para alcanzar los objetivos de los Tratados?",
+    "opciones": [
+      "Principio de subsidiariedad",
+      "Principio de legalidad",
+      "Principio de atribución",
+      "Principio de proporcionalidad"
+    ],
+    "respuestaCorrecta": "Principio de proporcionalidad"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes principios busca evitar un trato desigual sin justificación objetiva dentro del Derecho comunitario?",
+    "opciones": [
+      "Principio de cooperación leal",
+      "Principio de no discriminación",
+      "Principio de subsidiariedad",
+      "Principio de legalidad"
+    ],
+    "respuestaCorrecta": "Principio de no discriminación"
+  },
+  {
+    "pregunta": "¿Qué principios generales reconoce el TJUE aunque carezcan de formulación normativa concreta?",
+    "opciones": [
+      "Principios constitucionales",
+      "Principios funcionales",
+      "Principios generales del Derecho Comunitario",
+      "Principios estatutarios"
+    ],
+    "respuestaCorrecta": "Principios generales del Derecho Comunitario"
+  },
+  {
+    "pregunta": "¿De dónde se derivan los principios generales del Derecho Comunitario reconocidos por el TJUE?",
+    "opciones": [
+      "De la jurisprudencia interna exclusivamente",
+      "Del Derecho Internacional Público, ordenamientos internos y exigencias comunitarias",
+      "De los reglamentos europeos",
+      "De los acuerdos del Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Del Derecho Internacional Público, ordenamientos internos y exigencias comunitarias"
+  },
+  {
+    "pregunta": "¿Qué instrumento de producción normativa se considera discutible dentro del sistema comunitario?",
+    "opciones": [
+      "La directiva",
+      "La recomendación",
+      "La costumbre",
+      "La decisión"
+    ],
+    "respuestaCorrecta": "La costumbre"
+  },
+  {
+    "pregunta": "¿Qué característica impide considerar plenamente la costumbre como fuente normativa en la UE?",
+    "opciones": [
+      "Está limitada a los Estados fundadores",
+      "No está prevista en los Tratados ni reconocida por el TJUE",
+      "Solo aplica a organismos financieros",
+      "Requiere unanimidad parlamentaria"
+    ],
+    "respuestaCorrecta": "No está prevista en los Tratados ni reconocida por el TJUE"
+  },
+  {
+    "pregunta": "¿Qué han sostenido algunos autores sobre la utilidad de la costumbre en la UE?",
+    "opciones": [
+      "Debe ser eliminada como fuente jurídica",
+      "No tiene cabida en el derecho comunitario",
+      "Es útil para formalizar ciertas prácticas institucionales",
+      "Sustituye a las decisiones del Consejo"
+    ],
+    "respuestaCorrecta": "Es útil para formalizar ciertas prácticas institucionales"
+  },
+  {
+    "pregunta": "¿Qué órgano ha evitado referirse a la costumbre como fuente válida en el sistema comunitario?",
+    "opciones": [
+      "El Consejo de la UE",
+      "El Parlamento Europeo",
+      "El Tribunal de Justicia de la Unión Europea",
+      "La Comisión Europea"
+    ],
+    "respuestaCorrecta": "El Tribunal de Justicia de la Unión Europea"
+  },
+  {
+    "pregunta": "¿Qué función ha atribuido la doctrina a la costumbre en el Derecho comunitario?",
+    "opciones": [
+      "Base del Derecho derivado",
+      "Fundamento de tratados internacionales",
+      "Asiento de actos jurídicos fuera del sistema",
+      "Justificación de sanciones financieras"
+    ],
+    "respuestaCorrecta": "Asiento de actos jurídicos fuera del sistema"
+  },
+  {
+    "pregunta": "¿Qué fuente reviste especial importancia en la resolución de cuestiones prejudiciales?",
+    "opciones": [
+      "Las recomendaciones",
+      "Los tratados internacionales",
+      "La jurisprudencia del TJUE",
+      "Las directivas"
+    ],
+    "respuestaCorrecta": "La jurisprudencia del TJUE"
+  },
+  {
+    "pregunta": "¿Quién plantea las cuestiones prejudiciales para que sean resueltas por el TJUE?",
+    "opciones": [
+      "Los Estados miembros",
+      "La Comisión Europea",
+      "Los tribunales nacionales",
+      "El Consejo Europeo"
+    ],
+    "respuestaCorrecta": "Los tribunales nacionales"
+  },
+  {
+    "pregunta": "¿Qué valor tiene la jurisprudencia en el marco del Derecho comunitario?",
+    "opciones": [
+      "Tiene carácter meramente consultivo",
+      "Es vinculante solo para los jueces nacionales",
+      "Tiene valor interpretativo y de creación de Derecho",
+      "Carece de relevancia jurídica"
+    ],
+    "respuestaCorrecta": "Tiene valor interpretativo y de creación de Derecho"
+  },
+  {
+    "pregunta": "¿Qué papel desempeña el TJUE en la integración jurídica europea?",
+    "opciones": [
+      "Coordina los reglamentos financieros",
+      "Define la política exterior",
+      "Establece jurisprudencia obligatoria",
+      "Ejecuta las sanciones impuestas por la UE"
+    ],
+    "respuestaCorrecta": "Establece jurisprudencia obligatoria"
+  },
+  {
+    "pregunta": "¿Qué diferencia esencial existe entre los principios generales y las normas escritas del Derecho comunitario?",
+    "opciones": [
+      "Los principios son vinculantes y las normas no",
+      "Los principios carecen de formulación normativa concreta",
+      "Las normas son opcionales y los principios son obligatorios",
+      "No existe ninguna diferencia relevante"
+    ],
+    "respuestaCorrecta": "Los principios carecen de formulación normativa concreta"
+  }
+]

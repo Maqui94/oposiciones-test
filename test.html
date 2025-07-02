@@ -23,6 +23,7 @@
   <a href="index.html" class="btn btn-outline-secondary rounded-circle me-3" title="Volver al inicio">
     <i class="fas fa-arrow-left"></i>
   </a>
+  <button class="btn btn-danger" onclick="abrirFormularioReporte()">Reportar</button>
   <h3 class="text-center flex-grow-1 text-wrap mb-0" id="tituloTest"></h3>
   <div id="timer" class="fw-bold fs-5 text-dark ms-3 me-2">
     <i class="fas fa-clock me-1"></i> <span>0:00</span>
@@ -43,6 +44,20 @@
 
 <!-- Botón café flotante -->
 <button id="btnCafeTest" class="boton-circular boton-cafe d-none" title="Mostrar donación">☕</button>
+<div id="modalReporte" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:#00000088; z-index:9999; justify-content:center; align-items:center;">
+  <div style="background:#fff; padding:20px; border-radius:12px; width:90%; max-width:500px;">
+    <h5>Reportar Pregunta</h5>
+    <!--Modal reporte-->
+  <form id="formReporte" method="POST" action="https://formspree.io/f/mblyboov">
+  <input type="hidden" name="_subject" id="asuntoReporte" value="Incidencia0125">
+  <textarea name="message" id="contenidoReporte" rows="6" class="form-control mb-3" placeholder="Describe el problema..."></textarea>
+  <input type="hidden" name="_captcha" value="false">
+  <button type="submit" class="btn btn-primary">Enviar</button>
+  <button type="button" class="btn btn-secondary" onclick="cerrarFormularioReporte()">Cancelar</button>
+</form>
+<div id="mensajeExito" class="text-success mt-2 d-none">✅ Reporte enviado correctamente.</div>
+  </div>
+</div>
   <!-- Script -->
   <script src="scripts/test.js"></script>
 </body>

@@ -1,0 +1,1352 @@
+[
+  {
+    "pregunta": "¿Qué son las redes sociales según el documento?",
+    "opciones": [
+      "Plataformas para ver televisión en línea",
+      "Sistemas operativos con funciones de comunicación",
+      "Sitios web o programas que permiten contacto entre miembros de una comunidad",
+      "Foros privados de empresas tecnológicas"
+    ],
+    "respuestaCorrecta": "Sitios web o programas que permiten contacto entre miembros de una comunidad"
+  },
+  {
+    "pregunta": "¿Qué se necesita normalmente para registrarse en una red social?",
+    "opciones": [
+      "Un nombre de usuario aleatorio",
+      "Una dirección postal",
+      "Una cuenta de correo electrónico o número de teléfono",
+      "Una tarjeta de crédito"
+    ],
+    "respuestaCorrecta": "Una cuenta de correo electrónico o número de teléfono"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de utilizar un seudónimo o alias en redes sociales?",
+    "opciones": [
+      "Aumentar la visibilidad del perfil",
+      "Mejorar la seguridad del servidor",
+      "No proporcionar datos personales a otros usuarios",
+      "Evitar bloqueos por parte de la red"
+    ],
+    "respuestaCorrecta": "No proporcionar datos personales a otros usuarios"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es cierta sobre el coste de las redes sociales?",
+    "opciones": [
+      "Todas requieren pago mensual",
+      "Solo se puede acceder pagando",
+      "La mayoría son gratuitas, aunque algunas pueden requerir pago",
+      "El uso empresarial siempre es de pago"
+    ],
+    "respuestaCorrecta": "La mayoría son gratuitas, aunque algunas pueden requerir pago"
+  },
+  {
+    "pregunta": "¿Qué factor ha incrementado la popularidad de las redes sociales?",
+    "opciones": [
+      "La censura digital",
+      "La expansión de conexiones satelitales",
+      "El acceso desde dispositivos móviles",
+      "La eliminación de publicidad"
+    ],
+    "respuestaCorrecta": "El acceso desde dispositivos móviles"
+  },
+  {
+    "pregunta": "¿Qué uso han adoptado muchas empresas respecto a las redes sociales?",
+    "opciones": [
+      "Evitan utilizarlas por seguridad",
+      "Canales de comunicación con sus clientes",
+      "Solo las usan para juegos online",
+      "Las bloquean en sus redes corporativas"
+    ],
+    "respuestaCorrecta": "Canales de comunicación con sus clientes"
+  },
+  {
+    "pregunta": "¿Cuál fue una de las funciones destacadas de aplicaciones como MSN Messenger?",
+    "opciones": [
+      "Ver televisión en vivo",
+      "Enviar correos electrónicos",
+      "Comunicación en tiempo real y gratuita entre personas distantes",
+      "Realizar compras por internet"
+    ],
+    "respuestaCorrecta": "Comunicación en tiempo real y gratuita entre personas distantes"
+  },
+  {
+    "pregunta": "¿Qué cambio trajo consigo el fenómeno de los chats?",
+    "opciones": [
+      "Limitar el acceso a redes",
+      "Interacción simultánea de múltiples usuarios sobre un tema común",
+      "Eliminación de perfiles anónimos",
+      "Chats solo para contactos verificados"
+    ],
+    "respuestaCorrecta": "Interacción simultánea de múltiples usuarios sobre un tema común"
+  },
+  {
+    "pregunta": "¿Qué característica tenían algunos chats específicos?",
+    "opciones": [
+      "Requerían pago obligatorio",
+      "Solo eran accesibles desde ordenadores de sobremesa",
+      "Podían ser públicos o restringidos",
+      "Exigían conexión con VPN"
+    ],
+    "respuestaCorrecta": "Podían ser públicos o restringidos"
+  },
+  {
+    "pregunta": "¿Qué red social fue creada en el año 2002 con el objetivo de conectar personas conocidas y sus amigos?",
+    "opciones": [
+      "Linkedin",
+      "Friendster",
+      "Myspace",
+      "Jaiku"
+    ],
+    "respuestaCorrecta": "Friendster"
+  },
+  {
+    "pregunta": "¿Qué redes sociales surgieron tras el modelo de Friendster?",
+    "opciones": [
+      "Instagram, TikTok, YouTube",
+      "MSN, ICQ, Napster",
+      "Myspace, Linkedin, Classmates.com, Jaiku",
+      "Outlook, Skype, Zoom"
+    ],
+    "respuestaCorrecta": "Myspace, Linkedin, Classmates.com, Jaiku"
+  },
+  {
+    "pregunta": "¿Qué factor ha llevado al declive de algunas redes sociales?",
+    "opciones": [
+      "Falta de publicidad",
+      "Migración de usuarios y escasa innovación",
+      "Saturación de servidores",
+      "Falta de regulación legal"
+    ],
+    "respuestaCorrecta": "Migración de usuarios y escasa innovación"
+  },
+  {
+    "pregunta": "¿Qué permitía el uso de las primeras webs comunitarias en la World Wide Web?",
+    "opciones": [
+      "Eliminación de contenido duplicado",
+      "Intercambiar información mediante archivos o mensajes",
+      "Acceso exclusivo para expertos",
+      "Pago obligatorio para comunicarse"
+    ],
+    "respuestaCorrecta": "Intercambiar información mediante archivos o mensajes"
+  },
+  {
+    "pregunta": "¿Qué tipo de afinidades suelen unir a los miembros de una red social?",
+    "opciones": [
+      "Preferencias alimenticias",
+      "Ideologías religiosas solamente",
+      "Amistad, trabajo o familia",
+      "Interés exclusivo por videojuegos"
+    ],
+    "respuestaCorrecta": "Amistad, trabajo o familia"
+  },
+  {
+    "pregunta": "¿Qué característica NO se menciona como típica de las redes sociales en el texto?",
+    "opciones": [
+      "Requieren registro",
+      "Pueden ser gratuitas o de pago",
+      "Permiten contacto entre desconocidos exclusivamente",
+      "Se accede desde dispositivos móviles"
+    ],
+    "respuestaCorrecta": "Permiten contacto entre desconocidos exclusivamente"
+  },
+  {
+    "pregunta": "¿Qué permite hacer Facebook una vez registrado?",
+    "opciones": [
+      "Enviar correos masivos",
+      "Crear videojuegos propios",
+      "Agregar amigos, subir fotos y compartir contenidos",
+      "Emitir señales de emergencia"
+    ],
+    "respuestaCorrecta": "Agregar amigos, subir fotos y compartir contenidos"
+  },
+  {
+    "pregunta": "¿Cuál fue una de las funciones clave que impulsaron la popularidad de Facebook entre los jóvenes?",
+    "opciones": [
+      "Compartir documentos PDF",
+      "Subir y etiquetar fotos",
+      "Transmitir partidos deportivos",
+      "Enviar dinero entre amigos"
+    ],
+    "respuestaCorrecta": "Subir y etiquetar fotos"
+  },
+  {
+    "pregunta": "¿Qué función tiene el botón 'Me gusta' en Facebook?",
+    "opciones": [
+      "Validar la identidad del usuario",
+      "Compartir contenido automáticamente",
+      "Registrar los gustos del usuario",
+      "Activar el modo oscuro"
+    ],
+    "respuestaCorrecta": "Registrar los gustos del usuario"
+  },
+  {
+    "pregunta": "¿Quiénes fueron los creadores de Facebook?",
+    "opciones": [
+      "Steve Jobs, Bill Gates y Larry Page",
+      "Mark Zuckerberg, Eduardo Saverin, Chris Hughes y Dustin Moskovitz",
+      "Elon Musk, Jeff Bezos y Sergey Brin",
+      "Satya Nadella y Tim Cook"
+    ],
+    "respuestaCorrecta": "Mark Zuckerberg, Eduardo Saverin, Chris Hughes y Dustin Moskovitz"
+  },
+  {
+    "pregunta": "¿Qué objetivo inicial tenía Facebook?",
+    "opciones": [
+      "Crear una red de compras online",
+      "Conectar a los estudiantes de Harvard para compartir experiencias",
+      "Ofrecer servicios bancarios digitales",
+      "Desarrollar un sistema operativo"
+    ],
+    "respuestaCorrecta": "Conectar a los estudiantes de Harvard para compartir experiencias"
+  },
+  {
+    "pregunta": "¿Qué requisito existía inicialmente para registrarse en Facebook?",
+    "opciones": [
+      "Tener cuenta de Twitter",
+      "Ser mayor de edad",
+      "Ser alumno de Harvard",
+      "Disponer de un número de teléfono"
+    ],
+    "respuestaCorrecta": "Ser alumno de Harvard"
+  },
+  {
+    "pregunta": "¿Qué ocurrió tras el éxito inicial de Facebook en Harvard?",
+    "opciones": [
+      "Se cerró la red por falta de usuarios",
+      "Se convirtió en red de pago",
+      "Se amplió a otras universidades",
+      "Se fusionó con WhatsApp"
+    ],
+    "respuestaCorrecta": "Se amplió a otras universidades"
+  },
+  {
+    "pregunta": "¿Cuándo se permitió el acceso a cualquier persona con correo electrónico?",
+    "opciones": [
+      "Desde el inicio",
+      "Después del primer mes de lanzamiento",
+      "En el año 2015",
+      "Tras adquirir Instagram"
+    ],
+    "respuestaCorrecta": "Después del primer mes de lanzamiento"
+  },
+  {
+    "pregunta": "¿Qué idiomas fueron incorporados en la traducción de Facebook?",
+    "opciones": [
+      "Inglés, chino y japonés",
+      "Español, francés y alemán",
+      "Portugués, italiano y ruso",
+      "Árabe, coreano y hindi"
+    ],
+    "respuestaCorrecta": "Español, francés y alemán"
+  },
+  {
+    "pregunta": "¿Cuántos usuarios tenía Facebook en 2009?",
+    "opciones": [
+      "250 millones",
+      "500 millones",
+      "1.000 millones",
+      "100 millones"
+    ],
+    "respuestaCorrecta": "250 millones"
+  },
+  {
+    "pregunta": "¿Qué película se estrenó en 2010 relacionada con Facebook?",
+    "opciones": [
+      "La red secreta",
+      "La red social",
+      "Código Zuckerberg",
+      "Conexión Harvard"
+    ],
+    "respuestaCorrecta": "La red social"
+  },
+  {
+    "pregunta": "¿Qué reconocimiento recibió Mark Zuckerberg en 2010?",
+    "opciones": [
+      "Premio Nobel",
+      "Persona del año por la revista Time",
+      "Doctor honoris causa en Yale",
+      "Medalla de Innovación Tecnológica"
+    ],
+    "respuestaCorrecta": "Persona del año por la revista Time"
+  },
+  {
+    "pregunta": "¿Qué impacto tuvo la llegada de Facebook a los smartphones?",
+    "opciones": [
+      "Disminuyó su número de usuarios",
+      "Se convirtió en red de pago",
+      "Se convirtió en la mayor red social del planeta",
+      "Cayó en desuso frente a Twitter"
+    ],
+    "respuestaCorrecta": "Se convirtió en la mayor red social del planeta"
+  },
+  {
+    "pregunta": "¿Qué redes sociales fueron adquiridas por Facebook?",
+    "opciones": [
+      "Telegram y Signal",
+      "Instagram y WhatsApp",
+      "YouTube y TikTok",
+      "Snapchat y Pinterest"
+    ],
+    "respuestaCorrecta": "Instagram y WhatsApp"
+  },
+  {
+    "pregunta": "¿Qué uso le da actualmente la Policía Foral a Facebook?",
+    "opciones": [
+      "Capacitar a nuevos agentes",
+      "Difundir contenidos de entretenimiento",
+      "Informar sobre seguridad, emergencias y novedades",
+      "Recaudar fondos públicos"
+    ],
+    "respuestaCorrecta": "Informar sobre seguridad, emergencias y novedades"
+  },
+  {
+    "pregunta": "¿Qué tipo de red social es Twitter?",
+    "opciones": [
+      "Una red de pago para profesionales",
+      "Una red social privada solo para empresas",
+      "Una red social gratuita para enviar y recibir mensajes",
+      "Una plataforma exclusiva de correo electrónico"
+    ],
+    "respuestaCorrecta": "Una red social gratuita para enviar y recibir mensajes"
+  },
+  {
+    "pregunta": "¿Cuál es la longitud máxima de un tuit?",
+    "opciones": [
+      "200 caracteres",
+      "280 caracteres",
+      "140 caracteres",
+      "160 caracteres"
+    ],
+    "respuestaCorrecta": "140 caracteres"
+  },
+  {
+    "pregunta": "¿Qué término se utiliza para referirse a los usuarios que siguen a otros en Twitter?",
+    "opciones": [
+      "Following",
+      "Friends",
+      "Followers",
+      "Contacts"
+    ],
+    "respuestaCorrecta": "Followers"
+  },
+  {
+    "pregunta": "¿Qué caracteriza la relación entre usuarios en Twitter respecto a otras redes?",
+    "opciones": [
+      "Es obligatoriamente bidireccional",
+      "No existe interacción alguna",
+      "No es necesario que sea simétrica",
+      "Solo puede seguirse a cuentas oficiales"
+    ],
+    "respuestaCorrecta": "No es necesario que sea simétrica"
+  },
+  {
+    "pregunta": "¿Qué símbolo se utiliza en Twitter para buscar temas específicos?",
+    "opciones": [
+      "@",
+      "*",
+      "#",
+      "$"
+    ],
+    "respuestaCorrecta": "#"
+  },
+  {
+    "pregunta": "¿Qué permite hacer el uso de hashtags en Twitter?",
+    "opciones": [
+      "Ocultar publicaciones privadas",
+      "Contactar con soporte técnico",
+      "Informarse de tuits sobre un tema concreto",
+      "Limitar la visibilidad de los mensajes"
+    ],
+    "respuestaCorrecta": "Informarse de tuits sobre un tema concreto"
+  },
+  {
+    "pregunta": "¿Quién fue uno de los creadores de Twitter?",
+    "opciones": [
+      "Mark Zuckerberg",
+      "Larry Page",
+      "Jack Dorsey",
+      "Elon Musk"
+    ],
+    "respuestaCorrecta": "Jack Dorsey"
+  },
+  {
+    "pregunta": "¿Con qué propósito se creó originalmente Twitter?",
+    "opciones": [
+      "Publicar noticias de prensa",
+      "Ser un sistema de mensajería para clientes",
+      "Comunicación entre empleados de Odeo",
+      "Una plataforma educativa"
+    ],
+    "respuestaCorrecta": "Comunicación entre empleados de Odeo"
+  },
+  {
+    "pregunta": "¿En qué año fue adquirida Twitter por Elon Musk?",
+    "opciones": [
+      "2020",
+      "2022",
+      "2018",
+      "2023"
+    ],
+    "respuestaCorrecta": "2022"
+  },
+  {
+    "pregunta": "¿Por qué es popular Twitter entre celebridades?",
+    "opciones": [
+      "Permite ocultar la identidad",
+      "No tiene restricciones legales",
+      "Es muy rápido y simple para enviar mensajes",
+      "Se monetiza automáticamente"
+    ],
+    "respuestaCorrecta": "Es muy rápido y simple para enviar mensajes"
+  },
+  {
+    "pregunta": "¿Qué porcentaje aproximado de los mensajes en Twitter son noticias?",
+    "opciones": [
+      "50%",
+      "10%",
+      "4%",
+      "80%"
+    ],
+    "respuestaCorrecta": "4%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de los mensajes en Twitter son considerados frases sin sentido?",
+    "opciones": [
+      "20%",
+      "60%",
+      "80%",
+      "10%"
+    ],
+    "respuestaCorrecta": "80%"
+  },
+  {
+    "pregunta": "¿Qué valor tuvo la compra de Twitter por parte de Elon Musk?",
+    "opciones": [
+      "10.000 millones de dólares",
+      "25.000 millones de dólares",
+      "44.000 millones de dólares",
+      "60.000 millones de dólares"
+    ],
+    "respuestaCorrecta": "44.000 millones de dólares"
+  },
+  {
+    "pregunta": "¿Qué utilidad tiene Twitter como motor de búsqueda?",
+    "opciones": [
+      "Buscar fotos de celebridades",
+      "Consultar películas recomendadas",
+      "Buscar noticias en tiempo real",
+      "Rastrear direcciones IP"
+    ],
+    "respuestaCorrecta": "Buscar noticias en tiempo real"
+  },
+  {
+    "pregunta": "¿Qué uso le da la Policía Foral a Twitter?",
+    "opciones": [
+      "Publicidad comercial",
+      "Transmitir partidos en directo",
+      "Informar sobre su actividad y noticias",
+      "Compartir videos educativos"
+    ],
+    "respuestaCorrecta": "Informar sobre su actividad y noticias"
+  },
+  {
+    "pregunta": "¿Cuál es el principal enfoque de Instagram como red social?",
+    "opciones": [
+      "Mensajes de texto y llamadas",
+      "Publicación de fotos y videos",
+      "Streaming en directo de videojuegos",
+      "Venta de productos online"
+    ],
+    "respuestaCorrecta": "Publicación de fotos y videos"
+  },
+  {
+    "pregunta": "¿Qué dispositivo se usa principalmente para tomar las fotos en Instagram?",
+    "opciones": [
+      "Cámara web",
+      "Cámara profesional DSLR",
+      "Cámara del teléfono móvil",
+      "Tableta gráfica"
+    ],
+    "respuestaCorrecta": "Cámara del teléfono móvil"
+  },
+  {
+    "pregunta": "¿Qué permiten los filtros en Instagram?",
+    "opciones": [
+      "Detectar rostros automáticamente",
+      "Ocultar información del usuario",
+      "Mejorar el enfoque de imágenes borrosas",
+      "Simular el estilo de cámaras como Polaroid o lomográficas"
+    ],
+    "respuestaCorrecta": "Simular el estilo de cámaras como Polaroid o lomográficas"
+  },
+  {
+    "pregunta": "¿Qué tipo de interacción se permite con las publicaciones de otros usuarios?",
+    "opciones": [
+      "Solo visualización sin comentarios",
+      "Descargar sin permiso",
+      "Realizar comentarios y dar ‘me gusta’",
+      "Editar las fotos de otros usuarios"
+    ],
+    "respuestaCorrecta": "Realizar comentarios y dar ‘me gusta’"
+  },
+  {
+    "pregunta": "¿Cuál es una de las razones por las que los videos de Instagram se limitan a 15 segundos?",
+    "opciones": [
+      "Evitar que se suban memes",
+      "Ahorrar espacio de almacenamiento del móvil",
+      "Facilitar la subida rápida y evitar contenido largo",
+      "Permitir edición automática de video"
+    ],
+    "respuestaCorrecta": "Facilitar la subida rápida y evitar contenido largo"
+  },
+  {
+    "pregunta": "¿En qué año nació Instagram?",
+    "opciones": [
+      "2008",
+      "2010",
+      "2012",
+      "2005"
+    ],
+    "respuestaCorrecta": "2010"
+  },
+  {
+    "pregunta": "¿Qué sistema operativo fue el primero en tener la app de Instagram?",
+    "opciones": [
+      "Android",
+      "Windows Phone",
+      "iOS",
+      "Blackberry OS"
+    ],
+    "respuestaCorrecta": "iOS"
+  },
+  {
+    "pregunta": "¿Qué tipo de contenido popularizó especialmente Instagram entre los usuarios?",
+    "opciones": [
+      "Videos educativos",
+      "Publicaciones de memes",
+      "Noticias políticas",
+      "Toma de ‘selfies’"
+    ],
+    "respuestaCorrecta": "Toma de ‘selfies’"
+  },
+  {
+    "pregunta": "¿Por qué se volvió popular Instagram entre los personajes célebres?",
+    "opciones": [
+      "Podían ocultar su identidad real",
+      "Compartían su vida con facilidad",
+      "Permitía transmisión en directo exclusiva",
+      "Tenía filtros especiales para famosos"
+    ],
+    "respuestaCorrecta": "Compartían su vida con facilidad"
+  },
+  {
+    "pregunta": "¿En qué año adquirió Facebook a Instagram?",
+    "opciones": [
+      "2010",
+      "2015",
+      "2012",
+      "2009"
+    ],
+    "respuestaCorrecta": "2012"
+  },
+  {
+    "pregunta": "¿Por qué cantidad de dinero fue adquirida Instagram por Facebook?",
+    "opciones": [
+      "500 millones de dólares",
+      "1000 millones de dólares",
+      "1500 millones de dólares",
+      "300 millones de dólares"
+    ],
+    "respuestaCorrecta": "1000 millones de dólares"
+  },
+  {
+    "pregunta": "¿Qué función permite la integración entre Facebook e Instagram tras la compra?",
+    "opciones": [
+      "Envío de mensajes de voz entre plataformas",
+      "Creación de grupos comunes",
+      "Intercambio de imágenes entre ambas redes",
+      "Sincronización de seguidores"
+    ],
+    "respuestaCorrecta": "Intercambio de imágenes entre ambas redes"
+  },
+  {
+    "pregunta": "¿En qué lugar se encuentra Instagram respecto a otras redes sociales en número de usuarios?",
+    "opciones": [
+      "Fuera del ranking",
+      "Entre las 20 primeras",
+      "Entre las 10 primeras",
+      "La más usada"
+    ],
+    "respuestaCorrecta": "Entre las 10 primeras"
+  },
+  {
+    "pregunta": "¿Qué contenido comparte la Policía Foral en su perfil de Instagram?",
+    "opciones": [
+      "Noticias de prensa",
+      "Selfies de agentes",
+      "Fotografías y videos del cuerpo",
+      "Memes de seguridad vial"
+    ],
+    "respuestaCorrecta": "Fotografías y videos del cuerpo"
+  },
+  {
+    "pregunta": "¿Cuál es el enlace oficial del perfil de Instagram de la Policía Foral?",
+    "opciones": [
+      "https://www.instagram.com/policiaforalna/",
+      "https://www.instagram.com/policiaforal/",
+      "https://www.instagram.com/policiaforal_na/",
+      "https://instagram.policiaforal.na"
+    ],
+    "respuestaCorrecta": "https://www.instagram.com/policiaforal_na/"
+  },
+  {
+    "pregunta": "¿Qué tipo de sistemas operativos soporta WhatsApp?",
+    "opciones": [
+      "Sistemas operativos de escritorio",
+      "Sistemas móviles",
+      "Solo Android",
+      "Solo iOS"
+    ],
+    "respuestaCorrecta": "Sistemas móviles"
+  },
+  {
+    "pregunta": "¿Qué se necesita para usar WhatsApp?",
+    "opciones": [
+      "Una cuenta de correo electrónico",
+      "Un número de teléfono",
+      "Una red WiFi privada",
+      "Una suscripción de pago"
+    ],
+    "respuestaCorrecta": "Un número de teléfono"
+  },
+  {
+    "pregunta": "¿De qué expresión deriva el nombre WhatsApp?",
+    "opciones": [
+      "What a zap",
+      "What’s up",
+      "Wassup",
+      "ChatApp"
+    ],
+    "respuestaCorrecta": "What’s up"
+  },
+  {
+    "pregunta": "¿En qué año fue fundada WhatsApp?",
+    "opciones": [
+      "2010",
+      "2007",
+      "2009",
+      "2011"
+    ],
+    "respuestaCorrecta": "2009"
+  },
+  {
+    "pregunta": "¿Quién fundó WhatsApp?",
+    "opciones": [
+      "Mark Zuckerberg",
+      "Pavel Durov",
+      "Jack Dorsey",
+      "Jan Koum"
+    ],
+    "respuestaCorrecta": "Jan Koum"
+  },
+  {
+    "pregunta": "¿Qué ventaja tenía WhatsApp respecto a los SMS?",
+    "opciones": [
+      "Usaba la red de datos en lugar de la telefónica",
+      "Permitía enviar mensajes a través de fax",
+      "Ofrecía llamadas gratuitas desde el inicio",
+      "Se integraba con redes sociales"
+    ],
+    "respuestaCorrecta": "Usaba la red de datos en lugar de la telefónica"
+  },
+  {
+    "pregunta": "¿Por qué creció rápidamente el número de usuarios de WhatsApp?",
+    "opciones": [
+      "Era compatible con ordenadores desde el principio",
+      "No tenía límite de contactos",
+      "No tenía coste por mensaje como los SMS",
+      "Permitía jugar online"
+    ],
+    "respuestaCorrecta": "No tenía coste por mensaje como los SMS"
+  },
+  {
+    "pregunta": "¿Cuál era el límite de caracteres en los SMS tradicionales?",
+    "opciones": [
+      "120",
+      "160",
+      "200",
+      "140"
+    ],
+    "respuestaCorrecta": "160"
+  },
+  {
+    "pregunta": "¿Qué nuevo tipo de archivo permitió WhatsApp después de imágenes y videos?",
+    "opciones": [
+      "Archivos comprimidos",
+      "Códigos QR",
+      "Archivos de audio",
+      "Archivos ejecutables"
+    ],
+    "respuestaCorrecta": "Archivos de audio"
+  },
+  {
+    "pregunta": "¿Qué funcionalidad hizo que WhatsApp pudiera considerarse una red social?",
+    "opciones": [
+      "El uso de stickers",
+      "La incorporación de historias",
+      "La posibilidad de crear grupos",
+      "La integración con Facebook"
+    ],
+    "respuestaCorrecta": "La posibilidad de crear grupos"
+  },
+  {
+    "pregunta": "¿Qué aspecto destaca del diseño de WhatsApp?",
+    "opciones": [
+      "Alta carga de publicidad",
+      "Juegos integrados",
+      "Simplicidad de comunicación",
+      "Personalización avanzada"
+    ],
+    "respuestaCorrecta": "Simplicidad de comunicación"
+  },
+  {
+    "pregunta": "¿Qué medida de seguridad introdujo WhatsApp en sus mensajes?",
+    "opciones": [
+      "Bloqueo por contraseña",
+      "Mensajes autodestructivos",
+      "Cifrado de extremo a extremo",
+      "Verificación por correo electrónico"
+    ],
+    "respuestaCorrecta": "Cifrado de extremo a extremo"
+  },
+  {
+    "pregunta": "¿Qué permite WhatsApp Web?",
+    "opciones": [
+      "Realizar llamadas desde el navegador",
+      "Acceder desde un navegador mediante código QR",
+      "Instalar la app en Linux",
+      "Enviar mensajes sin internet"
+    ],
+    "respuestaCorrecta": "Acceder desde un navegador mediante código QR"
+  },
+  {
+    "pregunta": "¿Por cuánto fue comprada WhatsApp por Facebook?",
+    "opciones": [
+      "1.000 millones de dólares",
+      "10.000 millones de dólares",
+      "19.000 millones de dólares",
+      "19.9000 millones de dólares"
+    ],
+    "respuestaCorrecta": "19.000 millones de dólares"
+  },
+  {
+    "pregunta": "¿Cuál es la principal competidora de WhatsApp?",
+    "opciones": [
+      "Messenger",
+      "Telegram",
+      "Signal",
+      "WeChat"
+    ],
+    "respuestaCorrecta": "Telegram"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de TikTok en el mercado chino?",
+    "opciones": [
+      "WeChat",
+      "Douyin",
+      "ByteDance",
+      "Musical.ly"
+    ],
+    "respuestaCorrecta": "Douyin"
+  },
+  {
+    "pregunta": "¿Cuál es la empresa propietaria de TikTok?",
+    "opciones": [
+      "Tencent",
+      "Alibaba",
+      "ByteDance",
+      "Huawei"
+    ],
+    "respuestaCorrecta": "ByteDance"
+  },
+  {
+    "pregunta": "¿Qué tipo de contenido se comparte principalmente en TikTok?",
+    "opciones": [
+      "Mensajes de texto cifrados",
+      "Fotografías en formato cuadrado",
+      "Videos cortos en formato vertical",
+      "Documentos PDF de estudio"
+    ],
+    "respuestaCorrecta": "Videos cortos en formato vertical"
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima permitida actualmente para un video en TikTok?",
+    "opciones": [
+      "1 minuto",
+      "3 minutos",
+      "5 minutos",
+      "10 minutos"
+    ],
+    "respuestaCorrecta": "10 minutos"
+  },
+  {
+    "pregunta": "¿Qué característica tiene la reproducción de videos en TikTok?",
+    "opciones": [
+      "Se detienen automáticamente",
+      "Son eliminados tras su visualización",
+      "Se reproducen en bucle infinito",
+      "Solo pueden verse una vez"
+    ],
+    "respuestaCorrecta": "Se reproducen en bucle infinito"
+  },
+  {
+    "pregunta": "¿En qué año se lanzó Douyin en China?",
+    "opciones": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "respuestaCorrecta": "2016"
+  },
+  {
+    "pregunta": "¿Cuándo se lanzó TikTok fuera de China?",
+    "opciones": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "respuestaCorrecta": "2017"
+  },
+  {
+    "pregunta": "¿Qué plataforma se fusionó con TikTok en 2018?",
+    "opciones": [
+      "Snapchat",
+      "Instagram",
+      "Musical.ly",
+      "Vine"
+    ],
+    "respuestaCorrecta": "Musical.ly"
+  },
+  {
+    "pregunta": "¿Cuál fue la fecha de la fusión entre TikTok y Musical.ly?",
+    "opciones": [
+      "1 de enero de 2018",
+      "2 de agosto de 2018",
+      "10 de octubre de 2017",
+      "15 de marzo de 2019"
+    ],
+    "respuestaCorrecta": "2 de agosto de 2018"
+  },
+  {
+    "pregunta": "¿Por qué se considera polémica la aplicación TikTok?",
+    "opciones": [
+      "Por su alto coste de instalación",
+      "Por bloquear usuarios al azar",
+      "Por acusaciones de ciberespionaje",
+      "Por no ser accesible desde iOS"
+    ],
+    "respuestaCorrecta": "Por acusaciones de ciberespionaje"
+  },
+  {
+    "pregunta": "¿Qué países han prohibido el uso de TikTok según el documento?",
+    "opciones": [
+      "India y Bangladesh",
+      "Francia y Alemania",
+      "Canadá y Brasil",
+      "China y Corea del Sur"
+    ],
+    "respuestaCorrecta": "India y Bangladesh"
+  },
+  {
+    "pregunta": "¿Qué medida tomó EE.UU. en 2023 respecto a TikTok?",
+    "opciones": [
+      "Prohibió su uso en todo el país",
+      "Permitió su uso sin restricciones",
+      "Prohibió su instalación en móviles oficiales",
+      "Obligó a ByteDance a vender la app"
+    ],
+    "respuestaCorrecta": "Prohibió su instalación en móviles oficiales"
+  },
+  {
+    "pregunta": "¿Qué intentó hacer el presidente Trump con respecto a TikTok?",
+    "opciones": [
+      "Comprar TikTok",
+      "Prohibir TikTok en EE.UU.",
+      "Convertir TikTok en una app pública",
+      "Financiar a ByteDance"
+    ],
+    "respuestaCorrecta": "Prohibir TikTok en EE.UU."
+  },
+  {
+    "pregunta": "¿Cuál es una de las principales acusaciones técnicas hacia TikTok?",
+    "opciones": [
+      "Reduce el rendimiento del teléfono",
+      "Oculta publicidad",
+      "Recopila datos del hardware y ubicación",
+      "Consume demasiada batería"
+    ],
+    "respuestaCorrecta": "Recopila datos del hardware y ubicación"
+  },
+  {
+    "pregunta": "¿Qué capacidad preocupante se atribuye a TikTok respecto a los dispositivos?",
+    "opciones": [
+      "Acceder a llamadas privadas",
+      "Modificar aplicaciones de terceros",
+      "Instalar archivos en el terminal",
+      "Controlar la cámara frontal"
+    ],
+    "respuestaCorrecta": "Instalar archivos en el terminal"
+  },
+  {
+    "pregunta": "¿Qué es el código malicioso, también conocido como malware?",
+    "opciones": [
+      "Un sistema de encriptación de archivos",
+      "Un programa que accede al sistema sin ser detectado",
+      "Un software de control parental",
+      "Una herramienta de seguridad informática"
+    ],
+    "respuestaCorrecta": "Un programa que accede al sistema sin ser detectado"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una consecuencia directa del robo de datos en una empresa?",
+    "opciones": [
+      "Pérdida de reputación",
+      "Mejora de imagen corporativa",
+      "Cierre del negocio",
+      "Interrupción de la actividad"
+    ],
+    "respuestaCorrecta": "Mejora de imagen corporativa"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes propiedades no pertenece a los virus informáticos?",
+    "opciones": [
+      "Reproducción dentro de la misma computadora",
+      "Necesidad de ejecutarse a través de un archivo huésped",
+      "Ejecución automática independiente",
+      "Alojamiento en ficheros ejecutables"
+    ],
+    "respuestaCorrecta": "Ejecución automática independiente"
+  },
+  {
+    "pregunta": "¿Cómo se propaga un gusano informático?",
+    "opciones": [
+      "Mediante el correo electrónico exclusivamente",
+      "A través de archivos físicos únicamente",
+      "Explotando vulnerabilidades para infectar otros equipos",
+      "Usando software antivirus como medio"
+    ],
+    "respuestaCorrecta": "Explotando vulnerabilidades para infectar otros equipos"
+  },
+  {
+    "pregunta": "¿Cuál es una característica fundamental de los troyanos?",
+    "opciones": [
+      "Tienen una apariencia inofensiva",
+      "Se autorreproducen en el sistema",
+      "Solo infectan dispositivos móviles",
+      "Bloquean el sistema operativo"
+    ],
+    "respuestaCorrecta": "Tienen una apariencia inofensiva"
+  },
+  {
+    "pregunta": "¿Qué funcionalidad maliciosa suelen permitir los troyanos?",
+    "opciones": [
+      "Ejecución automática de copias de seguridad",
+      "Acceso remoto no autorizado",
+      "Actualizaciones del sistema",
+      "Cierre programado del ordenador"
+    ],
+    "respuestaCorrecta": "Acceso remoto no autorizado"
+  },
+  {
+    "pregunta": "¿Qué son los troyanos droppers?",
+    "opciones": [
+      "Programas que eliminan malware",
+      "Aplicaciones de vigilancia autorizada",
+      "Troyanos que inyectan gusanos en la red local",
+      "Antivirus especializados en troyanos"
+    ],
+    "respuestaCorrecta": "Troyanos que inyectan gusanos en la red local"
+  },
+  {
+    "pregunta": "¿Qué tipo de malware se ejecuta solo al cumplirse una condición específica?",
+    "opciones": [
+      "Gusano",
+      "Troyano",
+      "Bomba lógica",
+      "Spyware"
+    ],
+    "respuestaCorrecta": "Bomba lógica"
+  },
+  {
+    "pregunta": "¿Qué tipo de condición podría activar una bomba lógica?",
+    "opciones": [
+      "Conexión a internet",
+      "Detección de un antivirus",
+      "Alcanzar una fecha o valor específico",
+      "Instalación de un nuevo programa"
+    ],
+    "respuestaCorrecta": "Alcanzar una fecha o valor específico"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes malware puede ejecutarse por sí mismo sin un programa huésped?",
+    "opciones": [
+      "Virus",
+      "Gusano",
+      "Troyano",
+      "Rootkit"
+    ],
+    "respuestaCorrecta": "Gusano"
+  },
+  {
+    "pregunta": "¿Qué tipo de amenaza implica el cifrado de contenido para exigir un rescate?",
+    "opciones": [
+      "Spyware",
+      "Phishing",
+      "Ransomware",
+      "Scareware"
+    ],
+    "respuestaCorrecta": "Ransomware"
+  },
+  {
+    "pregunta": "¿Cuál es una amenaza directa de una botnet?",
+    "opciones": [
+      "Eliminación de datos personales",
+      "Robo de identidad",
+      "Creación de redes de ordenadores controlados",
+      "Acceso físico al servidor"
+    ],
+    "respuestaCorrecta": "Creación de redes de ordenadores controlados"
+  },
+  {
+    "pregunta": "¿Qué tres pilares deben asegurar las empresas respecto a sus datos?",
+    "opciones": [
+      "Disponibilidad, eficiencia y sostenibilidad",
+      "Rapidez, accesibilidad y volumen",
+      "Integridad, confidencialidad y disponibilidad",
+      "Reducción, cifrado y compactación"
+    ],
+    "respuestaCorrecta": "Integridad, confidencialidad y disponibilidad"
+  },
+  {
+    "pregunta": "¿Por qué los datos se consideran críticos para la empresa?",
+    "opciones": [
+      "Porque ocupan mucho espacio de almacenamiento",
+      "Porque su pérdida podría detener la actividad de la empresa",
+      "Porque contienen solo datos contables",
+      "Porque ayudan a reducir costes"
+    ],
+    "respuestaCorrecta": "Porque su pérdida podría detener la actividad de la empresa"
+  },
+  {
+    "pregunta": "¿Qué es una puerta trasera en términos de seguridad informática?",
+    "opciones": [
+      "Un tipo de firewall personalizado",
+      "Un acceso no autorizado a un sistema",
+      "Una copia de seguridad de emergencia",
+      "Una contraseña oculta para el usuario"
+    ],
+    "respuestaCorrecta": "Un acceso no autorizado a un sistema"
+  },
+  {
+    "pregunta": "¿Qué tipo de software muestra publicidad no solicitada de forma intrusiva?",
+    "opciones": [
+      "Spyware",
+      "Rogueware",
+      "Adware",
+      "Worm"
+    ],
+    "respuestaCorrecta": "Adware"
+  },
+  {
+    "pregunta": "¿En qué caso un adware puede no considerarse malware?",
+    "opciones": [
+      "Cuando es parte de un sistema operativo",
+      "Cuando se muestra sin consentimiento",
+      "Cuando el usuario lo acepta al instalar el programa",
+      "Cuando es utilizado por antivirus"
+    ],
+    "respuestaCorrecta": "Cuando el usuario lo acepta al instalar el programa"
+  },
+  {
+    "pregunta": "¿Cuál es una característica típica del spyware?",
+    "opciones": [
+      "Instala drivers automáticamente",
+      "Elimina archivos temporales",
+      "Envía información sin conocimiento del usuario",
+      "Acelera la conexión a internet"
+    ],
+    "respuestaCorrecta": "Envía información sin conocimiento del usuario"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos puede recopilar un spyware?",
+    "opciones": [
+      "Solamente cookies",
+      "Únicamente contraseñas",
+      "Información variada como contraseñas, correos y tarjetas",
+      "Solo información de páginas web"
+    ],
+    "respuestaCorrecta": "Información variada como contraseñas, correos y tarjetas"
+  },
+  {
+    "pregunta": "¿Cómo se suele instalar el spyware en los equipos?",
+    "opciones": [
+      "Desde tiendas oficiales únicamente",
+      "Como complemento a software deseado desde Internet",
+      "Desde actualizaciones automáticas",
+      "Por discos duros externos"
+    ],
+    "respuestaCorrecta": "Como complemento a software deseado desde Internet"
+  },
+  {
+    "pregunta": "¿Qué tipo de spyware registra cada pulsación del teclado?",
+    "opciones": [
+      "Banking Trojan",
+      "Cookies de seguimiento",
+      "Keylogger",
+      "Password Stealer"
+    ],
+    "respuestaCorrecta": "Keylogger"
+  },
+  {
+    "pregunta": "¿Qué hace un Banking Trojan?",
+    "opciones": [
+      "Interfiere con el antivirus",
+      "Roba credenciales bancarias",
+      "Envía publicidad",
+      "Borra historial de navegación"
+    ],
+    "respuestaCorrecta": "Roba credenciales bancarias"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes se considera un tipo de spyware?",
+    "opciones": [
+      "Firewall",
+      "Worm",
+      "Password Stealer",
+      "Rogueware"
+    ],
+    "respuestaCorrecta": "Password Stealer"
+  },
+  {
+    "pregunta": "¿Qué es el malvertising?",
+    "opciones": [
+      "Un virus que cifra archivos",
+      "Publicidad que explota vulnerabilidades para instalar malware",
+      "Un sistema de anuncios legales",
+      "Un tipo de troyano bancario"
+    ],
+    "respuestaCorrecta": "Publicidad que explota vulnerabilidades para instalar malware"
+  },
+  {
+    "pregunta": "¿Qué hace un ransomware?",
+    "opciones": [
+      "Limpia la caché del sistema",
+      "Bloquea o cifra archivos exigiendo pago para recuperarlos",
+      "Actualiza automáticamente los programas",
+      "Elimina malware del sistema"
+    ],
+    "respuestaCorrecta": "Bloquea o cifra archivos exigiendo pago para recuperarlos"
+  },
+  {
+    "pregunta": "¿Qué pretexto usa a veces el ransomware para pedir un pago?",
+    "opciones": [
+      "Donación a organizaciones benéficas",
+      "Pago por actualización",
+      "Multa por actividad ilegal simulada",
+      "Pago de suscripción premium"
+    ],
+    "respuestaCorrecta": "Multa por actividad ilegal simulada"
+  },
+  {
+    "pregunta": "¿Qué es el rogueware?",
+    "opciones": [
+      "Un antivirus legítimo",
+      "Un software de pago original",
+      "Un falso programa de seguridad que es malware",
+      "Una técnica de protección de datos"
+    ],
+    "respuestaCorrecta": "Un falso programa de seguridad que es malware"
+  },
+  {
+    "pregunta": "¿Qué técnica utilizan los rogueware para convencer al usuario de que instale el software?",
+    "opciones": [
+      "Rootkit",
+      "Scareware",
+      "Spyware",
+      "Malvertising"
+    ],
+    "respuestaCorrecta": "Scareware"
+  },
+  {
+    "pregunta": "¿Qué simulan los rogueware una vez instalados?",
+    "opciones": [
+      "Desfragmentación de disco",
+      "Una actualización de sistema",
+      "Ser la solución de seguridad mostrando falsas amenazas",
+      "Una herramienta de limpieza del navegador"
+    ],
+    "respuestaCorrecta": "Ser la solución de seguridad mostrando falsas amenazas"
+  },
+  {
+    "pregunta": "¿Qué suelen requerir los rogueware para eliminar las amenazas que simulan detectar?",
+    "opciones": [
+      "La compra de una versión completa de pago",
+      "Permiso de administrador",
+      "Conexión VPN",
+      "Instalación de un complemento de navegador"
+    ],
+    "respuestaCorrecta": "La compra de una versión completa de pago"
+  },
+  {
+    "pregunta": "¿Qué es un malware tipo 'Decoy' o señuelo?",
+    "opciones": [
+      "Un programa que acelera el sistema",
+      "Un software que borra archivos masivamente",
+      "Una imitación de interfaz para robar credenciales",
+      "Un antivirus falso que solicita pagos"
+    ],
+    "respuestaCorrecta": "Una imitación de interfaz para robar credenciales"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad principal de un 'dialer' malicioso?",
+    "opciones": [
+      "Infectar redes sociales",
+      "Realizar llamadas a números de tarificación especial",
+      "Enviar spam desde el equipo del usuario",
+      "Modificar la configuración del router"
+    ],
+    "respuestaCorrecta": "Realizar llamadas a números de tarificación especial"
+  },
+  {
+    "pregunta": "¿Dónde suelen encontrarse los dialers para infectar a los usuarios?",
+    "opciones": [
+      "En correos de empresas",
+      "En redes corporativas",
+      "En páginas web con contenido gratuito",
+      "En plataformas de juegos online"
+    ],
+    "respuestaCorrecta": "En páginas web con contenido gratuito"
+  },
+  {
+    "pregunta": "¿Por qué han perdido popularidad los dialers?",
+    "opciones": [
+      "Por la existencia de antivirus más potentes",
+      "Porque las conexiones actuales son mayoritariamente ADSL",
+      "Porque están prohibidos por ley",
+      "Por la mejora en la seguridad de los navegadores"
+    ],
+    "respuestaCorrecta": "Porque las conexiones actuales son mayoritariamente ADSL"
+  },
+  {
+    "pregunta": "¿Qué hace un secuestrador de navegador?",
+    "opciones": [
+      "Ejecuta macros en hojas de cálculo",
+      "Realiza copias de seguridad",
+      "Cambia configuraciones como la página de inicio o redirecciona búsquedas",
+      "Acelera la navegación web"
+    ],
+    "respuestaCorrecta": "Cambia configuraciones como la página de inicio o redirecciona búsquedas"
+  },
+  {
+    "pregunta": "¿Qué puede mostrar un navegador secuestrado?",
+    "opciones": [
+      "Páginas educativas",
+      "Resultados científicos",
+      "Publicidad o contenido pornográfico",
+      "Actualizaciones del sistema"
+    ],
+    "respuestaCorrecta": "Publicidad o contenido pornográfico"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de los 'Wiper'?",
+    "opciones": [
+      "Acelerar procesos del sistema",
+      "Interceptar mensajes en redes sociales",
+      "Eliminar de forma masiva datos como discos o bases de datos",
+      "Copiar contactos del correo"
+    ],
+    "respuestaCorrecta": "Eliminar de forma masiva datos como discos o bases de datos"
+  },
+  {
+    "pregunta": "¿Qué técnica usa el malware tipo 'Clipper'?",
+    "opciones": [
+      "Saturar la memoria del equipo",
+      "Copiar automáticamente todo lo escrito en teclado",
+      "Monitorizar el portapapeles y reemplazar contenido",
+      "Enviar correos masivos desde el usuario"
+    ],
+    "respuestaCorrecta": "Monitorizar el portapapeles y reemplazar contenido"
+  },
+  {
+    "pregunta": "¿Para qué se usa habitualmente un Clipper?",
+    "opciones": [
+      "Cambiar el sistema operativo",
+      "Hacer minería de datos",
+      "Secuestrar transacciones de pago",
+      "Mejorar el rendimiento del navegador"
+    ],
+    "respuestaCorrecta": "Secuestrar transacciones de pago"
+  },
+  {
+    "pregunta": "¿Qué activa un Clipper para reemplazar contenido del portapapeles?",
+    "opciones": [
+      "El reconocimiento facial",
+      "El acceso remoto del atacante",
+      "Ciertos patrones en el texto copiado",
+      "Actualizaciones del sistema"
+    ],
+    "respuestaCorrecta": "Ciertos patrones en el texto copiado"
+  },
+  {
+    "pregunta": "¿Qué tipo de archivos usan los virus de macros para propagarse?",
+    "opciones": [
+      "Archivos ejecutables (.exe)",
+      "Documentos de texto plano",
+      "Documentos como Word, Excel o Access",
+      "Imágenes JPG o PNG"
+    ],
+    "respuestaCorrecta": "Documentos como Word, Excel o Access"
+  },
+  {
+    "pregunta": "¿Dónde se ejecutan los virus de macros una vez activados?",
+    "opciones": [
+      "En el BIOS del sistema",
+      "En la biblioteca de macros del usuario",
+      "En el registro de Windows",
+      "En la red local del router"
+    ],
+    "respuestaCorrecta": "En la biblioteca de macros del usuario"
+  },
+  {
+    "pregunta": "¿Qué pueden hacer los virus de macros además de propagarse?",
+    "opciones": [
+      "Aumentar el rendimiento del software",
+      "Realizar llamadas telefónicas",
+      "Robar contactos de correo electrónico o borrar datos",
+      "Detectar software pirata"
+    ],
+    "respuestaCorrecta": "Robar contactos de correo electrónico o borrar datos"
+  },
+  {
+    "pregunta": "¿Qué característica comparten los virus de macros y los Clipper?",
+    "opciones": [
+      "Ambos cifran los archivos",
+      "Ambos alteran el hardware del equipo",
+      "Ambos actúan de forma invisible y automática",
+      "Ambos requieren instalación manual del usuario"
+    ],
+    "respuestaCorrecta": "Ambos actúan de forma invisible y automática"
+  },
+  {
+    "pregunta": "¿Qué elemento usan los virus de macros para replicarse entre documentos?",
+    "opciones": [
+      "El cortafuegos del sistema",
+      "El sistema de copia de seguridad",
+      "La ejecución de macros incrustadas",
+      "El almacenamiento en la nube"
+    ],
+    "respuestaCorrecta": "La ejecución de macros incrustadas"
+  }
+]

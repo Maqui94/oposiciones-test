@@ -215,11 +215,31 @@ function mezclarArray(array) {
   }
   return array;
 }
+function abrirFormularioReporte() {
+  const entrada = document.getElementById("contenidoReporte");
+  const asunto = document.getElementById("asuntoReporte");
+  const año = new Date().getFullYear().toString().slice(-2);
+  const num = (indice + 1).toString().padStart(2, '0');
+  asunto.value = `Incidencia${num}${año}`;
+
+  // Mostrar solo placeholder sin contenido
+  entrada.value = "";
+  entrada.placeholder = "Escribe aquí el problema con la pregunta o sus respuestas...";
+
+  document.getElementById("modalReporte").style.display = "flex";
+}
+
+function cerrarFormularioReporte() {
+  document.getElementById("modalReporte").style.display = "none";
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const bloqueDonacion = document.getElementById("bloqueDonacion");
   const btnCafe = document.getElementById("btnCafeTest");
   const btnCerrar = document.getElementById("cerrarDonacion");
   const linkDonar = document.getElementById("donarLinkTest");
+  const correoBase64 = "YWRyaWFuQGVqZW1wbG8uY29t";
+  const formReporte = document.getElementById("formReporte");
 
   // Protege el enlace de donación
   if (linkDonar) {
@@ -234,5 +254,52 @@ document.addEventListener("DOMContentLoaded", () => {
   btnCafe.addEventListener("click", () => {
     bloqueDonacion.style.display = "block";
     btnCafe.classList.add("d-none");
+  });
+  formReporte.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    const textoUsuario = document.getElementById("contenidoReporte").value.trim();
+    const preguntaActual = preguntas[indice];
+
+    if (!textoUsuario) {
+      alert("Por favor, escribe el motivo del reporte.");
+      return;
+    }
+
+    const detallesPregunta = `
+---- Pregunta reportada ----
+Pregunta ${indice + 1}: ${preguntaActual.pregunta}
+Respuestas:
+${preguntaActual.opciones.map((op, i) => `${String.fromCharCode(65 + i)}. ${op}`).join('\n')}
+----------------------------`;
+
+    const mensajeFinal = `${textoUsuario}\n\n${detallesPregunta}`;
+
+    const formData = new FormData(formReporte);
+    formData.set("message", mensajeFinal);
+
+    try {
+      const response = await fetch("https://formspree.io/f/mblyboov", {
+        method: "POST",
+        body: formData,
+        headers: {
+          Accept: "application/json"
+        }
+      });
+
+      if (response.ok) {
+        document.getElementById("mensajeExito").classList.remove("d-none");
+        formReporte.reset();
+        setTimeout(() => {
+          cerrarFormularioReporte();
+          document.getElementById("mensajeExito").classList.add("d-none");
+        }, 2000);
+      } else {
+        alert("❌ Error al enviar el reporte.");
+      }
+    } catch (error) {
+      alert("❌ Fallo de conexión al enviar.");
+      console.error(error);
+    }
   });
 });

@@ -1,0 +1,1802 @@
+[
+  {
+    "pregunta": "¿Qué se entiende por fuentes del derecho en sentido material?",
+    "opciones": [
+      "Los textos legales ya publicados",
+      "Las formas de manifestación escrita del derecho",
+      "Las instituciones o fuerzas sociales que crean normas jurídicas",
+      "Los principios éticos no codificados"
+    ],
+    "respuestaCorrecta": "Las instituciones o fuerzas sociales que crean normas jurídicas"
+  },
+  {
+    "pregunta": "¿Qué tipo de fuentes ayudan a comprender el derecho pero no lo contienen directamente?",
+    "opciones": [
+      "Fuentes primarias",
+      "Fuentes directas",
+      "Fuentes indirectas",
+      "Fuentes sustantivas"
+    ],
+    "respuestaCorrecta": "Fuentes indirectas"
+  },
+  {
+    "pregunta": "¿Qué fuentes forman parte del ordenamiento jurídico según el artículo 1.1 del Código Civil?",
+    "opciones": [
+      "La jurisprudencia, la ley y la moral",
+      "La ley, la costumbre y los principios generales del derecho",
+      "El reglamento, la doctrina y la costumbre",
+      "La constitución, el BOE y la ley"
+    ],
+    "respuestaCorrecta": "La ley, la costumbre y los principios generales del derecho"
+  },
+  {
+    "pregunta": "¿Qué sucede con una norma que contradiga otra de rango superior según el artículo 1.2 del Código Civil?",
+    "opciones": [
+      "Se anula automáticamente",
+      "Carece de validez",
+      "Debe reformularse en el BOE",
+      "Se somete a referéndum"
+    ],
+    "respuestaCorrecta": "Carece de validez"
+  },
+  {
+    "pregunta": "¿Cuándo se aplica la costumbre según el artículo 1.3 del Código Civil?",
+    "opciones": [
+      "Siempre que esté aprobada por el Gobierno",
+      "En ausencia de ley aplicable y si no contradice la moral o el orden público",
+      "Cuando lo disponga un reglamento ejecutivo",
+      "Cuando así lo decida el Tribunal Supremo"
+    ],
+    "respuestaCorrecta": "En ausencia de ley aplicable y si no contradice la moral o el orden público"
+  },
+  {
+    "pregunta": "¿Qué consideración tienen los usos jurídicos no interpretativos según el artículo 1.3 del Código Civil?",
+    "opciones": [
+      "Se consideran principios generales del derecho",
+      "No tienen validez normativa",
+      "Se consideran costumbre",
+      "Forman parte de la doctrina legal"
+    ],
+    "respuestaCorrecta": "Se consideran costumbre"
+  },
+  {
+    "pregunta": "¿Cuándo se aplican los principios generales del derecho según el artículo 1.4?",
+    "opciones": [
+      "Después de la jurisprudencia",
+      "Cuando no hay ley o costumbre aplicable",
+      "En caso de conflicto de normas",
+      "Solo en materia penal"
+    ],
+    "respuestaCorrecta": "Cuando no hay ley o costumbre aplicable"
+  },
+  {
+    "pregunta": "¿Qué función cumplen los principios generales del derecho además de aplicarse en defecto de norma?",
+    "opciones": [
+      "Informar al legislador europeo",
+      "Sustituir tratados internacionales",
+      "Tienen carácter informador del ordenamiento jurídico",
+      "Justificar la anulación de leyes"
+    ],
+    "respuestaCorrecta": "Tienen carácter informador del ordenamiento jurídico"
+  },
+  {
+    "pregunta": "¿Cuándo tienen efecto los tratados internacionales en el derecho español según el artículo 1.5?",
+    "opciones": [
+      "Cuando son firmados por el Rey",
+      "Una vez aprobados por el Congreso de los Diputados",
+      "Tras su publicación íntegra en el BOE",
+      "Después de ser aprobados por referéndum"
+    ],
+    "respuestaCorrecta": "Tras su publicación íntegra en el BOE"
+  },
+  {
+    "pregunta": "¿Qué se entiende por fuentes en sentido formal?",
+    "opciones": [
+      "Las sentencias y resoluciones administrativas",
+      "Los textos y documentos que recopilan normas",
+      "Las fuerzas sociales que crean derecho",
+      "Las instituciones judiciales"
+    ],
+    "respuestaCorrecta": "Los textos y documentos que recopilan normas"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a las fuentes directas del derecho?",
+    "opciones": [
+      "Son las que contienen directamente normas jurídicas",
+      "Son documentos históricos de derecho",
+      "Tienen valor interpretativo únicamente",
+      "Se aplican solo por jurisprudencia"
+    ],
+    "respuestaCorrecta": "Son las que contienen directamente normas jurídicas"
+  },
+  {
+    "pregunta": "¿Qué diferencia a las fuentes primarias de las secundarias?",
+    "opciones": [
+      "Las primarias son solo leyes internacionales",
+      "Las primarias se aplican en primer lugar",
+      "Las secundarias tienen preferencia legal",
+      "No existe distinción entre ambas"
+    ],
+    "respuestaCorrecta": "Las primarias se aplican en primer lugar"
+  },
+  {
+    "pregunta": "¿En qué artículos del Código Civil se encuentra regulado el sistema de fuentes?",
+    "opciones": [
+      "En los artículos 1 y 2",
+      "En los artículos 14 y 15",
+      "En el artículo 6 únicamente",
+      "En los artículos 10 y 11"
+    ],
+    "respuestaCorrecta": "En los artículos 1 y 2"
+  },
+  {
+    "pregunta": "¿Qué tipo de fuentes incluye la doctrina según las clasificaciones mencionadas?",
+    "opciones": [
+      "Fuentes materiales",
+      "Fuentes directas",
+      "Fuentes indirectas",
+      "Fuentes constitucionales"
+    ],
+    "respuestaCorrecta": "Fuentes indirectas"
+  },
+  {
+    "pregunta": "¿Qué condición debe cumplirse para que la costumbre tenga validez como fuente del derecho?",
+    "opciones": [
+      "Que esté aprobada por el Gobierno",
+      "Que se publique en el BOE",
+      "Que no contradiga la moral ni el orden público y que esté probada",
+      "Que se base en doctrina judicial previa"
+    ],
+    "respuestaCorrecta": "Que no contradiga la moral ni el orden público y que esté probada"
+  },
+  {
+    "pregunta": "¿Qué función cumple la jurisprudencia según el artículo 1.6 del Código Civil?",
+    "opciones": [
+      "Sustituir a la ley en casos no previstos",
+      "Crear nuevas normas",
+      "Complementar el ordenamiento jurídico",
+      "Derogar normas anteriores"
+    ],
+    "respuestaCorrecta": "Complementar el ordenamiento jurídico"
+  },
+  {
+    "pregunta": "¿Qué órgano establece la doctrina jurisprudencial según el artículo 1.6 del Código Civil?",
+    "opciones": [
+      "El Consejo General del Poder Judicial",
+      "El Tribunal Supremo",
+      "El Congreso de los Diputados",
+      "El Tribunal Constitucional"
+    ],
+    "respuestaCorrecta": "El Tribunal Supremo"
+  },
+  {
+    "pregunta": "¿Qué obligación tienen los jueces y tribunales según el artículo 1.7 del Código Civil?",
+    "opciones": [
+      "Redactar proyectos de ley",
+      "Interpretar la Constitución",
+      "Resolver todos los asuntos que conozcan",
+      "Someterse a los dictámenes de la doctrina"
+    ],
+    "respuestaCorrecta": "Resolver todos los asuntos que conozcan"
+  },
+  {
+    "pregunta": "¿Cuándo entran en vigor las leyes si no se dispone otra cosa según el artículo 2.1?",
+    "opciones": [
+      "A los 15 días de su publicación",
+      "El día siguiente a su aprobación",
+      "Al mes siguiente",
+      "A los 20 días de su publicación en el BOE"
+    ],
+    "respuestaCorrecta": "A los 20 días de su publicación en el BOE"
+  },
+  {
+    "pregunta": "¿Cómo se derogan las leyes según el artículo 2.2 del Código Civil?",
+    "opciones": [
+      "Por normas de igual rango",
+      "Por leyes anteriores",
+      "Por otras leyes posteriores",
+      "Por jurisprudencia reiterada"
+    ],
+    "respuestaCorrecta": "Por otras leyes posteriores"
+  },
+  {
+    "pregunta": "¿Qué sucede con las leyes derogadas por otra ley según el artículo 2.2?",
+    "opciones": [
+      "Recobran vigencia automáticamente",
+      "Siguen aplicándose en casos no previstos",
+      "No recobran vigencia salvo disposición expresa",
+      "Se integran en los principios generales del derecho"
+    ],
+    "respuestaCorrecta": "No recobran vigencia salvo disposición expresa"
+  },
+  {
+    "pregunta": "¿Qué establece el artículo 2.3 del Código Civil sobre la retroactividad de las leyes?",
+    "opciones": [
+      "Las leyes tienen efecto retroactivo por defecto",
+      "Solo las leyes penales pueden ser retroactivas",
+      "Las leyes no tendrán efecto retroactivo salvo disposición en contrario",
+      "Las leyes siempre tienen efecto inmediato"
+    ],
+    "respuestaCorrecta": "Las leyes no tendrán efecto retroactivo salvo disposición en contrario"
+  },
+  {
+    "pregunta": "¿Qué se critica sobre la clasificación tradicional de las fuentes del derecho?",
+    "opciones": [
+      "No considera la jurisprudencia",
+      "No se adapta al ordenamiento jurídico actual",
+      "Incluye normas extranjeras",
+      "Solo aplica a derecho penal"
+    ],
+    "respuestaCorrecta": "No se adapta al ordenamiento jurídico actual"
+  },
+  {
+    "pregunta": "¿Qué fuente no se menciona explícitamente en los artículos 1 y 2 del Código Civil, pese a su importancia?",
+    "opciones": [
+      "La doctrina",
+      "Los principios generales",
+      "Los reglamentos",
+      "La costumbre"
+    ],
+    "respuestaCorrecta": "Los reglamentos"
+  },
+  {
+    "pregunta": "¿Qué principio rige la ordenación de las fuentes del derecho?",
+    "opciones": [
+      "Principio de legalidad",
+      "Principio de igualdad jurídica",
+      "Principio de jerarquía normativa",
+      "Principio de imparcialidad"
+    ],
+    "respuestaCorrecta": "Principio de jerarquía normativa"
+  },
+  {
+    "pregunta": "¿Dónde se recoge el principio de jerarquía normativa?",
+    "opciones": [
+      "En el artículo 1.1 del Código Civil y en el artículo 14 de la Constitución",
+      "En el artículo 2.3 del Código Penal",
+      "En los artículos 9.3 de la Constitución y 1.2 del Código Civil",
+      "En el Estatuto de Autonomía"
+    ],
+    "respuestaCorrecta": "En los artículos 9.3 de la Constitución y 1.2 del Código Civil"
+  },
+  {
+    "pregunta": "¿Qué sucede con las disposiciones que contradicen otras de rango superior según el artículo 1.2?",
+    "opciones": [
+      "Se consideran válidas pero inaplicables",
+      "Se someten a referéndum",
+      "Carecen de validez",
+      "Se transforman en reglamentos"
+    ],
+    "respuestaCorrecta": "Carecen de validez"
+  },
+  {
+    "pregunta": "¿Qué relación establece la jerarquía normativa entre norma y fuente?",
+    "opciones": [
+      "Determina qué norma debe interpretarse primero",
+      "Asigna valor legal a los principios generales",
+      "Relaciona la norma con el órgano que la produce y su rango",
+      "Vincula normas con sentencias judiciales"
+    ],
+    "respuestaCorrecta": "Relaciona la norma con el órgano que la produce y su rango"
+  },
+  {
+    "pregunta": "¿Qué rango y forma tienen las normas procedentes de una misma fuente según el texto?",
+    "opciones": [
+      "Diferentes, dependiendo de su contenido",
+      "Iguales en principio",
+      "Definidas por el Consejo de Estado",
+      "Asignadas por el Tribunal Supremo"
+    ],
+    "respuestaCorrecta": "Iguales en principio"
+  },
+  {
+    "pregunta": "¿Qué estructura permite configurar el principio de jerarquía normativa?",
+    "opciones": [
+      "Una red horizontal de normas",
+      "Un sistema de doble jurisdicción",
+      "Una estructura piramidal con la Constitución en la cúspide",
+      "Una matriz de competencias territoriales"
+    ],
+    "respuestaCorrecta": "Una estructura piramidal con la Constitución en la cúspide"
+  },
+  {
+    "pregunta": "¿Qué tipo de tratados se consideran fuente formal del derecho si están publicados en el BOE?",
+    "opciones": [
+      "Tratados no ratificados",
+      "Tratados bilaterales no oficiales",
+      "Tratados internacionales publicados en el BOE",
+      "Convenios privados entre Estados"
+    ],
+    "respuestaCorrecta": "Tratados internacionales publicados en el BOE"
+  },
+  {
+    "pregunta": "¿Qué normas autonómicas tienen rango equivalente a las leyes estatales según el texto?",
+    "opciones": [
+      "Reglamentos forales",
+      "Órdenes ministeriales",
+      "Leyes y disposiciones con rango de ley emanadas de las Comunidades Autónomas",
+      "Decretos provinciales"
+    ],
+    "respuestaCorrecta": "Leyes y disposiciones con rango de ley emanadas de las Comunidades Autónomas"
+  },
+  {
+    "pregunta": "¿Qué dispone el artículo 128.3 de la Ley 39/2015 sobre los reglamentos?",
+    "opciones": [
+      "Que pueden prevalecer sobre leyes orgánicas",
+      "Que deben ajustarse a la jerarquía establecida por las leyes",
+      "Que no requieren publicación en el BOE",
+      "Que son equivalentes a los tratados internacionales"
+    ],
+    "respuestaCorrecta": "Que deben ajustarse a la jerarquía establecida por las leyes"
+  },
+  {
+    "pregunta": "¿Qué fuentes tienen una jerarquía inferior pero también están ordenadas internamente?",
+    "opciones": [
+      "Los tratados internacionales",
+      "La jurisprudencia",
+      "Los reglamentos",
+      "La doctrina científica"
+    ],
+    "respuestaCorrecta": "Los reglamentos"
+  },
+  {
+    "pregunta": "¿Qué fuente jurídica carece de naturaleza normativa pero cumple funciones informadoras?",
+    "opciones": [
+      "Los reglamentos",
+      "La doctrina científica",
+      "Los principios generales del derecho",
+      "Las sentencias judiciales"
+    ],
+    "respuestaCorrecta": "Los principios generales del derecho"
+  },
+  {
+    "pregunta": "¿Cuál es una función de los principios generales del derecho según el artículo 1 del Código Civil?",
+    "opciones": [
+      "Imponer sanciones",
+      "Resolver conflictos internacionales",
+      "Informar la elaboración y aplicación de normas",
+      "Sustituir a la ley en todos los casos"
+    ],
+    "respuestaCorrecta": "Informar la elaboración y aplicación de normas"
+  },
+  {
+    "pregunta": "¿Qué fuentes se consideran indirectas según el texto?",
+    "opciones": [
+      "Leyes orgánicas y reglamentos",
+      "La costumbre y los principios generales",
+      "La jurisprudencia del Tribunal Supremo, tratados no publicados y doctrina científica",
+      "Las resoluciones administrativas"
+    ],
+    "respuestaCorrecta": "La jurisprudencia del Tribunal Supremo, tratados no publicados y doctrina científica"
+  },
+  {
+    "pregunta": "¿Qué primacía se menciona respecto al ordenamiento jurídico nacional?",
+    "opciones": [
+      "La del derecho constitucional",
+      "La del derecho civil",
+      "La del derecho penal",
+      "La del derecho comunitario"
+    ],
+    "respuestaCorrecta": "La del derecho comunitario"
+  },
+  {
+    "pregunta": "¿Qué principio establece que una ley posterior deroga a una anterior?",
+    "opciones": [
+      "Principio de primacía",
+      "Principio de especialidad",
+      "Principio de temporalidad",
+      "Principio de legalidad"
+    ],
+    "respuestaCorrecta": "Principio de temporalidad"
+  },
+  {
+    "pregunta": "¿Cuál es el principio que establece que la ley especial prevalece sobre la general?",
+    "opciones": [
+      "Principio de interpretación",
+      "Principio de subsidiariedad",
+      "Principio de generalidad",
+      "Principio de especialidad"
+    ],
+    "respuestaCorrecta": "Principio de especialidad"
+  },
+  {
+    "pregunta": "¿Qué relevancia tiene el concepto de fuentes del derecho en el Derecho Administrativo?",
+    "opciones": [
+      "Carece de aplicación práctica",
+      "Tiene importancia inferior que en otras ramas",
+      "Adquiere una importancia muy superior",
+      "Solo se aplica a reglamentos"
+    ],
+    "respuestaCorrecta": "Adquiere una importancia muy superior"
+  },
+  {
+    "pregunta": "¿En qué tres formas se manifiesta la participación de la Administración en la elaboración del derecho?",
+    "opciones": [
+      "Referendos, sentencias y decretos",
+      "Coparticipación legislativa, dictado de normas con valor de ley y reglamentos",
+      "Aprobación presupuestaria, jurisprudencia y doctrina",
+      "Consultas públicas, BOE y decretos forales"
+    ],
+    "respuestaCorrecta": "Coparticipación legislativa, dictado de normas con valor de ley y reglamentos"
+  },
+  {
+    "pregunta": "¿Qué nombre reciben las normas con valor de ley dictadas por el Gobierno?",
+    "opciones": [
+      "Instrucciones ejecutivas",
+      "Reglamentos orgánicos",
+      "Decretos Legislativos y Decretos Leyes",
+      "Tratados internacionales"
+    ],
+    "respuestaCorrecta": "Decretos Legislativos y Decretos Leyes"
+  },
+  {
+    "pregunta": "¿Qué normas, aunque de rango inferior, constituyen el sector más importante del ordenamiento jurídico por su cantidad?",
+    "opciones": [
+      "Los decretos-ley",
+      "Los principios generales",
+      "Los reglamentos",
+      "Las leyes orgánicas"
+    ],
+    "respuestaCorrecta": "Los reglamentos"
+  },
+  {
+    "pregunta": "¿Qué implicación tiene la Administración en la función legislativa del Parlamento?",
+    "opciones": [
+      "Actúa como órgano de control",
+      "Participa mediante consultas jurídicas",
+      "Coparticipa elaborando proyectos de ley",
+      "No tiene ninguna participación formal"
+    ],
+    "respuestaCorrecta": "Coparticipa elaborando proyectos de ley"
+  },
+  {
+    "pregunta": "¿Qué significa el concepto de ley en sentido más restringido?",
+    "opciones": [
+      "Toda norma escrita publicada en el BOE",
+      "Una norma emanada de las Cortes que sigue el procedimiento legislativo establecido",
+      "Una norma dictada por la administración",
+      "Toda disposición normativa de cualquier poder del Estado"
+    ],
+    "respuestaCorrecta": "Una norma emanada de las Cortes que sigue el procedimiento legislativo establecido"
+  },
+  {
+    "pregunta": "¿Cuál es la norma suprema del ordenamiento jurídico español?",
+    "opciones": [
+      "Las leyes orgánicas",
+      "El Código Civil",
+      "La Constitución de 1978",
+      "Los tratados internacionales"
+    ],
+    "respuestaCorrecta": "La Constitución de 1978"
+  },
+  {
+    "pregunta": "¿Qué condición deben cumplir los tratados internacionales para formar parte del ordenamiento interno?",
+    "opciones": [
+      "Ser aprobados por mayoría absoluta del Congreso",
+      "Ser ratificados y publicados íntegramente en el BOE",
+      "Ser firmados por el Presidente del Gobierno",
+      "Ser incorporados en una ley orgánica"
+    ],
+    "respuestaCorrecta": "Ser ratificados y publicados íntegramente en el BOE"
+  },
+  {
+    "pregunta": "¿Qué rango tienen los tratados internacionales una vez publicados en el BOE?",
+    "opciones": [
+      "Igual al de las leyes internas",
+      "Superior a la Constitución",
+      "Inferior a las leyes orgánicas",
+      "Inferior a la Constitución y superior a las leyes internas"
+    ],
+    "respuestaCorrecta": "Inferior a la Constitución y superior a las leyes internas"
+  },
+  {
+    "pregunta": "¿Qué órganos pueden emitir leyes en sentido estricto en España?",
+    "opciones": [
+      "Gobierno y Consejo General del Poder Judicial",
+      "Cortes Generales y Parlamentos Autonómicos",
+      "Ayuntamientos y Diputaciones",
+      "Consejo de Ministros y Senado"
+    ],
+    "respuestaCorrecta": "Cortes Generales y Parlamentos Autonómicos"
+  },
+  {
+    "pregunta": "¿Qué tipo de relación existe entre leyes orgánicas y leyes ordinarias?",
+    "opciones": [
+      "De jerarquía normativa",
+      "De preferencia temporal",
+      "De competencia por razón de la materia",
+      "De sujeción presupuestaria"
+    ],
+    "respuestaCorrecta": "De competencia por razón de la materia"
+  },
+  {
+    "pregunta": "¿Qué materias deben ser reguladas exclusivamente por ley orgánica?",
+    "opciones": [
+      "Todas las relacionadas con el presupuesto del Estado",
+      "Derechos y libertades fundamentales, órganos esenciales del Estado y régimen electoral general",
+      "Normas de tráfico y circulación",
+      "Convenios internacionales y su desarrollo"
+    ],
+    "respuestaCorrecta": "Derechos y libertades fundamentales, órganos esenciales del Estado y régimen electoral general"
+  },
+  {
+    "pregunta": "¿Qué mayoría se requiere para aprobar, modificar o derogar una ley orgánica?",
+    "opciones": [
+      "Mayoría simple del Congreso",
+      "Mayoría de dos tercios del Senado",
+      "Mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto",
+      "Unanimidad del Parlamento"
+    ],
+    "respuestaCorrecta": "Mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución establece el procedimiento para las leyes orgánicas?",
+    "opciones": [
+      "Artículo 81.2 CE",
+      "Artículo 1 CE",
+      "Artículo 2.1 CE",
+      "Artículo 155 CE"
+    ],
+    "respuestaCorrecta": "Artículo 81.2 CE"
+  },
+  {
+    "pregunta": "¿Qué materias están excluidas de la iniciativa popular según el artículo 81 CE?",
+    "opciones": [
+      "Las que regulan el sistema financiero",
+      "Las reguladas por ley orgánica",
+      "Las que afectan a los municipios",
+      "Las que desarrollan tratados internacionales"
+    ],
+    "respuestaCorrecta": "Las reguladas por ley orgánica"
+  },
+  {
+    "pregunta": "¿Qué instrumentos normativos no pueden regular materias propias de ley orgánica?",
+    "opciones": [
+      "Reglamentos autonómicos",
+      "Decretos legislativos y decretos leyes",
+      "Órdenes ministeriales",
+      "Resoluciones administrativas"
+    ],
+    "respuestaCorrecta": "Decretos legislativos y decretos leyes"
+  },
+  {
+    "pregunta": "¿Qué tipo de ley regula materias no reservadas a ley orgánica?",
+    "opciones": [
+      "Leyes ordinarias",
+      "Leyes marco",
+      "Leyes forales",
+      "Leyes generales"
+    ],
+    "respuestaCorrecta": "Leyes ordinarias"
+  },
+  {
+    "pregunta": "¿Cuál es una diferencia clave entre ley orgánica y ley ordinaria?",
+    "opciones": [
+      "Su entrada en vigor",
+      "Su rango jerárquico",
+      "El tipo de materias que regulan",
+      "El idioma en que se publican"
+    ],
+    "respuestaCorrecta": "El tipo de materias que regulan"
+  },
+  {
+    "pregunta": "¿Qué estructura jurídica contiene los fundamentos de la estructura autonómica del Estado?",
+    "opciones": [
+      "El Estatuto del Gobierno",
+      "La Constitución de 1978",
+      "Las leyes ordinarias",
+      "La Ley Orgánica del Estado"
+    ],
+    "respuestaCorrecta": "La Constitución de 1978"
+  },
+  {
+    "pregunta": "¿Qué función cumplen las leyes según su concepción más amplia?",
+    "opciones": [
+      "Ser normas solo aplicables a la administración pública",
+      "Ser normas jurídicas que regulan derechos y deberes",
+      "Ser normas de carácter internacional",
+      "Ser principios no vinculantes"
+    ],
+    "respuestaCorrecta": "Ser normas jurídicas que regulan derechos y deberes"
+  },
+  {
+    "pregunta": "¿Qué mayoría es necesaria para aprobar una ley ordinaria?",
+    "opciones": [
+      "Mayoría absoluta del Congreso",
+      "Mayoría de dos tercios del Senado",
+      "Mayoría simple",
+      "Unanimidad parlamentaria"
+    ],
+    "respuestaCorrecta": "Mayoría simple"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución regula las leyes de armonización, transferencia y marco?",
+    "opciones": [
+      "Artículo 86 CE",
+      "Artículo 150 CE",
+      "Artículo 81 CE",
+      "Artículo 1 CE"
+    ],
+    "respuestaCorrecta": "Artículo 150 CE"
+  },
+  {
+    "pregunta": "¿Qué tipo de norma dicta el Gobierno en casos de extraordinaria y urgente necesidad?",
+    "opciones": [
+      "Ley orgánica",
+      "Ley de bases",
+      "Real Decreto Legislativo",
+      "Real Decreto-Ley"
+    ],
+    "respuestaCorrecta": "Real Decreto-Ley"
+  },
+  {
+    "pregunta": "¿Qué norma permite al Gobierno dictar legislación por delegación de las Cortes Generales?",
+    "opciones": [
+      "Ley ordinaria",
+      "Ley marco",
+      "Real Decreto Legislativo",
+      "Ley de armonización"
+    ],
+    "respuestaCorrecta": "Real Decreto Legislativo"
+  },
+  {
+    "pregunta": "¿Qué artículos de la Constitución regulan los Reales Decretos Legislativos?",
+    "opciones": [
+      "Arts. 82 a 85 CE",
+      "Arts. 80 a 81 CE",
+      "Arts. 70 a 72 CE",
+      "Arts. 100 a 105 CE"
+    ],
+    "respuestaCorrecta": "Arts. 82 a 85 CE"
+  },
+  {
+    "pregunta": "¿Qué tipo de legitimidad posee la ley junto con la Constitución?",
+    "opciones": [
+      "Legitimidad formal",
+      "Legitimidad consultiva",
+      "Legitimidad democrática directa",
+      "Legitimidad técnica"
+    ],
+    "respuestaCorrecta": "Legitimidad democrática directa"
+  },
+  {
+    "pregunta": "¿Qué garantiza la reserva de ley?",
+    "opciones": [
+      "Que ciertas materias se regulen por reglamento",
+      "Que toda norma provenga del ejecutivo",
+      "Que ciertas materias sean reguladas por ley debido a su trascendencia",
+      "Que las leyes autonómicas prevalezcan"
+    ],
+    "respuestaCorrecta": "Que ciertas materias sean reguladas por ley debido a su trascendencia"
+  },
+  {
+    "pregunta": "¿Quién sanciona las leyes aprobadas por las Cortes Generales?",
+    "opciones": [
+      "El Presidente del Gobierno",
+      "El Tribunal Constitucional",
+      "El Rey",
+      "El Senado"
+    ],
+    "respuestaCorrecta": "El Rey"
+  },
+  {
+    "pregunta": "¿En qué plazo debe el Rey sancionar una ley aprobada por las Cortes Generales?",
+    "opciones": [
+      "10 días",
+      "20 días",
+      "15 días",
+      "30 días"
+    ],
+    "respuestaCorrecta": "15 días"
+  },
+  {
+    "pregunta": "¿Qué ordena el Rey tras sancionar una ley?",
+    "opciones": [
+      "Su anulación",
+      "Su revisión por el Tribunal Constitucional",
+      "Su inmediata publicación",
+      "Su envío al Senado"
+    ],
+    "respuestaCorrecta": "Su inmediata publicación"
+  },
+  {
+    "pregunta": "¿Qué distingue a las leyes autonómicas respecto a las estatales?",
+    "opciones": [
+      "Tienen menor fuerza normativa",
+      "Regulan materias penales",
+      "Poseen un campo material distinto basado en el principio de competencia",
+      "Están sujetas a revisión previa del Congreso"
+    ],
+    "respuestaCorrecta": "Poseen un campo material distinto basado en el principio de competencia"
+  },
+  {
+    "pregunta": "¿Qué órgano aprueba las leyes autonómicas?",
+    "opciones": [
+      "El Senado",
+      "Las Asambleas Legislativas autonómicas",
+      "El Tribunal Constitucional",
+      "El Consejo de Ministros"
+    ],
+    "respuestaCorrecta": "Las Asambleas Legislativas autonómicas"
+  },
+  {
+    "pregunta": "¿A qué normas están jerárquicamente sometidas las leyes autonómicas?",
+    "opciones": [
+      "A los Decretos-Leyes",
+      "A las leyes orgánicas del Estado",
+      "A la Constitución y a los Estatutos de Autonomía",
+      "A los reglamentos estatales"
+    ],
+    "respuestaCorrecta": "A la Constitución y a los Estatutos de Autonomía"
+  },
+  {
+    "pregunta": "¿Qué tipo de normas dicta el Gobierno con el mismo rango que una ley sin proceder del Parlamento?",
+    "opciones": [
+      "Decretos forales y órdenes ministeriales",
+      "Leyes de bases y leyes marco",
+      "Decretos Legislativos y Decretos-Leyes",
+      "Normas reglamentarias básicas"
+    ],
+    "respuestaCorrecta": "Decretos Legislativos y Decretos-Leyes"
+  },
+  {
+    "pregunta": "¿Qué función cumple el Poder Ejecutivo cuando dicta normas con rango de ley?",
+    "opciones": [
+      "Ejecuta sentencias judiciales",
+      "Actúa como poder judicial",
+      "Ejerce una potestad legislativa del Estado",
+      "Interviene en el proceso electoral"
+    ],
+    "respuestaCorrecta": "Ejerce una potestad legislativa del Estado"
+  },
+  {
+    "pregunta": "¿Qué tipo de disposición normativa puede dictar el Gobierno mediante delegación de las Cortes Generales?",
+    "opciones": [
+      "Decreto-ley",
+      "Ley ordinaria",
+      "Decreto legislativo",
+      "Reglamento ejecutivo"
+    ],
+    "respuestaCorrecta": "Decreto legislativo"
+  },
+  {
+    "pregunta": "¿Qué artículos de la Constitución regulan los decretos legislativos?",
+    "opciones": [
+      "Del 80 al 85",
+      "Del 82 al 85",
+      "Del 81 al 84",
+      "Del 70 al 75"
+    ],
+    "respuestaCorrecta": "Del 82 al 85"
+  },
+  {
+    "pregunta": "¿Qué tipo de ley debe utilizarse para delegar la formación de textos articulados?",
+    "opciones": [
+      "Ley marco",
+      "Ley ordinaria",
+      "Ley orgánica",
+      "Ley de bases"
+    ],
+    "respuestaCorrecta": "Ley de bases"
+  },
+  {
+    "pregunta": "¿Cuál es el instrumento normativo para refundir varios textos legales en uno solo?",
+    "opciones": [
+      "Ley marco",
+      "Ley orgánica",
+      "Ley ordinaria",
+      "Ley complementaria"
+    ],
+    "respuestaCorrecta": "Ley ordinaria"
+  },
+  {
+    "pregunta": "¿Cómo debe otorgarse la delegación legislativa según el artículo 82.3 CE?",
+    "opciones": [
+      "De manera tácita y sin plazo",
+      "De forma implícita para varias materias",
+      "De forma expresa, para materia concreta y con plazo determinado",
+      "Por resolución administrativa"
+    ],
+    "respuestaCorrecta": "De forma expresa, para materia concreta y con plazo determinado"
+  },
+  {
+    "pregunta": "¿Qué sucede con la delegación legislativa una vez el Gobierno publica la norma correspondiente?",
+    "opciones": [
+      "Se mantiene vigente durante la legislatura",
+      "Debe ser renovada por las Cortes",
+      "Se considera agotada",
+      "Requiere confirmación judicial"
+    ],
+    "respuestaCorrecta": "Se considera agotada"
+  },
+  {
+    "pregunta": "¿Puede permitirse la subdelegación a autoridades distintas del Gobierno?",
+    "opciones": [
+      "Solo mediante ley orgánica",
+      "Sí, si se autoriza expresamente",
+      "Sí, en casos urgentes",
+      "No, en ningún caso"
+    ],
+    "respuestaCorrecta": "No, en ningún caso"
+  },
+  {
+    "pregunta": "¿Qué deben delimitar las leyes de bases según el artículo 82.4 CE?",
+    "opciones": [
+      "El plazo de publicación",
+      "El proceso legislativo ordinario",
+      "El objeto, alcance y criterios de la delegación",
+      "La validez internacional"
+    ],
+    "respuestaCorrecta": "El objeto, alcance y criterios de la delegación"
+  },
+  {
+    "pregunta": "¿Qué función tiene la autorización para refundir textos legales?",
+    "opciones": [
+      "Modificar leyes anteriores",
+      "Emitir sentencias interpretativas",
+      "Regularizar, aclarar y armonizar los textos legales",
+      "Otorgar competencias a las CCAA"
+    ],
+    "respuestaCorrecta": "Regularizar, aclarar y armonizar los textos legales"
+  },
+  {
+    "pregunta": "¿Qué control adicional pueden prever las leyes de delegación según el artículo 82.6 CE?",
+    "opciones": [
+      "Control presupuestario del Senado",
+      "Consulta a las Comunidades Autónomas",
+      "Fórmulas adicionales de control",
+      "Aprobación por referéndum"
+    ],
+    "respuestaCorrecta": "Fórmulas adicionales de control"
+  },
+  {
+    "pregunta": "¿Qué prohíbe el artículo 83 CE respecto a las leyes de bases?",
+    "opciones": [
+      "Dictar normas sin motivación",
+      "Delegar en gobiernos autonómicos",
+      "Autorizar su propia modificación",
+      "Ser aprobadas por mayoría simple"
+    ],
+    "respuestaCorrecta": "Autorizar su propia modificación"
+  },
+  {
+    "pregunta": "¿Qué otra prohibición impone el artículo 83 CE sobre las leyes de bases?",
+    "opciones": [
+      "Delegar materias educativas",
+      "Facultar para dictar normas con carácter retroactivo",
+      "Extender su validez al ámbito europeo",
+      "Modificar el reglamento del Congreso"
+    ],
+    "respuestaCorrecta": "Facultar para dictar normas con carácter retroactivo"
+  },
+  {
+    "pregunta": "¿Qué puede hacer el Gobierno si una proposición de ley o enmienda es contraria a una delegación legislativa en vigor?",
+    "opciones": [
+      "Aprobarla por Real Decreto",
+      "Oponerse a su tramitación",
+      "Modificarla directamente",
+      "Anularla por resolución"
+    ],
+    "respuestaCorrecta": "Oponerse a su tramitación"
+  },
+  {
+    "pregunta": "¿Qué opción tiene el Gobierno si se opone a la tramitación de una ley por contrariar la delegación legislativa?",
+    "opciones": [
+      "Remitirla al Senado",
+      "Presentar una proposición de ley para su derogación total o parcial",
+      "Solicitar una consulta al TC",
+      "Convocar referéndum popular"
+    ],
+    "respuestaCorrecta": "Presentar una proposición de ley para su derogación total o parcial"
+  },
+  {
+    "pregunta": "¿Qué materias no pueden ser objeto de delegación legislativa según el artículo 82.1 CE?",
+    "opciones": [
+      "Las de ámbito educativo",
+      "Las incluidas en el artículo 81 CE",
+      "Las de carácter fiscal",
+      "Las competencias autonómicas"
+    ],
+    "respuestaCorrecta": "Las incluidas en el artículo 81 CE"
+  },
+  {
+    "pregunta": "¿Qué título reciben las disposiciones del Gobierno que contienen legislación delegada?",
+    "opciones": [
+      "Reales Decretos",
+      "Decretos-Leyes",
+      "Decretos Legislativos",
+      "Leyes Orgánicas"
+    ],
+    "respuestaCorrecta": "Decretos Legislativos"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución regula los Decretos-Leyes?",
+    "opciones": [
+      "Artículo 85",
+      "Artículo 86",
+      "Artículo 83",
+      "Artículo 81"
+    ],
+    "respuestaCorrecta": "Artículo 86"
+  },
+  {
+    "pregunta": "¿En qué casos puede el Gobierno dictar Decretos-Leyes?",
+    "opciones": [
+      "Cuando el Parlamento no está reunido",
+      "En caso de extraordinaria y urgente necesidad",
+      "Para reformar el Código Penal",
+      "En periodo electoral"
+    ],
+    "respuestaCorrecta": "En caso de extraordinaria y urgente necesidad"
+  },
+  {
+    "pregunta": "¿Qué materias no pueden ser afectadas por un Decreto-Ley?",
+    "opciones": [
+      "Normas presupuestarias",
+      "Derechos regulados en el Título I de la Constitución",
+      "Nombramientos de funcionarios",
+      "Normas fiscales"
+    ],
+    "respuestaCorrecta": "Derechos regulados en el Título I de la Constitución"
+  },
+  {
+    "pregunta": "¿Qué instituciones no pueden ser afectadas por los Decretos-Leyes?",
+    "opciones": [
+      "Las instituciones educativas",
+      "Las instituciones autonómicas",
+      "Las instituciones básicas del Estado",
+      "Las fuerzas armadas"
+    ],
+    "respuestaCorrecta": "Las instituciones básicas del Estado"
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para someter un Decreto-Ley a debate en el Congreso?",
+    "opciones": [
+      "15 días",
+      "20 días",
+      "30 días",
+      "10 días"
+    ],
+    "respuestaCorrecta": "30 días"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el Congreso no está reunido cuando se dicta un Decreto-Ley?",
+    "opciones": [
+      "Se remite al Senado",
+      "Se prorroga automáticamente",
+      "Debe convocarse al Congreso para debatirlo",
+      "El decreto se suspende"
+    ],
+    "respuestaCorrecta": "Debe convocarse al Congreso para debatirlo"
+  },
+  {
+    "pregunta": "¿Qué debe decidir expresamente el Congreso sobre un Decreto-Ley?",
+    "opciones": [
+      "Su publicación en el BOE",
+      "Su delegación al Senado",
+      "Su convalidación o derogación",
+      "Su suspensión cautelar"
+    ],
+    "respuestaCorrecta": "Su convalidación o derogación"
+  },
+  {
+    "pregunta": "¿Qué procedimiento establece el Reglamento para los Decretos-Leyes?",
+    "opciones": [
+      "Uno ordinario y extenso",
+      "Un proceso judicial",
+      "Un procedimiento especial y sumario",
+      "Una consulta ciudadana"
+    ],
+    "respuestaCorrecta": "Un procedimiento especial y sumario"
+  },
+  {
+    "pregunta": "¿Qué posibilidad tienen las Cortes durante el plazo de 30 días respecto al Decreto-Ley?",
+    "opciones": [
+      "Convocar elecciones anticipadas",
+      "Someterlo a referéndum",
+      "Tramitarlo como proyecto de ley por urgencia",
+      "Delegar su aprobación al Senado"
+    ],
+    "respuestaCorrecta": "Tramitarlo como proyecto de ley por urgencia"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Ley 39/2015 regula la iniciativa legislativa y potestad normativa del Gobierno?",
+    "opciones": [
+      "Artículo 127",
+      "Artículo 82",
+      "Artículo 150",
+      "Artículo 1"
+    ],
+    "respuestaCorrecta": "Artículo 127"
+  },
+  {
+    "pregunta": "¿Cómo ejerce el Gobierno de la Nación su iniciativa legislativa según la Ley 39/2015?",
+    "opciones": [
+      "Por medio de decretos de urgencia",
+      "Mediante la elaboración de proyectos de ley y remisión a las Cortes",
+      "A través del Consejo de Estado",
+      "Por iniciativa popular"
+    ],
+    "respuestaCorrecta": "Mediante la elaboración de proyectos de ley y remisión a las Cortes"
+  },
+  {
+    "pregunta": "¿Quién puede ejercer la iniciativa legislativa además del Gobierno central?",
+    "opciones": [
+      "El Defensor del Pueblo",
+      "Las Comunidades Autónomas",
+      "Las Diputaciones Provinciales",
+      "El Consejo General del Poder Judicial"
+    ],
+    "respuestaCorrecta": "Las Comunidades Autónomas"
+  },
+  {
+    "pregunta": "¿Qué normas con rango de ley puede dictar el Gobierno según la Constitución?",
+    "opciones": [
+      "Decretos forales",
+      "Reales decretos-leyes y reales decretos legislativos",
+      "Resoluciones normativas",
+      "Instrucciones reglamentarias"
+    ],
+    "respuestaCorrecta": "Reales decretos-leyes y reales decretos legislativos"
+  },
+  {
+    "pregunta": "¿Qué permite a los órganos de las Comunidades Autónomas aprobar normas con rango de ley?",
+    "opciones": [
+      "El Reglamento del Congreso",
+      "La Ley 50/1997",
+      "La Constitución y los Estatutos de Autonomía",
+      "El Tribunal Constitucional"
+    ],
+    "respuestaCorrecta": "La Constitución y los Estatutos de Autonomía"
+  },
+{
+    "pregunta": "¿Qué es un reglamento según el concepto descrito en el temario?",
+    "opciones": [
+      "Una ley escrita con rango superior",
+      "Una norma de carácter judicial",
+      "Una norma escrita con rango inferior a la ley dictada por la Administración",
+      "Una directriz parlamentaria"
+    ],
+    "respuestaCorrecta": "Una norma escrita con rango inferior a la ley dictada por la Administración"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes características distingue al reglamento de la ley?",
+    "opciones": [
+      "Que ambos son normas abstractas",
+      "Que el reglamento tiene carácter complementario y subordinado",
+      "Que el reglamento procede del Poder Legislativo",
+      "Que el reglamento tiene igual rango normativo"
+    ],
+    "respuestaCorrecta": "Que el reglamento tiene carácter complementario y subordinado"
+  },
+  {
+    "pregunta": "¿Qué implica que el reglamento tenga rango inferior a la ley?",
+    "opciones": [
+      "Que puede derogarla si es posterior",
+      "Que la ley no puede regular materias ya reglamentadas",
+      "Que la ley siempre prevalece sobre el reglamento",
+      "Que el reglamento tiene prioridad si es específico"
+    ],
+    "respuestaCorrecta": "Que la ley siempre prevalece sobre el reglamento"
+  },
+  {
+    "pregunta": "¿Por qué se considera subordinado el reglamento respecto a la ley?",
+    "opciones": [
+      "Porque ambos proceden del mismo órgano",
+      "Porque la ley procede del Ejecutivo",
+      "Porque el reglamento limita derechos sin control",
+      "Porque la ley es obra del Legislativo y el reglamento de la Administración"
+    ],
+    "respuestaCorrecta": "Porque la ley es obra del Legislativo y el reglamento de la Administración"
+  },
+  {
+    "pregunta": "¿Qué debe existir para que un reglamento limite derechos personales o imponga deberes?",
+    "opciones": [
+      "Un consentimiento tácito del ciudadano",
+      "Una ley previa que lo autorice",
+      "Una autorización del Defensor del Pueblo",
+      "Una sentencia del Tribunal Constitucional"
+    ],
+    "respuestaCorrecta": "Una ley previa que lo autorice"
+  },
+  {
+    "pregunta": "¿Puede la Constitución establecer excepciones a la subordinación del reglamento a la ley?",
+    "opciones": [
+      "No, en ningún caso",
+      "Sí, si lo solicita el Ejecutivo",
+      "Sí, si así lo establece expresamente",
+      "Solo por consenso de las Cortes"
+    ],
+    "respuestaCorrecta": "Sí, si así lo establece expresamente"
+  },
+  {
+    "pregunta": "¿Por qué no se debe considerar el reglamento como un simple acto administrativo?",
+    "opciones": [
+      "Porque es una norma general y abstracta",
+      "Porque siempre requiere aprobación judicial",
+      "Porque se dirige a sujetos concretos",
+      "Porque tiene efectos limitados en el tiempo"
+    ],
+    "respuestaCorrecta": "Porque es una norma general y abstracta"
+  },
+  {
+    "pregunta": "¿Qué ocurre con la vigencia de un reglamento cuando se aplica múltiples veces?",
+    "opciones": [
+      "Se agota su validez",
+      "Debe derogarse automáticamente",
+      "Pierde fuerza jurídica",
+      "Se refuerza su vigencia"
+    ],
+    "respuestaCorrecta": "Se refuerza su vigencia"
+  },
+  {
+    "pregunta": "¿Cómo se diferencia un reglamento de un acto administrativo?",
+    "opciones": [
+      "El acto es abstracto, el reglamento concreto",
+      "El reglamento se refiere a casos específicos",
+      "El acto se refiere a situaciones concretas, el reglamento es general",
+      "Ambos son actos de ejecución inmediata"
+    ],
+    "respuestaCorrecta": "El acto se refiere a situaciones concretas, el reglamento es general"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes enunciados define mejor el carácter del reglamento?",
+    "opciones": [
+      "Es una resolución judicial",
+      "Es una instrucción técnica",
+      "Es una norma complementaria de la ley",
+      "Es un decreto parlamentario"
+    ],
+    "respuestaCorrecta": "Es una norma complementaria de la ley"
+  },
+  {
+    "pregunta": "¿Qué indica el carácter no representativo del reglamento?",
+    "opciones": [
+      "Que no tiene fuerza legal",
+      "Que no requiere votación",
+      "Que no procede del poder legislativo",
+      "Que es emitido por órganos judiciales"
+    ],
+    "respuestaCorrecta": "Que no procede del poder legislativo"
+  },
+  {
+    "pregunta": "¿Qué potestad determina la amplitud para dictar reglamentos?",
+    "opciones": [
+      "La del poder judicial",
+      "La del Parlamento Europeo",
+      "La de la propia ley",
+      "La del Consejo de Ministros"
+    ],
+    "respuestaCorrecta": "La de la propia ley"
+  },
+  {
+    "pregunta": "¿En qué casos puede una norma reglamentaria derogar una ley?",
+    "opciones": [
+      "Si es posterior y específica",
+      "Si es aprobada por el Congreso",
+      "Nunca, por su rango inferior",
+      "Si lo autoriza el Tribunal Supremo"
+    ],
+    "respuestaCorrecta": "Nunca, por su rango inferior"
+  },
+  {
+    "pregunta": "¿Qué tipo de norma puede regular materias anteriormente reguladas por un reglamento?",
+    "opciones": [
+      "Un decreto simple",
+      "Una resolución administrativa",
+      "Una ley",
+      "Un auto judicial"
+    ],
+    "respuestaCorrecta": "Una ley"
+  },
+  {
+    "pregunta": "¿Cómo pueden clasificarse los reglamentos según el sujeto que los dicta?",
+    "opciones": [
+      "Judiciales y parlamentarios",
+      "Nacionales y europeos",
+      "Estatales, autonómicos, locales o sectoriales",
+      "Legislativos y ejecutivos"
+    ],
+    "respuestaCorrecta": "Estatales, autonómicos, locales o sectoriales"
+  },
+  {
+    "pregunta": "¿Qué entidades pueden emitir reglamentos locales?",
+    "opciones": [
+      "Ministerios, delegaciones del gobierno y senadores",
+      "Ayuntamientos, alcaldes y diputaciones o cabildos",
+      "Consejos de Estado, tribunales y ministros",
+      "Congresos, sindicatos y defensores del pueblo"
+    ],
+    "respuestaCorrecta": "Ayuntamientos, alcaldes y diputaciones o cabildos"
+  },
+  {
+    "pregunta": "¿Qué tipo de reglamentos proceden de entes de la Administración Institucional y Corporativa?",
+    "opciones": [
+      "Reglamentos locales",
+      "Reglamentos ejecutivos",
+      "Reglamentos sectoriales",
+      "Reglamentos jurídicos"
+    ],
+    "respuestaCorrecta": "Reglamentos sectoriales"
+  },
+  {
+    "pregunta": "¿Qué regulan los reglamentos de organización o administrativos?",
+    "opciones": [
+      "Las relaciones generales entre ciudadanos y la Administración",
+      "El control parlamentario de normas reglamentarias",
+      "La actividad interna de la Administración",
+      "El desarrollo del poder judicial"
+    ],
+    "respuestaCorrecta": "La actividad interna de la Administración"
+  },
+  {
+    "pregunta": "¿En qué casos también se aplican los reglamentos de organización?",
+    "opciones": [
+      "Relaciones internacionales entre ministerios",
+      "Relaciones especiales voluntarias con ciudadanos concretos",
+      "Gestión fiscal de entes locales",
+      "Normas generales de policía"
+    ],
+    "respuestaCorrecta": "Relaciones especiales voluntarias con ciudadanos concretos"
+  },
+  {
+    "pregunta": "¿Qué función tienen los reglamentos jurídicos o propiamente normativos?",
+    "opciones": [
+      "Dirigir la política exterior",
+      "Reglamentar el uso interno de edificios públicos",
+      "Regular relaciones generales entre ciudadanos y la Administración",
+      "Dictar normas educativas locales"
+    ],
+    "respuestaCorrecta": "Regular relaciones generales entre ciudadanos y la Administración"
+  },
+  {
+    "pregunta": "¿Qué tipo de habilitación requieren los reglamentos jurídicos?",
+    "opciones": [
+      "Aprobación del Defensor del Pueblo",
+      "Consulta con el Tribunal Supremo",
+      "Más acentuada habilitación legal",
+      "Aprobación directa del Senado"
+    ],
+    "respuestaCorrecta": "Más acentuada habilitación legal"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los reglamentos ejecutivos?",
+    "opciones": [
+      "Que actúan sin ley previa",
+      "Que solo regulan normas internas",
+      "Que completan y desarrollan una ley existente",
+      "Que se limitan a emitir resoluciones administrativas"
+    ],
+    "respuestaCorrecta": "Que completan y desarrollan una ley existente"
+  },
+  {
+    "pregunta": "¿Qué tipo de autorización suele tener un reglamento ejecutivo?",
+    "opciones": [
+      "Mandato implícito del Consejo de Ministros",
+      "Autorización judicial",
+      "Autorización o mandato expreso de la ley",
+      "Resolución del Senado"
+    ],
+    "respuestaCorrecta": "Autorización o mandato expreso de la ley"
+  },
+  {
+    "pregunta": "¿Cómo se denominan doctrinalmente los reglamentos que desarrollan la ley?",
+    "opciones": [
+      "Reglamentos ultra vires",
+      "Reglamentos contra legem",
+      "Reglamentos secundum legem",
+      "Reglamentos sine lege"
+    ],
+    "respuestaCorrecta": "Reglamentos secundum legem"
+  },
+  {
+    "pregunta": "¿Cuál es una de las características de los reglamentos ejecutivos?",
+    "opciones": [
+      "Tienen carácter provisional",
+      "Contienen normas de derecho objetivo referidas a particulares",
+      "Solo son aplicables internamente",
+      "Tienen rango superior a la ley"
+    ],
+    "respuestaCorrecta": "Contienen normas de derecho objetivo referidas a particulares"
+  },
+  {
+    "pregunta": "¿Qué órgano debe emitir un informe preceptivo sobre los reglamentos ejecutivos?",
+    "opciones": [
+      "El Tribunal Constitucional",
+      "El Senado",
+      "El Consejo de Estado o el órgano consultivo equivalente autonómico",
+      "El Consejo General del Poder Judicial"
+    ],
+    "respuestaCorrecta": "El Consejo de Estado o el órgano consultivo equivalente autonómico"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad del informe del Consejo de Estado en los reglamentos ejecutivos?",
+    "opciones": [
+      "Controlar su constitucionalidad",
+      "Validar su publicación",
+      "Controlar la fidelidad del reglamento a la ley que desarrolla",
+      "Asegurar su adecuación presupuestaria"
+    ],
+    "respuestaCorrecta": "Controlar la fidelidad del reglamento a la ley que desarrolla"
+  },
+  {
+    "pregunta": "¿Qué distingue a los reglamentos independientes?",
+    "opciones": [
+      "Que regulan materias ya legisladas",
+      "Que se basan en una reserva formal de ley",
+      "Que inciden en materias no reguladas por ley",
+      "Que requieren aprobación parlamentaria"
+    ],
+    "respuestaCorrecta": "Que inciden en materias no reguladas por ley"
+  },
+  {
+    "pregunta": "¿Qué dificultad presentan los reglamentos independientes en el ordenamiento jurídico?",
+    "opciones": [
+      "Su fácil modificación",
+      "Su difícil encaje",
+      "Su carencia de valor normativo",
+      "Su carácter internacional"
+    ],
+    "respuestaCorrecta": "Su difícil encaje"
+  },
+  {
+    "pregunta": "¿Qué elemento es esencial para que una materia esté protegida por la reserva de ley?",
+    "opciones": [
+      "La forma escrita del reglamento",
+      "El procedimiento parlamentario",
+      "La existencia de reserva material o formal de ley",
+      "El refrendo del jefe del Estado"
+    ],
+    "respuestaCorrecta": "La existencia de reserva material o formal de ley"
+  },
+   {
+    "pregunta": "¿Qué justifica la existencia de los reglamentos de necesidad?",
+    "opciones": [
+      "La delegación parlamentaria",
+      "La autoridad judicial",
+      "Un estado de necesidad",
+      "El principio de descentralización"
+    ],
+    "respuestaCorrecta": "Un estado de necesidad"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución Española regula los estados de alarma, excepción y sitio?",
+    "opciones": [
+      "Artículo 117",
+      "Artículo 14",
+      "Artículo 116",
+      "Artículo 120"
+    ],
+    "respuestaCorrecta": "Artículo 116"
+  },
+  {
+    "pregunta": "¿Qué tipo de medidas puede adoptar un Alcalde según el artículo 21.1.m) de la Ley 7/1985?",
+    "opciones": [
+      "Medidas preventivas educativas",
+      "Medidas tributarias",
+      "Medidas necesarias en caso de catástrofe o grave riesgo",
+      "Medidas para aumentar la participación ciudadana"
+    ],
+    "respuestaCorrecta": "Medidas necesarias en caso de catástrofe o grave riesgo"
+  },
+  {
+    "pregunta": "¿Qué carácter tienen los reglamentos de necesidad?",
+    "opciones": [
+      "Permanente",
+      "Retroactivo",
+      "Temporal",
+      "Ordinario"
+    ],
+    "respuestaCorrecta": "Temporal"
+  },
+  {
+    "pregunta": "¿Cuál es una de las limitaciones del ejercicio de la potestad reglamentaria?",
+    "opciones": [
+      "Puede regular cualquier materia sin restricción",
+      "Puede dictarse sin ley previa",
+      "No puede regular materias competencia del Poder Legislativo",
+      "Debe estar aprobada por referéndum"
+    ],
+    "respuestaCorrecta": "No puede regular materias competencia del Poder Legislativo"
+  },
+  {
+    "pregunta": "¿Qué principio establece que el reglamento no puede contradecir la ley?",
+    "opciones": [
+      "Principio de igualdad",
+      "Principio de jerarquía",
+      "Principio de reserva de ley",
+      "Principio de legalidad"
+    ],
+    "respuestaCorrecta": "Principio de legalidad"
+  },
+  {
+    "pregunta": "¿Qué ocurre si una disposición reglamentaria vulnera la Constitución?",
+    "opciones": [
+      "Debe ser corregida mediante reforma constitucional",
+      "Es nula de pleno derecho",
+      "Puede ser válida si tiene respaldo popular",
+      "Se suspende temporalmente"
+    ],
+    "respuestaCorrecta": "Es nula de pleno derecho"
+  },
+  {
+    "pregunta": "Según la Ley 39/2015, ¿qué establece el artículo 47.2 sobre disposiciones administrativas?",
+    "opciones": [
+      "Que deben ser aprobadas por el Parlamento",
+      "Que pueden tener efectos retroactivos",
+      "Que son nulas si vulneran la Constitución o regulan materias reservadas a la ley",
+      "Que requieren dictamen judicial"
+    ],
+    "respuestaCorrecta": "Que son nulas si vulneran la Constitución o regulan materias reservadas a la ley"
+  },
+  {
+    "pregunta": "¿Qué artículos de la Ley 39/2015 establecen límites a los reglamentos administrativos?",
+    "opciones": [
+      "Artículos 45 y 85",
+      "Artículos 47.2 y 128.2 y 3",
+      "Artículos 1 y 2",
+      "Artículos 30 y 60"
+    ],
+    "respuestaCorrecta": "Artículos 47.2 y 128.2 y 3"
+  },
+  {
+    "pregunta": "¿Qué no pueden establecer los reglamentos según el artículo 128.3 de la Ley 39/2015?",
+    "opciones": [
+      "Normas fiscales",
+      "Subvenciones municipales",
+      "Delitos, sanciones o tributos",
+      "Bonificaciones administrativas"
+    ],
+    "respuestaCorrecta": "Delitos, sanciones o tributos"
+  },
+  {
+    "pregunta": "¿Qué jerarquía deben respetar las disposiciones administrativas?",
+    "opciones": [
+      "Solo la Constitución",
+      "El orden de prelación parlamentaria",
+      "El orden de jerarquía legal establecido",
+      "Las instrucciones ministeriales"
+    ],
+    "respuestaCorrecta": "El orden de jerarquía legal establecido"
+  },
+  {
+    "pregunta": "¿Qué ocurre si una disposición administrativa vulnera otra de rango superior?",
+    "opciones": [
+      "Es válida si hay urgencia",
+      "Debe reformularse",
+      "Es nula de pleno derecho",
+      "Puede aplicarse si hay consenso"
+    ],
+    "respuestaCorrecta": "Es nula de pleno derecho"
+  },
+  {
+    "pregunta": "¿Qué requisito debe cumplir el órgano que aprueba un reglamento?",
+    "opciones": [
+      "Tener mayoría parlamentaria",
+      "Estar habilitado por una orden judicial",
+      "Ser competente para dictarlo",
+      "Ser elegido por sufragio"
+    ],
+    "respuestaCorrecta": "Ser competente para dictarlo"
+  },
+  {
+    "pregunta": "¿Qué consecuencia tiene la falta de competencia del órgano que dicta un reglamento?",
+    "opciones": [
+      "Suspensión cautelar",
+      "Entrada en vigor parcial",
+      "Nulidad de pleno derecho",
+      "Aprobación por silencio administrativo"
+    ],
+    "respuestaCorrecta": "Nulidad de pleno derecho"
+  },
+  {
+    "pregunta": "¿Qué debe respetar el procedimiento de aprobación de un reglamento?",
+    "opciones": [
+      "El dictamen del Tribunal Constitucional",
+      "El procedimiento establecido legalmente",
+      "La opinión ciudadana en consulta pública",
+      "La aprobación por las Cortes Generales"
+    ],
+    "respuestaCorrecta": "El procedimiento establecido legalmente"
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución reconoce expresamente la potestad reglamentaria al Gobierno?",
+    "opciones": [
+      "Artículo 96",
+      "Artículo 97",
+      "Artículo 98",
+      "Artículo 153"
+    ],
+    "respuestaCorrecta": "Artículo 97"
+  },
+  {
+    "pregunta": "¿Qué tipo de normas puede dictar el Gobierno en virtud de la potestad reglamentaria?",
+    "opciones": [
+      "Leyes orgánicas",
+      "Reglamentos",
+      "Autos judiciales",
+      "Decretos ley exclusivamente"
+    ],
+    "respuestaCorrecta": "Reglamentos"
+  },
+  {
+    "pregunta": "¿Qué artículo constitucional establece el control de normas reglamentarias de las Comunidades Autónomas?",
+    "opciones": [
+      "Artículo 154",
+      "Artículo 148",
+      "Artículo 153.c)",
+      "Artículo 97.1"
+    ],
+    "respuestaCorrecta": "Artículo 153.c)"
+  },
+  {
+    "pregunta": "¿Qué órgano local puede dictar Bandos?",
+    "opciones": [
+      "El Pleno del Ayuntamiento",
+      "La Diputación Provincial",
+      "El Alcalde",
+      "El Secretario Municipal"
+    ],
+    "respuestaCorrecta": "El Alcalde"
+  },
+  {
+    "pregunta": "¿Qué normativa regula la potestad reglamentaria de los entes locales?",
+    "opciones": [
+      "Ley de Régimen Electoral",
+      "Ley 39/2015",
+      "Ley 7/1985, de 2 de abril",
+      "Ley de Procedimiento Laboral"
+    ],
+    "respuestaCorrecta": "Ley 7/1985, de 2 de abril"
+  },
+  {
+    "pregunta": "¿Qué entidades tienen reconocida la potestad reglamentaria según el artículo 128.1 de la Ley 39/2015?",
+    "opciones": [
+      "Gobierno de la Nación, órganos autonómicos y órganos locales",
+      "Tribunales, defensorías y consejos",
+      "Sindicatos, ONGs y universidades",
+      "Solo el Consejo de Ministros"
+    ],
+    "respuestaCorrecta": "Gobierno de la Nación, órganos autonómicos y órganos locales"
+  },
+  {
+    "pregunta": "¿Qué tipo de materias no pueden regular los reglamentos según la Ley 39/2015?",
+    "opciones": [
+      "Procedimientos administrativos ordinarios",
+      "Normas internas de la Administración",
+      "Delitos, sanciones o tributos",
+      "Estatutos universitarios"
+    ],
+    "respuestaCorrecta": "Delitos, sanciones o tributos"
+  },
+  {
+    "pregunta": "¿Qué deben contener los reglamentos al publicarse en el BOE?",
+    "opciones": [
+      "Un glosario técnico",
+      "Una tabla de compatibilidad normativa",
+      "Una tabla de disposiciones vigentes o derogadas",
+      "La firma del Ministro correspondiente"
+    ],
+    "respuestaCorrecta": "Una tabla de disposiciones vigentes o derogadas"
+  },
+  {
+    "pregunta": "¿Qué principio deben respetar todas las disposiciones administrativas?",
+    "opciones": [
+      "Principio de oportunidad",
+      "Principio de publicidad",
+      "Principio de jerarquía normativa",
+      "Principio de eficiencia"
+    ],
+    "respuestaCorrecta": "Principio de jerarquía normativa"
+  },
+  {
+    "pregunta": "¿Qué orden deben respetar las disposiciones administrativas según el artículo 128.3 de la Ley 39/2015?",
+    "opciones": [
+      "El orden cronológico de aprobación",
+      "El orden de prelación constitucional",
+      "El orden de jerarquía establecido por las leyes",
+      "El orden fiscal y económico"
+    ],
+    "respuestaCorrecta": "El orden de jerarquía establecido por las leyes"
+  },
+  {
+    "pregunta": "¿Qué no pueden vulnerar los reglamentos y disposiciones administrativas?",
+    "opciones": [
+      "El Estatuto del Ministerio correspondiente",
+      "Las directrices parlamentarias",
+      "La Constitución y las leyes",
+      "Los acuerdos internacionales"
+    ],
+    "respuestaCorrecta": "La Constitución y las leyes"
+  },
+  {
+    "pregunta": "¿Qué instituciones tienen potestad reglamentaria en el ámbito autonómico?",
+    "opciones": [
+      "Los consejos escolares",
+      "Los órganos de gobierno de las Comunidades Autónomas",
+      "Los sindicatos y asociaciones empresariales",
+      "El Senado y el Congreso"
+    ],
+    "respuestaCorrecta": "Los órganos de gobierno de las Comunidades Autónomas"
+  },
+  {
+    "pregunta": "¿Qué función cumple la publicación de los reglamentos en el BOE?",
+    "opciones": [
+      "Permitir la modificación posterior por el Parlamento",
+      "Hacerlos accesibles a los jueces exclusivamente",
+      "Darles validez y conocimiento público",
+      "Validarlos automáticamente sin control"
+    ],
+    "respuestaCorrecta": "Darles validez y conocimiento público"
+  },
+  {
+    "pregunta": "¿Qué deben respetar las Entidades Locales al ejercer su potestad reglamentaria?",
+    "opciones": [
+      "Las directrices de los Ministerios",
+      "El Reglamento Interno del Senado",
+      "La Constitución, los Estatutos de Autonomía y la Ley 7/1985",
+      "Las recomendaciones del Tribunal de Cuentas"
+    ],
+    "respuestaCorrecta": "La Constitución, los Estatutos de Autonomía y la Ley 7/1985"
+  },
+  {
+    "pregunta": "¿Qué se entiende por potestad reglamentaria en el contexto del ordenamiento jurídico?",
+    "opciones": [
+      "El poder judicial para interpretar leyes",
+      "El poder para dictar resoluciones fiscales",
+      "El poder para dictar reglamentos por parte de las Administraciones públicas",
+      "El poder parlamentario para aprobar leyes orgánicas"
+    ],
+    "respuestaCorrecta": "El poder para dictar reglamentos por parte de las Administraciones públicas"
+  },
+  {
+    "pregunta": "¿Cuál es una de las razones que justifica la potestad reglamentaria según Garrido Falla?",
+    "opciones": [
+      "La ineficiencia del sistema judicial",
+      "La rigidez del control parlamentario",
+      "La falta de preparación técnica de las Cámaras legislativas",
+      "La incapacidad de las entidades locales"
+    ],
+    "respuestaCorrecta": "La falta de preparación técnica de las Cámaras legislativas"
+  },
+  {
+    "pregunta": "¿Qué dificulta a las Cámaras legislativas la confección de reglamentos, según Garrido Falla?",
+    "opciones": [
+      "La necesidad de consenso político",
+      "El control constitucional",
+      "Su carácter político y no técnico",
+      "La intervención del poder judicial"
+    ],
+    "respuestaCorrecta": "Su carácter político y no técnico"
+  },
+  {
+    "pregunta": "¿Por qué se considera que las normas administrativas no deben tener rango de ley?",
+    "opciones": [
+      "Porque son normas obsoletas",
+      "Por su escasa legitimidad democrática",
+      "Por su gran movilidad",
+      "Porque no afectan a derechos fundamentales"
+    ],
+    "respuestaCorrecta": "Por su gran movilidad"
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece que las normas administrativas no tengan rango de ley?",
+    "opciones": [
+      "Mayor estabilidad jurídica",
+      "Mayor dificultad para su modificación",
+      "Facilita su rápida derogación o sustitución",
+      "Permite su validación por referéndum"
+    ],
+    "respuestaCorrecta": "Facilita su rápida derogación o sustitución"
+  },
+  {
+    "pregunta": "¿Qué permite la amplia esfera discrecional del Poder Ejecutivo?",
+    "opciones": [
+      "Evitar el control parlamentario",
+      "Imponer decisiones judiciales",
+      "Autolimitarse dictando reglamentos",
+      "Crear leyes sin debate público"
+    ],
+    "respuestaCorrecta": "Autolimitarse dictando reglamentos"
+  },
+  {
+    "pregunta": "¿Cuál es una razón técnica para que el Poder Ejecutivo dicte reglamentos?",
+    "opciones": [
+      "La oposición de las cámaras",
+      "El consejo de los jueces",
+      "La necesidad de autolimitación administrativa",
+      "La falta de presupuesto"
+    ],
+    "respuestaCorrecta": "La necesidad de autolimitación administrativa"
+  },
+  {
+    "pregunta": "¿Qué hace aconsejable que sea la Administración quien dicte reglamentos?",
+    "opciones": [
+      "La necesidad de evitar la intervención judicial",
+      "La falta de tiempo de los legisladores",
+      "La existencia de una esfera discrecional del Ejecutivo",
+      "El control del Tribunal Constitucional"
+    ],
+    "respuestaCorrecta": "La existencia de una esfera discrecional del Ejecutivo"
+  },
+  {
+    "pregunta": "¿Qué función tienen los reglamentos dentro de la actuación administrativa?",
+    "opciones": [
+      "Ejecutar sentencias",
+      "Regular actividades concretas y especializadas",
+      "Reformar la Constitución",
+      "Coordinar la política fiscal"
+    ],
+    "respuestaCorrecta": "Regular actividades concretas y especializadas"
+  },
+  {
+    "pregunta": "¿Qué ámbito normativo resulta más adecuado para la regulación de actividades especializadas?",
+    "opciones": [
+      "El poder judicial",
+      "El reglamento administrativo",
+      "La ley orgánica",
+      "La resolución ministerial"
+    ],
+    "respuestaCorrecta": "El reglamento administrativo"
+  },
+  {
+    "pregunta": "¿Qué aspecto de las normas administrativas se destaca como motivo para evitar que sean leyes?",
+    "opciones": [
+      "Su complejidad técnica",
+      "Su lenta tramitación",
+      "Su escaso impacto social",
+      "Su necesidad de modificación constante"
+    ],
+    "respuestaCorrecta": "Su necesidad de modificación constante"
+  },
+  {
+    "pregunta": "¿Por qué se considera oportuno atribuir determinadas materias al Poder Ejecutivo?",
+    "opciones": [
+      "Porque el Ejecutivo tiene mayoría parlamentaria",
+      "Porque el Legislativo no puede prever todas las situaciones",
+      "Porque el Ejecutivo tiene más legitimidad democrática",
+      "Porque los jueces deben controlar la legalidad"
+    ],
+    "respuestaCorrecta": "Porque el Legislativo no puede prever todas las situaciones"
+  },
+  {
+    "pregunta": "¿Cuál es una justificación práctica para la existencia de potestad reglamentaria?",
+    "opciones": [
+      "Evitar la aprobación por el Senado",
+      "Agilizar la intervención judicial",
+      "Gestionar con mayor flexibilidad materias cambiantes",
+      "Eludir el control constitucional"
+    ],
+    "respuestaCorrecta": "Gestionar con mayor flexibilidad materias cambiantes"
+  },
+  {
+    "pregunta": "¿Qué papel cumple la Administración en relación con la potestad reglamentaria?",
+    "opciones": [
+      "Legislar materias fiscales",
+      "Ejercer autolimitación mediante reglamentos",
+      "Conceder amnistías administrativas",
+      "Regular derechos fundamentales"
+    ],
+    "respuestaCorrecta": "Ejercer autolimitación mediante reglamentos"
+  },
+  {
+    "pregunta": "¿Qué tipo de tareas son difíciles de desarrollar por las Cámaras legislativas?",
+    "opciones": [
+      "Reformas constitucionales",
+      "Gestión presupuestaria",
+      "Confección de reglamentos técnicos",
+      "Aprobación de tratados internacionales"
+    ],
+    "respuestaCorrecta": "Confección de reglamentos técnicos"
+  },
+  {
+    "pregunta": "¿Qué permite la potestad reglamentaria en relación con la técnica legislativa?",
+    "opciones": [
+      "Eliminar el procedimiento parlamentario",
+      "Dotar de mayor rigidez a las normas",
+      "Regular materias específicas con agilidad",
+      "Transferir competencias al poder judicial"
+    ],
+    "respuestaCorrecta": "Regular materias específicas con agilidad"
+  }
+]

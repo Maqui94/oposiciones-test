@@ -50,9 +50,9 @@ const bloques = [
     titulo: "⚖️ Legislación",
     clase: "bloque3",
     temas: [
-      ["XXXX.json", "Fuentes del Derecho", "fa-balance-scale"],
+      ["fuentes.json", "Fuentes del Derecho", "fa-balance-scale"],
       ["XXXX.json", "Constitución Española", "fa-gavel"],
-      ["XXXX.json", "Unión Europea", "fa-euro-sign"],
+      ["europa.json", "Unión Europea", "fa-euro-sign"],
       ["XXXX.json", "Actos administrativos", "fa-file-signature"],
       ["XXXX.json", "Procedimiento administrativo", "fa-tasks"],
       ["XXXX.json", "LORAFNA", "fa-university"],
@@ -79,8 +79,8 @@ const bloques = [
       ["XXXX.json", "Windows 10", "fa-desktop"],
       ["XXXX.json", "Word 2016", "fa-file-word"],
       ["XXXX.json", "Excel 2016", "fa-file-excel"],
-      ["XXXX.json", "Internet y correo", "fa-globe"],
-      ["XXXX.json", "Redes y malware", "fa-hashtag"]
+      ["internet.json", "Internet y correo", "fa-globe"],
+      ["redes.json", "Redes y malware", "fa-hashtag"]
     ]
   }
 ];
